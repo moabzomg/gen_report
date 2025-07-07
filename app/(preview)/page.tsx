@@ -459,7 +459,7 @@ export default function GenReportPage() {
         {error && <div className="error">{error}</div>}
 
         {resultTitle && resultContent && (
-          <div className="result whitespace-pre-wrap break-words w-full" aria-live="polite">
+          <div className="result whitespace-pre-wrap break-words w-full mr-4" aria-live="polite">
             <h2>{resultTitle}</h2>
             <hr />
             <pre>{resultContent}</pre>
