@@ -209,7 +209,7 @@ export default function GenReportPage() {
       userCodename.trim(),
       cheaterCodename.trim(),
       mainTimestamp,
-      mainLink,
+      cheatLink.trim(),
       cleanedTimestampLinks
     );
     const replacedContent = replacePlaceholders(
@@ -217,7 +217,7 @@ export default function GenReportPage() {
       userCodename.trim(),
       cheaterCodename.trim(),
       mainTimestamp,
-      mainLink,
+      cheatLink.trim(),
       cleanedTimestampLinks
     );
 
