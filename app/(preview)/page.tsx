@@ -52,7 +52,6 @@ export default function GenReportPage() {
   const [reportType, setReportType] = useState<ReportType>("spoofing");
   const [userCodename, setUserCodename] = useState("");
   const [cheaterCodename, setCheaterCodename] = useState("");
-  const [cheatTimestamp, setCheatTimestamp] = useState("");
   const [cheatLink, setCheatLink] = useState("");
   const [showLinksInput, setShowLinksInput] = useState(true);
   const [timestampLinks, setTimestampLinks] = useState<
@@ -64,7 +63,12 @@ export default function GenReportPage() {
   const [resultTitle, setResultTitle] = useState<string | null>(null);
   const [resultContent, setResultContent] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
-
+  const [cheatTimestamp, setCheatTimestamp] = useState(() => 
+    new Date().toLocaleString('en-GB', {
+      timeZone: 'Asia/Hong_Kong',
+      hour12: false,
+    }).replace(',', '') + ' GMT+8:00'
+  );
   // Load titles and contents when reportType changes
   useEffect(() => {
     async function loadFiles() {

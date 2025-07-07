@@ -2472,6 +2472,7 @@ I respectfully request a review of agent [cheater]'s actions.
 We appreciate your commitment to fair gameplay.
 Other agents have reported similar findings independently.
 The activity described above seems clearly outside the acceptable behavior.
+The evidence below should assist your investigation.
 [timestamp]
 [link]
 [timestamp1]
@@ -2484,7 +2485,6 @@ The activity described above seems clearly outside the acceptable behavior.
 [link4]
 [timestamp5]
 [link5]
-The evidence below should assist your investigation.
 Looking forward to your response.
 ---
 I respectfully request a review of agent [cheater]'s actions.
