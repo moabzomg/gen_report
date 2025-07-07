@@ -374,18 +374,30 @@ export default function GenReportPage() {
         />
 
         <label htmlFor="cheat-timestamp">
-          Cheater&apos;s cheat timestamp (optional):
-          <small style={{ display: "block", fontWeight: "400", fontSize: "0.8rem", color: "#6b7280" }}>
-            Format: 2025-07-03 10:22:33 GMT+8:00
+          Timestamp (optional):
           </small>
         </label>
         <input
-          id="cheat-timestamp"
           type="text"
-          value={cheatTimestamp}
-          onChange={(e) => setCheatTimestamp(e.target.value)}
-          placeholder="2025-07-03 10:22:33 GMT+8:00"
+          placeholder="YYYY-MM-DD HH:mm:ss GMT+8:00"
+          value={timestamp}
+          onChange={(e) => setTimestamp(e.target.value)}
+          defaultValue={new Date().toLocaleString('en-GB', {
+            timeZone: 'Asia/Hong_Kong',
+            hour12: false,
+          }).replace(',', '') + ' GMT+8:00'}
+          className="input"
         />
+
+        {timestamp && isValidTimestamp(timestamp) && (
+          <input
+            type="text"
+            placeholder="Intel or portal link"
+            value={link}
+            onChange={(e) => setLink(e.target.value)}
+            className="input mt-2"
+        />
+        )}
 
         {/* Show link inputs if timestamp entered */}
         {showLinksInput && (
