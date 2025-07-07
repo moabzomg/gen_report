@@ -104,13 +104,13 @@ export default function GenReportPage() {
 
   // When cheatTimestamp changes, decide to show link input box
   useEffect(() => {
-    if (cheatTimestamp.trim() === "") {
-      setShowLinksInput(false);
-      setTimestampLinks([{ timestamp: "", link: "" }]);
-    } else {
-      setShowLinksInput(true);
-    }
-  }, [cheatTimestamp]);
+  if (!cheatTimestamp || cheatTimestamp.trim() === "") {
+    setShowLinksInput(false);
+    setTimestampLinks([{ timestamp: "", link: "" }]);
+  } else {
+    setShowLinksInput(true);
+  }
+}, [cheatTimestamp]);
 
   // Handle adding another timestamp+link pair (max 5)
   function addTimestampLink() {
