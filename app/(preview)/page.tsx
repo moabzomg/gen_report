@@ -125,6 +125,7 @@ export default function GenReportPage() {
     user: string,
     cheater: string,
     mainTimestamp: string,
+    cheatLink: string,
     timestampLinks: { timestamp: string; link: string }[]
   ) {
     // Replace codename and cheater
@@ -132,16 +133,16 @@ export default function GenReportPage() {
       .replace(/\[codename\]/gi, user)
       .replace(/\[cheater\]/gi, cheater);
 
-    // Replace [timestamp] with mainTimestamp or remove if invalid
+    // Replace [timestamp] with mainTimestamp or remove if empty string
     if (mainTimestamp) {
       replaced = replaced.replace(/\[timestamp\]/gi, mainTimestamp);
     } else {
       replaced = replaced.replace(/\[timestamp\]/gi, "");
     }
 
-    // For [link], replace with first link if valid, else remove placeholder
-    if (timestampLinks.length > 0 && validateTimestamp(timestampLinks[0].timestamp) && timestampLinks[0].link.trim()) {
-      replaced = replaced.replace(/\[link\]/gi, timestampLinks[0].link.trim());
+    // Replace [link] with cheatLink if present, else remove placeholder
+    if (cheatLink && cheatLink.trim() !== "") {
+      replaced = replaced.replace(/\[link\]/gi, cheatLink.trim());
     } else {
       replaced = replaced.replace(/\[link\]/gi, "");
     }
@@ -190,10 +191,9 @@ export default function GenReportPage() {
 
     // Validate all timestampLinks timestamps, if invalid treat as empty
     const cleanedTimestampLinks = timestampLinks.map(({ timestamp, link }) => ({
-      timestamp: validateTimestamp(timestamp.trim()) ? timestamp.trim() : "",
+      timestamp: timestamp.trim(), // keep original timestamp as is
       link: link.trim(),
     }));
-
     if (titles.length === 0 || contents.length === 0) {
       setError("Report templates are not loaded properly.");
       return;
@@ -209,6 +209,7 @@ export default function GenReportPage() {
       userCodename.trim(),
       cheaterCodename.trim(),
       mainTimestamp,
+      mainLink,
       cleanedTimestampLinks
     );
     const replacedContent = replacePlaceholders(
@@ -216,6 +217,7 @@ export default function GenReportPage() {
       userCodename.trim(),
       cheaterCodename.trim(),
       mainTimestamp,
+      mainLink,
       cleanedTimestampLinks
     );
 
