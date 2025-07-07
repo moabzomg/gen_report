@@ -7,8 +7,8 @@ import { Geist } from "next/font/google";
 const geist = Geist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Quiz Generator",
-  description: "Generating quiz from a CSV file",
+  title: "Report Generator",
+  description: "Generating report title and message using the from a list of report titles and messages templates, with your report type and input",
 };
 
 export default function RootLayout({
