@@ -392,10 +392,7 @@ export default function GenReportPage() {
           type="text"
           onChange={(e) => setCheatTimestamp(e.target.value)}
           placeholder="2025-07-03 10:22:33 GMT+8:00"
-          value={cheatTimestamp || new Date().toLocaleString('en-GB', {
-            timeZone: 'Asia/Hong_Kong',
-            hour12: false,
-          }).replace(',', '') + ' GMT+8:00'}
+          value={cheatTimestamp}
           className="input"
         />
         <label htmlFor="intel-link" className="block font-semibold mb-1">
