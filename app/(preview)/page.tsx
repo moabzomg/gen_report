@@ -71,7 +71,7 @@ export default function GenReportPage() {
       setResultTitle(null);
       setResultContent(null);
       setError(null);
-      setShowLinksInput(false);
+      setShowLinksInput(true);
       setTimestampLinks([{ timestamp: "", link: "" }]);
 
       try {
