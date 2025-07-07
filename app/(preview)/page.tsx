@@ -53,6 +53,7 @@ export default function GenReportPage() {
   const [userCodename, setUserCodename] = useState("");
   const [cheaterCodename, setCheaterCodename] = useState("");
   const [cheatTimestamp, setCheatTimestamp] = useState("");
+  const [cheatLink, setCheatLink] = useState("");
   const [showLinksInput, setShowLinksInput] = useState(false);
   const [timestampLinks, setTimestampLinks] = useState<
     { timestamp: string; link: string }[]
@@ -391,13 +392,13 @@ export default function GenReportPage() {
         <label htmlFor="intel-link" className="block font-semibold mb-1">
           Intel Link (optional):
         </label>
-        {timestamp && isValidTimestamp(timestamp) && (
+        {cheatTimestamp && validateTimestamp(cheatTimestamp) && (
           <input
             id="intel-link"
             type="text"
             placeholder="Intel or portal link"
-            value={link}
-            onChange={(e) => setLink(e.target.value)}
+            value={cheatLink}
+            onChange={(e) => setCheatLink(e.target.value)}
             className="input mt-2"
         />
         )}
