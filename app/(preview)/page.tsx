@@ -54,7 +54,7 @@ export default function GenReportPage() {
   const [cheaterCodename, setCheaterCodename] = useState("");
   const [cheatTimestamp, setCheatTimestamp] = useState("");
   const [cheatLink, setCheatLink] = useState("");
-  const [showLinksInput, setShowLinksInput] = useState(false);
+  const [showLinksInput, setShowLinksInput] = useState(true);
   const [timestampLinks, setTimestampLinks] = useState<
     { timestamp: string; link: string }[]
   >([{ timestamp: "", link: "" }]);
