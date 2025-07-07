@@ -364,7 +364,7 @@ export default function GenReportPage() {
           placeholder="Enter your codename"
         />
 
-        <label htmlFor="cheater-codename">Cheater`&apos;'s codename:</label>
+        <label htmlFor="cheater-codename">Cheater&apos;s codename:</label>
         <input
           id="cheater-codename"
           type="text"
@@ -374,7 +374,7 @@ export default function GenReportPage() {
         />
 
         <label htmlFor="cheat-timestamp">
-          Cheater`&apos;'s cheat timestamp (optional):
+          Cheater&apos;s cheat timestamp (optional):
           <small style={{ display: "block", fontWeight: "400", fontSize: "0.8rem", color: "#6b7280" }}>
             Format: 2025-07-03 10:22:33 GMT+8:00
           </small>
