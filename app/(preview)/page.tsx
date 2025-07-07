@@ -239,6 +239,9 @@ export default function GenReportPage() {
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
             Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
         }
+        .container img, .preview img, img.link-preview {
+          display: none !important;
+        }
         h1 {
           text-align: center;
           margin-bottom: 1rem;
