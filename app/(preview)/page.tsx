@@ -380,10 +380,9 @@ export default function GenReportPage() {
         <input
           id="cheat-timestamp"
           type="text"
-          value={cheatTimestamp}
           onChange={(e) => setCheatTimestamp(e.target.value)}
           placeholder="2025-07-03 10:22:33 GMT+8:00"
-          defaultValue={new Date().toLocaleString('en-GB', {
+          value={cheatTimestamp || new Date().toLocaleString('en-GB', {
             timeZone: 'Asia/Hong_Kong',
             hour12: false,
           }).replace(',', '') + ' GMT+8:00'}
@@ -392,16 +391,14 @@ export default function GenReportPage() {
         <label htmlFor="intel-link" className="block font-semibold mb-1">
           Intel Link (optional):
         </label>
-        {cheatTimestamp && validateTimestamp(cheatTimestamp) && (
-          <input
-            id="intel-link"
-            type="text"
-            placeholder="Intel or portal link"
-            value={cheatLink}
-            onChange={(e) => setCheatLink(e.target.value)}
-            className="input mt-2"
+        <input
+          id="intel-link"
+          type="text"
+          placeholder="Intel or portal link"
+          value={cheatLink}
+          onChange={(e) => setCheatLink(e.target.value)}
+          className="input mt-2"
         />
-        )}
 
         {/* Show link inputs if timestamp entered */}
         {showLinksInput && (
@@ -462,7 +459,7 @@ export default function GenReportPage() {
         {error && <div className="error">{error}</div>}
 
         {resultTitle && resultContent && (
-          <div className="result" aria-live="polite">
+          <div className="result whitespace-pre-wrap break-words overflow-x-auto max-w-full" aria-live="polite">
             <h2>{resultTitle}</h2>
             <hr />
             <pre>{resultContent}</pre>
