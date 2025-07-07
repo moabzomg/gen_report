@@ -63,12 +63,26 @@ export default function GenReportPage() {
   const [resultTitle, setResultTitle] = useState<string | null>(null);
   const [resultContent, setResultContent] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [cheatTimestamp, setCheatTimestamp] = useState(() => 
-    new Date().toLocaleString('en-GB', {
-      timeZone: 'Asia/Hong_Kong',
-      hour12: false,
-    }).replace(',', '') + ' GMT+8:00'
-  );
+  const [cheatTimestamp, setCheatTimestamp] = useState(() => {
+    const now = new Date();
+
+    const pad = (n: number) => n.toString().padStart(2, '0');
+
+    // Convert to Asia/Hong_Kong time manually
+    const utc = now.getTime() + now.getTimezoneOffset() * 60000;
+    const hongKongOffset = 8 * 60 * 60000; // GMT+8
+    const hkDate = new Date(utc + hongKongOffset);
+
+    const year = hkDate.getFullYear();
+    const month = pad(hkDate.getMonth() + 1);
+    const day = pad(hkDate.getDate());
+
+    const hours = pad(hkDate.getHours());
+    const minutes = pad(hkDate.getMinutes());
+    const seconds = pad(hkDate.getSeconds());
+
+    return `${year}-${month}-${day} ${hours}:${minutes}:${seconds} GMT+8:00`;
+  });
   // Load titles and contents when reportType changes
   useEffect(() => {
     async function loadFiles() {
