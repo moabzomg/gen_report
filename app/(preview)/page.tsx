@@ -321,6 +321,25 @@ export default function GenReportPage() {
           font-weight: 700;
           margin-bottom: 1rem;
         }
+        .result {
+          max-width: 600px;
+          margin: 2rem auto;
+          padding: 1rem;
+          background: #f9fafb;
+          border-radius: 8px;
+          box-shadow: 0 4px 12px rgb(0 0 0 / 0.1);
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+            Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+          overflow-wrap: break-word; /* prevent overflow of long words */
+          word-break: break-word;    /* safer break for older browsers */
+          white-space: pre-wrap;     /* keep newlines and wrap text */
+        }
+        .result pre {
+          white-space: pre-wrap;      /* Wrap lines and preserve whitespace */
+          word-break: break-word;     /* Break long words if needed */
+          overflow-wrap: break-word;  /* Ensure wrapping on overflow */
+          max-width: 100%;            /* Prevent width overflow */
+        }
         @media (max-width: 480px) {
           .timestamp-link-row {
             flex-direction: column;
@@ -450,7 +469,7 @@ export default function GenReportPage() {
         {error && <div className="error">{error}</div>}
 
         {resultTitle && resultContent && (
-          <div className="result whitespace-pre-wrap break-words w-full mr-375" aria-live="polite">
+          <div className="result" aria-live="polite">
             <h2>{resultTitle}</h2>
             <hr />
             <pre>{resultContent}</pre>
