@@ -182,6 +182,7 @@ export default function GenReportPage() {
     } else {
       replaced = replaced.replace(/\[link\]/gi, "");
     }
+    return replaced;
   }
   function onSubmit() {
     setError(null);
