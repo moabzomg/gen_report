@@ -30,22 +30,29 @@ const reportTypeMap = {
 const timestampRegex = /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}(?:\.\d{3})?(?:\s*(?:GMT|UTC)?[+\-]\d{1,2}(?::?\d{2})?)?$/;
 
 function validateTimestamp(ts: string) {
+  console.log(`Validating timestamp: "${ts}" `,timestampRegex.test(ts.trim()));
   return timestampRegex.test(ts.trim());
 }
 
-function generateTimestamp30DaysAgo() {
-  const date = new Date();
-  date.setDate(date.getDate() - 30);
-  // Format as "YYYY-MM-DD HH:mm:ss GMT+8:00"
-  const pad = (n: number) => n.toString().padStart(2, "0");
-  const year = date.getFullYear();
-  const month = pad(date.getMonth() + 1);
-  const day = pad(date.getDate());
-  const hour = pad(date.getHours());
-  const min = pad(date.getMinutes());
-  const sec = pad(date.getSeconds());
-  // Here assuming GMT+8:00 fixed, you can adjust if needed
-  return `${year}-${month}-${day} ${hour}:${min}:${sec} GMT+8:00`;
+function generateRandomTimestampWithin30Days() {
+  const now = new Date();
+  const past30DaysMs = 30 * 24 * 60 * 60 * 1000;
+  const randomOffset = Math.floor(Math.random() * past30DaysMs);
+  const randomDate = new Date(now.getTime() - randomOffset);
+
+  // Adjust to UTC+8 manually
+  const gmt8Date = new Date(randomDate.getTime() + 8 * 60 * 60 * 1000);
+
+  const pad = (n: number, digits = 2) => n.toString().padStart(digits, "0");
+  const year = gmt8Date.getUTCFullYear();
+  const month = pad(gmt8Date.getUTCMonth() + 1);
+  const day = pad(gmt8Date.getUTCDate());
+  const hour = pad(gmt8Date.getUTCHours());
+  const minute = pad(gmt8Date.getUTCMinutes());
+  const second = pad(gmt8Date.getUTCSeconds());
+  const ms = pad(gmt8Date.getUTCMilliseconds(), 3);
+
+  return `${year}-${month}-${day} ${hour}:${minute}:${second}.${ms} UTC+8`;
 }
 
 export default function GenReportPage() {
@@ -194,7 +201,7 @@ export default function GenReportPage() {
     let mainTimestampValid = validateTimestamp(cheatTimestamp.trim());
     let mainTimestamp = mainTimestampValid
       ? cheatTimestamp.trim()
-      : generateTimestamp30DaysAgo();
+      : generateRandomTimestampWithin30Days();
 
     // Validate all timestampLinks timestamps, if invalid treat as empty
     const cleanedTimestampLinks = timestampLinks.map(({ timestamp, link }) => ({
