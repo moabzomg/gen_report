@@ -114,3 +114,56 @@ Falsified GPS data by [cheater]
 Portal activity inconsistent with location logs
 Suspicious distance covered in short time
 Possible GPS spoofing incident
+Impossible XM traces detected
+Remote capture in restricted zone
+Spoofed presence at historic site
+Location jump between two continents
+Repeated ghosting activity
+Impossible portal capture inside a locked facility  
+High-speed travel across continents  
+Phantom agent in a guarded zone  
+Access breach at restricted tower  
+Suspicious park activity with no witnesses  
+No visual contact, but portals flipped   
+Spoofer linked through secure borders  
+Unseen presence at high-elevation site
+Remote portal capture under tight surveillance
+Impossible field appeared overnight
+Accessed off-limits area without being present
+Phantom agent strike during maintenance
+Unreachable portal hacked with no trace
+Long-range travel inhumanly fast
+Spoofed link chain through private zones
+Unseen agent flips secured nodes
+Sudden activity in isolated restricted trail
+Inaccessible region controlled mysteriously
+Location spoofing detected
+GPS manipulation evidence
+Irregular location patterns
+Suspicious location data
+Anomalous GPS activity
+Fake coordinates usage
+Inconsistent movement logs
+Location fraud identified
+Position data discrepancies
+Falsified location reports
+Unnatural Location Shifts Detected
+Suspicious GPS Activity Reported
+Location Spoofing Alert
+Geolocation Inconsistency Found
+Evidence of Fake Coordinates
+Location Manipulation Observed
+GPS Data Anomalies Detected
+Suspicious Movement Patterns
+Irregular Location Data Recorded
+Unauthorized Location Change
+GPS jumps suggest location spoofing  
+Impossible travel speeds detected  
+Unrealistic portal hopping patterns  
+Teleportation-like behavior in logs  
+Suspicious geographic anomalies  
+Physical travel constraints violated  
+Multiple simultaneous locations  
+Anomalous GPS coordinate shifts  
+Location data inconsistent with reality  
+Potential GPS spoofing software use  

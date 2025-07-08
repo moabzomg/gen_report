@@ -108,3 +108,53 @@ Account trading and farming by [cheater]
 Simultaneous portal activity on different accounts
 Account sharing violating terms of service
 Possible multi-account abuse
+Multiple account control detected
+Account sharing and selling activities
+Suspicious IP overlaps reveal multi-IDs
+Coordinated multi-account attacks at [timestamp]
+Unfair farming with alternate IDs
+Credential sharing violations reported
+Rapid account switching behavior
+Suspicious transactions through linked accounts
+Device fingerprinting exposes multiple IDs
+Covert item transfers among accounts
+Multi-account activity detected
+Suspicious account sharing
+Unfair play through multiple IDs
+Account selling and sharing concerns
+Coordinated multi-account usage
+IP and device overlap found
+Item transfers across accounts
+Account network manipulation
+Multiple account logins recorded
+Account abuse affecting gameplay
+Multi-account activity detected
+Suspicious account sharing
+Unfair play through multiple IDs
+Account selling and sharing concerns
+Coordinated multi-account usage
+IP and device overlap found
+Item transfers across accounts
+Account network manipulation
+Multiple account logins recorded
+Account abuse affecting gameplay
+Multiple Account Coordination Detected
+Account Sharing Evidence
+Unusual Account Login Patterns
+Linked Accounts Activity
+Multi-Account Abuse Alert
+Suspicious Account Network
+Accounts Used in Tandem
+Account Duplication Observed
+Coordinated Account Behavior
+Shared Credentials Detected
+Multi-account operation detected  
+Overlapping activity across accounts  
+Account sharing and coordination  
+Suspicious login metadata  
+Account farming and selling  
+Coordinated attacks via multiple accounts  
+Simultaneous portal control abuse  
+Unfair multi-account resource gain  
+Cross-account gameplay manipulation  
+Multi-account login anomalies  

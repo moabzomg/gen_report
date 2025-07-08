@@ -27,7 +27,7 @@ const reportTypeMap = {
   },
 };
 
-const timestampRegex = /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2} GMT[+\-]\d{1,2}:\d{2}$/;
+const timestampRegex = /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}(?:\.\d{3})?(?:\s*(?:GMT|UTC)?[+\-]\d{1,2}(?::?\d{2})?)?$/;
 
 function validateTimestamp(ts: string) {
   return timestampRegex.test(ts.trim());
@@ -157,31 +157,24 @@ export default function GenReportPage() {
     // Replace [link] with cheatLink if present, else remove placeholder
     if (cheatLink && cheatLink.trim() !== "") {
       replaced = replaced.replace(/\[link\]/gi, cheatLink.trim());
+
+      // Append [link1][timestamp1] ... [link5][timestamp5] line by line
+      let appendLines = "";
+      for (let i = 0; i < 5; i++) {
+        if (i < timestampLinks.length) {
+          const tsVal = validateTimestamp(timestampLinks[i].timestamp)
+            ? timestampLinks[i].timestamp
+            : "";
+          const linkVal = timestampLinks[i].link.trim();
+          if (linkVal || tsVal) {
+            appendLines += `\n${linkVal}${tsVal ? ` [${tsVal}]` : ""}`;
+          }
+        }
+      }
+      replaced += appendLines;
     } else {
       replaced = replaced.replace(/\[link\]/gi, "");
     }
-
-    // Replace [timestamp1], [link1], ..., [timestamp5], [link5]
-    for (let i = 0; i < 5; i++) {
-      const tsKey = new RegExp(`\\[timestamp${i + 1}\\]`, "gi");
-      const linkKey = new RegExp(`\\[link${i + 1}\\]`, "gi");
-
-      if (i < timestampLinks.length) {
-        const tsVal = validateTimestamp(timestampLinks[i].timestamp)
-          ? timestampLinks[i].timestamp
-          : "";
-        const linkVal = timestampLinks[i].link.trim();
-
-        replaced = replaced.replace(tsKey, tsVal);
-        replaced = replaced.replace(linkKey, tsVal && linkVal ? linkVal : "");
-      } else {
-        replaced = replaced.replace(tsKey, "");
-        replaced = replaced.replace(linkKey, "");
-      }
-    }
-
-    return replaced;
-  }
 
   function onSubmit() {
     setError(null);

@@ -1,2146 +1,771 @@
 Agent [cheater] is suspected of operating multiple accounts simultaneously. The accounts are frequently seen acting in coordination in a manner that gives [cheater] an unfair advantage during operations.
-
 This violates the Ingress Terms of Service. I kindly request a review of the activity logs.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Reported by: Agent [codename]
 ---
 Hello,
-
 I’d like to report potential multi-accounting by Agent [cheater]. Several accounts are acting in lockstep with them, repeatedly assisting in portal captures, resonator deployment, and field creation.
-
 The coordinated actions strongly suggest the same person is managing multiple accounts, which is against the rules.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Thank you,  
 Agent [codename]
 ---
 Hi team,
-
 It seems [cheater] is using multiple accounts. I've seen them operate in pairs or triplets at several portals. Please investigate this abuse.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Cheers,  
 [codename]
 ---
 Hello,
-
 Suspicious coordinated drops and link builds from [cheater] strongly suggest multiple accounts or account sharing. Their gear transfer patterns are extremely telling.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Warm regards,  
 [codename]
 ---
 Hey Niantic,
-
 I've witnessed [cheater] using what appears to be alt accounts for farming gear. Multiple usernames show up within seconds, and they're all oddly aligned.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Thanks,  
 [codename]
 ---
 Dear Niantic,
-
 [cheater] is possibly involved in selling accounts or farming gear to distribute unfairly. Their items are popping up in locations they never visit.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Appreciate your help,  
 [codename]
 ---
 Hi,
-
 I've seen [cheater] operate with multiple accounts to capture and re-capture portals in a loop. This is against the rules.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 [codename]
 ---
 Hello,
-
 There are clear signs that [cheater] uses family-labeled accounts to hold multiple portals. Please verify their account linkage.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Regards,  
 [codename]
 ---
 Hi Niantic,
-
 [cheater] consistently uses multiple accounts within a few seconds to deploy resonators. It appears coordinated and suspicious.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 [codename]
 ---
 To whom it may concern,
-
 I believe [cheater] is involved in account trading. The agent name changed and activity style is completely different.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Thanks,  
 [codename]
 ---
 Niantic support,
-
 [cheater] is frequently joined by two other accounts within seconds. This timing is too precise for unrelated players.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 [codename]
 ---
 Hi team,
-
 [cheater] has been seen using more than one account during operations. Items are frequently passed between them.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Thanks,
 [codename]
 ---
 Dear Niantic Ops,
-
 Please check into [cheater]. They’re often accompanied by "new" agents doing coordinated captures and drop-offs, which look like alt accounts.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Regards,
 [codename]
 ---
 Hello Ingress team,
-
 [cheater] is believed to be selling gear and keys online. This goes against community rules. Please investigate.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Sincerely,
 [codename]
 ---
 Hi,
-
 I noticed [cheater] logging in and acting while supposedly offline, likely a sign of account sharing. Kindly review their activity.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Cheers,
 [codename]
 ---
 Niantic,
-
 [cheater] operates with 2–3 agents always right next to each other, never interacting publicly, but perfectly in sync. Feels fishy.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 [codename]
 ---
 Hi,
-
 Not sure if this is allowed, but [cheater] mentioned trading items in a group chat. It might be worth checking out.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Thank you,
 [codename]
 ---
 Dear support,
-
 There’s a network of portals always flipped and re-captured by a group led by [cheater]. Alt accounts might be involved.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 [codename]
 ---
 Hi Niantic,
-
 [cheater] is suspected of coordinating with accounts that never level up, purely used for deploying and farming.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 All the best,
 [codename]
 ---
 Hi,
-
 [cheater] is managing multiple accounts from the same IP, often swapping items and keys.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Thanks,
 [codename]
 ---
 Dear Niantic,
-
 We suspect [cheater] is trading accounts or items illicitly, breaking game rules.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Regards,
 [codename]
 ---
 Hello,
-
 [cheater]’s several accounts always act in concert, indicating possible account farming or sales.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Best,
 [codename]
 ---
 Hi team,
-
 [cheater] shows signs of sharing accounts or selling gear outside the game ecosystem.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Thank you,
 [codename]
 ---
 Niantic,
-
 [cheater] is believed to control multiple accounts used to boost faction performance unfairly.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 [codename]
 ---
 Hi,
-
 Account usage patterns from [cheater] look like coordinated farming or selling.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Cheers,
 [codename]
 ---
 Dear Support,
-
 Please investigate account trading or sales involving [cheater].
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Regards,
 [codename]
 ---
 Hello Niantic,
-
 [cheater] likely operates alt accounts to gain an unfair edge.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 [codename]
 ---
 Hi Niantic,
-
 Multiple accounts linked to [cheater] are being used from identical IP ranges and devices.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please review.
-
 Thanks,
 [codename]
 ---
 Dear Support,
-
 We found evidence [cheater] is sharing or trading accounts, which violates terms of service.
-
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Regards,
 [codename]
 ---
 Hello Team,
-
 [cheater] appears to control multiple accounts acting in coordination.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 This impacts fair gameplay.
-
 Best,
 [codename]
 ---
 Hi,
-
 Please investigate possible account sales or sharing activities involving [cheater].
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Thank you,
 [codename]
 ---
 Niantic,
-
 Suspicious multi-account behavior detected on [cheater]'s profile.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Action recommended.
-
 [codename]
 ---
 Dear Niantic,
-
 The activity logs suggest [cheater] is farming accounts or selling them for profit.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Regards,
 [codename]
 ---
 Hi Team,
-
 Unusual account activity linked to [cheater], suggesting multiple account misuse.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 Cheers,
 [codename]
 ---
 Hello,
-
 Evidence points to [cheater] coordinating multiple players or accounts simultaneously.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please act accordingly.
-
 Best,
 [codename]
 ---
 Hello Niantic,
-
 There is suspicious multi-account activity linked to [cheater] that violates Terms of Service.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please investigate.
-
 Thank you,
 [codename]
 ---
 Hi Support,
-
 Patterns suggest [cheater] may be sharing or selling accounts for unfair advantage.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Best regards,
 [codename]
 ---
 Dear Team,
-
 Multiple accounts appear coordinated under [cheater]'s control.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Recommend further examination.
-
 Regards,
 [codename]
 ---
 Niantic Team,
-
 Evidence points to [cheater] involved in account farming or sales.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please act accordingly.
-
 Thanks,
 [codename]
 ---
 Hi,
-
 [cheater] has been detected using multiple accounts from same IP with suspicious behavior.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please review.
-
 [codename]
 ---
 Hello,
-
 There is indication [cheater] is trading accounts or items illicitly.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Kindly investigate.
-
 Best,
 [codename]
 ---
 Dear Niantic,
-
 [cheater]'s network of accounts shows signs of coordinated misuse.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Recommend action.
-
 Regards,
 [codename]
 ---
 Hi Team,
-
 Account linking and switching behavior from [cheater] is inconsistent with fair play.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Thank you,
 [codename]
 ---
 Hello Niantic Team,
-
 There is evidence that [cheater] manages multiple accounts simultaneously, violating rules.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please investigate.
-
 Thanks,
 [codename]
 ---
 Hi Support,
-
 Patterns of account switching from [cheater] suggest possible account sharing or sales.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Kindly review.
-
 Regards,
 [codename]
 ---
 Dear Niantic,
-
 Suspicious clustered account activity linked to [cheater].
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Recommend prompt action.
-
 Best,
 [codename]
 ---
 Hello,
-
 [cheater] appears to coordinate multiple accounts from the same device.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please verify and act.
-
 Thank you,
 [codename]
 ---
 Hi Team,
-
 Accounts related to [cheater] show overlapping login locations and suspicious activity.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please investigate.
-
 Regards,
 [codename]
 ---
 Dear Support,
-
 Account collusion involving [cheater] has been detected, undermining fair play.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please take necessary measures.
-
 Thanks,
 [codename]
 ---
 Hello Niantic,
-
 [cheater]’s accounts exhibit patterns consistent with unauthorized trading or selling.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Kindly review.
-
 Best,
 [codename]
 ---
 Hi,
-
 Multiple login origins from [cheater]'s accounts raise concerns for multi-account abuse.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please examine.
-
 Regards,
 [codename]
 ---
 Hello Niantic,
-
 Evidence indicates [cheater] runs multiple accounts for farming resources.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please investigate.
-
 Thanks,
 [codename]
 ---
 Hi Support,
-
 Account trading activity linked to [cheater] detected.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Kindly verify and act.
-
 Regards,
 [codename]
 ---
 Dear Team,
-
 [cheater] exhibits suspicious multi-account patterns violating fair play.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please take action.
-
 Best,
 [codename]
 ---
 Niantic,
-
 Shared device usage among accounts involving [cheater] suggests breaches.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please review.
-
 Thanks,
 [codename]
 ---
 Hi,
-
 [cheater] is associated with known account sale or trade networks.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please examine.
-
 Best regards,
 [codename]
 ---
 Hello,
-
 IP overlaps across [cheater]’s accounts raise red flags for multi-account abuse.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Kindly investigate.
-
 Regards,
 [codename]
 ---
 Dear Niantic,
-
 Suspicious account switching behavior by [cheater] violates Terms of Service.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please intervene.
-
 Thanks,
 [codename]
 ---
 Hi Team,
-
 High-frequency account switching from [cheater]’s devices detected.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please review and act.
-
 [codename]
 ---
 Hi Niantic,
-
 Multiple accounts linked to [cheater] suggest farming or trading activity.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please investigate.
-
 Thanks,
 [codename]
 ---
 Hello Support,
-
 Suspicious account sales possibly linked to [cheater].
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Kindly check and act.
-
 Regards,
 [codename]
 ---
 Dear Team,
-
 [cheater] displays suspicious multi-account usage against fair play policies.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please review.
-
 Best,
 [codename]
 ---
 Niantic,
-
 Overlapping account access linked to [cheater] suggests credential sharing.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please verify and take action.
-
 Thanks,
 [codename]
 ---
 Hi,
-
 Account switching patterns for [cheater] indicate possible trading or sharing.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please investigate.
-
 Best,
 [codename]
 ---
 Hello,
-
 [cheater]’s accounts exhibit behaviors consistent with account farm networks.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Kindly review.
-
 Regards,
 [codename]
 ---
 Dear Niantic Support,
-
 High frequency of account switching associated with [cheater] detected.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please intervene.
-
 Thanks,
 [codename]
 ---
 Hi Team,
-
 [cheater] may be involved in buying or selling accounts.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please check.
-
 Best,
 [codename]
 ---
 Hello Niantic Investigation Team,
-
 We have identified a cluster of accounts exhibiting suspicious activity linked to the player [cheater]. These accounts share similar IP addresses, device fingerprints, and overlapping gameplay times, strongly suggesting coordinated multi-account use or account farming.
-
 Moreover, behavioral analysis indicates possible account trading or sales between these profiles, violating Niantic’s terms of service. Such practices disrupt fair competition and can damage community trust.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 We request a detailed investigation into [cheater]'s network of accounts, including IP logs, transaction histories, and device data, to confirm these violations.
-
 Thank you for your cooperation.
-
 Best,
 [codename]
 ---
 Dear Niantic Enforcement,
-
 Upon monitoring player activity, we observed [cheater] frequently switching between multiple accounts with suspicious overlap in play patterns and identical device markers.
-
 Additionally, there is evidence suggesting account sales or trades involving [cheater], which breaches the community guidelines.
-
 We recommend suspending or further scrutinizing these accounts to prevent unfair gameplay advantages.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please advise on next steps.
-
 Regards,
 [codename]
 ---
 Hi Niantic Support,
-
 This is a report concerning potential abuse by [cheater] involving multiple account operation and possible account trading or selling.
-
 The activity logs reveal frequent simultaneous usage of different accounts from the same device or IP, along with behavioral patterns indicative of farming or account sales.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 We suggest a thorough cross-examination of associated accounts and transactions related to [cheater].
-
 Looking forward to your feedback.
-
 Thanks,
 [codename]
 ---
 Dear Niantic Investigations,
-
 Our monitoring has detected that [cheater] is potentially controlling multiple accounts simultaneously. These accounts show significant overlap in IP addresses, device identifiers, and gameplay schedules.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Additionally, patterns suggest possible account trading or sale activities, which violate the game’s terms of service.
-
 We recommend a detailed forensic analysis to confirm these violations and enforce corrective measures.
-
 Thank you for your attention.
-
 Sincerely,
 [codename]
 ---
 Hello Niantic Enforcement,
-
 There is credible evidence indicating that [cheater] may be engaged in managing multiple accounts, possibly trading or selling them for in-game advantages.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 These activities distort the competitive landscape and undermine fair play.
-
 Please investigate these accounts comprehensively.
-
 Best regards,
 [codename]
 ---
 Hi Niantic Team,
-
 We report suspected multi-account abuse linked to [cheater]. Data shows frequent simultaneous logins from identical devices and overlapping gameplay patterns.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Moreover, signs of account sales or trades involving [cheater] have been observed.
-
 Prompt action is requested to maintain community fairness.
-
 Thank you.
-
 Regards,
 [codename]
 ---
 Dear Niantic Enforcement,
-
 Our systems have flagged [cheater] for potentially managing multiple accounts simultaneously, with overlapping IP addresses and device identifiers.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Furthermore, evidence suggests involvement in account trading or selling activities, which violates Niantic’s terms of service.
-
 We advise immediate review and enforcement action to uphold game integrity.
-
 Best regards,
 [codename]
 ---
 Hello Niantic Team,
-
 We report suspicious multi-account usage by [cheater], including coordinated activities across several accounts and shared device fingerprints.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 The behavior aligns with account farming or trading practices.
-
 Please investigate this issue at your earliest convenience.
-
 Sincerely,
 [codename]
 ---
 Hi Niantic Enforcement,
-
 The player [cheater] appears to be engaging in unauthorized account trading or sales, based on observed patterns of multiple accounts linked via device metadata and gameplay behavior.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Such actions degrade the community experience and must be addressed.
-
 Thank you.
-
 Regards,
 [codename]
 ---
 Dear Niantic Enforcement Team,
-
 Our monitoring system flagged multiple accounts exhibiting overlapping login locations, device IDs, and behavior patterns tied to [cheater]. This strongly suggests management of multiple accounts or involvement in account trading.
-
 These actions breach the terms of service and impact fair competition.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please prioritize investigation and enforcement.
-
 Best regards,  
 [codename]
 ---
 Hello Niantic Support,
-
 We report suspicious behavior involving multiple accounts connected to [cheater]. Evidence points to possible account sale or trade activity.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Such conduct undermines community fairness and trust.
-
 Your prompt review is appreciated.
-
 Sincerely,  
 [codename]
 ---
 Hi Niantic Enforcement,
-
 Data shows [cheater] may be coordinating or selling multiple accounts. IP and device metadata overlap, combined with synchronized gameplay, indicate multi-account abuse.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 We trust Niantic will investigate and act accordingly.
-
 Regards,  
 [codename]
 ---
 [cheater] appears to operate several accounts simultaneously.timestamp: [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 ---
 Suspicious sync between accounts at [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 ---
 Alt behavior observed repeatedly from [cheater]. Proof: [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 ---
 [cheater] and associated IDs moved identically at [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 ---
 Unnatural coordination with other players suggests multiple accounts. [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 ---
 Simultaneous actions at remote sites imply alt usage. Main cheater: [cheater], Time: [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 ---
 Pattern matching with known alts. [cheater] suspected. Data: [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 ---
 Parallel glyphing actions with little delay. Proof: [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 ---
 Alt and main account interactions recorded. Player: [cheater], Time: [timestamp]
-
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 ---
 Account switching suspected based on portal sequences. Timeline: [timestamp]
-
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 ---
-
 Dear NIA Team,
-
 I'd like to report what seems to be a ring of alternate accounts operated by agent [cheater]. On [timestamp], the agent acted in perfect coordination with two other low-level accounts that deployed and farmed gear in tandem.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Additionally, there are strong indications that [cheater] is trading gear obtained through these accounts. Please consider this evidence for further investigation.
-
 Sincerely,  
 A long-time agent
-
 ---
-
-
 Hi,
-
 I noticed unusual activity with [cheater]—their play style changes dramatically within short timeframes. This suggests that the account is being shared between multiple individuals.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Their movement pattern also indicates hand-off behavior, often showing logins from distinct regions on the same day. Hope this helps in the review.
-
 Regards,  
-[agent_alias]
-
+[codename]
 ---
 Hello,
-
 During recent events, [cheater] appeared to be coordinating with 2–3 burner accounts. These alts followed identical movement paths and dropped large quantities of rare items.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 I believe there may be an item-selling operation going on. Please look into this.
-
 Cheers,  
 Agent [codename]
 ---
 Dear Niantic Support,
-
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Hello,
-
-It appears that [cheater] is operating multiple accounts simultaneously. At [timestamp], one account is seen deploying resonators, while at [timestamp1], another account linked to them is attacking the same portal.
+It appears that [cheater] is operating multiple accounts simultaneously. At [timestamp], one account is seen deploying resonators, while at , another account linked to them is attacking the same portal.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 This is against Ingress’ terms of service.
-
 ---
-
 Dear Niantic Support,
-
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Dear Niantic,
-
 [cheater] seems to be selling accounts. On [timestamp], one account is active in portal operations, while another account, likely theirs, is advertising account sales in the comm chat.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please investigate this behavior.
-
 ---
-
 Dear Niantic Support,
-
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Hi Niantic Team,
-
-Suspicious account sharing involving [cheater] has been detected. Activities on [timestamp] and [timestamp1] show multiple codename usage from the same IP.
+Suspicious account sharing involving [cheater] has been detected. Activities on [timestamp] and  show multiple codename usage from the same IP.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 This violates the fair play policy.
-
 ---
-
 Dear Niantic Support,
-
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Hello,
-
-Evidence shows [cheater] using multiple accounts for farming portals simultaneously. Actions logged on [timestamp] and [timestamp1] are consistent with multi-account use.
+Evidence shows [cheater] using multiple accounts for farming portals simultaneously. Actions logged on [timestamp] and  are consistent with multi-account use.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Kindly look into this.
-
 ---
-
 Dear Niantic Support,
-
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Dear Niantic Support,
-
-At [timestamp], one account of [cheater] was seen farming portals, and another at [timestamp1] was advertising accounts for sale.
+At [timestamp], one account of [cheater] was seen farming portals, and another at  was advertising accounts for sale.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please review.
-
 ---
-
 Dear Niantic Support,
-
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Hi Niantic,
-
-[cheater] is suspected of account sharing. Logs from [timestamp] and [timestamp1] show multiple logins under different codenames from one source.
+[cheater] is suspected of account sharing. Logs from [timestamp] and  show multiple logins under different codenames from one source.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 This breaks the rules.
-
 ---
-
 Dear Niantic Support,
-
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Greetings,
-
-Multiple account activity by [cheater] is evident in the portal attacks on [timestamp] and [timestamp1].
-
+Multiple account activity by [cheater] is evident in the portal attacks on [timestamp] and .
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please take action.
-
 ---
-
 Dear Niantic Support,
-
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Hello,
-
-There is clear evidence of [cheater] controlling several accounts, performing coordinated attacks on portals at [timestamp] and [timestamp1].
-
+There is clear evidence of [cheater] controlling several accounts, performing coordinated attacks on portals at [timestamp] and .
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Requesting investigation.
-
 ---
-
 Dear Niantic Support,
-
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Dear Niantic Team,
-
-I believe [cheater] is managing multiple accounts for farming and trading. Times [timestamp] and [timestamp1] indicate suspicious activity.
-
+I believe [cheater] is managing multiple accounts for farming and trading. Times [timestamp] and  indicate suspicious activity.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please verify.
-
 ---
-
 Dear Niantic Support,
-
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Hi,
-
-Multiple account usage by [cheater] is suspected, with activities logged at [timestamp] and [timestamp1].
-
+Multiple account usage by [cheater] is suspected, with activities logged at [timestamp] and .
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please investigate.
-
 ---
 Hi team,
 There is strong indication that [cheater] is operating multiple accounts simultaneously.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 The actions seem deliberately coordinated across devices in the same area.
 Please investigate.
 ---
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 I'm reporting [cheater] for account sharing. The patterns show different behavior styles on the same account in short time spans.
 This might violate Niantic’s policy.
 Thanks,
@@ -2150,32 +775,12 @@ Dear Niantic,
 We observed [cheater] and another account capturing portals in a suspiciously synchronized way.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 The play style and timing suggest they are controlled by the same person.
 Kindly look into this.
 ---
 Greetings,
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 The agent [cheater] appears to manage multiple accounts. Activity on multiple devices is often reported by fellow agents.
 —
 Thank you,  
@@ -2183,16 +788,6 @@ Thank you,
 ---
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 We believe [cheater] is using both sides of the faction to control areas. They switch between accounts too quickly to be two people.
 Please take action.
 [codename]
@@ -2200,16 +795,6 @@ Please take action.
 I would like to report [cheater] for suspected multi-accounting.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 There's evidence of simultaneous operations by linked agents.
 Regards,
 [codename]
@@ -2218,30 +803,10 @@ To Niantic,
 This is a recurring issue: [cheater] logs in from different IPs and operates several accounts.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 It has affected local gameplay and portal control. We ask for your support.
 ---
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 The same person appears to control multiple usernames. [cheater] is one of them.
 Please verify and take corrective steps.
 ---
@@ -2249,31 +814,11 @@ Hi team,
 There is strong indication that [cheater] is operating multiple accounts simultaneously.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 The actions seem deliberately coordinated across devices in the same area.
 Please investigate.
 ---
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 I'm reporting [cheater] for account sharing. The patterns show different behavior styles on the same account in short time spans.
 This might violate Niantic’s policy.
 Thanks,
@@ -2283,32 +828,12 @@ Dear Niantic,
 We observed [cheater] and another account capturing portals in a suspiciously synchronized way.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 The play style and timing suggest they are controlled by the same person.
 Kindly look into this.
 ---
 Greetings,
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 The agent [cheater] appears to manage multiple accounts. Activity on multiple devices is often reported by fellow agents.
 —
 Thank you,  
@@ -2316,16 +841,6 @@ Thank you,
 ---
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 We believe [cheater] is using both sides of the faction to control areas. They switch between accounts too quickly to be two people.
 Please take action.
 [codename]
@@ -2333,16 +848,6 @@ Please take action.
 I would like to report [cheater] for suspected multi-accounting.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 There's evidence of simultaneous operations by linked agents.
 Regards,
 [codename]
@@ -2351,30 +856,10 @@ To Niantic,
 This is a recurring issue: [cheater] logs in from different IPs and operates several accounts.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 It has affected local gameplay and portal control. We ask for your support.
 ---
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 The same person appears to control multiple usernames. [cheater] is one of them.
 Please verify and take corrective steps.
 —
@@ -2383,16 +868,6 @@ Please verify and take corrective steps.
 Suspicion arises when [cheater] performs actions, then a secondary account appears moments later at the same portal.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please check if these accounts are linked or shared.
 Thanks,
 [codename]
@@ -2401,32 +876,12 @@ Hello Niantic,
 Agent [cheater] is possibly selling items between accounts.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 This violates fair gameplay, and I hope you can look into it.
 [codename]
 ---
 Hi, I’m reporting [cheater] for suspected account sharing. Their behavior and login patterns change drastically during the day.  
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
 Please investigate the devices used on that account.  
 [codename]
 ---
@@ -2434,16 +889,7 @@ Ingress Ops,
 I've observed [cheater] playing in multiple distant locations almost simultaneously—clearly a shared or bot-assisted account.
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]  
+  
 Take a closer look at login metadata.  
 [codename]
 ---
@@ -2452,16 +898,724 @@ Several of us have observed [cheater] aggressively defending and capturing porta
 Please audit their activity.  
 [timestamp]
 [link]
-[timestamp1]
-[link1]
-[timestamp2]
-[link2]
-[timestamp3]
-[link3]
-[timestamp4]
-[link4]
-[timestamp5]
-[link5]
-
 [codename]
 ---
+Reports show that [cheater] controls several accounts, engaging in suspicious activities starting from [timestamp]. This multi-account behavior is disrupting fair play.
+
+[link]
+---
+At [timestamp], evidence confirms that [cheater] is using multiple Ingress accounts. These accounts share unusual login patterns and coordinated gameplay.
+
+[link]
+
+---
+The logs at [timestamp] indicate simultaneous logins from different accounts attributed to [cheater]. Such multi-account usage violates game policies.
+
+[link]
+
+---
+[cheater] appears to share or sell accounts, as shown by suspicious activity starting [timestamp]. Multiple IDs involved affect gameplay fairness.
+
+[link]
+
+---
+Evidence beginning at [timestamp] shows [cheater] rapidly switching among multiple accounts, coordinating attacks that skew results unfairly.
+
+[link]
+
+---
+Analysis of data from [timestamp] points to [cheater]'s use of several accounts in violation of terms. Device and IP info overlap suspiciously.
+
+[link]
+
+---
+At [timestamp], multiple accounts linked to [cheater] were detected acting in concert, suggesting account sharing or manipulation.
+
+[link]
+
+---
+Starting [timestamp], data shows several accounts used by [cheater] to bypass game limits, undermining fair competition.
+
+[link]
+
+---
+At [timestamp], suspicious transfers of items between multiple accounts linked to [cheater] were logged. This indicates account manipulation.
+
+[link]
+
+---
+[cheater] controls a network of accounts exploited for coordinated gameplay. The activity starting from [timestamp] is against the game's terms.
+
+[link]
+
+Kind regards,  
+[codename]
+
+---
+We've observed that [cheater] has been controlling multiple accounts, beginning at [timestamp]. This behavior is disrupting fair gameplay.
+
+[link]
+
+---
+Starting from [timestamp], evidence shows that [cheater] is operating several accounts simultaneously, violating game policies.
+
+[link]
+
+---
+The logs at [timestamp] reveal that [cheater] is switching between multiple accounts frequently, which is unfair to other players.
+
+[link]
+---
+[cheater] appears to be sharing or selling accounts. Activity detected at [timestamp] indicates multiple linked accounts.
+
+[link]
+---
+Data from [timestamp] shows coordinated actions between several accounts attributed to [cheater]. This undermines competitive integrity.
+
+[link]
+
+---
+At [timestamp], multiple accounts linked to [cheater] performed synchronized actions, indicating account sharing or manipulation.
+
+[link]
+
+---
+From [timestamp], suspicious activity involving multiple accounts under [cheater]'s control was recorded, violating Ingress rules.
+
+[link]
+
+---
+The account activity starting [timestamp] suggests that [cheater] uses more than one account to gain unfair advantages.
+
+[link]
+---
+
+Analysis at [timestamp] uncovers that [cheater] manages a network of accounts, which affects fair competition within the game.
+
+[link]
+---
+Multiple accounts linked to [cheater] have been exploited since [timestamp] to bypass limitations and disrupt gameplay.
+
+[link]
+
+Kind regards,  
+[codename]
+---
+We identified that [cheater] operates multiple accounts, as confirmed by correlated login patterns starting at [timestamp].
+
+[link]
+---
+The activity logs from [timestamp] reveal that [cheater] is sharing or selling several accounts, violating terms of service.
+
+[link]
+---
+At [timestamp], our investigation found evidence of coordinated activity between multiple accounts controlled by [cheater].
+
+[link]
+---
+Data collected at [timestamp] shows overlapping gameplay actions from accounts linked to [cheater], confirming multi-account abuse.
+
+[link]
+---
+Patterns observed at [timestamp] strongly indicate that [cheater] uses several accounts to manipulate game events unfairly.
+
+[link]
+---
+Patterns observed at [timestamp] strongly indicate that [cheater] uses several accounts to manipulate game events unfairly.
+
+[link]
+---
+Login timestamps at [timestamp] for different accounts are consistent with shared control by [cheater].
+
+[link]
+---
+Our records from [timestamp] show suspicious trading and resource sharing between accounts tied to [cheater].
+
+[link]
+---
+[cheater]'s multiple accounts activity detected at [timestamp] includes collusion during in-game challenges and competitions.
+
+[link]
+---
+At [timestamp], we observed [cheater]'s several accounts acting in concert, impacting competitive fairness.
+
+[link]
+---
+Concurrent logins from different devices at [timestamp] confirm multi-account usage linked to [cheater].
+
+[link]
+
+Regards,  
+[codename]
+---
+We identified that [cheater] operates multiple accounts, as confirmed by correlated login patterns starting at [timestamp].
+
+[link]
+---
+The activity logs from [timestamp] reveal that [cheater] is sharing or selling several accounts, violating terms of service.
+
+[link]
+---
+At [timestamp], our investigation found evidence of coordinated activity between multiple accounts controlled by [cheater].
+
+[link]
+---
+Data collected at [timestamp] shows overlapping gameplay actions from accounts linked to [cheater], confirming multi-account abuse.
+
+[link]
+---
+Patterns observed at [timestamp] strongly indicate that [cheater] uses several accounts to manipulate game events unfairly.
+
+[link]
+---
+We identified that [cheater] operates multiple accounts, as confirmed by correlated login patterns starting at [timestamp].
+
+[link]
+---
+The activity logs from [timestamp] reveal that [cheater] is sharing or selling several accounts, violating terms of service.
+
+[link]
+---
+At [timestamp], our investigation found evidence of coordinated activity between multiple accounts controlled by [cheater].
+
+[link]
+---
+Data collected at [timestamp] shows overlapping gameplay actions from accounts linked to [cheater], confirming multi-account abuse.
+
+[link]
+---
+Patterns observed at [timestamp] strongly indicate that [cheater] uses several accounts to manipulate game events unfairly.
+
+[link]
+---
+At [timestamp], multiple accounts connected to [cheater] were active simultaneously.
+
+[link]
+---
+Activity logs at [timestamp] show [cheater] coordinating actions across several accounts.
+
+[link]
+---
+Evidence at [timestamp] indicates account sharing involving [cheater].
+
+[link]
+---
+Suspicious multi-account behavior linked to [cheater] was observed at [timestamp].
+
+[link]
+---
+[cheater] was logged in with multiple accounts during the period recorded at [timestamp].
+
+[link]
+---
+Correlated login patterns at [timestamp] suggest [cheater] operates several accounts.
+
+[link]
+---
+Simultaneous activity from linked accounts under [cheater] was captured at [timestamp].
+
+[link]
+---
+At [timestamp], duplicate accounts related to [cheater] showed coordinated gameplay.
+
+[link]
+---
+Account trading or sharing involving [cheater] was identified at [timestamp].
+
+[link]
+---
+[cheater]'s multi-account activity detected in logs from [timestamp].
+
+[link]
+---
+Accounts controlled by [cheater] acted in tandem during sessions logged at [timestamp].
+
+[link]
+---
+Reports from [timestamp] indicate [cheater] uses multiple accounts to circumvent restrictions.
+
+[link]
+---
+[cheater]'s network of accounts was active concurrently at [timestamp].
+
+[link]
+---
+Suspicious linked account actions related to [cheater] were observed at [timestamp].
+
+[link]
+---
+[cheater] was found sharing credentials across accounts in the timeframe of [timestamp].
+
+[link]
+---
+Data from [timestamp] reveals a cluster of accounts associated with [cheater].
+
+[link]
+---
+At [timestamp], evidence points to [cheater] managing multiple in-game identities.
+
+[link]
+---
+Patterns at [timestamp] indicate multi-account exploitation by [cheater].
+
+[link]
+---
+Investigations at [timestamp] confirm coordinated use of several accounts by [cheater].
+
+[link]
+---
+[cheater]'s multi-account abuse recorded at [timestamp] violates fair play policies.
+
+[link]
+---
+Logs from [timestamp] indicate that [cheater] operated multiple accounts concurrently, using them to capture portals and gather resources in coordinated attacks, thereby gaining an unfair edge.
+
+[link]
+---
+At [timestamp], evidence shows [cheater] sharing credentials across several accounts, allowing them to control multiple in-game identities for resource farming.
+
+[link]
+---
+Analysis of login patterns at [timestamp] confirms that [cheater] managed multiple accounts from the same device, violating the game's terms of service.
+
+[link]
+---
+The behavior recorded at [timestamp] indicates simultaneous gameplay from multiple accounts linked to [cheater], resulting in abnormal resource accumulation.
+
+[link]
+---
+During the session at [timestamp], [cheater] used several accounts in a synchronized manner to manipulate portal control dynamics unfairly.
+
+[link]
+---
+Data from [timestamp] reveals overlapping activities from multiple accounts controlled by [cheater], consistent with account sharing or selling.
+
+[link]
+---
+At [timestamp], the network traffic analysis uncovered simultaneous connections from [cheater]'s multiple accounts, breaching fair play policies.
+
+[link]
+---
+[cheater]'s multi-account usage at [timestamp] was detected through matching device fingerprints and overlapping in-game activities.
+
+[link]
+---
+At [timestamp], suspicious patterns suggest that [cheater] traded or shared accounts with other players, enabling an unfair multi-account advantage.
+
+[link]
+---
+Multiple account logins linked to [cheater] were active during the period starting at [timestamp], allowing coordinated gameplay and cheating.
+
+[link]
+---
+On [timestamp], it was observed that [cheater] operated multiple accounts simultaneously, coordinating actions across these accounts to unfairly control multiple portals and monopolize resources.
+
+[link]
+
+Kind regards,  
+[codename]
+---
+Analysis at [timestamp] confirmed [cheater]'s use of shared credentials to manage several accounts, a violation of terms that gives an illicit advantage by enabling coordinated attacks and defense.
+
+[link]
+
+Best regards,  
+[codename]
+---
+The logs from [timestamp] reveal multiple accounts being accessed from the same IP and device identifiers linked to [cheater], indicating account farming or trading.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+During the period starting [timestamp], suspicious overlapping login times for multiple accounts associated with [cheater] were detected, indicating multi-account exploitation.
+
+[link]
+
+Regards,  
+[codename]
+---
+At [timestamp], gameplay activity demonstrates that [cheater] leveraged several accounts in tandem to gain an unfair advantage by rapidly capturing and defending key locations.
+
+[link]
+
+Kind regards,  
+[codename]
+---
+Device fingerprinting at [timestamp] exposed [cheater]'s use of multiple accounts on the same hardware, contradicting the game’s fair play policies.
+
+[link]
+
+Best regards,  
+[codename]
+---
+Data from [timestamp] indicates account sharing or selling involving [cheater], evidenced by simultaneous actions that would be impossible for a single user to perform fairly.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+At [timestamp], unusual login and activity patterns linked to [cheater] suggest coordinated use of multiple accounts to manipulate game outcomes.
+
+[link]
+
+Regards,  
+[codename]
+---
+The session starting [timestamp] shows [cheater] operating more than one account, with identical device metadata and overlapping game actions.
+
+[link]
+
+Kind regards,  
+[codename]
+---
+On [timestamp], it was detected that [cheater] controlled several accounts simultaneously, undermining competitive balance through unfair multi-account coordination.
+
+[link]
+
+Best regards,  
+[codename]
+---
+At [timestamp], suspicious behavior shows [cheater] operating multiple accounts from the same IP and device fingerprints, coordinating portal captures and defenses, violating terms of service.
+
+[link]
+
+Kind regards,  
+[codename]
+---
+Logs from [timestamp] reveal overlapping activity times across several accounts linked to [cheater], indicating multi-accounting or account sharing.
+
+[link]
+
+Best regards,  
+[codename]
+---
+During the gameplay on [timestamp], [cheater] was found to control multiple accounts simultaneously, enabling unfair tactical advantages such as monopolizing local portal control.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+The data from [timestamp] shows [cheater] repeatedly using different accounts to farm items and resources, suggesting account selling or sharing schemes.
+
+[link]
+
+Regards,  
+[codename]
+---
+At [timestamp], device metadata and network analysis reveal that [cheater] uses multiple accounts interchangeably, undermining game fairness by multi-account exploitation.
+
+[link]
+
+Kind regards,  
+[codename]
+---
+Evidence at [timestamp] points to [cheater] leveraging multiple accounts for coordinated attacks on opposing factions, a clear breach of game policies.
+
+[link]
+
+Best regards,  
+[codename]
+---
+Multiple login sessions detected on [timestamp] link to [cheater], showing usage of several accounts for manipulating game state and unfair control.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+Activity records at [timestamp] demonstrate that [cheater] runs multiple accounts, synchronizing actions to quickly gain resources and dominate local gameplay.
+
+[link]
+
+Regards,  
+[codename]
+---
+During [timestamp], simultaneous portal interactions from different accounts trace back to [cheater], indicating multi-account coordination or sharing.
+
+[link]
+
+Kind regards,  
+[codename]
+---
+At [timestamp], unusual login frequency and cross-account behavior patterns indicate that [cheater] abuses multi-accounting to gain tactical advantages.
+
+[link]
+
+Best regards,  
+[codename]
+---
+Examination of network logs at [timestamp] reveals that [cheater] operates at least three accounts concurrently from the same IP address and device fingerprint. Actions on these accounts are coordinated, enabling simultaneous portal captures and strategic linking that circumvents intended game restrictions on single-account play.
+
+[link]
+
+This multi-account behavior not only violates terms of service but also creates an unbalanced competitive environment favoring [cheater]'s faction unfairly.
+
+Kind regards,  
+[codename]
+---
+During the period of [timestamp], cross-account analysis shows [cheater] using multiple accounts to farm items by repeatedly hacking the same portal with each account. The timing intervals between hacks on separate accounts are too tight for manual switching, indicating automated or scripted multi-account management.
+
+[link]
+
+This exploitation inflates inventory resources illegitimately, undermining normal gameplay economies.
+
+Best regards,  
+[codename]
+---
+At [timestamp], metadata collected on login patterns indicates [cheater] logs into multiple accounts within seconds, often switching rapidly during active gameplay sessions. Such behavior facilitates complex tactical advantages, including multi-account defensive shields and offensive portal saturation.
+
+[link]
+
+This circumvents fair play policies designed to prevent singular users from dominating through multiple avatars.
+
+Sincerely,  
+[codename]
+---
+The server logs at [timestamp] capture synchronized portal activity by multiple accounts linked to [cheater]. Portal linking and field creation exploits are optimized by rapid multi-account coordination, a clear breach of anti-multi-account regulations.
+
+[link]
+
+This coordination leads to disproportionate faction control in contested regions.
+
+Regards,  
+[codename]
+---
+Analysis of account recovery and authentication logs from [timestamp] connects several accounts to [cheater] through shared device certificates and IP usage patterns. The multiple account usage is associated with both item farming and strategic domination of local portals.
+
+[link]
+
+Such violations disrupt competitive fairness and are grounds for enforcement actions.
+
+Kind regards,  
+[codename]
+---
+Network logs from [timestamp] reveal [cheater] is operating multiple accounts simultaneously. The accounts are linked by common IP addresses and device fingerprints, indicating coordinated activity designed to farm items and control portals unfairly.
+
+[link]
+
+This coordinated multi-account operation breaches game policies and creates an unlevel playing field.
+
+Kind regards,  
+[codename]
+---
+At [timestamp], evidence shows that [cheater] toggled rapidly between several accounts, exploiting the ability to hack the same portals repeatedly within short intervals. This behavior suggests automation or scripted switching to maximize resource gains.
+
+[link]
+
+Such abuse disrupts normal game economy and competition.
+
+Best regards,  
+[codename]
+---
+The account activity logs at [timestamp] detail synchronized portal captures and link creations by multiple accounts controlled by [cheater]. These accounts consistently operate in lockstep to establish dominant control over contested areas.
+
+[link]
+
+This strategy violates the single-account rule and undermines fair faction competition.
+
+Sincerely,  
+[codename]
+---
+During [timestamp], authentication metadata links several accounts to [cheater] through shared device IDs and overlapping login patterns. These accounts appear to be used for item farming and unfair strategic gains.
+
+[link]
+
+This multi-account abuse must be addressed to preserve game integrity.
+
+Regards,  
+[codename]
+---
+At [timestamp], [cheater]’s multiple accounts were identified coordinating portal farming in a concentrated geographic area. The rapid sequence of hacks on the same portals by these accounts is not achievable without simultaneous management.
+
+[link]
+
+This practice is prohibited and unfair to honest players.
+
+Kind regards,  
+[codename]
+---
+At [timestamp], analysis of network logs revealed [cheater] managing multiple linked accounts from the same IP address and device fingerprint. These accounts were used to monopolize portal control and artificially farm items.
+
+[link]
+
+This coordinated multi-account usage violates game rules and disrupts equitable gameplay.
+
+Kind regards,  
+[codename]
+---
+During the period starting [timestamp], [cheater] rapidly switched between several accounts to repeatedly hack and recharge the same set of portals. The synchronized activity strongly suggests scripted or manual multi-account exploitation.
+
+[link]
+
+Such behavior distorts game economy and is against Niantic’s policies.
+
+Regards,  
+[codename]
+---
+Data from [timestamp] shows that [cheater]'s multiple accounts operate in a coordinated fashion, capturing and linking portals in unison to dominate an area unfairly.
+
+[link]
+
+This multi-account collusion damages the competitive balance and is prohibited.
+
+Sincerely,  
+[codename]
+---
+At [timestamp], multiple accounts linked to [cheater] exhibited overlapping session times, sharing device information and login credentials. The accounts were utilized for illicit farming and strategic control.
+
+[link]
+
+This breaches the one-account-per-player guideline and requires enforcement action.
+
+Best regards,  
+[codename]
+---
+Logs at [timestamp] confirm that [cheater] controls several accounts used to flood the game with portal hacks, gaining resources beyond legitimate means. The simultaneous activity patterns cannot be accidental.
+
+[link]
+
+This practice must be investigated and remediated.
+
+Kind regards,  
+[codename]
+---
+Investigation at [timestamp] uncovered that [cheater] operates multiple accounts concurrently to gain unfair advantages. These accounts frequently cooperate, sharing portal control and resources, often from identical IP addresses and device fingerprints.
+
+[link]
+
+Such multi-accounting breaks game rules and provides [cheater] with an unjust competitive edge.
+
+Best regards,  
+[codename]
+---
+During the timeframe beginning at [timestamp], network monitoring revealed coordinated actions between several accounts linked to [cheater]. This includes rapid cycling through accounts to hack, recharge, and farm the same portals repeatedly.
+
+[link]
+
+This artificial inflation of game activity harms the community and is strictly prohibited.
+
+Kind regards,  
+[codename]
+---
+The logs dated [timestamp] show simultaneous logins from different accounts associated with [cheater], utilizing identical devices and network environments. These accounts synchronized attacks and portal upgrades to dominate territories unfairly.
+
+[link]
+
+Enforcing penalties for this multi-account manipulation is necessary to preserve game balance.
+
+Regards,  
+[codename]
+---
+At [timestamp], evidence surfaced that [cheater] shares account credentials among multiple profiles, facilitating excessive farming and resource hoarding through account switching and coordinated play.
+
+[link]
+
+This practice violates the one-player-one-account rule and disrupts the gameplay ecosystem.
+
+Sincerely,  
+[codename]
+---
+Detailed tracking at [timestamp] reveals overlapping active sessions from multiple accounts under [cheater]'s control, resulting in rapid, coordinated portal control sweeps.
+
+[link]
+
+Immediate action is recommended to address this breach of fair play.
+
+Best,  
+[codename]
+---
+Records from [timestamp] expose that [cheater] is operating several accounts simultaneously. These accounts interact and collaborate strategically to dominate portal networks, often from the same IP address or device signature.
+
+[link]
+
+This breach of the one-account-per-player rule grants unfair advantages and disrupts the game's balance.
+
+Thank you for your attention,  
+[codename]
+---
+At [timestamp], evidence was gathered showing [cheater] switching between multiple accounts to hack and recharge the same portals repeatedly. The rapid cycling cannot be attributed to legitimate multi-player coordination.
+
+[link]
+
+This behavior distorts game statistics and is against Niantic’s policies.
+
+Kind regards,  
+[codename]
+---
+During [timestamp], logs showed synchronized activity across accounts linked to [cheater], revealing coordinated resource sharing and portal domination efforts.
+
+[link]
+
+Such exploitation of multiple accounts harms the player community and merits investigation.
+
+Sincerely,  
+[codename]
+---
+The activity log at [timestamp] confirms that [cheater] shares account credentials or controls several accounts to gain unfair advantage in portal farming and territory control.
+
+[link]
+
+Enforcing appropriate sanctions will help preserve fair gameplay.
+
+Best regards,  
+[codename]
+---
+Data from [timestamp] indicates simultaneous logins and gameplay from multiple accounts associated with [cheater], operating in tandem to monopolize resources and control.
+
+[link]
+
+This violation of game terms should be addressed without delay.
+
+Regards,  
+[codename]
+---
+The activity logs from [timestamp] reveal that [cheater] operates several accounts concurrently, often exploiting them to farm items and dominate portal networks. Cross-referencing login times and IP addresses strongly suggests a deliberate violation of the single-account policy.
+
+[link]
+
+This unfair coordination distorts competitive play and should be addressed urgently.
+
+Thank you for your consideration,  
+[codename]
+---
+Data captured on [timestamp] indicates that [cheater] switches between multiple accounts to gain repeated benefits such as multiple portal hacks and recharges from the same physical location, a clear abuse of the game's account policies.
+
+[link]
+
+Such actions undermine the game’s fairness and affect the broader community.
+
+Regards,  
+[codename]
+---
+At [timestamp], patterns emerged showing [cheater] controlling a network of accounts which strategically support each other, making it difficult for other players to compete. These multiple accounts appear to share resources extensively.
+
+[link]
+
+This collusion breaches Niantic’s terms and compromises game integrity.
+
+Please investigate and act accordingly.
+
+Best,  
+[codename]
+---
+The data logged on [timestamp] reveals simultaneous activity from several accounts linked to [cheater]. This coordinated playstyle, including synchronized portal attacks and recharges, breaches the game's fair use policy.
+
+[link]
+
+I trust Niantic will uphold community standards by addressing this violation.
+
+Sincerely,  
+[codename]
+---
+Records from [timestamp] show that [cheater] has been selling or sharing accounts to other users, evidenced by multiple IPs and device signatures linked to the same set of accounts, violating the rules regarding account ownership.
+
+[link]
+
+Such activities threaten the security and fairness of the game environment.
+
+Thank you,  
+[codename]
