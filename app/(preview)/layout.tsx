@@ -9,6 +9,12 @@ const geist = Geist({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Report Generator",
   description: "Generating report title and message using the from a list of report titles and messages templates, with your report type and input",
+  openGraph: {
+    images: [],
+  },
+  twitter: {
+    images: [],
+  }
 };
 
 export default function RootLayout({
