@@ -415,7 +415,7 @@ export default function GenReportPage() {
           id="cheat-timestamp"
           type="text"
           onChange={(e) => setCheatTimestamp(e.target.value)}
-          placeholder="2025-07-03 10:22:33 GMT+8:00"
+          placeholder="2025-07-03 10:22:33 UTC+8"
           value={cheatTimestamp}
           className="input"
         />
