@@ -503,10 +503,21 @@ export default function GenReportPage() {
           <div className="result" aria-live="polite">
             <h2>{resultTitle}</h2>
             <hr />
-            <pre>{resultContent}</pre>
-            <button onClick={handleCopy} aria-label="Copy result content">
-              {copied ? "Copied!" : "Copy"}
+            <button
+              onClick={handleCopy}
+              aria-label="Copy result content"
+              style={{
+                cursor: "pointer",
+                fontSize: "1.2rem",
+                border: "none",
+                background: "transparent",
+                padding: "0.2rem",
+              }}
+              title={copied ? "Copied!" : "Copy to clipboard"}
+            >
+              {copied ? "✅" : "📋"}
             </button>
+            <pre>{resultContent}</pre>
           </div>
         )}
       </div>
