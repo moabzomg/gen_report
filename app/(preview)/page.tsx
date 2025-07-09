@@ -20,6 +20,11 @@ const reportTypeMap = {
     contentFile: "/reports/software.txt",
     label: "Using third party software",
   },
+  item: {
+    titleFile: "/reports/title_item.txt",
+    contentFile: "/reports/item.txt",
+    label: "Others",
+  },
   other: {
     titleFile: "/reports/title_other.txt",
     contentFile: "/reports/other.txt",
