@@ -1618,3 +1618,428 @@ Such activities threaten the security and fairness of the game environment.
 
 Thank you,  
 [codename]
+---
+Hi,
+
+I’m reporting a player using multiple accounts. On [timestamp], [cheater] and another level 5 account acted in perfect coordination within seconds, flipping, recharging, and deploying simultaneously.
+
+[link]
+
+The behavior is too synchronized to be legitimate. Likely a win-trading or multi-account setup.
+---
+At [timestamp], [cheater] was observed repeatedly recharging portals and linking back and forth with another agent within 30 seconds intervals, suggesting multi-device usage or account sharing.
+
+[link]
+
+Please check linked account actions around this timestamp.
+---
+At [timestamp], [cheater] and a low-level agent appeared at the same portal. One deployed resonators, the other flipped them repeatedly. It's clearly a multi-account situation.  
+[link]
+---
+This happened during [timestamp]: [cheater] flipped a portal and immediately recharged it with another account. The speed of switching was unreal.  
+[link]
+---
+On [timestamp], two agents were used in tandem to hold a farm — both sharing the same movement pattern. Device switching logs should confirm this.  
+[link]
+---
+At [timestamp], [cheater] used two accounts to drain an enemy portal by firing from both ends. I observed this live.  
+[link]
+---
+Two agents using identical movement routes and patterns appeared at [timestamp]. Only one player was physically present.  
+[link]
+---
+We suspect [cheater] of using two devices. On [timestamp], they deployed one account's keys and captured with another. All within seconds.  
+[link]
+---
+[cheater] was seen flipping their own portal using another agent's account at [timestamp], then linking back in a loop. Definitely multi-accounting.  
+[link]
+---
+At [timestamp], [cheater] showed perfect cooperation with another new agent, who has no known activity except supporting this one player.  
+[link]
+---
+Niantic, during [timestamp], [cheater] coordinated with an account that has no profile, no history, and only appears when this player is around.  
+[link]
+---
+This setup has been used multiple times. On [timestamp], [cheater] and their secondary account perfectly alternated actions across portals.  
+[link]
+---
+At [timestamp], [cheater] was seen dropping capsules on the ground and walking away while another agent of the opposing faction came to collect them minutes later. This is a clear case of illicit item trading.  
+[link]
+---
+Capsule trading was observed again at [timestamp]. [cheater] left behind gear on a portal, and not long after, a known enemy agent arrived and picked it up. No actions were taken between them.  
+[link]
+---
+This has become routine. At [timestamp], [cheater] parked, dropped multiple capsules near a key portal, and left. A few minutes later, a different faction agent picked them up without any interaction.  
+[link]
+---
+During [timestamp], [cheater] dropped gear and left the area. Seconds later, an account with no activity history showed up and collected the items. The trade was clearly prearranged.  
+[link]
+---
+I filmed [cheater] dropping a capsule on the ground and sending a message over an external chat group. Moments later (around [timestamp]), a low-level enemy agent picked up the items and vanished.  
+[link]
+---
+At [timestamp], [cheater] made a series of short visits to portals without taking any in-game actions. The only thing they did was leave capsules. Another agent arrived within 10 minutes.  
+[link]
+---
+It happened again at [timestamp]. [cheater] is using neutral portals to leave gear for the opposing team. This encourages coordinated item trading outside intended gameplay.  
+[link]
+---
+Suspicious behavior was noted at [timestamp]. [cheater] left a capsule at a remote portal, and it was retrieved by someone from another faction who has no known links to that area.  
+[link]
+---
+This is item laundering, essentially. [cheater] dropped gear at [timestamp], including multiple L8 resonators and XMPs, and within minutes they disappeared. We tracked the recipient.  
+[link]
+---
+On [timestamp], [cheater] coordinated a meet-up where capsules were left at a park bench without logging any actions. It was a trade, not gameplay.  
+[link]
+---
+At [timestamp], [cheater] used two accounts to attack and recharge a portal in sequence, with no time gap in between. Both accounts showed identical movement logs.  
+[link]
+---
+During [timestamp], [cheater] flipped a portal and re-captured it seconds later using another account at the same GPS coordinates. There was no one else on site.  
+[link]
+---
+At [timestamp], [cheater] deployed one account’s resonators, then immediately upgraded them using a second account, alternating actions perfectly.  
+[link]
+---
+Two agents logged into the same portal within seconds at [timestamp], performing cooperative actions without delay. It was clear only one person was playing.  
+[link]
+---
+At [timestamp], [cheater] was seen switching between two phones, using one for attacking and the other for capturing, within visible range of our team.  
+[link]
+---
+One account recharged the portal while the other was attacking it at [timestamp]. Both were in sync and acting like one player using two devices.  
+[link]
+---
+[cheater] coordinated with a Level 1 account that only appears when they play. At [timestamp], both were used to capture and build.  
+[link]
+---
+On [timestamp], [cheater] used one account to drop keys and another to pick them up within seconds. Movement patterns confirmed same person.  
+[link]
+---
+The second account activated mods and keys at [timestamp] in a way that allowed [cheater]'s main account to easily link. This is not coincidence.  
+[link]
+---
+During [timestamp], both accounts acted in sync, with perfect portal hand-offs and zero downtime. Strong evidence of multi-accounting.  
+[link]
+---
+At [timestamp], [cheater] used account A to neutralize a portal and account B to immediately capture and fully deploy it. Both phones were seen in the same hand, and the player alternated between them flawlessly, confirming a multi-account strategy to control portal ownership solo.  
+[link]
+---
+[cheater] regularly uses a level 8 account and a low-level feeder account in tandem. On [timestamp], account B dropped multiple capsules, including VRHS and keys, which account A picked up seconds later. The gear transfer occurred at an isolated park bench.  
+[link]
+---
+During [timestamp], [cheater] orchestrated a portal attack using three accounts—two to attack and one to shield and recharge in real time. We witnessed the person swipe between three phones mounted on a dash holder in their car.  
+[link]
+---
+Account B was observed recharging portals from the same GPS location as account A at [timestamp]. Despite being different "players," the recharges mirrored movement within the app. There is no record of account B ever playing alone.  
+[link]
+---
+On [timestamp], [cheater] used a L2 dummy account to place soft mods on portals ahead of time, creating easy anchors for their main account. This kind of portal setup is never useful for strategic play unless someone is setting up their own playground.  
+[link]
+---
+Two accounts owned by [cheater] were observed at the same location. One neutralized the portal, and the other immediately captured and fully deployed it.  
+[timestamp]  
+[link]  
+---
+Account A and Account B took turns capturing and recharging the same portal, with alternating mod deployment within seconds of each other.  
+[timestamp]  
+[link]  
+---
+On [timestamp], a low-level account dropped gear that was picked up instantly by the main account. Both devices were seen with the same player.  
+[timestamp]  
+[link]  
+---
+Both accounts shared the same movement path over multiple days, always appearing together at capture events, with one always benefiting the other.  
+[timestamp]  
+[link]  
+---
+An account that had never been seen alone was used to deploy keys and mods that facilitated linking by the primary account.  
+[timestamp]  
+[link]  
+---
+During an operation, three accounts acted in perfect sequence to control and protect a portal. They were operated from the same vehicle.  
+[timestamp]  
+[link]  
+---
+Account A recharged all portals after Account B linked them, despite being shown in the same GPS location and never active independently.  
+[timestamp]  
+[link]  
+---
+A known low-level account was used to hold large amounts of gear and pass them to [cheater] repeatedly across various cities.  
+[timestamp]  
+[link]  
+---
+Mod installations were mirrored between two accounts owned by [cheater], always complementing each other with shields and heatsinks.  
+[timestamp]  
+[link]  
+---
+his dummy account would deploy soft mods and leave the portal unlinked, only for [cheater] to link and complete the setup moments later.  
+[timestamp]  
+[link]  
+---
+Two accounts (one L16 and one L4) were seen on-site. The L4 dropped gear, and the L16 deployed and linked immediately after. Observed on [timestamp].  
+[link]  
+---
+[cheater] used one account to repeatedly deploy portals and another to link and upgrade. Both actions occurred from the same bench within minutes.  
+[link]  
+---
+During [timestamp], a known alt account captured and filled all slots. Minutes later, the main account flipped it and made links without resistance.  
+[link]  
+---
+An L8 account was seen recharging and guarding a portal for an L16 account that would later use it for key farming. No attempt to hide association.  
+[link]  
+---
+Main and alt accounts have matching play schedules, share the same GPS traces, and alternate between capture and support roles.  
+[link]  
+---
+A series of throwaway accounts were used to deploy common mods and protect field lanes. These accounts never returned after initial actions.  
+[link]  
+---
+[cheater] keeps an alt account in opposing faction to neutralize strategic portals, which the main account then immediately captures.  
+[link]  
+---
+On [timestamp], two accounts submitted missions and portals at the same time with exact naming conventions. One was clearly meant to support the other.  
+[link]  
+---
+Two accounts logged identical daily activity for over 3 weeks with matching portals, suggesting scripted routines or account stacking.  
+[link]  
+---
+An L1 account was sacrificed to clear defensive mods on a portal, making way for [cheater] to recapture and mod it cleanly.  
+[link]  
+---
+[cheater] used two accounts in sync—one to destroy fields, the other to immediately link and deploy, always together at the same spot on foot.  
+[timestamp]  
+[link]  
+---
+An agent dropped gear in a remote spot, immediately picked up by another account under the same operator. The gear transfer happened in under 5 seconds.  
+[timestamp]  
+[link]  
+---
+Two accounts alternated capturing and linking portals to extend a field repeatedly, appearing together on the scanner, never acting alone.  
+[timestamp]  
+[link]  
+---
+On [timestamp], both accounts deployed identical mods at the same portals and coordinated attacks, clearly controlled by the same person.  
+[link]  
+---
+One account clears enemy mods while the other finishes the link. Witnesses confirmed only one phone and player on site.  
+[timestamp]  
+[link]  
+---
+Agent logs show two accounts used to spoof “cross-faction” battles to farm AP quickly, all occurring at dead times with no actual resistance.  
+[timestamp]  
+[link]  
+---
+A player rotates through three accounts to charge a network of portals 24/7. The charging pattern never breaks and follows identical time blocks.  
+[timestamp]  
+[link]  
+---
+During key drop operations, the player used a dummy account to mule hundreds of keys across regions. No gear was used for other actions.  
+[timestamp]  
+[link]  
+---
+One account holds portals, while the other repeatedly upgrades them to farm gear from drops. This behavior was observed in multiple cities.  
+[timestamp]  
+[link]  
+---
+The player maintains several low-level accounts purely to deploy shields before major ops, allowing main account to benefit from bonus gear.  
+[timestamp]  
+[link]  
+---
+Two accounts, [cheater] and a lower-level alias, were seen bouncing mods back and forth on portals in the same spot at [timestamp].  
+[link]  
+---
+One agent systematically destroys portals while another follows up within 15 seconds to deploy and link, always from the same IP and device type.  
+[timestamp]  
+[link]  
+---
+The player logged into 3 different accounts to farm resonators and create microfields. Device logs show no switch in physical location.  
+[timestamp]  
+[link]  
+---
+Over the course of two hours, the player built dozens of identical fields, with one account placing keys and another linking them.  
+[timestamp]  
+[link]  
+---
+A backup account was used to hold portal control, while the main account used the same gear to farm AP on repeat without resistance.  
+[timestamp]  
+[link]  
+---
+The agent dropped capsules loaded with gear at [timestamp], which were instantly picked up by another nearby account. Witnesses confirmed solo activity.  
+[link]  
+---
+During a solo op, the player rotated through three accounts to cycle mods and control cooldowns, making fielding unusually efficient.  
+[timestamp]  
+[link]  
+---
+A Level 3 account is constantly recharging a set of portals for the main agent, even when the main account is logged off.  
+[timestamp]  
+[link]  
+---
+At [timestamp], the same player submitted missions under two different accounts and attempted to rate and boost their own entries.  
+[link]  
+---
+Two known aliases used by the same person coordinated portal drops at precise times to simulate cross-faction play. Only one person was observed.  
+[timestamp]  
+[link]  
+---
+[cheater] used another account to deploy a full L8 portal, then immediately logged in back in succession.  
+[timestamp]  
+[link]  
+---
+Two accounts held all anchor portals in the area. Surveillance by teammates confirms both phones were used by one person at the same bench.  
+[timestamp]  
+[link]  
+---
+ [cheater] operated one phone for building links and another for clearing blockers—captured on livestream by accident.  
+[timestamp]  
+[link]  
+---
+All captured portals were immediately defended by a Level 3 recharger account located in the same physical location as [cheater].  
+[timestamp]  
+[link]  
+---
+Agent deployed portals with one account and then filled them with shields and force amps from a second account right after, seen on logs.  
+[timestamp]  
+[link]  
+---
+[Cheater] staged multiple attacks on home portals at odd hours using different accounts. Only one person was seen outside on security camera.  
+[timestamp]  
+[link]  
+---
+One phone was seen running Ingress, while a second phone simultaneously fired XMPs on nearby portals. Player claimed "lag", but logs contradict.  
+[timestamp]  
+[link]  
+---
+Repeated mod flipping between two usernames every 5 minutes was done in the same park bench. Witnesses confirm only one person present.  
+[timestamp]  
+[link]  
+---
+Two usernames consistently farm portals together. Nearby CCTVs always show a single person visiting the site each time.  
+[timestamp]  
+[link]  
+---
+[Cheater] used one account to flip a portal and the other to recapture it with a full deploy. All actions done within a 30-second window.  
+[timestamp]  
+[link]  
+---
+Player deployed multiple shields on the same portal from two different accounts within seconds, using the same device.  
+[timestamp]  
+[link]  
+---
+Two accounts consistently flip mods on the same portals in rotation, with physical evidence that the accounts are operated by one person.  
+[timestamp]  
+[link]  
+---
+An agent was recorded logging out of one account and immediately logging into another on the same phone to deploy resonators and mods rapidly.  
+[timestamp]  
+[link]  
+---
+Multiple accounts were used to reinforce each other’s portals repeatedly during late night hours when no other players were active.  
+[timestamp]  
+[link]  
+---
+Two usernames attacked and immediately recaptured the same portals within minutes multiple times, all recorded from the same IP address.  
+[timestamp]  
+[link]  
+---
+An agent operated two accounts simultaneously, one controlling links while the other placed resonators and mods on the same portal.  
+[timestamp]  
+[link]  
+---
+Multiple mod flips and recharges were performed in quick succession from accounts that were confirmed to be controlled by a single player.  
+[timestamp]  
+[link]  
+---
+Two accounts farmed portal keys in the same location repeatedly, always arriving and leaving together.  
+[timestamp]  
+[link]  
+---
+Two accounts consistently deployed and upgraded the same portals across a wide region, with identical activity timestamps.  
+[timestamp]  
+[link]  
+---
+Agent used one account to field build and a second to keep fields alive by deploying resonators and mods.  
+[timestamp]  
+[link]  
+---
+Two accounts under suspicion consistently assisted each other by recharging and upgrading portals in perfect synchronization.  
+[timestamp]  
+[link]  
+---
+A player logged into two accounts alternately within minutes to field control and link creation on the same portals.  
+[timestamp]  
+[link]  
+---
+Identical portal mods were deployed by two separate accounts, confirmed to be operated from the same device IP.  
+[timestamp]  
+[link]  
+---
+Two cheaters sharing the same IP repeatedly flipped the same portal, indicating possible account sharing.  
+[timestamp]  
+[link]  
+---
+[cheater] displayed mirrored behavior, recharging and upgrading portals in coordinated bursts.  
+[timestamp]  
+[link]  
+---
+One agent used two accounts simultaneously to farm rare portal keys and keep control of strategic locations.  
+[timestamp]  
+[link]  
+---
+Rapid alternating portal attacks between two accounts prevented opposing teams from establishing control.  
+[timestamp]  
+[link]  
+---
+Two accounts frequently exchanged portal keys suspiciously, consistent with multi-account coordination for inventory sharing.  
+[timestamp]  
+[link]  
+---
+An account frequently logged out and switched to another to avoid cooldown periods and maintain continuous portal upgrades.  
+[timestamp]  
+[link]  
+---
+Two players frequently appeared on the same portals within seconds, reinforcing the same field layers repeatedly.  
+[timestamp]  
+[link]  
+---
+Two accounts operated on the same device, swapping portal control repeatedly within minutes.  
+[timestamp]  
+[link]  
+---
+A player switched between two accounts frequently, deploying mods and recharging portals alternatingly.  
+[timestamp]  
+[link]  
+---
+Portals were reinforced consecutively by two separate accounts logging in from the same IP address.  
+[timestamp]  
+[link]  
+---
+Two codenames consistently appeared together at portal captures, sharing keys and coordinating attacks.  
+[timestamp]  
+[link]  
+---
+One user accessed two accounts on the same mobile device to maximize AP gains and fielding speed.  
+[timestamp]  
+[link]  
+---
+Several accounts under one player's control repeatedly flipped portal ownership in a coordinated pattern.  
+[timestamp]  
+[link]  
+---
+Accounts alternated portal hacking and deploying mods to maintain field control with no downtime.  
+[timestamp]  
+[link]  
+---
+Two codenames shared portal keys excessively, indicating multi-account farming or collaboration.  
+[timestamp]  
+[link]  
+---
+One player logged out from one account and logged in immediately to another account to bypass cooldown timers.  
+[timestamp]  
+[link]  
+---
+Two accounts working in tandem maintained a fortified portal cluster with perfect synchronization.  
+[timestamp]  
+[link]  

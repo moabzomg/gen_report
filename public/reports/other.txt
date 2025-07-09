@@ -1539,3 +1539,494 @@ Immediate steps to moderate such conduct are necessary.
 
 Regards,  
 [codename]
+---
+At [timestamp], [cheater] completed actions that would require 400+ km of travel in less than 6 hours. The travel history, portal hacks, and link creation timeline are impossible for a human agent.
+
+[link]
+
+I strongly suspect third-party automation or spoofing tools.
+---
+At [timestamp], [cheater] was observed repeatedly recharging portals and linking back and forth with another agent within 30 seconds intervals, suggesting multi-device usage or account sharing.
+
+[link]
+
+Please check linked account actions around this timestamp.
+---
+At [timestamp], [cheater] engaged in what looks like win trading. They let another agent destroy links, only to rebuild the same ones minutes later in identical order. This happened repeatedly.
+
+[link]
+
+This benefits both accounts unfairly and clearly violates fair play expectations.
+---
+At [timestamp], [cheater] used the COMM to send harassing messages after I re-captured a portal. They implied stalking and real-life retaliation.  
+[link]
+---
+[cheater] has been targeting agents personally. At [timestamp], they posted my real name and workplace in chat. This is unacceptable.  
+[link]
+---
+I was followed physically by [cheater] after an in-game encounter on [timestamp]. They made verbal threats related to portal control.  
+[link]
+---
+This player, [cheater], mocked me using my disability in COMM at [timestamp]. The screenshots are extremely offensive.  
+[link]
+---
+On [timestamp], [cheater] threatened to damage my bike if I ever “touched their field again.”  
+[link]
+---
+At [timestamp], [cheater] sent messages mocking another agent’s race and appearance. This goes beyond competitive gameplay.  
+[link]
+---
+They repeatedly post offensive memes in COMM tied to players in our area. Most recently at [timestamp].  
+[link]
+---
+[cheater] has been falsely accusing other agents in public groups of cheating. At [timestamp], it escalated to doxxing.  
+[link]
+---
+During [timestamp], [cheater] drove past my home and took pictures of me playing. This is stalking.  
+[link]
+---
+They create fake social media accounts to target agents and spread misinformation. Last one was made at [timestamp].  
+[link]
+---
+At [timestamp], [cheater] let an enemy destroy a portal, then rebuilt it with the same links minutes later. They did this several times.  
+[link]
+---
+We observed [cheater] and another agent flip-flopping a key anchor back and forth. They clearly aren’t enemies. This happened at [timestamp].  
+[link]
+---
+This isn't competition — it’s coordination. [cheater] met with another faction agent at [timestamp] and they swapped fields for badges.  
+[link]
+---
+There’s a repeating pattern where [cheater] gets portals destroyed by the same person, then rebuilds them. Again observed at [timestamp].  
+[link]
+---
+They are rotating between the same three portals. At [timestamp], [cheater] captured, then let another agent destroy, then repeated.  
+[link]
+---
+At [timestamp], [cheater] let their field collapse from a single portal and made zero attempts to stop it — instead congratulated the other team.  
+[link]
+---
+Badge farming is happening here. [cheater] set up weak portals and let them be destroyed on purpose. We recorded this at [timestamp].  
+[link]
+---
+It’s suspicious that two agents from opposite factions meet every Sunday morning. At [timestamp], they cleared each other’s anchors again.  
+[link]
+---
+Logs at [timestamp] show perfect 10-minute cycles of build and destroy between the same two players. Definitely a farming loop.  
+[link]
+---
+[cheater] dropped keys for the enemy team to make links and then re-linked afterward. Observed at [timestamp].  
+[link]
+---
+At [timestamp], [cheater] was seen dropping capsules on the ground and walking away while another agent of the opposing faction came to collect them minutes later. This is a clear case of illicit item trading.  
+[link]
+---
+Capsule trading was observed again at [timestamp]. [cheater] left behind gear on a portal, and not long after, a known enemy agent arrived and picked it up. No actions were taken between them.  
+[link]
+---
+This has become routine. At [timestamp], [cheater] parked, dropped multiple capsules near a key portal, and left. A few minutes later, a different faction agent picked them up without any interaction.  
+[link]
+---
+During [timestamp], [cheater] dropped gear and left the area. Seconds later, an account with no activity history showed up and collected the items. The trade was clearly prearranged.  
+[link]
+---
+I filmed [cheater] dropping a capsule on the ground and sending a message over an external chat group. Moments later (around [timestamp]), a low-level enemy agent picked up the items and vanished.  
+[link]
+---
+At [timestamp], [cheater] made a series of short visits to portals without taking any in-game actions. The only thing they did was leave capsules. Another agent arrived within 10 minutes.  
+[link]
+---
+It happened again at [timestamp]. [cheater] is using neutral portals to leave gear for the opposing team. This encourages coordinated item trading outside intended gameplay.  
+[link]
+---
+Suspicious behavior was noted at [timestamp]. [cheater] left a capsule at a remote portal, and it was retrieved by someone from another faction who has no known links to that area.  
+[link]
+---
+This is item laundering, essentially. [cheater] dropped gear at [timestamp], including multiple L8 resonators and XMPs, and within minutes they disappeared. We tracked the recipient.  
+[link]
+---
+On [timestamp], [cheater] coordinated a meet-up where capsules were left at a park bench without logging any actions. It was a trade, not gameplay.  
+[link]
+---
+At [timestamp], [cheater] manipulated portal ownership to prevent enemy access by constantly flipping and redeploying without strategic value.  
+[link]
+---
+[cheater] used COMM at [timestamp] to impersonate another player and provoke reactions, violating player conduct guidelines.  
+[link]
+---
+At [timestamp], [cheater] rapidly changed their faction affiliation multiple times in order to manipulate local fields and deploy limits.  
+[link]
+---
+At [timestamp], [cheater] lured another agent into a remote meetup under the pretext of alliance and then harassed them verbally.  
+[link]
+---
+[cheater] held a portal in a cemetery for over 8 months with spoofed links and 24/7 recharge bots. This was first noticed at [timestamp].  
+[link]
+---
+On [timestamp], [cheater] used throwaway accounts to block long fields, destroying strategic plans for multiple teams. These accounts vanished after 24 hours.  
+[link]
+---
+This agent accessed portals inside a museum outside open hours at [timestamp]. There is no explanation besides system manipulation.  
+[link]
+---
+At [timestamp], [cheater] staged a spoof-based multi-layered field operation without appearing in any public logs or meetups.  
+[link]
+---
+[cheater] and several unknown agents built a dense BAF at [timestamp] that blocks regional plans. Most accounts had no prior activity. Likely spoof-created.  
+[link]
+---
+[cheater] used six low-level burner accounts in one hour at [timestamp] to destroy a farm and block re-capture. This was coordinated abuse.  
+[link]
+---
+At [timestamp], [cheater] used a farm of throwaway accounts to build up a portal cluster overnight. Each account deployed only once and disappeared. These accounts are all below L3 and have zero stats beyond that one event, indicating they were made solely to build shielding.  
+[link]
+---
+On [timestamp], [cheater] arranged a field block operation by repeatedly flipping portals and installing link-amp mods with junk keys. The goal was to prevent BAF operations, not for gameplay. This was witnessed and recorded as it happened.  
+[link]
+---
+During [timestamp], [cheater] left misleading COMM messages under a different faction’s color to impersonate another player and provoke a response. Several agents received insults and baiting remarks from an account that hadn’t been active in months.  
+[link]
+---
+A suspicious level of key ownership was discovered at [timestamp]. [cheater] owns hundreds of keys to portals they’ve never visited, including several overseas anchors. Given the lack of travel history, this strongly suggests key laundering or item trading.  
+[link]
+---
+[cheater] captured portals in a restricted location with no public access, such as a rooftop or fenced facility, without being seen by nearby agents.  
+[timestamp] 
+[link]  
+---
+Portals were flipped, captured, and linked at [timestamp] in a mountain area that takes hours to hike, but no one witnessed the player on-site or en route.  
+[link]  
+---
+Within a span of 5 minutes, [cheater] moved between two cities 100+ km apart without any recorded travel in-between.  
+[timestamp] 
+[link]  
+---
+Agent activity was recorded inside a private event venue with access control. No attendees reported seeing the person despite multiple portal interactions.  
+[link]  
+---
+[cheater] deployed keys and made links across portals that require local SIM authentication or network presence, yet their activity log suggests remote access.  
+[link]  
+---
+Several portals across a large lake were captured during a storm when no boats were available and no nearby players were seen.  
+[timestamp] 
+[link]  
+---
+A full series of portals inside a gated community were flipped and modded in under 10 minutes—normally taking 30–40 minutes to walk.  
+[link]  
+---
+Repeated attacks were logged in areas under road construction or completely blocked to pedestrian access. No alternate path or workaround is available.  
+[timestamp] 
+[link]  
+
+---
+[cheater] attacked a sequence of portals located deep in a forest trail with no vehicle access or daylight during the timestamp shown.  
+[link]
+---
+[cheater] recharged a dense portal cluster of over 50 portals in under 15 seconds, maintaining exact intervals between each recharge.  
+[link]  
+---
+Portals were modded, linked, and deployed in a rapid repeating pattern for 20+ minutes without variation or pause.  
+[timestamp]
+ [link]  
+---
+Linking operations between distant portals were executed with high-speed precision, consistent timing, and no GPS drift—unusual for regular mobile use.  
+[link]  
+---
+[cheater] used over 100 XMPs in quick succession with uniform intervals. The button press rhythm appears too consistent for manual interaction.  
+[timestamp] 
+[link]  
+---
+Actions such as deploy–mod–link–glyph were repeated exactly the same way dozens of times within short periods, suggesting macro-like behavior.  
+[link]  
+---
+[cheater] maintained perfect recharge timing across hundreds of portals for an entire hour without signs of fatigue, movement, or variation.  
+[timestamp]
+ [link]  
+---
+During [timestamp], [cheater] performed dozens of actions per minute while also appearing to drive or move across a large area, which seems unlikely for safe manual play.  
+[link]  
+---
+Portal modifications and linking behavior occurred at the exact same time every day, with no location variation—suggesting scheduled or automated input.  
+[timestamp]
+ [link]  
+---
+[cheater] performed hundreds of consecutive actions without any system misclicks, delays, or fatigue indicators, which is uncommon in human play.  
+[link]  
+---  
+[cheater] used multiple disposable accounts to deploy rare shields across portals, and those accounts have not been active since.  
+[timestamp]  
+[link]  
+---
+During [timestamp], the agent dropped a large quantity of VR items near an inaccessible location, causing gear imbalance in the region.  
+[timestamp]  
+[link]  
+---
+The agent repeatedly flipped a portal to block links despite having no strategic need. This occurred daily for over a week.  
+[timestamp]  
+[link]  
+---
+A single account received gear from multiple unknown sources, raising suspicion of item laundering or coordinated dumps.  
+[timestamp]  
+[link]  
+---
+Portals were being upgraded daily by different accounts with no XM gains or linking, suggesting gear sinks rather than gameplay.  
+[timestamp]  
+[link]  
+---
+At [timestamp], [cheater] impersonated another faction in COMM to cause confusion and create interpersonal conflict.  
+[timestamp]  
+[link]  
+---
+Rare gear such as Aegis shields and LA mods were distributed to portals with no history of nearby agents, indicating inventory manipulation.  
+[timestamp]  
+[link]  
+---
+Account activity included continuous portal recharging for 24 hours without user input, indicating automated sustain or abuse of charge systems.  
+[timestamp]  
+[link]  
+---
+[cheater] repeatedly blocked high-traffic links using obscure portals with junk keys and no clear faction objective.  
+[timestamp]  
+[link]  
+---
+Activity logs show portal captures in five distant cities within 24 hours. The player has no known travel record and returned to the original city overnight.  
+[timestamp]  
+[link]  
+---
+During a local event, [cheater] was seen verbally harassing opposing faction members in person, mocking their play and obstructing movement.  
+[timestamp]  
+[link]  
+---
+[cheater] openly admitted to “arranging” cross-faction portal flips for easy AP gains with the help of friends in private COMM.  
+[timestamp]  
+[link]  
+---
+Two agents coordinated fake battles, alternating portal destruction and rebuilds for AP gain—bystanders witnessed the intentional collusion.  
+[timestamp]  
+[link]  
+---
+At [timestamp], the player destroyed a new player’s farm intentionally, then followed them in person to provoke real-life confrontation.  
+[link]  
+---
+Reports from multiple cities show [cheater] intentionally sabotaging ops by revealing portal keys to the enemy after losing faction votes.  
+[timestamp]  
+[link]  
+---
+A known player intentionally created confusion in regional strategy groups by impersonating official roles, leading to mistrust and disruption.  
+[timestamp]  
+[link]  
+---
+Multiple accounts coordinated to harass a specific player via repeated stalker links and portal destruction near their home and work.  
+[timestamp]  
+[link]  
+---
+The player was seen disabling physical QR beacons and scraping passcodes off public locations during mission days.  
+[timestamp]  
+[link]  
+---
+On [timestamp], [cheater] made physical threats during a portal meetup, leading to local police involvement and faction-led mediation.  
+[link]  
+---
+The agent repeatedly spams COMM with obscured slurs and backhanded insults, causing several new players to quit local groups.  
+[timestamp]  
+[link]  
+---
+A known agent exchanged gear and AP flips with rival faction members in exchange for regional control—confirmed in private chats leaked to faction leaders.  
+[timestamp]  
+[link]  
+---
+[cheater] repeatedly tags another player’s home portals with mocking names and sends private taunts, causing emotional distress.  
+[timestamp]  
+[link]  
+---
+An op was intentionally sabotaged by leaking portal locations to the enemy, traced to an agent who lost a previous leadership vote.  
+[timestamp]  
+[link]  
+---
+Two players arrange AP farming sessions by taking turns capturing and linking portals. Action logs show a deliberate pattern without contest.  
+[timestamp]  
+[link]  
+---
+During a mission event, the player harassed others physically and verbally, threatening to damage their bikes if they didn’t leave portals alone.  
+[timestamp]  
+[link]  
+---
+Agent set up comm spams targeting LGBTQ+ players with coded slurs and baiting comments. Multiple screenshots provided.  
+[timestamp]  
+[link]  
+---
+One player has been impersonating other agents using burner accounts to post misinformation and provoke conflict inside internal faction chats.  
+[timestamp]  
+[link]  
+---
+A known veteran has used intimidation to force new players out of overlapping zones, demanding they "stay away" from certain farms.  
+[timestamp]  
+[link]  
+---
+Several locals reported that [cheater] deliberately destroyed portals before a new agent could complete their Sojourner streak.  
+[timestamp]  
+[link]  
+---
+The player exploits mission rating systems by downvoting others’ missions and upvoting their own aliases with bot accounts.  
+[timestamp]  
+[link]  
+---
+At [timestamp], the player placed beacons with mocking or abusive names on another player's portal repeatedly after each capture.  
+[link]  
+---
+Two rival agents repeatedly tag-team to take down each other’s portals for AP farming. This pattern recurs daily with zero resistance.  
+[timestamp]  
+[link]  
+---
+A sabotage incident occurred where one agent redirected portal keys before a coordinated op, causing planned links to fail.  
+[timestamp]  
+[link]  
+---
+[cheater] stalked another player’s routine, showing up within minutes of activity and tailing them in real life for weeks. Police report filed.  
+[timestamp]  
+[link]  
+---
+A resistance agent was seen placing fart and poop emojis on Enlightened missions repeatedly to troll the creator.  
+[timestamp]  
+[link]  
+---
+Covertly kicked out of faction chats, [cheater] found their portal locations shared with the opposite faction. Admin confirmed betrayal.  
+[timestamp]  
+[link]  
+---
+Comm messages reveal racial slurs and threats from [cheater] during a mission race. Chat logs preserved.  
+[timestamp]  
+[link]  
+---
+Known agent falsely submitted reports against new players to discourage them from joining ops. Multiple volunteers confirmed false claims.  
+[timestamp]  
+[link]  
+---
+A group coordinated to camp a new player’s Sojourner portal and repeatedly flip it every day before they could hack it.  
+[timestamp]  
+[link]  
+---
+A mission series was cloned and re-uploaded under a different alias, with deliberate low ratings submitted to harm the original creator.  
+[timestamp]  
+[link]  
+---
+Agent repeatedly placed offensive beacons and links targeting a rival’s home portals after each capture.  
+[timestamp]  
+[link]  
+---
+Two agents coordinated to clear each other’s blockers to gain AP rapidly without resistance.  
+[timestamp]  
+[link]  
+---
+An agent was caught intentionally destroying fields and links right before a planned regional event, disrupting multiple teams.  
+[timestamp]  
+[link]  
+---
+Repeated hostile messages were sent via comm targeting another agent, including personal insults and threats.  
+[timestamp]  
+[link]  
+---
+A known player tampered with portal keys and shared locations with opposing faction members to sabotage team operations.  
+[timestamp]  
+[link]  
+---
+An agent targeted a new player’s portals and repeatedly neutralized them to prevent progression.  
+[timestamp]  
+[link]  
+---
+Offensive graffiti and derogatory portal names were placed by a player to intimidate others in the local community.  
+[timestamp]  
+[link]  
+---
+A player copied and reposted mission content under a false name to defraud original creators.  
+[timestamp]  
+[link]  
+---
+Agents coordinated to camp a single portal, flipping ownership repeatedly every hour to deny access to other players.  
+[timestamp]  
+[link]  
+---
+An agent abused team comm channels to spread misinformation and confusion during competitive events.  
+[timestamp]  
+[link]  
+---
+Repeated personal attacks and threatening messages were sent via comm targeting [cheater], causing harassment.  
+[timestamp]  
+[link]  
+---
+Two players agreed to exchange portal captures and AP gains through coordinated win-trading during competitive events.  
+[timestamp]  
+[link]  
+---
+On [timestamp], a player sabotaged multiple fields by intentionally destroying strategic links during peak hours.  
+[timestamp]  
+[link]  
+---
+A player was reported for consistent verbal abuse and spam messages in faction and global comm channels.  
+[timestamp]  
+[link]  
+---
+Agents collaborated to continuously camp a high-value portal by flipping ownership every few minutes, denying access to others.  
+[timestamp]  
+[link]  
+---
+A cheater intentionally targeted new players’ portals repeatedly to discourage participation and progression.  
+[timestamp]  
+[link]  
+---
+Offensive portal names and graffiti were used to intimidate opposing faction members in the area.  
+[timestamp]  
+[link]  
+---
+A player used multiple accounts to unfairly dominate local gameplay through repeated neutralizations and field creation.  
+[timestamp]  
+[link]  
+---
+The suspect exploited team comm channels to spread false information, disrupting coordination during major ops.  
+[timestamp]  
+[link]  
+---
+Players were caught sharing personal location data without consent, violating community guidelines.  
+[timestamp]  
+[link]  
+---
+Repeated hostile messages targeting a rival player were logged in faction comm.  
+[timestamp]  
+[link]  
+---
+Two agents coordinated to exchange portal ownership to artificially boost AP during a local competition.  
+[timestamp]  
+[link]  
+---
+A player deliberately destroyed crucial field links immediately before a major event.  
+[timestamp]  
+[link]  
+---
+Offensive portal names and inappropriate content were repeatedly placed by a player to harass the community.  
+[timestamp]  
+[link]  
+---
+Agents were caught coordinating to camp and flip a single portal repeatedly, denying access to others.  
+[timestamp]  
+[link]  
+---
+A player used multiple accounts to sabotage opposing faction progress in an area.  
+[timestamp]  
+[link]  
+---
+Repeated verbal abuse and spam targeted at new players through global chat channels.  
+[timestamp]  
+[link]  
+---
+A player shared others’ personal location data publicly without consent.  
+[timestamp]  
+[link]  
+---
+Coordinated misinformation was spread in team chat disrupting operations during a major event.  
+[timestamp]  
+[link]  
+---
+Players repeatedly neutralized a new user’s portals to prevent advancement.  
+[timestamp]  
+[link]  
+

@@ -1626,4 +1626,363 @@ Such cheating threatens the spirit of competition and must be stopped.
 
 Thank you,  
 [codename]
+---
+At [timestamp], [cheater] completed actions that would require 400+ km of travel in less than 6 hours. The travel history, portal hacks, and link creation timeline are impossible for a human agent.
+
+[link]
+
+I strongly suspect third-party automation or spoofing tools.
+---
+Niantic team,
+
+There’s highly suspicious behavior from [cheater] observed at [timestamp]. Over the course of a single day, they travelled more than 400 km, performed hundreds of actions, and had zero rest intervals. This suggests third-party automation tools are in use.
+
+[link]
+---
+To whom it may concern,
+
+I wish to bring to your attention possible abuse involving third-party software. [cheater], on [timestamp], managed portal actions in five widely spaced towns — distances covered make no sense for legitimate travel.
+
+[link]
+
+Kindly check travel logs, device fingerprints, and any unusual behavior from this player.
+---
+At [timestamp], [cheater] completed 40+ portal hacks, glyphs, and recharges in under 8 minutes. No human could perform that with such speed and precision.  
+[link]
+---
+At [timestamp], [cheater] linked dozens of portals in an exact scripted sequence, one every 2–3 seconds. This points to automation or a bot.  
+[link]
+---
+Glyphing data from [timestamp] shows [cheater] executing perfect 5-dot sequences repeatedly with near-zero delay. Highly suspicious for human input.  
+[link]
+---
+During [timestamp], [cheater] dropped items, picked up gear, and recharged multiple distant portals—all while maintaining a 2-second input pattern.  
+[link]
+---
+Bot behavior suspected at [timestamp]. [cheater] recharged a network of remote portals simultaneously with precise 3-second intervals.  
+[link]
+---
+At [timestamp], [cheater] fired 100+ XMP bursts with 0.1–0.2s spacing, non-human speed. Strongly indicates use of macros or scripts.  
+[link]
+---
+[cheater] linked and deployed in a loop over 20 portals in perfect geographical order at [timestamp], suggesting route automation software.  
+[link]
+---
+At [timestamp], [cheater] performed synchronous recharge on 12 portals in different cities within milliseconds, impossible without a tool.  
+[link]
+---
+This player exhibits non-human reaction speeds. At [timestamp], all 4 resonators were deployed in the same order at each portal in under 1.2 seconds.  
+[link]
+---
+At [timestamp], [cheater] activated glyphs and deployed upgrades at a rate consistent with script-assisted play. Patterns are too consistent.  
+[link]
+---
+[cheater] recharged a dense portal cluster of over 50 portals in under 15 seconds, maintaining exact intervals between each recharge.  
+[link]  
+---
+Portals were modded, linked, and deployed in a rapid repeating pattern for 20+ minutes without variation or pause.  
+[timestamp]
+ [link]  
+---
+Linking operations between distant portals were executed with high-speed precision, consistent timing, and no GPS drift—unusual for regular mobile use.  
+[link]  
+---
+[cheater] used over 100 XMPs in quick succession with uniform intervals. The button press rhythm appears too consistent for manual interaction.  
+[timestamp]
+ [link]  
+---
+Actions such as deploy–mod–link–glyph were repeated exactly the same way dozens of times within short periods, suggesting macro-like behavior.  
+[link]  
+---
+[cheater] maintained perfect recharge timing across hundreds of portals for an entire hour without signs of fatigue, movement, or variation.  
+[timestamp]
+ [link]  
+---
+During [timestamp], [cheater] performed dozens of actions per minute while also appearing to drive or move across a large area, which seems unlikely for safe manual play.  
+[link]  
+---
+Portal modifications and linking behavior occurred at the exact same time every day, with no location variation—suggesting scheduled or automated input.  
+[timestamp] 
+[link]  
+---
+[cheater] performed hundreds of consecutive actions without any system misclicks, delays, or fatigue indicators, which is uncommon in human play.  
+[link]  
+---
+At [timestamp], [cheater] deployed and modded 40 portals in under 6 minutes, each with identical action timing and no walking delay between them.  
+[timestamp]  
+[link]  
+---
+Dozens of attacks were made within milliseconds of each other with exact spacing, consistent with mechanical tapping tools rather than human interaction.  
+[timestamp]  
+[link]  
+---
+[cheater] fired over 200 XMPs in 10 minutes without delay, each within a consistent 0.3-second rhythm. No device misfires or XM pauses were observed.  
+[timestamp]  
+[link]  
+---
+The agent repeated the same pattern of deploy → mod → link across 50+ portals at uniform speed without any error or deviation in timing.  
+[timestamp]  
+[link]  
+---
+At [timestamp], multiple link attempts were made from 10 different portals within a 2-minute window, all within perfect link distance.  
+[timestamp]  
+[link]  
+---
+A portal farm was charged fully with precise timing across 40 portals in less than 12 seconds. No variance in recharge delay occurred.  
+[timestamp]  
+[link]  
+---
+The player moved through an urban path executing attacks every 2 seconds with exact intervals over a 20-minute period—no signs of traffic or walking interruptions.  
+[timestamp]  
+[link]  
+---
+A portal was attacked and captured in seconds, and several mods were installed with no menu lag. Timing logs show identical action intervals for each.  
+[timestamp]  
+[link]  
+---
+On [timestamp], a sequence of portals was deployed in a straight line with zero action delay, while the agent GPS showed no physical movement.  
+[timestamp]  
+[link]  
+---
+The player performed 90+ actions per minute for over 20 minutes, showing no signs of fatigue, UI misclicks, or varied action delay.  
+[timestamp]  
+[link]  
+---
+At [timestamp], [cheater] fired 100+ XMPs with zero cooldown and perfect spread timing across dozens of portals—humanly impossible input rate.  
+[link]  
+---
+Recharge logs show sustained activity across 50 portals every 0.2s with no delay. The player was not present at the scanner and was reportedly asleep.  
+[timestamp]  
+[link]  
+---
+Each portal deployed by [cheater] was modded with exact 1.00s intervals, without UI lag, scroll delay, or touch variation.  
+[timestamp]  
+[link]  
+---
+All nearby links were dropped, then relinked in a looped pattern within seconds using perfect mod stacking and without apparent scanner response time.  
+[timestamp]  
+[link]  
+---
+In a dense area, the player linked from 8 portals within 30 seconds, with identical spin-to-link movements, suggesting automation.  
+[timestamp]  
+[link]  
+---
+[cheater] conducted perfect portal burns and linkbacks across a farm setup in less than 90 seconds without recharge drop or human delays.  
+[timestamp]  
+[link]  
+---
+Timing logs reveal the agent used uniform tap intervals and mod placements, lacking any human hesitation or misfires across multiple ops.  
+[timestamp]  
+[link]  
+---
+Every link created during a micro-fielding operation had a matching 1.8s link gap with no error over 25 minutes. This strongly implies bot scripting.  
+[timestamp]  
+[link]  
+---
+A 3x8-layer field was deployed in under 4 minutes with rapid rotation through portal menus, link keys, and mod UI—all from a single device.  
+[timestamp]  
+[link]  
+---
+[cheater] executed complete fielding plans while driving at highway speed, confirmed by GPS logs and no passenger present.  
+[timestamp]  
+[link]  
+---
+Player fired nearly 200 bursters in under 2 minutes, each perfectly spaced and triggered. No visible action was seen on the screen.  
+[timestamp]  
+[link]  
+---
+All hacks were executed at the exact server interval, with no drift or delay, over 300 times in a 30-minute period. Impossible without automation.  
+[timestamp]  
+[link]  
+---
+Player used macros to mod portals in specific sequences with perfect speed, always placing rare shields and multihacks in the same order.  
+[timestamp]  
+[link]  
+---
+At [timestamp], the agent linked portals in a rapid arc pattern with no physical repositioning. The key usage pattern was linear and flawless.  
+[link]  
+---
+Links were dropped and rebuilt repeatedly in seconds using a repeated loop, suggesting link scripting or packet automation.  
+[timestamp]  
+[link]  
+---
+Observed a suspiciously stable tap-and-spin rate for hundreds of glyph hacks, never missing a sequence, even during bad signal and lag.  
+[timestamp]  
+[link]  
+---
+In 90 minutes, [cheater] built an 8-layer starburst alone, with no drop in action speed. Gesture and pause patterns are machine-perfect.  
+[timestamp]  
+[link]  
+---
+The player executed a 45-link star within 10 minutes, using keys from multiple cities, linked faster than human UI load time.  
+[timestamp]  
+[link]  
+---
+Comm logs show portal interactions every 1.1 seconds for an hour straight—no breathing room or deviation, suggesting automation.  
+[timestamp]  
+[link]  
+---
+Scripting suspected as [cheater] repeatedly restocked identical gear via mod farming loops at precise intervals, even during nighttime hours.  
+[timestamp]  
+[link]  
+---
+A 200-link starburst was built within 8 minutes using perfect arc spacing and key sequencing—impossible without macros or scripts.  
+[timestamp]  
+[link]  
+---
+The player fired 12 XMPs per second while maintaining perfect rotation, spacing, and timing. GPS drift was zero, and latency was absent.  
+[timestamp]  
+[link]  
+---
+A portal was continuously modded in exactly 11-second intervals for 2 hours with no interruption. Log pattern indicates scripting.  
+[timestamp]  
+[link]  
+---
+All bursters fired within a perfectly timed .750s interval across 120 actions. Review suggests this violates human reaction time limits.  
+[timestamp]  
+[link]  
+---
+Glyph hacking logs show 100% success rate with fastest draw speed possible, even in poor GPS zones and tunnels with known lag.  
+[timestamp]  
+[link]  
+---
+During recharge events, player maintained 1-second interval shield deploys while also glyph hacking without screen switching—likely multitool.  
+[timestamp]  
+[link]  
+---
+Three devices synced glyph hacks with coordinated mod flips in under 5 minutes. No team was present—confirmed via live stream camera review.  
+[timestamp]  
+[link]  
+---
+Attack pattern repeated across portals in a perfect clockwise rotation with zero variation—likely bot behavior triggered by GPS waypoint events.  
+[timestamp]  
+[link]  
+---
+[Cheater] used a sequence that allowed link cycling faster than UI animation speeds. Key movement too fast to be manual.  
+[timestamp]  
+[link]  
+---
+Multiple logins from same IP showed identical portal actions, with time differences under 0.3 seconds—packet-level automation suspected.  
+[timestamp]  
+[link]  
+---
+Agent deployed 15 links in 10 minutes with perfect geometric spacing, impossible to replicate manually with current UI constraints.  
+[timestamp]  
+[link]  
+---
+Repeated mod placement at exact 10-second intervals for over 90 minutes indicates scripted automation.  
+[timestamp]  
+[link]  
+---
+Player maintained flawless XMP timing with zero delay across multiple portals in a pattern that exceeds human reaction capabilities.  
+[timestamp]  
+[link]  
+---
+Portal interactions consistently occur at intervals of exactly 5 seconds, with no variation over a 3-hour window.  
+[timestamp]  
+[link]  
+---
+Agent completed complex multi-link fields faster than any known manual player, with zero mistakes or delays.  
+[timestamp]  
+[link]  
+---
+Multiple portals were attacked and recaptured at perfectly even time intervals repeatedly, strongly suggesting use of a macro script.  
+[timestamp]  
+[link]  
+---
+Logs show identical portal mod deployment sequences repeated multiple times with no deviation or error.  
+[timestamp]  
+[link]  
+---
+The player maintained continuous shield deployment on 6 portals with perfect timing, simultaneously performing other actions without lag or delay.  
+[timestamp]  
+[link]  
+---
+Coordinates of portal interactions match a fixed grid pattern with no variation over several weeks.  
+[timestamp]  
+[link]  
+---
+Agent’s portal interactions are recorded from multiple devices syncing in perfect unison, suggesting remote automation.  
+[timestamp]  
+[link]  
+---
+Portal hacks and deployments occurred at exact 15-second intervals without variation, indicating bot automation.  
+[timestamp]  
+[link]  
+---
+The agent’s portal interaction logs show repetitive sequences with zero human error over several hours.  
+[timestamp]  
+[link]  
+---
+On [timestamp], the suspect automated mod placement on multiple portals simultaneously with flawless timing.  
+[timestamp]  
+[link]  
+---
+Portal attacks and recharges were performed with robotic precision, leaving no gap longer than 2 seconds.  
+[timestamp]  
+[link]  
+---
+Several portals were captured and linked with millisecond timing patterns impossible for manual play.  
+[timestamp]  
+[link]  
+---
+The agent maintained continuous activity across five portals with perfectly timed shield deployment every 60 seconds.  
+[timestamp]  
+[link]  
+---
+An unusual pattern of portal hacking was detected where actions repeated identically every 30 minutes.  
+[timestamp]  
+[link]  
+---
+Attack and recharge events logged at exact consistent intervals across multiple portals, suggesting scripted macros.  
+[timestamp]  
+[link]  
+---
+The player exhibited non-human timing patterns during a prolonged session of portal control, consistent with software assistance.  
+[timestamp]  
+[link]  
+---
+Multiple portals attacked and recharged in perfect round-robin fashion without breaks or errors for several hours straight.  
+[timestamp]  
+[link]  
+---
+Agent deployed mods on multiple portals exactly every 10 seconds for over 2 hours without breaks.  
+[timestamp]  
+[link]  
+---
+The player’s portal hack intervals showed zero variance, consistent with scripted automation.  
+[timestamp]  
+[link]  
+---
+Portal attacks and recharges occurred with machine-like precision and timing impossible for manual play.  
+[timestamp]  
+[link]  
+---
+Sequences of portal interactions repeated identically across several days, suggesting macro use.  
+[timestamp]  
+[link]  
+---
+An agent’s actions showed perfect timing in shield deployments on multiple portals simultaneously.  
+[timestamp]  
+[link]  
+---
+Logs reveal repeated mod placement patterns with no errors or delays over extended sessions.  
+[timestamp]  
+[link]  
+---
+Agent performed flawless link creation sequences faster than any recorded manual play.  
+[timestamp]  
+[link]  
+---
+Portal hacks followed a fixed time interval pattern with no human variation over 4 hours.  
+[timestamp]  
+[link]  
+---
+Continuous shield renewals on multiple portals at exact intervals indicate automation.  
+[timestamp]  
+[link]  
+---
+Player’s interaction coordinates form an unnaturally perfect grid pattern over a wide area.  
+[timestamp]  
+[link]  
 
