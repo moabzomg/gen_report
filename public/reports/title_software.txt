@@ -1,146 +1,298 @@
-Report of using third party software
-Suspected Third-party Tool Usage
-Non-human Speed Behavior by [cheater]
-[cheater] potentially automating gameplay
-Unnatural XM collection activity detected
-Bot-like Portal Actions
-Improper Use of Scripts
-Double Deployment Behavior
-Trading of Accounts Suspected
-Bots or Cloned Accounts in Use
-Inappropriate Use of Extra Accounts
-Same IP Multiple Account Activity
-Possible Bot Usage by [cheater]
-Unusual Automated Behavior Detected
-Suspicious Portal Action Timing
-Likely Use of External Tools
-Very Consistent Pattern by [cheater]
-Automated Recharge Suspected
-Possible Unauthorized Tools
-Suspicious Perfect Timing
-Scripted Actions Detected
-Tool-Assisted Behavior by [cheater]
-[cheater] Suspected of Using Bots
-Strange Timing Patterns from [cheater]
-Possible Third-party App Usage by [cheater]
-[cheater] Shows Automated Behavior
-Scripts Involved? [cheater] Too Consistent
-Unnatural Portal Actions from [cheater]
-[cheater] Acts Like a Script
-Timing Matches No Human Player
-Automation Detected on [cheater]'s Account
-[cheater] Possibly Using Bots or Scripts
-Suspiciously Perfect Timing by [cheater]
-Unrealistic Play Patterns by [cheater]
-Third-party Tool Usage Suspicion: [cheater]
-[cheater]'s Actions Seem Automated
-Repeated Patterns Suggest Bot Use by [cheater]
-[cheater] Might Be Exploiting Automation Software
-Automated Gameplay Detected for [cheater]
-[cheater] Suspected of Using Bots
-Repeated Identical Actions by [cheater]
-Suspicious Script Use on [cheater]'s Account
-Third-Party Tools Suspected for [cheater]
-[cheater]'s Account Exhibits Automation Signs
-Unnatural Timing and Behavior by [cheater]
-Use of Unauthorized Software by [cheater]
-Suspicion of Bot Usage by [cheater]
-[cheater] Possibly Using Automation Tools
-Repeated Identical Actions from [cheater]
-Unnatural Interaction Speeds by [cheater]
-Third-Party Tool Exploitation Suspected for [cheater]
-Signs of Scripted Gameplay on [cheater]'s Account
-Automation Software Detected on [cheater]
-[cheater]'s Account Shows Signs of Exploits
-[cheater] Exhibits Automated Play Patterns
-Bot-like Behavior Detected on [cheater]'s Account
-Repeated Action Loops Found on [cheater]'s Profile
-Scripted Gameplay Indicators for [cheater]
-Unnatural Game Interaction Speeds by [cheater]
-Use of Unauthorized Automation Tools by [cheater]
-[cheater]'s Account Shows Signs of Exploit Use
-Consistent Timing Patterns Suggest Bots on [cheater]
-[cheater] Suspected of Bot-Assisted Play
-Automated Script Usage Detected for [cheater]
-Unnatural Play Patterns Linked to [cheater]
-[cheater] Possibly Exploiting Game Bots
-Suspicious Automated Inputs on [cheater]'s Account
-Signs of Software Automation from [cheater]
-[cheater] Involved in Gameplay Automation
-Repeated Identical Actions Suggest Bot Use by [cheater]
-Automated Gameplay Detected on [cheater]'s Account
-Bot Usage Suspected for [cheater]
-[cheater] Exhibits Non-Human Play Behavior
-Unnatural Action Patterns Found for [cheater]
-[cheater] Possibly Using Game Exploits or Bots
-Suspicious Scripted Activity Detected from [cheater]
 [cheater] Account Shows Signs of Automation
-Repeated Identical Inputs on [cheater]'s Account
-Automated Gameplay Detected for [cheater]
-Bot Usage Suspected on [cheater]'s Account
-Suspicious Scripted Activity by [cheater]
-Unnatural Repetitive Patterns from [cheater]
-Automated Script Use by [cheater] Detected
-Botting Behavior Observed in [cheater]'s Account
-Repeated Non-Human Activity Patterns from [cheater]
-Use of Unauthorized Software by [cheater]
-Automated Gameplay Detection for [cheater]
-Evidence of Bot Use by [cheater]
-Unnatural Gameplay Patterns from [cheater]
-Suspicious Automation Activity Detected in [cheater]'s Account
-Use of Unauthorized Software by [cheater]
-Suspicion of Bot Usage by [cheater]  
-Automated Gameplay Detected in [cheater]'s Account  
-Unnatural Gameplay Patterns Suggesting Third-Party Software by [cheater]  
-Evidence of Scripted Actions from [cheater]  
-Use of Unauthorized Automation Tools by [cheater]  
-Unauthorized tools suspected for [cheater]
+[cheater] Actions Resemble Software-Controlled Inputs  
+[cheater] Acts Like a Script
+[cheater] Automation Evidence Submitted  
+[cheater] Engaged in Suspected Bot Activities  
+[cheater] Exhibits Automated Play Patterns
+[cheater] Exhibits Non-Human Play Behavior
+[cheater] Flagged for Bot-Like Behavior  
+[cheater] Flagged for Possible Third-Party Software Use  
+[cheater] Gameplay Indicates Non-Human Inputs  
+[cheater] Involved in Gameplay Automation
+[cheater] Might Be Exploiting Automation Software
+[cheater] Possibly Exploiting Game Bots
+[cheater] Possibly Exploiting Third-Party Tools  
 [cheater] possibly used 3rd-party script
-Automation or botting observed
-Rapid repeated actions detected
-Script usage suspected at [timestamp]
-Unnatural timing for [cheater]
-Bot-like play patterns seen
-Macro behavior detected
-Illegal software signs in logs
-Automated hacking actions flagged
-Suspected third party software use by [cheater]
-Unnatural farming speed detected
-Bot-like portal hacking activity
-Automation suspected in portal attacks
-Rapid portal hacking not humanly possible
-Use of unauthorized software tools
-Unusual repetitive portal interactions
-Suspicious high-frequency farming
-Automated script usage suspected
-Cheating via software tools
-Unauthorized software detected
-Botting activity uncovered
-Third-party tools usage
-Cheating via external software
-Automation software evidence
-Hacking tools detected
-Suspicious automated behavior
-Prohibited software usage
-Software-aided cheating found
-Exploit of game mechanics via bots
-Automated Play Detected
-Unauthorized Software Use
-Bot-Like Behavior Found
-Suspicious Gameplay Automation
-Third Party Tools Detected
-Scripted Actions Recorded
-Automation Patterns Observed
-Unnatural Interaction Speeds
-Cheating Software Usage
-Unapproved Software Activity
+[cheater] Possibly Using Automation Tools
+[cheater] Possibly Using Bots or Scripts
+[cheater] Possibly Using External Macro Tools  
+[cheater] Possibly Using Game Exploits or Bots
+[cheater] Potential Botting Violations  
+[cheater] potentially automating gameplay
+[cheater] Potentially Using Unauthorized Bots  
+[cheater] Reported for Botting Activities  
+[cheater] Reported for Using Automation Software  
+[cheater] Shows Automated Behavior
+[cheater] Shows Signs of Bot-Assisted Play  
+[cheater] Suspected of Bot-Assisted Play
+[cheater] Suspected of Using Bots
+[cheater] Suspected of Using Third-Party Automation  
+[cheater] Under Review for Unauthorized Software Use  
+[cheater] Uses External Tools for Gameplay Advantage  
+[cheater] Using Software to Bypass Game Rules  
+[cheater]'s Account Exhibits Automation Signs
+[cheater]'s Account Shows Signs of Exploit Use
+[cheater]'s Account Shows Signs of Exploits
+[cheater]'s Actions Seem Automated
+[cheater]'s Gameplay Patterns Indicate Automation  
+Alert: [cheater] Using Automation Tools  
+Alert: Automation Detected in [cheater] Account  
+Alert: Automation Software Identified in Player Behavior  
 Automated gameplay detected  
-Inhuman reaction times observed  
-Macro and script usage evidence  
-Perfectly timed portal hacks  
-Repeated identical command sequences  
-Botting behavior signature  
-Unauthorized automation tools  
-Unnatural speed and precision  
-Flawless repetitive actions  
+Automated Gameplay Detected for [cheater]
+Automated Gameplay Detected in [cheater]'s Account  
+Automated Gameplay Detected on [cheater]'s Account
+Automated Gameplay Detected: Report on Third-Party Software Usage  
+Automated Gameplay Detection for [cheater]
+Automated Gameplay Suspected in [cheater]'s Account  
+Automated hacking actions flagged
+Automated Play Detected
+Automated Recharge Suspected
+Automated Script Usage Detected for [cheater]
+Automated script usage suspected
+Automated Script Use by [cheater] Detected
+Automation Activity Linked to [cheater]  
+Automation and Macro Use Suspected for [cheater]  
+Automation Detected on [cheater]'s Account
+Automation or botting observed
+Automation Patterns Observed
+Automation Software Detected on [cheater]
+Automation software evidence
+Automation Software Patterns Found in [cheater] Logs  
+Automation suspected in portal attacks
+Automation Suspicion Raised for [cheater]  
 Automation undermining fair play  
+Bot Usage Suspected for [cheater]
+Bot Usage Suspected on [cheater]'s Account
+Bot-like Behavior Detected on [cheater]'s Account
+Bot-Like Behavior Found
+Bot-like play patterns seen
+Bot-like Portal Actions
+Bot-like portal hacking activity
+Bots or Cloned Accounts in Use
+Botting activity uncovered
+Botting Behavior Observed in [cheater]'s Account
+Botting behavior signature  
+Cheating Software Usage
+Cheating via external software
+Cheating via software tools
+Consistent Timing Patterns Suggest Bots on [cheater]
+Double Deployment Behavior
+Evidence of Automation Software by [cheater]  
+Evidence of Bot Use by [cheater]
+Evidence of Botting Software in Player Activity  
+Evidence of Scripted Actions from [cheater]  
+Evidence Suggests [cheater] Uses Automation Software  
+Exploit of game mechanics via bots
+Flawless repetitive actions  
+Hacking tools detected
+Illegal software signs in logs
+Improper Use of Scripts
+Inappropriate Use of Extra Accounts
+Inhuman reaction times observed  
+Investigation into [cheater]'s Bot Usage  
+Investigation Needed: [cheater] and Macro Usage  
+Investigation of [cheater] for Automation Suspicions  
+Likely Use of External Tools
+Macro and script usage evidence  
+Macro behavior detected
+Non-human Speed Behavior by [cheater]
+Perfectly timed portal hacks  
+Possible Automation Detected in [cheater] Profile  
+Possible Bot Usage by [cheater]
+Possible Macro or Bot Usage in Game Actions  
+Possible Third-party App Usage by [cheater]
+Possible Unauthorized Tools
+Potential Automation Involvement for [cheater]  
+Prohibited software usage
+Rapid portal hacking not humanly possible
+Rapid repeated actions detected
+Repeated Action Loops Found on [cheater]'s Profile
+Repeated Identical Actions by [cheater]
+Repeated Identical Actions from [cheater]
+Repeated Identical Actions Suggest Bot Use by [cheater]
+Repeated identical command sequences  
+Repeated Identical Inputs on [cheater]'s Account
+Repeated Non-Human Activity Patterns from [cheater]
+Repeated Patterns Suggest Bot Use by [cheater]
+Report of using third party software
+Report on [cheater] and Potential Bot Usage  
+Report on [cheater]'s Unauthorized Automation  
+Report on Automated Actions by [cheater]  
+Report on Unfair Advantage via Third-Party Tools  
+Report: [cheater] Employing Unauthorized Bots  
+Report: [cheater] Using Bots for Gameplay  
+Report: Player Employing External Automation Programs  
+Same IP Multiple Account Activity
+Script usage suspected at [timestamp]
+Scripted Actions Detected
+Scripted Actions Recorded
+Scripted Gameplay Indicators for [cheater]
+Scripts Involved? [cheater] Too Consistent
+Signs of Macro Usage in [cheater] Actions  
+Signs of Scripted Gameplay on [cheater]'s Account
+Signs of Software Assistance in [cheater]'s Play  
+Signs of Software Automation from [cheater]
+Software-aided cheating found
+Strange Timing Patterns from [cheater]
+Suspected Botting Behavior by [cheater]  
+Suspected External Automation by [cheater]  
+Suspected third party software use by [cheater]
+Suspected Third-party Tool Usage
+Suspected Use of Unauthorized Automation Tools  
+Suspicion of Bot Usage by [cheater]
+Suspicion of Bot Usage by [cheater]  
+Suspicious Activity Linked to [cheater] Automation  
+Suspicious automated behavior
+Suspicious Automated Inputs on [cheater]'s Account
+Suspicious Automation Activity Detected in [cheater]'s Account
+Suspicious Bot-Like Behavior from [cheater]  
+Suspicious External Tool Usage by [cheater]  
+Suspicious Gameplay Automation
+Suspicious high-frequency farming
+Suspicious Non-Human Patterns Indicate Software Assistance  
+Suspicious Perfect Timing
+Suspicious Portal Action Timing
+Suspicious Script Use on [cheater]'s Account
+Suspicious Scripted Activity by [cheater]
+Suspicious Scripted Activity Detected from [cheater]
+Suspiciously Perfect Timing by [cheater]
+Third Party Tools Detected
+Third-Party Software Detected in [cheater] Gameplay  
+Third-Party Software Detected in Gameplay Logs  
+Third-Party Software Evidence Against [cheater]  
+Third-Party Tool Exploitation Suspected for [cheater]
+Third-party Tool Usage Suspicion: [cheater]
+Third-Party Tool Use Detected in [cheater]'s Account  
+Third-Party Tools Suspected for [cheater]
+Third-party tools usage
+Timing Matches No Human Player
+Tool-Assisted Behavior by [cheater]
+Trading of Accounts Suspected
+Unapproved Software Activity
+Unauthorized automation tools  
+Unauthorized software detected
+Unauthorized Software Use
+Unauthorized tools suspected for [cheater]
+Unfair Advantage: [cheater]'s Use of Third-Party Software  
+Unnatural Action Patterns Found for [cheater]
+Unnatural farming speed detected
+Unnatural Game Interaction Speeds by [cheater]
+Unnatural Gameplay Patterns from [cheater]
+Unnatural Gameplay Patterns Suggesting Third-Party Software by [cheater]  
+Unnatural Interaction Speeds
+Unnatural Interaction Speeds by [cheater]
+Unnatural Play Patterns Linked to [cheater]
+Unnatural Portal Actions from [cheater]
+Unnatural Repetitive Patterns from [cheater]
+Unnatural speed and precision  
+Unnatural Timing and Behavior by [cheater]
+Unnatural timing for [cheater]
+Unnatural XM collection activity detected
+Unrealistic Play Patterns by [cheater]
+Unusual Automated Behavior Detected
+Unusual repetitive portal interactions
+Use of Unauthorized Automation Tools by [cheater]
+Use of Unauthorized Automation Tools by [cheater]  
+Use of Unauthorized Software by [cheater]
+Use of unauthorized software tools
+Verification Request for Automation Software Use  
+Very Consistent Pattern by [cheater]
+Third-Party Software Use Suspected in [cheater]'s Gameplay  
+Alert: Possible Bot Usage by [cheater]  
+Report on Unauthorized Automation by [cheater]  
+Investigation Request: [cheater] Using Macro Tools  
+Evidence of Automated Play in [cheater]'s Actions  
+[cheater] Gameplay Shows Signs of Software Assistance  
+Potential Use of Bots by [cheater] Detected  
+Unusual Patterns Suggest Third-Party Tools by [cheater]  
+[cheater] May Be Exploiting Automation Software  
+Automated Behavior Reported for [cheater]  
+[cheater] Possibly Using External Automation  
+Suspicious Bot-Like Activities Linked to [cheater]  
+Report: [cheater] Engaged in Unauthorized Automation  
+Automation Tools Suspected in [cheater]'s Account  
+[cheater] Flagged for Use of Third-Party Software  
+Evidence of Macro Usage in [cheater]'s Gameplay  
+Alert: Bot-Assisted Play Detected for [cheater]  
+[cheater] Possibly Exploiting Automation Tools  
+Suspicious Automation Patterns Found in [cheater]  
+Investigation Needed for [cheater]'s Bot Usage  
+Report of Third-Party Automation Linked to [cheater]  
+[cheater]'s Gameplay Indicates Possible Botting  
+Possible Use of Unauthorized Tools by [cheater]  
+Alert: [cheater] May Be Using Automation Software  
+Evidence Suggests Bot Use in [cheater]'s Actions  
+Automated Inputs Suspected in [cheater]'s Gameplay  
+[cheater] Reported for Using Unauthorized Bots  
+Third-Party Tool Use Evidence Against [cheater]  
+[cheater] May Be Using Macros or Bots  
+Suspicious Automation Behavior from [cheater]  
+[cheater] Under Review for Software-Assisted Play  
+Report on Possible Botting by [cheater]  
+Investigation Requested for [cheater]'s Automation Use  
+Signs of Third-Party Software Use in [cheater]'s Account  
+Alert: Automation Detected in [cheater]'s Gameplay  
+Report: [cheater] Suspected of Using External Tools  
+Possible Macro Use Detected for [cheater]  
+[cheater] Flagged for Automation Violations  
+Suspicious Bot Activity Linked to [cheater]  
+Evidence of Unauthorized Automation in [cheater]'s Play  
+[cheater] May Be Using Software to Gain Advantage  
+Report on Bot-Like Behavior by [cheater]  
+Investigation into [cheater]'s Use of Automation Software  
+Third-Party Automation Tools Suspected in [cheater]'s Account  
+Alert: [cheater]'s Gameplay Indicates Possible Botting  
+[cheater] Possibly Using External Macro Software  
+Automated Play Evidence Found for [cheater]  
+Report: [cheater] Using Bots or Macros  
+[cheater] Under Investigation for Automation Use  
+[cheater] Suspected of Using External Automation Software  
+Automation Activity Detected on [cheater]'s Account  
+Possible Bot Use by [cheater] in Recent Sessions  
+Report: [cheater] Engaged in Macro-Assisted Gameplay  
+Suspicious Software-Assisted Actions by [cheater]  
+[cheater] Account Exhibits Signs of Bot Usage  
+Alert: Unauthorized Automation in [cheater]'s Gameplay  
+Evidence of Third-Party Tools Used by [cheater]  
+[cheater] May Be Exploiting Automation to Gain Advantage  
+Investigation Requested for [cheater]'s Botting Allegations  
+[cheater] Showing Behavior Consistent with Automation  
+Report on Macro Usage by [cheater] in Gameplay  
+Possible Unauthorized Software Detected in [cheater]'s Play  
+Alert: [cheater] Potentially Using External Bots  
+[cheater] Gameplay Patterns Suggest Use of Automation  
+Suspicious Macro-Assisted Actions Linked to [cheater]  
+Evidence Suggesting Bot Use by [cheater]  
+[cheater] Under Review for Third-Party Software Violations  
+Report: Automation Software Suspected in [cheater]'s Account  
+Alert: [cheater] May Be Using Bot Software  
+[cheater] Reported for Automation-Related Violations  
+Suspicious Software Inputs Found in [cheater]'s Gameplay  
+Investigation Needed for Possible Bot Use by [cheater]  
+[cheater]'s Actions Indicate Potential Macro Usage  
+Alert: Unauthorized Automation Detected in [cheater]'s Account  
+Report on Automated Behavior by [cheater]  
+Evidence of Bot-Assisted Play in [cheater]'s Activity  
+Suspicious Use of External Software by [cheater]  
+[cheater] May Be Using Unauthorized Automation Tools  
+Automation Patterns Observed in [cheater]'s Gameplay  
+Report: Possible Use of Macros or Bots by [cheater]  
+Alert: Bot-Like Behavior Detected for [cheater]  
+Investigation into Third-Party Software Use by [cheater]  
+[cheater] Flagged for Suspicious Automated Actions  
+Evidence Points to Bot Usage by [cheater]  
+[cheater] Reported for Using External Automation  
+Alert: Macro Usage Suspected in [cheater]'s Account  
+[cheater]'s Gameplay Shows Signs of Automation Assistance  
+Report: [cheater] Possibly Exploiting Automation Software  
+Investigation Requested: Bot Usage by [cheater]  
+Suspicious Third-Party Software Activity Linked to [cheater]  
+[cheater] Under Review for Possible Bot-Assisted Gameplay  
+Evidence of Unauthorized Macro Use in [cheater]'s Account  
+Alert: Automation Detected in [cheater]'s Gameplay Patterns  
+Report on Possible Bot Use by [cheater]  
+[cheater] Flagged for Using External Automation Software  
+Suspicious Software-Assisted Inputs Found in [cheater]'s Gameplay  
+[cheater] May Be Exploiting Third-Party Tools for Gameplay  
+Report: Bot-Like Behavior Detected for [cheater]  

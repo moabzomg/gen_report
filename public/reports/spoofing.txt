@@ -882,7 +882,6 @@ Dear Niantic,
 [timestamp]
 [link]
 
-
 Thanks,
 [codename]
 ---
@@ -1424,14 +1423,12 @@ Hi Niantic, I've noticed that [cheater] is accessing remote portals within secon
 [timestamp]
 [link]
 
-
 [codename]
 ---
 It’s highly suspicious that [cheater] is attacking portals across cities with no visible activity or travel records. Even locals have confirmed the person wasn’t there physically.  
 Thanks for looking into it.  
 [timestamp]
 [link]
-
 
 [codename]
 ---
@@ -1441,7 +1438,6 @@ Please verify travel legitimacy.
 [timestamp]
 [link]
 
-
 [codename]
 ---
 Something strange is going on with [cheater]. They keep showing up in multiple countries within hours—clearly not by legal travel means.  
@@ -1449,14 +1445,13 @@ Can this be investigated for GPS manipulation?
 [timestamp]
 [link]
 
-
 [codename]
 ---
 Hello,  
 We suspect [cheater] is spoofing. They have been attacking portals in remote mountain areas impossible to access at night or during park closures. 
 [timestamp]
 [link]
-[link]
+
 Thanks,  
 [codename]
 ---
@@ -2128,3 +2123,321 @@ Portals inside a hospital complex were captured at times when public access was 
 Agent claimed portals located on restricted airport grounds during overnight curfew hours.  
 [timestamp]  
 [link]  
+---
+[timestamp] Rapid position changes inconsistent with normal movement by [cheater]
+[link]
+---
+[timestamp] Multiple geographic discrepancies detected during gameplay from [cheater]
+[link]
+---
+[timestamp] GPS spoofing suspected on [cheater]'s account due to location-IP mismatch
+[link]
+---
+[timestamp] Unrealistic travel speeds recorded for [cheater]
+[link]
+---
+[timestamp] Sudden geographic location shifts noted for [cheater]'s sessions
+[link]
+---
+[timestamp] Inconsistent GPS coordinates detected in [cheater]'s activity logs
+[link]
+---
+[timestamp] Location verification failures triggered on [cheater]'s device
+[link]
+---
+[timestamp] Abrupt GPS jumps across regions for [cheater]
+[link]
+---
+[timestamp] Use of GPS spoofing tools suspected for [cheater]
+[link]
+---
+[timestamp] Impossible travel distances logged from [cheater]'s account
+[link]
+---
+[timestamp] [cheater]'s GPS data conflicts with network IP location
+[link]
+---
+[timestamp] Evidence of location masking found on [cheater]'s gameplay device
+[link]
+---
+[timestamp] Rapid repeated GPS location changes recorded for [cheater]
+[link]
+---
+[timestamp] [cheater] accessed game from geographically distant points unrealistically
+[link]
+---
+[timestamp] GPS anomalies consistent with spoofing detected for [cheater]
+[link]
+---
+[timestamp] Location spikes and drops recorded on [cheater]'s account
+[link]
+---
+[timestamp] Location data inconsistent with physical movement for [cheater]
+[link]
+---
+[timestamp] [cheater] flagged after accessing restricted regions via GPS manipulation
+[link]
+---
+[timestamp] Suspicious GPS location pattern recognized for [cheater]
+[link]
+---
+[timestamp] Multiple IP changes combined with GPS location jumps on [cheater]'s account
+[link]
+---
+[timestamp] GPS signal irregularities linked to [cheater]'s gameplay sessions
+[link]
+---
+[timestamp] Device metadata suggests GPS data alteration by [cheater]
+[link]
+---
+[timestamp] Location data indicates use of third-party spoofing software by [cheater]
+[link]
+---
+[timestamp] [cheater]'s account shows GPS and IP location mismatches
+[link]
+---
+[timestamp] Abnormal location hopping behavior detected on [cheater]'s account
+[link]
+---
+[timestamp] Rapid GPS coordinate swaps detected for [cheater]
+[link]
+---
+[timestamp] Discrepancies between GPS and network locations flagged for [cheater]
+[link]
+---
+[timestamp] Location manipulation suspected during [cheater]'s gameplay
+[link]
+---
+[timestamp] Unrealistic GPS changes raise cheating concerns for [cheater]
+[link]
+---
+[timestamp] Evidence of falsified GPS location found on [cheater]'s device
+[link]
+---
+[timestamp] Location spoofing software use detected on [cheater]'s device
+[link]
+---
+[timestamp] Suspicious movement patterns inconsistent with player capabilities recorded for [cheater]
+[link]
+---
+[timestamp] GPS data for [cheater] shows impossible travel routes in short time
+[link]
+---
+[timestamp] Repeated GPS jumps inconsistent with physical location detected on [cheater]'s account
+[link]
+---
+[timestamp] [cheater] using spoofed GPS locations to bypass game region restrictions
+[link]
+---
+[timestamp] GPS data integrity compromised on sessions linked to [cheater]
+[link]
+---
+[timestamp] Sudden and inconsistent GPS location changes suggest spoofing by [cheater]
+[link]
+---
+[timestamp] Abnormal geographic data spikes recorded for [cheater]'s account
+[link]
+---
+[timestamp] Evidence suggests [cheater] is manipulating GPS signals to gain advantage
+[link]
+---
+[timestamp] Suspicious GPS disconnections and reconnects observed for [cheater]
+[link]
+---
+[timestamp] [cheater] accessed game from multiple, distant GPS coordinates unrealistically fast
+[link]
+---
+[timestamp] GPS spoofing suspected after conflicting location info for [cheater]
+[link]
+---
+[timestamp] Multiple locations accessed within implausible time by [cheater]
+[link]
+---
+[timestamp] Location masking and spoofing activity detected on [cheater]'s device
+[link]
+---
+[timestamp] GPS inconsistencies during competitive matches flagged for [cheater]
+[link]
+---
+[timestamp] Unrealistic travel speeds and location shifts logged for [cheater]
+[link]
+---
+[timestamp] GPS signal anomalies detected for [cheater]'s gameplay sessions
+[link]
+---
+[timestamp] Multiple GPS location jumps inconsistent with known transport speeds on [cheater]
+[link]
+---
+[timestamp] Location data for [cheater] conflicts with IP geolocation
+[link]
+---
+[timestamp] Suspicious GPS signal alteration detected during [cheater]'s game time
+[link]
+---
+[timestamp] Multiple GPS anomalies linked to [cheater]'s account
+[link]
+---
+[timestamp] [cheater] flagged for using fake GPS coordinates during game events
+[link]
+---
+[timestamp] Location data discrepancies detected in [cheater]'s session logs
+[link]
+---
+[timestamp] GPS spoofing detected on [cheater]'s device during gameplay
+[link]
+---
+[timestamp] Rapid location changes and IP inconsistencies recorded for [cheater]
+[link]
+---
+[timestamp] Evidence of GPS location falsification linked to [cheater]
+[link]
+---
+[timestamp] Unrealistic GPS data changes logged for [cheater]
+[link]
+---
+[timestamp] Device metadata indicates use of GPS spoofing apps by [cheater]
+[link]
+---
+[timestamp] GPS data for [cheater] inconsistent across multiple game sessions
+[link]
+---
+[timestamp] Location jumps outside physical limits detected for [cheater]
+[link]
+---
+[timestamp] Repeated GPS spoofing incidents recorded on [cheater]'s account
+[link]
+---
+[timestamp] GPS and IP address location mismatch detected for [cheater]
+[link]
+---
+[timestamp] Suspicious GPS activity consistent with location faking detected for [cheater]
+[link]
+---
+[timestamp] GPS manipulation software found on device linked to [cheater]
+[link]
+---
+[timestamp] [cheater]'s GPS data inconsistent with expected travel patterns
+[link]
+---
+[timestamp] Rapid switching between GPS locations detected on [cheater]'s device
+[link]
+---
+[timestamp] Location data on [cheater] shows unlikely physical movement
+[link]
+---
+[timestamp] Multiple GPS location anomalies found in [cheater]'s gameplay logs
+[link]
+---
+[timestamp] GPS spoofing suspected in competitive play involving [cheater]
+[link]
+---
+[timestamp] Suspicious location jumps and network inconsistencies flagged for [cheater]
+[link]
+---
+[timestamp] Evidence supports GPS location falsification by [cheater]
+[link]
+---
+[timestamp] Rapid GPS changes outside of normal parameters recorded for [cheater]
+[link]
+---
+[timestamp] Location spoofing software detected on device used by [cheater]
+[link]
+---
+[timestamp] Suspicious GPS data irregularities observed for [cheater]
+[link]
+---
+[timestamp] Multiple impossible GPS jumps during [cheater]'s gameplay detected
+[link]
+---
+[timestamp] Location data conflicts with physical movement for [cheater]
+[link]
+---
+[timestamp] GPS spoofing attempts confirmed on [cheater]'s account
+[link]
+---
+[timestamp] Sudden unrealistic location changes recorded on [cheater]'s account
+[link]
+---
+[timestamp] GPS and IP location discrepancies logged for [cheater]
+[link]
+---
+[timestamp] [cheater] using third-party apps to falsify GPS location
+[link]
+---
+[timestamp] Unrealistic GPS location sequences found for [cheater]
+[link]
+---
+[timestamp] Repeated suspicious GPS location changes on [cheater]'s device
+[link]
+---
+[timestamp] Location spoofing detected during gameplay sessions of [cheater]
+[link]
+---
+[timestamp] Inconsistent location data and IP addresses logged for [cheater]
+[link]
+---
+[timestamp] GPS spoofing activity suspected on [cheater]'s account
+[link]
+---
+[timestamp] Rapid GPS location shifts inconsistent with physical movement by [cheater]
+[link]
+---
+[timestamp] Location masking suspected due to inconsistent GPS and network data for [cheater]
+[link]
+---
+[timestamp] Evidence of GPS spoofing software found on [cheater]'s device
+[link]
+---
+[timestamp] Suspicious GPS location data anomalies recorded for [cheater]
+[link]
+---
+[timestamp] Unrealistic GPS jumps and IP mismatches detected for [cheater]
+[link]
+---
+[timestamp] GPS signal manipulation confirmed on device linked to [cheater]
+[link]
+---
+[timestamp] Repeated GPS location inconsistencies logged for [cheater]
+[link]
+---
+[timestamp] Location spoofing suspected based on GPS and IP data discrepancies for [cheater]
+[link]
+---
+[timestamp] [cheater] accessing game from impossible GPS locations in short timeframe
+[link]
+---
+[timestamp] GPS anomalies suggesting spoofing detected on [cheater]'s account
+[link]
+---
+[timestamp] Multiple location inconsistencies and suspicious GPS jumps found for [cheater]
+[link]
+---
+[timestamp] Evidence of location manipulation detected during gameplay of [cheater]
+[link]
+---
+[timestamp] Rapid changes in GPS coordinates inconsistent with real travel detected for [cheater]
+[link]
+---
+[timestamp] Suspicious GPS and IP address discrepancies logged for [cheater]
+[link]
+---
+[timestamp] Location spoofing attempts detected on [cheater]'s device
+[link]
+---
+[timestamp] Unrealistic location shifts suggest use of GPS spoofing by [cheater]
+[link]
+---
+[timestamp] Multiple GPS anomalies linked to gameplay of [cheater]
+[link]
+---
+[timestamp] GPS spoofing software usage confirmed for [cheater]
+[link]
+---
+[timestamp] Location data irregularities consistent with spoofing detected for [cheater]
+[link]
+---
+[timestamp] [cheater] flagged for GPS data inconsistencies during competitive matches
+[link]
+---
+[timestamp] Suspicious GPS location changes recorded on [cheater]'s gameplay logs
+[link]

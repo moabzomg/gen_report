@@ -1,169 +1,367 @@
-Please review the spoofer
-Spoofing report
-Possible GPS Spoofing Detected
-Suspicious Activity from [cheater]
-Cheating Concern — Location Inconsistency
-[cheater] appears to be spoofing again
-Flagged Portal Capture — Unrealistic Distance Travelled
-Remote Portal Taken Illegally by [cheater]
-Another spoof report
-Likely Location Falsification
-Impossible Portal Capture Activity Detected
-Suspected Location Spoofing
-Unrealistic Travel Pattern Logged
-Invalid Location Report from [cheater]
-Suspicious Movement Timeline
-GPS Spoofing Concerns
-Impossible Capture Pattern
-Questionable Remote Portal Capture
-Cheater Likely Using Fake Location Tools
-Unreachable Portal Access Detected
-Suspicious Behavior by [cheater]
-Unrealistic Portal Reach Detected
-[cheater]'s Activity Seems Unnatural
-Unusual In-Game Movement Observed
-Report: [cheater]'s Possible Violation
-[cheater] Warping Across Regions
-Teleportation Pattern by [cheater]
-Strange Movement Timeline of [cheater]
-GPS Spoofing Detected for [cheater]
-[cheater]'s Location Data Inconsistent
-Unnatural Teleports by [cheater]
-Evidence of Location Falsification: [cheater]
-[cheater] Suspected of Fake GPS Use
-Suspicious Movement Patterns from [cheater]
-Impossible Travel Speeds by [cheater]
-[cheater] Location Data Raises Flags
-[cheater] Exhibiting Location Jumping
-Suspicious GPS Coordinates from [cheater]
-[cheater] Using Fake Location Signals
-Evidence of Location Tampering by [cheater]
-Unrealistic Travel Routes by [cheater]
-GPS Anomalies Linked to [cheater]
-[cheater] Location Data Does Not Match Reality
-Suspicious Location Patterns for [cheater]
-[cheater] Detected Using GPS Manipulation
-Unrealistic Location Switching by [cheater]
-Signs of Location Fabrication from [cheater]
-[cheater]'s Location Data Defies Physics
-Frequent Impossible Jumps by [cheater]
-GPS Signal Tampering Suspected for [cheater]
-[cheater] Exhibits Fake Location Behavior
-Inconsistent Geo-Data from [cheater]
-Unrealistic Teleportation by [cheater]
-Geo-location Fabrication Detected on [cheater]
-Irregular Location Logs for [cheater]
-GPS Spoofing Confirmed on [cheater]'s Account
-[cheater]'s Position Data Fails Consistency Checks
-Unnatural Travel Behavior by [cheater]
-[cheater]'s Location Updates Defy Physical Limits
-GPS Data Discrepancies Noticed for [cheater]
-Rapid Location Fluctuations from [cheater]
-[cheater] Exhibiting Impossible Travel Speeds
-GPS Location Forgery Detected on [cheater]
-[cheater] Account Flags for Fake Positioning
-Unnatural Movement Patterns Identified for [cheater]
-Repeated Teleportation Events by [cheater]
-[cheater]'s Location History Inconsistent with Reality
-Multiple Geolocation Anomalies Linked to [cheater]
-[cheater] Showing Unrealistic Location Jumps
-Suspected GPS Manipulation by [cheater]
-[cheater] Account Displays Phantom Locations
-Unnatural Teleportation Patterns Found for [cheater]
-Repeated Location Discrepancies from [cheater]
-[cheater] Position Data Violates Movement Rules
-Impossible Travel Speeds Recorded for [cheater]
-[cheater]'s Location Logs Contradict Physical Limits
-Evidence of Location Spoofing by [cheater]
-Irregular GPS Data from [cheater] Account
-[cheater] Shows Inconsistent Geolocation Logs
-Suspected Fake GPS Usage by [cheater]
-Unrealistic Movement Patterns Detected for [cheater]
-Strong Indications of GPS Spoofing by [cheater]
-[cheater]'s Location Data Exhibits Abnormal Jumps
-Repeated Location Falsification Detected for [cheater]
-[cheater]'s Movement Patterns Are Inconsistent With Reality
-Possible Use of Location Spoofing Tools by [cheater]
-Detected Location Spoofing Activity by [cheater]
-Unrealistic Travel Patterns Observed in [cheater]'s Account
-GPS Manipulation Suspected for [cheater]
-Irregular Location Updates Suggest Falsification by [cheater]
-[cheater]'s Account Shows Signs of Location Tampering
-Location Anomalies Suggesting Spoofing by [cheater]  
-Unrealistic Geographic Movement Patterns in [cheater]'s Account  
-Potential GPS Manipulation by [cheater]  
-Inconsistent Location Reports from [cheater]  
-Suspicious Location Jumping Detected for [cheater]  
-Spoofing suspected at [timestamp]
-Player [cheater] likely faked location
-False GPS detected for [cheater]
-Impossible travel pattern flagged
-[cheater] showed teleport-like movement
-Inconsistent GPS logs for [cheater]
 [cheater] accessed distant portals rapidly
-Location spoofing suspicion raised
+[cheater] Account Displays Phantom Locations
+[cheater] Account Exhibits Signs of GPS Spoofing
+[cheater] Account Exhibits Signs of GPS Spoofing  
+[cheater] Account Flags for Fake Positioning
+[cheater] Account Shows GPS Spoofing Patterns
+[cheater] Account Shows GPS Spoofing Patterns  
+[cheater] Account Shows Signs of Fake GPS Use
+[cheater] Account Shows Signs of Fake GPS Use  
+[cheater] appears to be spoofing again
+[cheater] Detected Spoofing Game Location
+[cheater] Detected Using Fake GPS Coordinates
+[cheater] Detected Using Fake IP and Location Data
+[cheater] Detected Using GPS Manipulation
+[cheater] Detected Using Spoofed Device Fingerprints
+[cheater] Detected Using Spoofed Login Information
+[cheater] Detected Using Spoofing Tools
+[cheater] Detected with Fake Authentication Tokens
+[cheater] Detected With Unauthorized Spoofed Credentials
+[cheater] Engaged in Device and Location Spoofing
+[cheater] Engaged in Device Spoofing
+[cheater] Engaged in GPS and Device Spoofing
+[cheater] Engaged in Identity and Location Spoofing
+[cheater] Engaged in IP and Device Spoofing
+[cheater] Engaged in Multi-Faceted Spoofing Activities
+[cheater] Engaged in Spoofing to Evade Restrictions
+[cheater] Engaged in Spoofing to Gain Unfair Access
+[cheater] Engaged in Unauthorized Location Spoofing
+[cheater] Exhibiting Impossible Travel Speeds
+[cheater] Exhibiting Location Jumping
+[cheater] Exhibits Fake Location Behavior
+[cheater] Flagged for Location Falsification
+[cheater] Flagged for Location Falsification  
+[cheater] Flagged for Unauthorized Location Software
+[cheater] Flagged for Unauthorized Location Software  
+[cheater] Involved in Authentication Spoofing
+[cheater] Involved in Identity Spoofing
+[cheater] Involved in Spoofed Login Attempts
+[cheater] Involved in Spoofing for Unfair Advantage
+[cheater] Location Data Does Not Match Reality
+[cheater] Location Data Raises Flags
+[cheater] May Be Exploiting GPS Spoofing Techniques
+[cheater] May Be Exploiting GPS Spoofing Techniques  
+[cheater] May Be Manipulating GPS Signals
+[cheater] May Be Manipulating GPS Signals  
+[cheater] May Be Spoofing Geographical Position
+[cheater] May Be Spoofing Geographical Position  
+[cheater] May Be Using Third-Party Spoofing Tools
+[cheater] May Be Using Third-Party Spoofing Tools  
+[cheater] Position Data Violates Movement Rules
+[cheater] Possibly Exploiting Location Manipulation
+[cheater] Possibly Exploiting Location Manipulation  
+[cheater] Possibly Using Fake Location Tools
+[cheater] Possibly Using Fake Location Tools  
+[cheater] showed teleport-like movement
+[cheater] Showing Unrealistic Location Jumps
+[cheater] Shows Inconsistent Geolocation Logs
+[cheater] Spoofing Player Identity Details
+[cheater] Suspected of Fake GPS Use
+[cheater] Suspected of Falsifying Position Data
+[cheater] Suspected of Falsifying Position Data  
+[cheater] Suspected of Spoofing Multiple Accounts
+[cheater] Using Device Spoofing to Bypass Detection
+[cheater] Using Fake Authentication Methods
+[cheater] Using Fake Device IDs and Spoofing Tools
+[cheater] Using Fake Device Signatures
+[cheater] Using Fake GPS Location Spoofing
+[cheater] Using Fake Location Signals
+[cheater] Using GPS and IP Spoofing to Evade Detection
+[cheater] Using Location Spoofing Tools
+[cheater] Using Spoofed Access Points to Gain Advantage
+[cheater] Using Spoofed Authentication Data
+[cheater] Using Spoofed Credentials
+[cheater] Using Spoofed Credentials to Access Services
+[cheater] Using Spoofed IDs and Credentials Illegally
+[cheater] Using Spoofed IP Addresses
+[cheater] Using Spoofing Techniques to Mask Location
+[cheater] Warping Across Regions
+[cheater]'s Account Shows Signs of Location Tampering
+[cheater]'s Activity Seems Unnatural
+[cheater]'s Location Data Defies Physics
+[cheater]'s Location Data Does Not Match Reality
+[cheater]'s Location Data Does Not Match Reality  
+[cheater]'s Location Data Exhibits Abnormal Jumps
+[cheater]'s Location Data Inconsistent
+[cheater]'s Location History Inconsistent with Reality
+[cheater]'s Location Logs Contradict Physical Limits
+[cheater]'s Location Updates Defy Physical Limits
+[cheater]'s Movement Patterns Are Inconsistent With Reality
+[cheater]'s Position Data Fails Consistency Checks
 Abnormal travel time for [cheater]
-Jump in distance detected at [timestamp]
-Impossible travel detected from [cheater]
-GPS spoofing suspected - evidence attached
-Teleportation between cities reported
-Suspicious portal captures at impossible locations
-Unnatural travel speed between portals
-Location falsification in multiple captures
-Falsified GPS data by [cheater]
-Portal activity inconsistent with location logs
-Suspicious distance covered in short time
-Possible GPS spoofing incident
-Impossible XM traces detected
-Remote capture in restricted zone
-Spoofed presence at historic site
-Location jump between two continents
-Repeated ghosting activity
-Impossible portal capture inside a locked facility  
-High-speed travel across continents  
-Phantom agent in a guarded zone  
 Access breach at restricted tower  
-Suspicious park activity with no witnesses  
-No visual contact, but portals flipped   
-Spoofer linked through secure borders  
-Unseen presence at high-elevation site
-Remote portal capture under tight surveillance
-Impossible field appeared overnight
 Accessed off-limits area without being present
-Phantom agent strike during maintenance
-Unreachable portal hacked with no trace
-Long-range travel inhumanly fast
-Spoofed link chain through private zones
-Unseen agent flips secured nodes
-Sudden activity in isolated restricted trail
-Inaccessible region controlled mysteriously
-Location spoofing detected
-GPS manipulation evidence
-Irregular location patterns
-Suspicious location data
+Account Access Spoofing Suspicion for [cheater]
+Alert: [cheater] Suspected of Location Fraud
+Alert: [cheater] Suspected of Location Fraud  
+Alert: [cheater]'s Account Shows Signs of GPS Spoofing
+Alert: [cheater]'s Account Shows Signs of GPS Spoofing  
+Alert: [cheater]'s Location Data Is Inconsistent
+Alert: [cheater]'s Location Data Is Inconsistent  
+Alert: GPS Data Anomalies Found in [cheater]'s Account
+Alert: GPS Data Anomalies Found in [cheater]'s Account  
+Alert: GPS Spoofing Activities Detected for [cheater]
+Alert: GPS Spoofing Activities Detected for [cheater]  
+Alert: Location Data Tampering Detected for [cheater]
+Alert: Location Data Tampering Detected for [cheater]  
+Alert: Possible GPS Spoofing by [cheater]
+Alert: Possible GPS Spoofing by [cheater]  
+Alert: Possible Use of Location Faking Software by [cheater]
+Alert: Possible Use of Location Faking Software by [cheater]  
+Alert: Suspicious Location Behavior from [cheater]
+Alert: Suspicious Location Behavior from [cheater]  
+Analysis of Spoofed Access Patterns by [cheater]
 Anomalous GPS activity
-Fake coordinates usage
-Inconsistent movement logs
-Location fraud identified
-Position data discrepancies
-Falsified location reports
-Unnatural Location Shifts Detected
-Suspicious GPS Activity Reported
-Location Spoofing Alert
-Geolocation Inconsistency Found
-Evidence of Fake Coordinates
-Location Manipulation Observed
-GPS Data Anomalies Detected
-Suspicious Movement Patterns
-Irregular Location Data Recorded
-Unauthorized Location Change
-GPS jumps suggest location spoofing  
-Impossible travel speeds detected  
-Unrealistic portal hopping patterns  
-Teleportation-like behavior in logs  
-Suspicious geographic anomalies  
-Physical travel constraints violated  
-Multiple simultaneous locations  
 Anomalous GPS coordinate shifts  
+Another spoof report
+Cheater Likely Using Fake Location Tools
+Cheating Concern — Location Inconsistency
+Detected Account Spoofing Behavior by [cheater]
+Detected IP and Device Spoofing by [cheater]
+Detected Location Spoofing Activity by [cheater]
+Detected Spoofed Game Client Info by [cheater]
+Detected Spoofed Login Patterns During [timestamp]
+Detected Spoofed Network Traffic by [cheater]
+Detected Spoofed Signals Linked to [cheater]
+Detected Spoofing Activity During [timestamp] by [cheater]
+Detected Spoofing and Fake Credential Usage by [cheater]
+Detected Spoofing Attempts on User Account [cheater]
+Evidence of Fake Coordinates
+Evidence of GPS Data Manipulation by [cheater]
+Evidence of GPS Data Manipulation by [cheater]  
+Evidence of Location Falsification: [cheater]
+Evidence of Location Spoofing by [cheater]
+Evidence of Location Spoofing in [cheater]'s Gameplay
+Evidence of Location Spoofing in [cheater]'s Gameplay  
+Evidence of Location Tampering by [cheater]
+Evidence of Spoofed Device Info from [cheater]
+Evidence of Spoofed Location in [cheater]'s Gameplay
+Evidence of Spoofed Location in [cheater]'s Gameplay  
+Evidence of Spoofed Login Locations by [cheater]
+Evidence Suggests [cheater] is Spoofing Position
+Evidence Suggests [cheater] is Spoofing Position  
+Evidence Suggests GPS Spoofing by [cheater]
+Evidence Suggests GPS Spoofing by [cheater]  
+Fake coordinates usage
+False GPS detected for [cheater]
+Falsified GPS data by [cheater]
+Falsified location reports
+Flagged Portal Capture — Unrealistic Distance Travelled
+Frequent Impossible Jumps by [cheater]
+Geo-location Fabrication Detected on [cheater]
+Geolocation Inconsistency Found
+GPS Anomalies Linked to [cheater]
+GPS Data Anomalies Detected
+GPS Data Discrepancies Noticed for [cheater]
+GPS Data Inconsistencies Found in [cheater]'s Account
+GPS Data Inconsistencies Found in [cheater]'s Account  
+GPS jumps suggest location spoofing  
+GPS Location Forgery Detected on [cheater]
+GPS manipulation evidence
+GPS Manipulation Suspected for [cheater]
+GPS Signal Tampering Suspected for [cheater]
+GPS Spoofing Concerns
+GPS Spoofing Confirmed on [cheater]'s Account
+GPS Spoofing Detected for [cheater]
+GPS spoofing suspected - evidence attached
+High-speed travel across continents  
+Impossible Capture Pattern
+Impossible field appeared overnight
+Impossible Portal Capture Activity Detected
+Impossible portal capture inside a locked facility  
+Impossible travel detected from [cheater]
+Impossible travel pattern flagged
+Impossible Travel Speeds by [cheater]
+Impossible travel speeds detected  
+Impossible Travel Speeds Recorded for [cheater]
+Impossible XM traces detected
+Inaccessible region controlled mysteriously
+Inconsistent Geo-Data from [cheater]
+Inconsistent GPS logs for [cheater]
+Inconsistent Location Reports from [cheater]  
+Inconsistent movement logs
+Invalid Location Report from [cheater]
+Investigation into Location Spoofing Involving [cheater]
+Investigation Needed for Fake Location Use by [cheater]
+Investigation Needed for Fake Location Use by [cheater]  
+Investigation Needed for Possible Spoofing by [cheater]
+Investigation Needed for Possible Spoofing by [cheater]  
+Investigation of Account Access Spoofing by [cheater]
+Investigation of Account Spoofing by [cheater]
+Investigation of IP Spoofing Linked to [cheater]
+Investigation of Multiple Spoofing Attempts by [cheater]
+Investigation of Spoofed Login Sessions by [cheater]
+Investigation of Spoofed Player Profiles
+Investigation of Spoofing Behavior During [timestamp]
+Investigation of Spoofing Exploits by [cheater]
+Investigation of Spoofing in Game Client by [cheater]
+Investigation of Spoofing Tools Used by [cheater]
+Investigation Ongoing for Spoofing by [cheater]
+Investigation Ongoing for Spoofing Exploits by [cheater]
+Investigation Request: Location Spoofing for [cheater]
+Investigation Request: Location Spoofing for [cheater]  
+Investigation Request: Location Spoofing Suspected for [cheater]
+Investigation Request: Location Spoofing Suspected for [cheater]  
+Investigation Requested for Spoofed Position by [cheater]
+Investigation Requested for Spoofed Position by [cheater]  
+Investigation Requested: GPS Falsification in [cheater]'s Account
+Investigation Requested: GPS Falsification in [cheater]'s Account  
+Irregular GPS Data from [cheater] Account
+Irregular Location Data Recorded
+Irregular Location Logs for [cheater]
+Irregular location patterns
+Irregular Location Updates Suggest Falsification by [cheater]
+Jump in distance detected at [timestamp]
+Likely Location Falsification
+Location Anomalies Found in [cheater]'s Gameplay
+Location Anomalies Found in [cheater]'s Gameplay  
+Location Anomalies Suggesting Spoofing by [cheater]  
 Location data inconsistent with reality  
+Location falsification in multiple captures
+Location fraud identified
+Location jump between two continents
+Location Manipulation Observed
+Location Spoofing Alert
+Location spoofing detected
+Location spoofing suspicion raised
+Long-range travel inhumanly fast
+Multiple Geolocation Anomalies Linked to [cheater]
+Multiple simultaneous locations  
+No visual contact, but portals flipped   
+Phantom agent in a guarded zone  
+Phantom agent strike during maintenance
+Physical travel constraints violated  
+Player [cheater] likely faked location
+Please review the spoofer
+Portal activity inconsistent with location logs
+Position data discrepancies
+Possible GPS Spoofing Detected
+Possible GPS spoofing incident
+Possible Use of Location Spoofing Tools by [cheater]
+Potential GPS Manipulation by [cheater]  
 Potential GPS spoofing software use  
+Questionable Remote Portal Capture
+Rapid Location Fluctuations from [cheater]
+Remote capture in restricted zone
+Remote portal capture under tight surveillance
+Remote Portal Taken Illegally by [cheater]
+Repeated ghosting activity
+Repeated Location Discrepancies from [cheater]
+Repeated Location Falsification Detected for [cheater]
+Repeated Teleportation Events by [cheater]
+Report of GPS Manipulation by [cheater]
+Report of GPS Manipulation by [cheater]  
+Report of Suspected GPS Fraud by [cheater]
+Report of Suspected GPS Fraud by [cheater]  
+Report of Unauthorized GPS Manipulation by [cheater]
+Report of Unauthorized GPS Manipulation by [cheater]  
+Report on Fake GPS Usage by [cheater]
+Report on Fake GPS Usage by [cheater]  
+Report on Potential Location Cheating by [cheater]
+Report on Potential Location Cheating by [cheater]  
+Report on Potential Location Falsification by [cheater]
+Report on Potential Location Falsification by [cheater]  
+Report: [cheater] Using Unauthorized Location Software
+Report: [cheater] Using Unauthorized Location Software  
+Report: [cheater]'s Possible Violation
+Report: GPS Fraud Detected for [cheater]
+Report: GPS Fraud Detected for [cheater]  
+Report: Location Spoofing Detected for [cheater]
+Report: Location Spoofing Detected for [cheater]  
+Report: Unnatural Location Changes by [cheater]
+Report: Unnatural Location Changes by [cheater]  
+Reports Confirm Device Spoofing by [cheater]
+Reports Confirm Location Spoofing to Bypass Rules
+Reports Confirm Spoofing as Method of Cheating
+Reports Confirm Spoofing Attempts from [cheater]
+Reports Confirm Spoofing to Circumvent Rules
+Reports Indicate Identity Spoofing for [cheater]
+Reports Indicate Spoofing on Account [cheater]
+Reports Indicate Use of Spoofing Tools by [cheater]
+Reports of Device and Network Spoofing Incidents
+Reports of GPS Spoofing Activity on [cheater]
+Reports of Network Spoofing Linked to [cheater]
+Reports of Spoofed Device and IP Usage by [cheater]
+Reports of Spoofed Identity Usage by [cheater]
+Reports of Spoofed Network Requests from [cheater]
+Reports of Spoofing and Account Takeover Attempts
+Reports of Spoofing Exploits by [cheater]
+Reports of Spoofing-Related Suspicious Activity
+Reports Show Coordinated Spoofing Activity by [cheater]
+Reports Show Spoofing Violations by [cheater]
+Signs of Location Fabrication from [cheater]
+Spoofed link chain through private zones
+Spoofed presence at historic site
+Spoofer linked through secure borders  
+Spoofing Activity Analysis Involving [cheater]
+Spoofing Attack Traces Linked to [cheater]
+Spoofing Attempts Detected from [cheater]
+Spoofing report
+Spoofing suspected at [timestamp]
+Strange Movement Timeline of [cheater]
+Strong Indications of GPS Spoofing by [cheater]
+Sudden activity in isolated restricted trail
+Suspected Fake GPS Usage by [cheater]
+Suspected GPS Manipulation by [cheater]
+Suspected Location Spoofing
+Suspicious Account Spoofing Patterns Detected
+Suspicious Activity from [cheater]
+Suspicious Behavior by [cheater]
+Suspicious distance covered in short time
+Suspicious geographic anomalies  
+Suspicious GPS Activity Reported
+Suspicious GPS and IP Spoofing Patterns by [cheater]
+Suspicious GPS Behavior Linked to [cheater]
+Suspicious GPS Behavior Linked to [cheater]  
+Suspicious GPS Coordinates from [cheater]
+Suspicious GPS Location Changes Indicate Spoofing
+Suspicious IP Spoofing Patterns Associated with [cheater]
+Suspicious Location Behavior Reported for [cheater]
+Suspicious Location Behavior Reported for [cheater]  
+Suspicious Location Changes Indicate Spoofing Attempts
+Suspicious location data
+Suspicious Location Data from [cheater]'s Account
+Suspicious Location Data from [cheater]'s Account  
+Suspicious Location Jumping Detected for [cheater]  
+Suspicious Location Patterns for [cheater]
+Suspicious Location Spoofing Detected for [cheater]
+Suspicious Location Spoofing Detected for [cheater]  
+Suspicious Location Spoofing for Account [cheater]
+Suspicious Movement Patterns
+Suspicious Movement Patterns from [cheater]
+Suspicious Movement Timeline
+Suspicious park activity with no witnesses  
+Suspicious portal captures at impossible locations
+Suspicious Spoofing Activity by [cheater]
+Suspicious Spoofing Activity Under Review for [cheater]
+Suspicious Spoofing Attempts on Multiple Accounts
+Suspicious Spoofing Attempts Recorded for [cheater]
+Suspicious Spoofing Behavior Detected for [cheater]
+Suspicious Spoofing Patterns Found in Access Logs
+Suspicious Spoofing Traces Found for [cheater]
+Suspicious Use of Spoofing Software by [cheater]
+Suspicious Use of Spoofing Software by [cheater]  
+Teleportation between cities reported
+Teleportation Pattern by [cheater]
+Teleportation-like behavior in logs  
+Unauthorized Location Change
+Unnatural Location Shifts Detected
+Unnatural Movement Patterns Identified for [cheater]
+Unnatural Teleportation Patterns Found for [cheater]
+Unnatural Teleports by [cheater]
+Unnatural Travel Behavior by [cheater]
+Unnatural travel speed between portals
+Unreachable Portal Access Detected
+Unreachable portal hacked with no trace
+Unrealistic Geographic Movement Patterns in [cheater]'s Account  
+Unrealistic Location Switching by [cheater]
+Unrealistic Movement Patterns Detected for [cheater]
+Unrealistic portal hopping patterns  
+Unrealistic Portal Reach Detected
+Unrealistic Teleportation by [cheater]
+Unrealistic Travel Pattern Logged
+Unrealistic Travel Patterns Observed in [cheater]'s Account
+Unrealistic Travel Routes by [cheater]
+Unseen agent flips secured nodes
+Unseen presence at high-elevation site
+Unusual In-Game Movement Observed
