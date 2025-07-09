@@ -23,7 +23,7 @@ const reportTypeMap = {
   item: {
     titleFile: "/reports/title_item.txt",
     contentFile: "/reports/item.txt",
-    label: "Others",
+    label: "Trading or selling items",
   },
   other: {
     titleFile: "/reports/title_other.txt",
