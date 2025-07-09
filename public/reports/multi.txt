@@ -57,7 +57,6 @@ Hi Niantic,
 [cheater] consistently uses multiple accounts within a few seconds to deploy resonators. It appears coordinated and suspicious.
 [timestamp]
 [link]
-[codename]
 ---
 To whom it may concern,
 I believe [cheater] is involved in account trading. The agent name changed and activity style is completely different.

@@ -27,10 +27,11 @@ const reportTypeMap = {
   },
 };
 
-const timestampRegex = /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}(?:\.\d{3})?(?:\s*(?:GMT|UTC)?[+\-]\d{1,2}(?::?\d{2})?)?$/;
+const timestampRegex =
+  /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}(?:\.\d{3})?(?:\s*(?:GMT|UTC)?[+\-]\d{1,2}(?::?\d{2})?)?$/;
 
 function validateTimestamp(ts: string) {
-  console.log(`Validating timestamp: "${ts}" `,timestampRegex.test(ts.trim()));
+  console.log(`Validating timestamp: "${ts}" `, timestampRegex.test(ts.trim()));
   return timestampRegex.test(ts.trim());
 }
 
@@ -73,7 +74,7 @@ export default function GenReportPage() {
   const [cheatTimestamp, setCheatTimestamp] = useState(() => {
     const now = new Date();
 
-    const pad = (n: number) => n.toString().padStart(2, '0');
+    const pad = (n: number) => n.toString().padStart(2, "0");
 
     // Convert to Asia/Hong_Kong time manually
     const utc = now.getTime() + now.getTimezoneOffset() * 60000;
@@ -106,7 +107,10 @@ export default function GenReportPage() {
         const titleRes = await fetch(titleFile);
         if (!titleRes.ok) throw new Error("Failed to load titles");
         const titleText = await titleRes.text();
-        const titlesArr = titleText.split("\n").map((l) => l.trim()).filter(Boolean);
+        const titlesArr = titleText
+          .split("\n")
+          .map((l) => l.trim())
+          .filter(Boolean);
 
         // Load contents
         const contentRes = await fetch(contentFile);
@@ -126,7 +130,6 @@ export default function GenReportPage() {
     }
     loadFiles();
   }, [reportType]);
-
 
   // Handle adding another timestamp+link pair (max 5)
   function addTimestampLink() {
@@ -162,23 +165,20 @@ export default function GenReportPage() {
     }
 
     // Replace [link] with cheatLink if present, else remove placeholder
-    if (cheatLink && cheatLink.trim() !== "") {
-      replaced = replaced.replace(/\[link\]/gi, cheatLink.trim());
+    if (/\[link\]/i.test(replaced)) {
+      let combinedLinkBlock = cheatLink.trim();
 
-      // Append [link1][timestamp1] ... [link5][timestamp5] line by line
-      let appendLines = "";
-      for (let i = 0; i < 5; i++) {
-        if (i < timestampLinks.length) {
-          const tsVal = validateTimestamp(timestampLinks[i].timestamp)
-            ? timestampLinks[i].timestamp
-            : "";
-          const linkVal = timestampLinks[i].link.trim();
-          if (linkVal || tsVal) {
-            appendLines += `\n${linkVal}${tsVal ? ` [${tsVal}]` : ""}`;
-          }
+      for (let i = 0; i < 5 && i < timestampLinks.length; i++) {
+        const ts = validateTimestamp(timestampLinks[i].timestamp)
+          ? timestampLinks[i].timestamp
+          : "";
+        const link = timestampLinks[i].link.trim();
+        if (ts || link) {
+          combinedLinkBlock += `\n${ts},${link}`;
         }
       }
-      replaced += appendLines;
+
+      replaced = replaced.replace(/\[link\]/gi, combinedLinkBlock);
     } else {
       replaced = replaced.replace(/\[link\]/gi, "");
     }
@@ -219,14 +219,10 @@ export default function GenReportPage() {
     const content = contents[Math.floor(Math.random() * contents.length)];
 
     // Replace placeholders
-    const replacedTitle = replacePlaceholders(
-      title,
-      userCodename.trim(),
-      cheaterCodename.trim(),
-      mainTimestamp,
-      cheatLink.trim(),
-      cleanedTimestampLinks
-    );
+    const replacedTitle = title
+      .replace(/\[codename\]/gi, userCodename.trim())
+      .replace(/\[cheater\]/gi, cheaterCodename.trim())
+      .replace(/\[timestamp\]/gi, mainTimestamp);
     const replacedContent = replacePlaceholders(
       content,
       userCodename.trim(),

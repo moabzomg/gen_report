@@ -1,6 +1,6 @@
 Agent [cheater] appears to be spoofing their GPS location. They have captured multiple distant portals in an unrealistic time frame and exhibited movement patterns inconsistent with legitimate travel.
 [timestamp]
-
+[link]
 This behavior undermines fair gameplay. Please investigate and take appropriate action.
 
 Reported by: Agent [codename]
@@ -9,6 +9,7 @@ Agent [cheater] has repeatedly taken actions that are not physically possible, s
 
 Such behavior strongly suggests the use of location spoofing or other unauthorized tools.
 [timestamp]
+[link]
 
 Please review and take action if appropriate.
 
@@ -16,6 +17,7 @@ Reported by: Agent [codename]
 ---
 Agent [cheater] has accessed portals in secure or inaccessible locations (e.g., closed military zones, private property, or areas requiring physical access that wasn't available).
 [timestamp]
+[link]
 
 This likely involves GPS spoofing and violates the spirit of Ingress.
 
@@ -24,6 +26,7 @@ Reported by: Agent [codename]
 
 Just wanted to flag that Agent [cheater] has been showing some suspicious movement lately — jumping between portals miles apart with no travel time. Pretty sure they’re spoofing.
 [timestamp]
+[link]
 
 Would appreciate if you could look into this. It really messes up the game for those of us playing fair.
 
@@ -34,6 +37,7 @@ Dear Niantic Support,
 
 I am reporting suspicious activity by Agent [cheater]. Their portal interactions suggest GPS spoofing or similar exploits, as they have moved between distant locations in implausibly short timespans.
 [timestamp]
+[link]
 
 Please investigate this behavior in accordance with your policies.
 
@@ -42,6 +46,7 @@ Agent [codename]
 ---
 Agent [cheater] is likely spoofing. Their travel patterns and link deployments are not physically possible. Please investigate.
 [timestamp]
+[link]
 
 – [codename]
 ---
@@ -49,6 +54,7 @@ During the past 24 hours, Agent [cheater] has rapidly moved between portals loca
 
 The pattern indicates GPS spoofing or an emulator-based attack. This kind of behavior severely affects fair play and coordinated efforts by legitimate agents.
 [timestamp]
+[link]
 
 Thank you for your attention to this matter.  
 Reported by: Agent [codename]
@@ -57,6 +63,7 @@ Hey Niantic,
 
 I’ve noticed Agent [cheater] doing some pretty sketchy stuff — jumping all over the place and capturing portals way too far apart, way too fast. No normal player could do that.
 [timestamp]
+[link]
 
 It’s not fair to everyone else trying to play properly. Could you please look into it?
 
@@ -65,6 +72,7 @@ Agent [codename]
 ---
 It may be worth taking a closer look at Agent [cheater]. Their activity raises concerns about possible GPS spoofing. They’ve been interacting with portals in multiple cities within minutes.
 [timestamp]
+[link]
 
 I’m hoping this is a misunderstanding, but I thought it was worth reporting just in case.
 
@@ -73,6 +81,7 @@ Agent [codename]
 ---
 Agent [cheater] has been jumping between portals that are geographically far apart, completing actions faster than physically possible. This pattern suggests spoofing.
 [timestamp]
+[link]
 
 I request an investigation into their activity history.
 
@@ -82,6 +91,7 @@ To whom it may concern,
 
 There have been multiple instances where Agent [cheater]'s actions do not align with legitimate gameplay expectations. The travel times and sequences seem implausible without location manipulation.
 [timestamp]
+[link]
 
 Please take appropriate measures if necessary.
 
@@ -90,6 +100,7 @@ Agent [codename]
 ---
 I am reporting Agent [cheater] for repeated use of apparent spoofing methods to access high-level or strategic portals. This not only gives them an unfair advantage but also damages the local community’s efforts.
 [timestamp]
+[link]
 
 Please address this as soon as possible.
 
@@ -102,6 +113,7 @@ Agent [cheater] has made several questionable moves, including:
 - Repeated activity in restricted or physically inaccessible areas
 - Portal captures with zero visible travel
 [timestamp]
+[link]
 
 All signs point to location spoofing. A review of their logs should confirm this.
 
@@ -112,6 +124,7 @@ Hi,
 
 Noticed some questionable activity by Agent [cheater] — they seem to be capturing distant portals at a rate that's not achievable through normal means. It may be worth reviewing their recent logs.
 [timestamp]
+[link]
 
 Kind regards,  
 Agent [codename]
@@ -120,6 +133,7 @@ Hey there,
 
 Pretty sure Agent [cheater] has some teleportation tech we don’t know about. They've been popping up in portals miles apart in minutes. Something’s definitely off.
 [timestamp]
+[link]
 
 Could you take a look?
 
@@ -130,11 +144,13 @@ Agent [cheater] has been repeatedly spoofing into local portals and disrupting p
 
 Please review their recent portal interactions and take action if appropriate.
 [timestamp]
+[link]
 
 Submitted by: Agent [codename]
 ---
 Based on portal timestamps and geographic data, Agent [cheater]'s activity suggests spoofing. The travel time between actions is physically impossible without using GPS manipulation tools.
 [timestamp]
+[link]
 
 Please examine logs for rapid travel and improbable sequences.
 
@@ -142,10 +158,12 @@ Agent [codename]
 ---
 [cheater] has been accessing portals in different cities within minutes. This is most likely GPS spoofing.
 [timestamp]
+[link]
 
 ---
 Please investigate [cheater] for suspected location spoofing. Their portal activity spans implausible distances in very short timeframes, inconsistent with normal gameplay.
 [timestamp]
+[link]
 
 ---
 [cheater] has demonstrated multiple signs of violating Ingress Terms of Service. Their actions include:
@@ -154,35 +172,42 @@ Please investigate [cheater] for suspected location spoofing. Their portal activ
 - Performing actions in physically restricted or inaccessible areas  
 - Recharging or deploying with suspicious accuracy and timing  
 [timestamp]
+[link]
 
 Such behavior strongly suggests GPS spoofing or automation. A detailed review of their account activity is warranted.
 ---
 [cheater] appears to be operating multiple accounts simultaneously to flip and capture portals. This gives them an unfair advantage and violates game rules.
 [timestamp]
+[link]
 
 ---
 [cheater] has been repeatedly interfering with fair gameplay in our local area. They appear at portals with no legitimate travel time, often in restricted or remote areas. Their actions disrupt legitimate agents' operations and compromise the spirit of competitive play. This seems to be a case of sustained spoofing or unauthorized automation.
 
 Please consider reviewing logs and taking corrective action.
 [timestamp]
+[link]
 
 ---
 Noticed unusual activity by [cheater] — actions across large distances in rapid succession. Might be worth reviewing.
 [timestamp]
+[link]
 
 ---
 The travel and link pattern of [cheater] over the past 48 hours shows implausible movement speeds between portals located hundreds of kilometers apart. The timestamps indicate teleportation or GPS spoofing, as there's no physical way to achieve such movements in real time. Their recharge accuracy also seems automated. Please verify the integrity of this account.
 [timestamp]
+[link]
 
 ---
 [cheater] is recharging remote portals with perfect timing during every attack. Suspect they’re using automated scripts or bots.
 [timestamp]
+[link]
 
 ---
 Hi,
 
 I'm reporting [cheater] for suspected GPS spoofing. Their movements are inconsistent with real-world travel. Please investigate their portal captures that occurred at impossible intervals and distances.
 [timestamp]
+[link]
 
 Thanks,  
 [codename]
@@ -191,6 +216,7 @@ Hello,
 
 I've noticed [cheater] capturing portals in various distant cities within a short time frame. This suggests location falsification and gives them an unfair advantage in the game.
 [timestamp]
+[link]
 
 Regards,  
 [codename]
@@ -199,6 +225,7 @@ Dear Niantic Ops,
 
 Kindly review [cheater]’s actions on the intel map. The rapid jumps between distant portals are not physically possible. I believe this behavior qualifies as spoofing.
 [timestamp]
+[link]
 
 Best,  
 [codename]
@@ -207,6 +234,7 @@ To whom it may concern,
 
 Yet again, [cheater] has appeared in multiple cities far apart within an hour. This isn’t the first time. Please check their travel logs.
 [timestamp]
+[link]
 
 Thank you,  
 [codename]
@@ -215,6 +243,7 @@ Hi Ingress Support,
 
 This is a report regarding [cheater]. They’ve gained control of portals hundreds of kilometers apart with no visible travel trail or logical movement pattern. Looks like classic spoofing.
 [timestamp]
+[link]
 
 Sincerely,  
 [codename]
@@ -223,6 +252,7 @@ Hi,
 
 I'd like to report [cheater] for apparent spoofing. The portals were captured in remote locations within minutes of each other, making it logistically impossible by any normal means.
 [timestamp]
+[link]
 
 Best regards,  
 [codename]
@@ -231,6 +261,7 @@ Hello,
 
 I noticed [cheater] has been capturing portals in distant regions with no legitimate travel time in between. This strongly suggests GPS spoofing.
 [timestamp]
+[link]
 
 Thank you,  
 [codename]
@@ -239,6 +270,7 @@ To whom it may concern,
 
 The recent activity from [cheater] shows impossible movement between cities in a short span. Please investigate this suspected spoofing case.
 [timestamp]
+[link]
 
 Sincerely,  
 [codename]
@@ -247,6 +279,7 @@ Hi Niantic team,
 
 [cheater] interacted with a portal located on private property that is inaccessible to the public. This raises concerns about location falsification.
 [timestamp]
+[link]
 
 Regards,  
 [codename]
@@ -255,6 +288,7 @@ Dear support,
 
 There is a repeated pattern of [cheater] deploying resonators at hard-to-reach portals instantly after capturing others far away. This seems like clear spoofing.
 [timestamp]
+[link]
 
 Thanks,  
 [codename]
@@ -263,6 +297,7 @@ Hi,
 
 I'd like to report suspected GPS spoofing by [cheater]. The portals accessed are across regions with no plausible travel explanation.
 [timestamp]
+[link]
 
 [codename]
 ---
@@ -270,6 +305,7 @@ Dear team,
 
 I observed [cheater] capturing portals in rapid succession in distant areas. This travel speed is not humanly possible.
 [timestamp]
+[link]
 
 Thanks,  
 [codename]
@@ -278,6 +314,7 @@ Hello,
 
 It's clear that [cheater] was not physically present at a series of remote portals. This strongly points to location manipulation.
 [timestamp]
+[link]
 
 Regards,  
 [codename]
@@ -286,6 +323,7 @@ Niantic,
 
 Please look into [cheater] for spoofing. This player has captured mountaintop portals multiple times within 30 minutes of city-based portals.
 [timestamp]
+[link]
 
 Regards,  
 [codename]
@@ -294,6 +332,7 @@ Hi there,
 
 The timeline of [cheater]'s portal captures is inconsistent with any form of realistic travel. It indicates possible use of spoofing apps.
 [timestamp]
+[link]
 
 [codename]
 ---
@@ -301,6 +340,7 @@ Hi,
 
 I suspect [cheater] is not playing fairly. The activity logs seem off, especially given how quickly they move between portals. Can you please investigate?
 [timestamp]
+[link]
 
 Thanks,
 [codename]
@@ -309,6 +349,7 @@ Dear Niantic,
 
 There's been strange behavior by [cheater] that appears to violate the Terms of Service. They are constantly active in multiple cities without proper travel time.
 [timestamp]
+[link]
 
 Best regards,
 [codename]
@@ -317,6 +358,7 @@ Hey,
 
 Just a heads up that [cheater] captured portals in two districts within 10 minutes. Not possible by foot or even car. Looks like GPS spoofing.
 [timestamp]
+[link]
 
 Cheers,
 [codename]
@@ -325,6 +367,7 @@ Hi there,
 
 Could you please look into [cheater]? They’ve been bouncing between far-off portals in a way no human can physically manage.
 [timestamp]
+[link]
 
 Thanks,
 [codename]
@@ -333,6 +376,7 @@ To whom it may concern,
 
 [cheater] deployed a resonator on a remote mountain trail, where no ingress player was seen. It’s highly suspicious.
 [timestamp]
+[link]
 
 Sincerely,
 [codename]
@@ -341,6 +385,7 @@ Niantic team,
 
 [cheater] completed a full link star over 3 cities in under 1 hour. Impossible without location falsification.
 [timestamp]
+[link]
 
 Regards,
 [codename]
@@ -349,6 +394,7 @@ Hello,
 
 I witnessed [cheater] instantly recapture 3 portals across different zones, mere seconds apart. Definitely not legit.
 [timestamp]
+[link]
 
 Thanks,
 [codename]
@@ -357,6 +403,7 @@ Dear support,
 
 Requesting a review of [cheater] for frequent GPS anomalies. Portal activities far exceed normal movement expectations.
 [timestamp]
+[link]
 
 [codename]
 ---
@@ -364,6 +411,7 @@ Hi Niantic team,
 
 Analysis shows [cheater] moves at speeds and distances that defy physics. Likely GPS spoofing.
 [timestamp]
+[link]
 
 Thanks,
 [codename]
@@ -372,6 +420,7 @@ Dear Support,
 
 [cheater]'s location ping jumps between distant areas within seconds. This suggests location falsification.
 [timestamp]
+[link]
 
 Best regards,
 [codename]
@@ -380,6 +429,7 @@ Hello,
 
 Multiple reports show [cheater] teleporting across regions, which is not possible without fake GPS tools.
 [timestamp]
+[link]
 
 Sincerely,
 [codename]
@@ -388,6 +438,7 @@ Hi,
 
 [cheater]'s location history has many impossible jumps. Please investigate for spoofing.
 [timestamp]
+[link]
 
 Regards,
 [codename]
@@ -396,6 +447,7 @@ Team,
 
 [cheater] seems to use apps to fake their GPS position to gain unfair advantage.
 [timestamp]
+[link]
 
 Thank you,
 [codename]
@@ -404,6 +456,7 @@ Hello Niantic,
 
 Data reveals [cheater] moves across continents in minutes. This is a strong indication of GPS falsification.
 [timestamp]
+[link]
 
 Cheers,
 [codename]
@@ -412,6 +465,7 @@ Dear Niantic,
 
 Unnatural movement and teleportation detected on [cheater]'s account. Please verify location data.
 [timestamp]
+[link]
 
 [codename]
 ---
@@ -419,6 +473,7 @@ Hi,
 
 [cheater]’s logs show inconsistent GPS data and impossible travel times.
 [timestamp]
+[link]
 
 Best,
 [codename]
@@ -427,6 +482,7 @@ Hello Niantic Team,
 
 Analysis reveals [cheater]'s location data jumps erratically beyond normal movement capabilities.
 [timestamp]
+[link]
 
 Please investigate.
 
@@ -437,6 +493,7 @@ Hi,
 
 [cheater]'s GPS data shows repeated jumps across large distances within seconds, which is impossible.
 [timestamp]
+[link]
 
 Best,
 [codename]
@@ -445,6 +502,7 @@ Dear Support,
 
 There is strong evidence [cheater] is using fake GPS to manipulate location-based gameplay.
 [timestamp]
+[link]
 
 Regards,
 [codename]
@@ -453,6 +511,7 @@ Team,
 
 The location history of [cheater] suggests tampering with GPS signals or using location spoofing tools.
 [timestamp]
+[link]
 
 Cheers,
 [codename]
@@ -461,6 +520,7 @@ Hi Niantic,
 
 [cheater] moves along routes that do not physically exist, indicating location falsification.
 [timestamp]
+[link]
 
 Thank you,
 [codename]
@@ -469,6 +529,7 @@ Hello,
 
 [cheater]'s movement speed and direction are inconsistent with realistic player behavior.
 [timestamp]
+[link]
 
 Please take action.
 
@@ -478,6 +539,7 @@ Dear Niantic,
 
 GPS anomalies and impossible travel speeds linked to [cheater]'s account.
 [timestamp]
+[link]
 
 Regards,
 [codename]
@@ -486,6 +548,7 @@ Hi Team,
 
 Suspicious location patterns detected on [cheater]'s profile, suggesting GPS spoofing.
 [timestamp]
+[link]
 
 Best regards,
 [codename]
@@ -494,6 +557,7 @@ Hello Niantic,
 
 [cheater] shows frequent, impossible location switches that indicate GPS spoofing.
 [timestamp]
+[link]
 
 Please investigate this account.
 
@@ -504,6 +568,7 @@ Hi Support,
 
 Multiple impossible GPS jumps detected on [cheater]'s account.
 [timestamp]
+[link]
 
 This strongly suggests location manipulation.
 
@@ -514,6 +579,7 @@ Dear Team,
 
 Data indicates [cheater] is falsifying their location to gain unfair advantage.
 [timestamp]
+[link]
 
 Kindly take appropriate action.
 
@@ -524,6 +590,7 @@ Niantic Team,
 
 [cheater]'s travel patterns do not match real-world geography, showing likely location spoofing.
 [timestamp]
+[link]
 
 Thanks,
 [codename]
@@ -532,6 +599,7 @@ Hi,
 
 [cheater] has inconsistent geo-location data that violates game policies.
 [timestamp]
+[link]
 
 Please review and act.
 
@@ -541,6 +609,7 @@ Hello,
 
 GPS anomalies and unrealistic location data tied to [cheater].
 [timestamp]
+[link]
 
 Recommend investigation.
 
@@ -551,6 +620,7 @@ Dear Niantic,
 
 Evidence shows [cheater] is manipulating GPS signals for in-game benefits.
 [timestamp]
+[link]
 
 Please take action.
 
@@ -561,6 +631,7 @@ Hi Team,
 
 [cheater]'s account has suspicious location data incompatible with physical movement.
 [timestamp]
+[link]
 
 Thank you,
 [codename]
@@ -569,6 +640,7 @@ Hi Niantic,
 
 [cheater]'s location records show teleportation events incompatible with normal play.
 [timestamp]
+[link]
 
 Please investigate promptly.
 
@@ -579,6 +651,7 @@ Hello,
 
 Analysis confirms [cheater] is fabricating geo-location data to gain an unfair advantage.
 [timestamp]
+[link]
 
 Please take action.
 
@@ -589,6 +662,7 @@ Dear Team,
 
 [cheater]’s GPS logs display irregularities inconsistent with physical movement.
 [timestamp]
+[link]
 
 Kindly review.
 
@@ -599,6 +673,7 @@ Niantic Support,
 
 There is evidence of GPS spoofing associated with [cheater].
 [timestamp]
+[link]
 
 Recommend immediate attention.
 
@@ -609,6 +684,7 @@ Hi,
 
 [cheater]'s position data consistently fails validation against real-world constraints.
 [timestamp]
+[link]
 
 Please verify and act.
 
@@ -619,6 +695,7 @@ Hello,
 
 Unnatural and rapid location changes detected for [cheater].
 [timestamp]
+[link]
 
 This strongly suggests spoofing.
 
@@ -629,6 +706,7 @@ Dear Niantic,
 
 [cheater]’s account updates location data at speeds exceeding physical limits.
 [timestamp]
+[link]
 
 Please investigate.
 
@@ -639,6 +717,7 @@ Hi Team,
 
 GPS discrepancies linked to [cheater] suggest location falsification.
 [timestamp]
+[link]
 
 Thank you for your review.
 
@@ -648,6 +727,7 @@ Hello Niantic,
 
 [cheater]’s location history includes rapid jumps inconsistent with natural movement.
 [timestamp]
+[link]
 
 Please investigate.
 
@@ -658,6 +738,7 @@ Hi Support,
 
 Data shows [cheater] traveling at speeds impossible for a human player.
 [timestamp]
+[link]
 
 Requesting review.
 
@@ -668,6 +749,7 @@ Dear Team,
 
 Signs of GPS forgery on [cheater]'s account suggest foul play.
 [timestamp]
+[link]
 
 Kindly take action.
 
@@ -678,6 +760,7 @@ Niantic,
 
 [cheater] flagged for suspicious location patterns inconsistent with physical travel.
 [timestamp]
+[link]
 
 Please examine.
 
@@ -688,6 +771,7 @@ Hi,
 
 Unnatural movement and repeated teleportation detected for [cheater].
 [timestamp]
+[link]
 
 Please investigate.
 
@@ -698,6 +782,7 @@ Hello,
 
 [cheater]'s location updates defy reality, showing fabricated positions.
 [timestamp]
+[link]
 
 Please act.
 
@@ -708,6 +793,7 @@ Dear Niantic Support,
 
 [cheater] has multiple geolocation inconsistencies in their travel logs.
 [timestamp]
+[link]
 
 Please look into this.
 
@@ -718,6 +804,7 @@ Hi Team,
 
 GPS anomalies linked to [cheater] strongly suggest location spoofing.
 [timestamp]
+[link]
 
 Please review.
 
@@ -727,6 +814,7 @@ Hello Niantic Team,
 
 Data indicates [cheater] is using fake GPS locations with unrealistic jumps.
 [timestamp]
+[link]
 
 Please investigate and take necessary action.
 
@@ -737,6 +825,7 @@ Hi Support,
 
 We detected suspicious location manipulation on [cheater]'s account.
 [timestamp]
+[link]
 
 Kindly verify and address.
 
@@ -747,6 +836,7 @@ Dear Niantic,
 
 [cheater]'s position data includes impossible points that do not match normal gameplay.
 [timestamp]
+[link]
 
 Please look into this.
 
@@ -757,6 +847,7 @@ Niantic Support,
 
 [cheater] is exhibiting teleportation events inconsistent with any physical travel.
 [timestamp]
+[link]
 
 Please investigate promptly.
 
@@ -767,6 +858,7 @@ Hello,
 
 Location discrepancies from [cheater] indicate falsification attempts.
 [timestamp]
+[link]
 
 Requesting review.
 
@@ -777,6 +869,7 @@ Hi Team,
 
 [cheater]'s movement data violates known physical movement rules.
 [timestamp]
+[link]
 
 Please check and act.
 
@@ -787,6 +880,7 @@ Dear Niantic,
 
 [cheater] has recorded impossible travel speeds within short timeframes.
 [timestamp]
+[link]
 
 
 Thanks,
@@ -796,6 +890,7 @@ Hello Support,
 
 Location logs from [cheater] contradict realistic movement limits.
 [timestamp]
+[link]
 
 Please verify and respond.
 
@@ -810,6 +905,7 @@ Additionally, the reported speed and travel routes violate known physical limita
 
 We recommend a thorough investigation and appropriate action against [cheater] to preserve fair gameplay integrity.
 [timestamp]
+[link]
 
 Thank you for your attention.
 
@@ -822,6 +918,7 @@ This report concerns suspicious activity detected on the account associated with
 
 Such behaviors are classic indicators of GPS spoofing. Given the impact on competitive fairness, we urge the enforcement team to review the logs, verify the authenticity of location data, and take necessary disciplinary measures.
 [timestamp]
+[link]
 
 Please let us know if further information or logs are required.
 
@@ -834,6 +931,7 @@ We have flagged the player [cheater] for suspected location spoofing. The eviden
 
 This suspicious behavior compromises the game environment and may give [cheater] unfair advantages in game events.
 [timestamp]
+[link]
 
 Please conduct a thorough investigation and update us on the findings.
 
@@ -848,6 +946,7 @@ Following a detailed review of [cheater]’s gameplay logs, we found multiple in
 
 Such behavior compromises the integrity of location-based gameplay and affects legitimate players.
 [timestamp]
+[link]
 
 Please prioritize a thorough investigation into [cheater]’s account activities and take the necessary actions.
 
@@ -862,6 +961,7 @@ The account under the alias [cheater] has been flagged for suspicious location d
 
 This is a classic pattern indicating GPS spoofing, which provides unfair advantage in-game.
 [timestamp]
+[link]
 
 We trust Niantic’s team will conduct the appropriate checks and respond accordingly.
 
@@ -874,6 +974,7 @@ We suspect that [cheater] is using location spoofing software. The analysis of m
 
 Such manipulation undermines fair competition and must be addressed.
 [timestamp]
+[link]
 
 Looking forward to your action on this matter.
 
@@ -886,6 +987,7 @@ After reviewing location data from [cheater], we observed multiple instances whe
 
 Such behavior severely undermines the fairness and integrity of gameplay.
 [timestamp]
+[link]
 
 Please prioritize investigation and take necessary enforcement measures.
 
@@ -909,6 +1011,7 @@ The travel logs for [cheater] reveal erratic jumps and inconsistent location tim
 
 We recommend a detailed audit of this account and appropriate action in line with Niantic's policies.
 [timestamp]
+[link]
 
 Thanks and regards,
 [codename]
@@ -921,6 +1024,7 @@ Such behavior provides an unfair advantage and damages gameplay integrity.
 
 Please conduct a thorough review and enforce appropriate action.
 [timestamp]
+[link]
 
 Thank you for your attention.
 
@@ -933,6 +1037,7 @@ The movement logs of [cheater] exhibit frequent teleportation between distant lo
 
 We urge your team to investigate and take corrective measures as necessary.
 [timestamp]
+[link]
 
 Kind regards,  
 [codename]
@@ -943,48 +1048,52 @@ Analysis of location history for [cheater] reveals multiple instances of sudden 
 
 Prompt enforcement will help maintain fair play.
 [timestamp]
+[link]
 
 Thanks,  
 [codename]
 ---
-At [timestamp], [cheater] was observed accessing multiple distant portals within an impossible timeframe. 
+At [timestamp]
+[link], [cheater] was observed accessing multiple distant portals within an impossible timeframe. 
 
 ---
 [cheater] is suspected of falsifying location based on movement patterns. 
 [timestamp]
+[link]
 
 ---
 Strong indication of spoofing by [cheater] near restricted zones. Timestamp:[timestamp]
+[link]
 
 ---
 Unusual GPS drift pattern at [timestamp] — [cheater] may have used location spoofing tools. 
-
+[link]
 ---
 Portal interaction logs show conflicting distances. Player: [cheater], Timestamp: [timestamp]
-
+[link]
  ---
 Map data comparison reveals inconsistent paths for [cheater]. 
 [timestamp]
-
+[link]
 ---
 [cheater] was simultaneously active in distant zones. 
 Evidence: [timestamp]
-
+[link]
 ---
 Impossible route covered in seconds. Suspect: [cheater], Time: [timestamp]
-
+[link]
 ---
 Movement speed exceeded real limits. Player: [cheater]
 [timestamp]
-
+[link]
 ---
 
 
 Dear NIA Ops,
 
-I would like to report highly suspicious activity involving agent [cheater]. On [timestamp], [cheater] was seen capturing and linking portals in [location]—a remote area inaccessible without extended travel. However, intel logs show their presence within minutes at another site several kilometers away.
+I would like to report highly suspicious activity involving agent [cheater]. On [timestamp], [cheater] was seen capturing and linking portals in a remote area inaccessible without extended travel. However, intel logs show their presence within minutes at another site several kilometers away.
 [timestamp]
-
+[link]
 Such movement would require teleportation or location spoofing. Please investigate and take appropriate action.
 
 Kind regards,
@@ -1012,6 +1121,7 @@ Hello,
 It appears [cheater] has been manipulating their physical location in-game. Portals across two districts were controlled nearly simultaneously, which would be implausible even by car.
 
 [timestamp]
+[link]
 
 
 This isn't the first time the player has demonstrated such suspicious behavior. Please investigate this recurring pattern.
@@ -1029,6 +1139,7 @@ Hello Niantic Team,
 I’ve been tracking [cheater]'s activity and the GPS data looks impossible. For example, at [timestamp], they captured a portal in Tokyo, and then at [timestamp1], they took down another portal in New York City.
 
 [timestamp]
+[link]
 
 This kind of teleporting is not feasible without spoofing. Kindly investigate.
 
@@ -1038,13 +1149,14 @@ Dear Niantic Support,
 
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
+[link]
 
 ---
 
 Hi Niantic,
 
 Check out this odd behavior from [cheater]. On [timestamp], they deployed resonators at a portal in London, but just minutes later, they attacked another portal in Paris.
-[timestamp]
+[link]
 
 This timeline suggests the use of falsified location data.
 
@@ -1054,6 +1166,7 @@ Dear Niantic Support,
 
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
+[link]
 
 
 ---
@@ -1073,9 +1186,9 @@ I am [codename], and I am submitting the following report regarding suspicious a
 
 Dear Team,
 
-[cheater]'s movement between two distant portals within seconds (timestamps [timestamp] and [timestamp1]) is suspicious. This strongly indicates GPS spoofing.
+[cheater]'s movement between two distant portals within seconds (timestamps [timestamp] ) is suspicious. This strongly indicates GPS spoofing.
 [timestamp]
-
+[link]
 Thanks for looking into this.
 
 ---
@@ -1084,13 +1197,14 @@ Dear Niantic Support,
 
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
+[link]
 
 ---
 Hello Niantic,
 
-I am reporting suspicious portal interactions by [cheater]. The time gap between [timestamp] and [timestamp1] is too short for legitimate travel.
+I am reporting suspicious portal interactions by [cheater]. The time gap is too short for legitimate travel.
 [timestamp]
-
+[link]
 This may be a case of location falsification.
 
 ---
@@ -1099,12 +1213,12 @@ Dear Niantic Support,
 
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
-
+[link]
 Hi there,
 
 Notice how [cheater]’s portals destroyed are thousands of miles apart. This is likely cheating via GPS spoofing.
 [timestamp]
-
+[link]
 Please investigate.
 
 ---
@@ -1113,11 +1227,13 @@ Dear Niantic Support,
 
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
+[link]
 
 Dear Niantic,
 
 The activity logs of [cheater] show impossible location jumps.
 [timestamp]
+[link]
 
 This violates the game’s fair play policies.
 
@@ -1128,13 +1244,15 @@ Dear Niantic Support,
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 
 [timestamp]
+[link]
 
 ---
 Greetings Niantic,
 
-[cheater]'s activities between [timestamp] and [timestamp1] are physically impossible without GPS spoofing.
+[cheater]'s activities are physically impossible without GPS spoofing.
 
 [timestamp]
+[link]
 
 Kindly review this case.
 ---
@@ -1144,12 +1262,14 @@ Other agents have reported similar findings independently.
 The activity described above seems clearly outside the acceptable behavior.
 The evidence below should assist your investigation.
 [timestamp]
+[link]
 
 Looking forward to your response.
 ---
 I respectfully request a review of agent [cheater]'s actions.
 The evidence below should assist your investigation.
 [timestamp]
+[link]
 
 We appreciate your commitment to fair gameplay.
 Other agents have reported similar findings independently.
@@ -1159,6 +1279,7 @@ I noticed some abnormal activity involving [cheater].
 The evidence below should assist your investigation.
 Please verify these activities using your internal logs.
 [timestamp]
+[link]
 
 I strongly suspect rule-breaking based on repeated patterns.
 Kind regards,
@@ -1169,6 +1290,7 @@ We appreciate your commitment to fair gameplay.
 The evidence below should assist your investigation.
 The activity described above seems clearly outside the acceptable behavior.
 [timestamp]
+[link]
 
 Kind regards,
 
@@ -1177,6 +1299,7 @@ This is a formal report from agent [codename].
 We appreciate your commitment to fair gameplay.
 The activity described above seems clearly outside the acceptable behavior.
 [timestamp]
+[link]
 
 Please take immediate action if warranted.
 ---
@@ -1184,6 +1307,7 @@ I’ve gathered evidence on [cheater] that I believe violates the rules.
 Other agents have reported similar findings independently.
 We appreciate your commitment to fair gameplay.
 [timestamp]
+[link]
 
 Respectfully submitted, [codename]
 
@@ -1193,6 +1317,7 @@ The activity described above seems clearly outside the acceptable behavior.
 We appreciate your commitment to fair gameplay.
 The evidence below should assist your investigation.
 [timestamp]
+[link]
 
 Please verify these activities using your internal logs.
 Respectfully submitted, [codename]
@@ -1204,6 +1329,7 @@ I strongly suspect rule-breaking based on repeated patterns.
 Other agents have reported similar findings independently.
 Please verify these activities using your internal logs.
 [timestamp]
+[link]
 
 Looking forward to your response.
 ---
@@ -1213,6 +1339,7 @@ Other agents have reported similar findings independently.
 The activity described above seems clearly outside the acceptable behavior.
 We appreciate your commitment to fair gameplay.
 [timestamp]
+[link]
 
 Please take immediate action if warranted.
 
@@ -1220,6 +1347,7 @@ Please take immediate action if warranted.
 
 This is a formal report from agent [codename].
 [timestamp]
+[link]
 
 The activity described above seems clearly outside the acceptable behavior.
 Please verify these activities using your internal logs.
@@ -1228,6 +1356,7 @@ Hoping for a fair and thorough review.
 ---
 As an agent in the field, I noticed [cheater] capturing portals far apart in impossible time spans.
 [timestamp]
+[link]
 
 This seems to be clear spoofing behavior. Please investigate accordingly.
 Thank you.
@@ -1235,6 +1364,7 @@ Thank you.
 Hello Niantic team,
 I'm reporting [cheater] for suspected GPS spoofing.
 [timestamp]
+[link]
 
 Their actions defy physical limits and raise concerns among the local community.
 Best regards,
@@ -1242,11 +1372,13 @@ Best regards,
 ---
 This message is to report [cheater] for unusually fast travel between distant locations.
 [timestamp]
+[link]
 
 We suspect location spoofing due to the pattern of portal captures.
 Regards, [codename]
 ---
 [timestamp]
+[link]
 
 The time between actions is not consistent with real-world travel. Agent [cheater] must be spoofing.
 Please take the appropriate steps.
@@ -1255,6 +1387,7 @@ Please take the appropriate steps.
 Dear Ingress support,
 I suspect [cheater] is using a location hack. Their movements across cities in minutes are impossible.
 [timestamp]
+[link]
 
 Appreciate your efforts to keep the game fair.
 Thanks,
@@ -1262,12 +1395,14 @@ Thanks,
 ---
 I'm filing this report because [cheater] performed actions that require superhuman travel.
 [timestamp]
+[link]
 
 This is not fair for the rest of us playing legitimately.
 Best,
 [codename]
 ---
 [timestamp]
+[link]
 
 These records show repeated spoofing activity. We need action from Niantic.
 —
@@ -1276,6 +1411,7 @@ These records show repeated spoofing activity. We need action from Niantic.
 Niantic,
 Our local community is facing persistent spoofing from [cheater]. These actions are ruining gameplay.
 [timestamp]
+[link]
 
 Please take a look and take this seriously.
 Thanks.
@@ -1283,6 +1419,7 @@ Thanks.
 Hi,
 As a concerned player, I believe [cheater] is teleporting across long distances unrealistically.
 [timestamp]
+[link]
 
 This breaks fair play, and we need help addressing it.
 Sincerely,
@@ -1291,12 +1428,14 @@ Sincerely,
 Greetings Niantic,
 Please investigate agent [cheater]. Their portal interactions are impossible given the time gaps.
 [timestamp]
+[link]
 
 Thanks for supporting the integrity of the game.
 [codename]
 ---
 Hi Niantic, I've noticed that [cheater] is accessing remote portals within seconds, far beyond realistic travel time. This strongly suggests spoofing. Please investigate.  
 [timestamp]
+[link]
 
 
 [codename]
@@ -1304,6 +1443,7 @@ Hi Niantic, I've noticed that [cheater] is accessing remote portals within secon
 It’s highly suspicious that [cheater] is attacking portals across cities with no visible activity or travel records. Even locals have confirmed the person wasn’t there physically.  
 Thanks for looking into it.  
 [timestamp]
+[link]
 
 
 [codename]
@@ -1312,6 +1452,7 @@ Dear Ingress team,
 The agent [cheater] keeps flipping and capturing portals in distant towns instantly after local players defend them. Their presence makes no sense geographically.  
 Please verify travel legitimacy.  
 [timestamp]
+[link]
 
 
 [codename]
@@ -1319,6 +1460,7 @@ Please verify travel legitimacy.
 Something strange is going on with [cheater]. They keep showing up in multiple countries within hours—clearly not by legal travel means.  
 Can this be investigated for GPS manipulation?  
 [timestamp]
+[link]
 
 
 [codename]
@@ -1326,6 +1468,7 @@ Can this be investigated for GPS manipulation?
 Hello,  
 We suspect [cheater] is spoofing. They have been attacking portals in remote mountain areas impossible to access at night or during park closures. 
 [timestamp]
+[link]
 [link]
 Thanks,  
 [codename]
