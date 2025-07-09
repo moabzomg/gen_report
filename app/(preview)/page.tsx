@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 
-type ReportType = "spoofing" | "multi" | "software" | "other";
+type ReportType = "spoofing" | "multi" | "software" | "item" | "other";
 
 const reportTypeMap = {
   spoofing: {
