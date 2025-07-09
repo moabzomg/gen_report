@@ -171,7 +171,7 @@ export default function GenReportPage() {
       for (let i = 0; i < 5 && i < timestampLinks.length; i++) {
         const ts = validateTimestamp(timestampLinks[i].timestamp)
           ? timestampLinks[i].timestamp
-          : "";
+          : generateRandomTimestampWithin30Days();
         const link = timestampLinks[i].link.trim();
         if (ts || link) {
           combinedLinkBlock += `\n${ts},${link}`;
