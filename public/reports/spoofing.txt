@@ -1049,22 +1049,18 @@ Analysis of location history for [cheater] reveals multiple instances of sudden 
 Prompt enforcement will help maintain fair play.
 [timestamp]
 [link]
-
 Thanks,  
 [codename]
 ---
 At [timestamp]
 [link], [cheater] was observed accessing multiple distant portals within an impossible timeframe. 
-
 ---
 [cheater] is suspected of falsifying location based on movement patterns. 
 [timestamp]
 [link]
-
 ---
 Strong indication of spoofing by [cheater] near restricted zones. Timestamp:[timestamp]
 [link]
-
 ---
 Unusual GPS drift pattern at [timestamp] — [cheater] may have used location spoofing tools. 
 [link]
@@ -1087,8 +1083,6 @@ Movement speed exceeded real limits. Player: [cheater]
 [timestamp]
 [link]
 ---
-
-
 Dear NIA Ops,
 
 I would like to report highly suspicious activity involving agent [cheater]. On [timestamp], [cheater] was seen capturing and linking portals in a remote area inaccessible without extended travel. However, intel logs show their presence within minutes at another site several kilometers away.
@@ -1098,9 +1092,7 @@ Such movement would require teleportation or location spoofing. Please investiga
 
 Kind regards,
 An concerned agent
-
 ---
-
 Hi there,
 
 Please see the activity of [cheater] on [timestamp] involving impossible travel distances. The agent managed to capture a portal in [city], then within moments appeared in [remote area].
@@ -1112,18 +1104,12 @@ Best regards,
 [codename]
 
 ---
-
-
-
 Hello,
-
-
 It appears [cheater] has been manipulating their physical location in-game. Portals across two districts were controlled nearly simultaneously, which would be implausible even by car.
 
 [timestamp]
 [link]
-
-
+---
 This isn't the first time the player has demonstrated such suspicious behavior. Please investigate this recurring pattern.
 
 Thanks,  
@@ -1133,7 +1119,7 @@ Dear Niantic Support,
 
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 
-
+---
 Hello Niantic Team,
 
 I’ve been tracking [cheater]'s activity and the GPS data looks impossible. For example, at [timestamp], they captured a portal in Tokyo, and then at [timestamp1], they took down another portal in New York City.
@@ -1183,7 +1169,7 @@ Please verify GPS logs for potential spoofing.
 Dear Niantic Support,
 
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-
+---
 Dear Team,
 
 [cheater]'s movement between two distant portals within seconds (timestamps [timestamp] ) is suspicious. This strongly indicates GPS spoofing.
@@ -1214,6 +1200,7 @@ Dear Niantic Support,
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
 [link]
+---
 Hi there,
 
 Notice how [cheater]’s portals destroyed are thousands of miles apart. This is likely cheating via GPS spoofing.
@@ -1228,7 +1215,7 @@ Dear Niantic Support,
 I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
 [link]
-
+--- 
 Dear Niantic,
 
 The activity logs of [cheater] show impossible location jumps.
@@ -1283,7 +1270,7 @@ Please verify these activities using your internal logs.
 
 I strongly suspect rule-breaking based on repeated patterns.
 Kind regards,
-
+[codename]
 ---
 I respectfully request a review of agent [cheater]'s actions.
 We appreciate your commitment to fair gameplay.
@@ -1293,7 +1280,7 @@ The activity described above seems clearly outside the acceptable behavior.
 [link]
 
 Kind regards,
-
+[codename]
 ---
 This is a formal report from agent [codename].
 We appreciate your commitment to fair gameplay.
@@ -1309,8 +1296,8 @@ We appreciate your commitment to fair gameplay.
 [timestamp]
 [link]
 
-Respectfully submitted, [codename]
-
+Respectfully submitted, 
+[codename]
 ---
 [cheater]'s behavior is becoming a serious issue.
 The activity described above seems clearly outside the acceptable behavior.
@@ -1320,8 +1307,8 @@ The evidence below should assist your investigation.
 [link]
 
 Please verify these activities using your internal logs.
-Respectfully submitted, [codename]
-
+Respectfully submitted, 
+[codename]
 ---
 [cheater]'s behavior is becoming a serious issue.
 The evidence below should assist your investigation.
@@ -1656,8 +1643,488 @@ Immediate action is recommended to preserve game fairness and integrity.
 
 Kind regards,  
 [codename]
+---
+Dear Niantic Support Team,
 
+I am writing to report suspicious activity observed at [timestamp], which raises significant concerns about fair gameplay in Ingress. The individual known as [cheater] appears to be engaging in actions that strongly suggest the use of GPS spoofing tools, allowing them to interact with portals across vast distances in an unrealistically short amount of time. Specifically, during the above timestamp, [cheater] was observed capturing and linking portals hundreds of kilometers apart within mere minutes.
 
+Such behavior undermines the integrity of the game and creates an imbalanced experience for those of us who play honestly. It’s particularly discouraging for local agents who strive to maintain and protect their fields and communities. Spoofing not only grants unfair control over key areas but also discourages legitimate players from continued participation.
 
+The following link provides documentation and timestamped evidence for your reference:  
+[link]
 
+I trust your team will look into this case thoroughly and take appropriate action in line with your policies on fair play.
 
+Thank you for your continued commitment to fostering a just and competitive environment.
+
+Respectfully,  
+[codename]
+---
+Niantic, urgent attention needed.
+
+At [timestamp], [cheater] performed a series of actions that completely disrupted regional play. They appeared out of nowhere, rapidly took down portals, and linked them in patterns that are humanly impossible given the terrain and travel time. This strongly suggests the use of location spoofing.
+
+We're not just talking about unfair play — this is sabotage. Legitimate agents who’ve been working hard for weeks had their efforts wiped out in minutes by someone likely sitting comfortably at home, spoofing locations.
+
+[link]
+
+Please act now. Players are losing faith.
+
+[codename]
+---
+To Niantic Enforcement Team,
+
+Upon technical review of gameplay logs recorded on [timestamp], it appears that [cheater] manipulated location data via GPS spoofing tools, likely facilitated by third-party software such as Fake GPS or similar root-based apps. Portal interactions occurred in geographically disparate regions — some over 300 km apart — within an impossibly short time window (less than 10 minutes between captures).
+
+Furthermore, the link structures executed by [cheater] do not align with any viable physical traversal path, and their timing is perfectly aligned with standard auto-routing scripts commonly found in bot-assisted play.
+
+[link]
+
+I urge the team to verify device signatures, IP history, and action timestamps to confirm this misuse.
+
+Regards,  
+[codename]
+---
+Hey Niantic,
+
+Just dropping a quick note because something fishy happened at [timestamp]. [cheater] somehow managed to take down several portals and link across ridiculous distances like it was nothing. I mean, there’s no way a real person could do all that in such a short time.
+
+It really feels like they’re using some kind of spoofing app — we’ve seen this kind of thing before, and it’s super frustrating for the rest of us trying to play fair.
+
+[link]
+
+Can you check it out? We’d really appreciate some backup on this one.
+
+Thanks,  
+[codename]
+---
+Dear Niantic,
+
+At [timestamp], I witnessed gameplay that left me truly disheartened. [cheater] took over an entire network of portals I’d been maintaining for weeks — not by effort or coordination, but clearly by cheating. They jumped between distant locations in ways no real player ever could, undoing hours of fielding and planning in mere minutes.
+
+As someone who’s invested in the community and put in countless hours walking, biking, planning routes — it’s crushing to see that all invalidated by someone with a spoofing tool and no regard for fairness.
+
+I know you care about this game and the people who play it. So I’m asking, not just as a player, but as someone who genuinely loves this game: please look into it.
+
+[link]
+
+Thank you,  
+[codename]
+
+---
+At [timestamp], [cheater] captured multiple portals across distant regions, over 300 km apart, within minutes. This behavior is physically impossible and points strongly to GPS spoofing.
+
+[link]
+---
+Hello Niantic,
+
+I'm deeply disappointed. On [timestamp], [cheater] showed up in our area and wiped out our field structure in what can only be described as spoof-assisted gameplay. They appeared, acted, and disappeared within an unrealistically short span.
+
+[link]
+
+Please investigate this. It’s ruining the game for those of us who play honestly.
+---
+
+Niantic Support,
+
+During [timestamp], we observed [cheater] jump between portals that require extensive travel with no delay. They linked cross-region portals instantly — this has to be location spoofing.
+
+[link]
+
+Multiple agents witnessed this and are ready to provide statements if needed.
+---
+At [timestamp], [cheater] completed actions that would require 400+ km of travel in less than 6 hours. The travel history, portal hacks, and link creation timeline are impossible for a human agent.
+
+[link]
+
+I strongly suspect third-party automation or spoofing tools.
+---
+Niantic team,
+
+There’s highly suspicious behavior from [cheater] observed at [timestamp]. Over the course of a single day, they travelled more than 400 km, performed hundreds of actions, and had zero rest intervals. This suggests third-party automation tools are in use.
+
+[link]
+---
+Hey,
+
+Just a heads-up — [cheater] is back at it. On [timestamp], they showed up in a restricted-access zone, dropped a field, then vanished. Locals confirmed no one was physically present.
+
+[link]
+
+Spoofing alert again.
+---
+At [timestamp], [cheater] captured portals over 250 km apart within a span of 12 minutes. No agent can realistically travel such a distance that quickly. Spoofing is the only explanation.  
+[link]
+---
+Hello, this happened at [timestamp]: [cheater] suddenly appeared at a portal in a locked, restricted facility, then disappeared after a few actions. No physical access was possible.  
+[link]
+---
+During [timestamp], [cheater] linked portals from opposite corners of the region without any known travel path in between. Other players confirmed no one was seen on-site.  
+[link]
+---
+We watched [cheater] capture, link, and deploy across five towns in under 2 hours at [timestamp]. This level of travel defies physical limits. Clearly GPS manipulation is involved.  
+[link]
+---
+At [timestamp], a remote portal in the mountains was captured by [cheater], who has no history of visiting the area. Spoofed? Almost certainly.  
+[link]
+---
+Niantic, please investigate this urgently. [cheater] covered over 400 km between actions at [timestamp]. That's impossible without spoofing.  
+[link]
+---
+On [timestamp], [cheater] built layered fields over water bodies with no walkways or bridges nearby. No signs of boat usage. This screams spoofing.  
+[link]
+---
+We observed unusual links by [cheater] at [timestamp], connecting portals in ways that violate line-of-sight travel. It’s extremely suspicious.  
+[link]
+---
+[cheater] accessed a military installation portal at [timestamp]. No one is allowed inside except staff. They have spoofed this location.  
+[link]
+---
+Game logs from [timestamp] show [cheater] destroying one field, jumping 200 km, then linking new anchors instantly. This can’t be real.  
+[link]
+---
+At [timestamp], [cheater] captured portals more than 200 km apart within 10 minutes. There is no feasible transportation method to cover that distance so quickly.  
+[link]
+---
+At [timestamp], [cheater] accessed a secure rooftop portal inside a building with restricted access and no public entry. No physical access was possible, and no other agent was observed.  
+[link]
+---
+During [timestamp], [cheater] created cross-links that should have been impossible given known anchor locations. The link pattern strongly suggests GPS manipulation.  
+[link]
+---
+At [timestamp], [cheater] was seen capturing a portal inside a locked reservoir compound that requires ID and clearance. No physical agent was spotted.  
+[link]
+---
+Between [timestamp], [cheater] deployed portals across three separate islands without crossing waterways or being detected in transit. The timeline confirms spoofing.  
+[link]
+---
+At [timestamp], [cheater] destroyed portals and linked across rural areas that require long hikes or vehicle access. Weather and terrain would have made this impossible in that window.  
+[link]
+---
+On [timestamp], [cheater] linked two portals located in restricted airport zones with no ingress or egress records. Neither has public access.  
+[link]
+---
+At [timestamp], [cheater] captured portals inside an active construction zone with locked gates and CCTV. No agent was recorded entering.  
+[link]
+---
+At [timestamp], [cheater] linked and deployed at multiple hilltop sites without time for travel. No vehicle or footpath usage was observed.  
+[link]
+---
+Spoofing was highly likely at [timestamp], when [cheater] jumped 300 km, linked, and disappeared again. Movement patterns were unnatural.  
+[link]
+---
+At [timestamp], [cheater] appeared on a portal located at the summit of a mountain which requires a 4-hour hike to reach. No ascent time was recorded, and no photos or known hikers encountered this person. The player deployed, linked, and disappeared within 3 minutes—physically impossible without GPS manipulation.  
+[link]
+---
+On [timestamp], [cheater] captured portals inside a military base. The base has 24/7 surveillance and strict ID checks, and civilians are not allowed past the outer fence. No permission or badge entry was logged, and the agent vanished after attacking five portals.  
+[link]
+---
+[cheater] linked two portals 600 km apart at [timestamp], less than 12 minutes after visiting a dense urban portal farm. The movement history shows no intermediary steps—only teleportation between high-value sites. No flights or driving logs match this route.  
+[link]
+---
+At [timestamp], a coordinated BAF anchor deployment occurred in the middle of a reservoir island without ferry service or kayak access. [cheater] claimed to have "flown over" but weather logs show 40 km/h winds, and no other players saw any activity.  
+[link]
+---
+On [timestamp], a portal farm was recharged across 12 portals in under 6 seconds, with nearly 200 XM bursts logged with exact 0.5-second intervals. This level of precision and timing points to a macro tool or automation script.  
+[link]
+---
+[cheater] interacted with portals located in a secured government compound that requires staff ID for entry. No one on-site saw the agent, and no access was granted at [timestamp].  
+[timestamp]  
+[link]  
+---
+The agent attacked 5 separate portals located in fenced areas of private farmland, all within 10 minutes, despite the distance and terrain. Local players confirmed no one was present.  
+[timestamp]  
+[link]  
+---
+[cheater] performed portal actions inside an apartment complex with keycard entry. Residents reported no visitors during the time of activity.  
+[timestamp]  
+[link]  
+---
+The agent captured portals deep inside a dense forest trail at night with no vehicle access and no visible flashlight or equipment.  
+[timestamp]  
+[link]  
+---
+On [timestamp], [cheater] moved from one island to another in under 5 minutes, with no available boat, bridge, or air transport.  
+[timestamp]  
+[link]  
+---
+A portal within a university lab building was fully captured during closed hours. No students or staff observed any presence in the area.  
+[timestamp]  
+[link]  
+---
+Multiple rooftop portals were accessed by [cheater] in succession without visible rooftop access tools, keycard, or safety gear.  
+[timestamp]  
+[link]  
+---
+The player deployed mods and links at a locked cemetery site during nighttime closure hours. Local agents confirmed gates were locked.  
+[timestamp]  
+[link]  
+---
+The agent acted at portals spaced several kilometers apart in rapid succession, faster than any public transit allows in the area.  
+[timestamp]  
+[link]  
+---
+A cluster of remote hillside portals was captured on [timestamp], but the hiking path was closed due to recent landslides and clearly posted.  
+[timestamp]  
+[link]  
+---
+[cheater] accessed five rooftop portals that require building management escort. The building confirmed no visitors during the night of [timestamp].  
+[link]  
+---
+On [timestamp], portal activity occurred inside a military restricted zone. Site access requires prior clearance, and no ingress players were authorized.  
+[link]  
+---
+The agent performed portal interactions inside a water treatment facility behind a locked gate. Staff confirmed the site was closed to visitors.  
+[link]  
+---
+At [timestamp], [cheater] captured a portal located on an oil platform with no ferry access. Weather logs show rough sea conditions and no departures.  
+[link]  
+---
+Multiple secure portals in a corporate research facility were flipped and linked by [cheater]. The facility’s access logs show no badge entry.  
+[link]  
+---
+A mountaintop portal was captured during extreme weather. All nearby trails were closed to the public, making real access implausible.  
+[link]  
+---
+[cheater] moved between distant countryside portals with no visible travel method. No car or bike was observed, and GPS jumps appeared unnatural.  
+[link]  
+---
+The agent captured a monument inside a gated national park after hours. Park rangers confirmed all gates were locked overnight.  
+[link]  
+---
+At [timestamp], portal deployment occurred at a closed-airport hangar. The site is inaccessible without airport credentials.  
+[link]  
+---
+Several portals inside a dam facility were captured and modded. Visitors are not allowed without prior group registration.  
+[link]  
+---
+[cheater] captured portals across a closed industrial site where public access is forbidden and monitored. No visitor records or on-site staff noticed any activity at [timestamp].  
+[link]  
+---
+A portal located deep inside a secured facility was accessed and linked from another closed location. Entry to both requires authorization and was unrecorded.  
+[timestamp]  
+[link]  
+---
+Within 10 minutes, [cheater] linked three mountaintop portals, each requiring hours of hiking. No vehicles were seen in any access point.  
+[timestamp]  
+[link]  
+---
+At [timestamp], the player linked portals between islands that have no ferry or bridge connections, and no vessel movement was logged nearby.  
+[link]  
+---
+Several rooftop portals were accessed back-to-back by [cheater] in under 5 minutes without signs of climbing equipment or access permissions.  
+[timestamp]  
+[link]  
+---
+The agent moved through a restricted government-controlled perimeter with no visible entry, then captured internal portals.  
+[timestamp]  
+[link]  
+---
+[cheater] completed a farm destruction route through three military-controlled zones in under 15 minutes. Cameras at checkpoints did not log civilian entry.  
+[timestamp]  
+[link]  
+---
+A long-abandoned rail line with heavily locked gates saw 6 portals taken over and linked by the agent. Locals say no human approached that zone all day.  
+[timestamp]  
+[link]  
+---
+An account operated a sequence of inner-building portals inside a private compound without entry records or observed physical presence.  
+[timestamp]  
+[link]  
+---
+Captured and recharged portals along a hiking trail closed for landslide prevention, confirmed by forestry rangers as off-limits at [timestamp].  
+[link]  
+---
+Portals inside a construction site surrounded by tall fencing were captured at [timestamp]. Site security confirmed no access allowed during that period.  
+[link]  
+---
+On [timestamp], [cheater] linked five remote shrines, each in areas with no mobile coverage or road access. No travel logs or physical check-ins.  
+[link]  
+---
+A long-distance link was created across restricted nature reserve areas, each entry point under armed surveillance and locked.  
+[timestamp]  
+[link]  
+---
+A portal inside a sealed, private rooftop garden was captured and linked. Residents confirmed no visitors or residents matched the player's description.  
+[timestamp]  
+[link]  
+---
+Player linked across two separate islands during a storm warning that shut down all ferry services. No flight, vessel, or drone was registered at [timestamp].  
+[link]  
+---
+Inaccessible transmission tower portals were attacked and modded with no visible activity in the vicinity. Maintenance logs show no authorized entry.  
+[timestamp]  
+[link]  
+---
+Portals located beyond barbed wire in a utility substation were fully linked and recharged at [timestamp]. Surveillance confirmed no entry.  
+[link]  
+---
+A sequence of vertical portals on isolated cliff ledges were linked in rapid succession. Rangers confirmed no hikers passed through that trail that day.  
+[timestamp]  
+[link]  
+---
+At [timestamp], three high-security rooftop portals were taken over during heavy rainfall. No person was seen entering or leaving the buildings.  
+[link]  
+---
+An underground railway tunnel portal was captured and linked at [timestamp], even though access requires badge security and is monitored.  
+[link]  
+---
+ [cheater] captured portals on a mountain summit requiring a 4-hour hike. No track logs, summit registry entry, or photo evidence provided.  
+[timestamp]  
+[link]  
+---
+An isolated buoy in the harbor was captured from land, despite a 200-meter water gap and no boat or drone activity recorded that day.  
+[timestamp]  
+[link]  
+---
+During an active typhoon warning, the player linked across areas that were under forced evacuation. No movement was logged between them.  
+[timestamp]  
+[link]  
+---
+Three portals inside a chemical plant were captured and linked. Security footage confirms no visitors or staff matching the profile.  
+[timestamp]  
+[link]  
+---
+Player appeared to leap across three cities within 25 minutes to build a multi-city field, all locations unreachable by vehicle or train.  
+[timestamp]  
+[link]  
+---
+Portal interactions occurred from inside an airport customs zone, despite no record of travel, no visible presence, and no corresponding boarding info.  
+[timestamp]  
+[link]  
+---
+[cheater] linked five underground metro stations within 10 minutes. Travel would have required passing multiple paid gates and security.  
+[timestamp]  
+[link]  
+---
+A restricted access helipad portal was captured and modded during off-hours. Security logs show no activity; roof access was locked.  
+[timestamp]  
+[link]  
+---
+A deep forest shrine was accessed during wildlife closure hours with no vehicle parked nearby and no GPS track uploaded by the agent.  
+[timestamp]  
+[link]  
+---
+A link chain created over several military zones occurred during a weekend when all facilities were closed. Impossible to cross on foot or by air.  
+[timestamp]  
+[link]  
+---
+Agent appeared capturing portals in two cities over 150 km apart within a 20-minute window, impossible by any transport means.  
+[timestamp]  
+[link]  
+---
+Portals inside a government military base were captured and linked during weekend lockdown hours when the base was closed to the public.  
+[timestamp]  
+[link]  
+---
+Multiple portals on a mountain summit with restricted access were claimed without any accompanying GPS track or summit photo evidence.  
+[timestamp]  
+[link]  
+---
+Player’s portal captures align perfectly along a highway inaccessible due to roadworks and closure notices at the time.  
+[timestamp]  
+[link]  
+---
+Agent made a 10-link chain spanning three disconnected islands without any travel logs, confirmed by local authorities as impossible on that day.  
+[timestamp]  
+[link]  
+---
+A portal deep inside a wildlife reserve was captured repeatedly despite no permit or vehicle entry records. Ranger reports confirm no one on site.  
+[timestamp]  
+[link]  
+---
+Agent created links from within a secure airport zone during off-hours, but travel records show no flight or airport presence.  
+[timestamp]  
+[link]  
+---
+Several portals inside a hospital campus were linked quickly during visiting hours, but security camera footage shows no matching visitors.  
+[timestamp]  
+[link]  
+---
+Portal captures occurred inside a restricted industrial facility during a public holiday when the facility was closed.  
+[timestamp]  
+[link]  
+---
+A sequence of portal captures and link builds crossed a large water body without any record of boat or drone use on the captured day.  
+[timestamp]  
+[link]  
+---
+Portals were captured in rapid succession from locations several hundred kilometers apart within a time frame that physically excludes travel.  
+[timestamp]  
+[link]  
+---
+An agent’s activity shows portal captures inside a restricted military compound without any known access or authorization.  
+[timestamp]  
+[link]  
+---
+On [timestamp], the suspect claimed portals simultaneously in two different time zones without any overlapping travel records.  
+[timestamp]  
+[link]  
+---
+A sequence of portal captures follows a perfect straight line through several inaccessible forest areas, suggesting GPS spoofing.  
+[timestamp]  
+[link]  
+---
+Portals inside a secured government office were linked despite the building being closed and heavily guarded on [timestamp].  
+[timestamp]  
+[link]  
+---
+Multiple portals on private property were captured repeatedly at night, despite local reports indicating no physical presence.  
+[timestamp]  
+[link]  
+---
+Agent was active in two cities separated by 300 km on the same day, with overlapping capture times impossible to achieve by legitimate means.  
+[timestamp]  
+[link]  
+---
+Portals inside a research facility with no public access were claimed without any known personnel being present at [timestamp].  
+[timestamp]  
+[link]  
+---
+Repeated captures of high-level portals inside a sealed construction zone during weekends with no public access permits.  
+[timestamp]  
+[link]  
+---
+An agent’s trajectory between portal captures shows teleportation behavior inconsistent with any known mode of transport.  
+[timestamp]  
+[link]  
+---
+Portals captured in two different countries within the same hour, no travel records possible.  
+[timestamp]  
+[link]  
+---
+Agent appeared on GPS coordinates inside a restricted military zone multiple times in one day despite access restrictions.  
+[timestamp]  
+[link]  
+---
+A series of portal captures followed a pattern crossing national parks closed to public access during the weekend.  
+[timestamp]  
+[link]  
+---
+Portals deep inside a private estate were claimed, yet local residents reported no activity.  
+[timestamp]  
+[link]  
+---
+Agent performed portal hacks on a major bridge crossing a large river, despite traffic closure announcements.  
+[timestamp]  
+[link]  
+---
+Multiple portals inside a high-security corporate campus were linked with no recorded visitor logs.  
+[timestamp]  
+[link]  
+---
+Repeated portal captures occurred at times when the location was covered in heavy snow, making physical presence nearly impossible.  
+[timestamp]  
+[link]  
+---
+Agent's activity shows portal captures in quick succession between urban and remote wilderness locations with no feasible transit.  
+[timestamp]  
+[link]  
+---
+Portals inside a hospital complex were captured at times when public access was restricted due to emergency protocols.  
+[timestamp]  
+[link]  
+---
+Agent claimed portals located on restricted airport grounds during overnight curfew hours.  
+[timestamp]  
+[link]  
