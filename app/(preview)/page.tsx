@@ -97,7 +97,7 @@ export default function GenReportPage() {
     return `${year}-${month}-${day} ${hours}:${minutes}:${seconds} GMT+8:00`;
   });
   const [copied, setCopied] = useState(false);
-
+  const { titleFile, contentFile } = reportTypeMap[reportType];
   const handleCopy = () => {
     if (!resultContent) return;
     navigator.clipboard
@@ -120,8 +120,6 @@ export default function GenReportPage() {
       setTimestampLinks([{ timestamp: "", link: "" }]);
 
       try {
-        const { titleFile, contentFile } = reportTypeMap[reportType];
-
         // Load titles
         const titleRes = await fetch(titleFile);
         if (!titleRes.ok) throw new Error("Failed to load titles");
