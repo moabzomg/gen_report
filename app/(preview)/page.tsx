@@ -91,6 +91,20 @@ export default function GenReportPage() {
 
     return `${year}-${month}-${day} ${hours}:${minutes}:${seconds} GMT+8:00`;
   });
+  const [copied, setCopied] = useState(false);
+
+  const handleCopy = () => {
+    if (!resultContent) return;
+    navigator.clipboard
+      .writeText(resultContent)
+      .then(() => {
+        setCopied(true);
+        setTimeout(() => setCopied(false), 2000); // reset after 2 seconds
+      })
+      .catch(() => {
+        alert("Failed to copy");
+      });
+  };
   // Load titles and contents when reportType changes
   useEffect(() => {
     async function loadFiles() {
@@ -490,6 +504,9 @@ export default function GenReportPage() {
             <h2>{resultTitle}</h2>
             <hr />
             <pre>{resultContent}</pre>
+            <button onClick={handleCopy} aria-label="Copy result content">
+              {copied ? "Copied!" : "Copy"}
+            </button>
           </div>
         )}
       </div>
