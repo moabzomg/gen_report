@@ -623,9 +623,6 @@ Simultaneous actions at remote sites imply alt usage. Main cheater: [cheater], T
 Pattern matching with known alts. [cheater] suspected. Data: [timestamp]
 [link]
 ---
-Parallel glyphing actions with little delay. Proof: [timestamp]
-[link]
----
 Alt and main account interactions recorded. Player: [cheater], Time: [timestamp]
 [link]
 ---
@@ -1356,15 +1353,6 @@ This multi-account behavior not only violates terms of service but also creates 
 Kind regards,  
 [codename]
 ---
-During the period of [timestamp], cross-account analysis shows [cheater] using multiple accounts to farm items by repeatedly hacking the same portal with each account. The timing intervals between hacks on separate accounts are too tight for manual switching, indicating automated or scripted multi-account management.
-
-[link]
-
-This exploitation inflates inventory resources illegitimately, undermining normal gameplay economies.
-
-Best regards,  
-[codename]
----
 At [timestamp], metadata collected on login patterns indicates [cheater] logs into multiple accounts within seconds, often switching rapidly during active gameplay sessions. Such behavior facilitates complex tactical advantages, including multi-account defensive shields and offensive portal saturation.
 
 [link]
@@ -1401,15 +1389,6 @@ This coordinated multi-account operation breaches game policies and creates an u
 Kind regards,  
 [codename]
 ---
-At [timestamp], evidence shows that [cheater] toggled rapidly between several accounts, exploiting the ability to hack the same portals repeatedly within short intervals. This behavior suggests automation or scripted switching to maximize resource gains.
-
-[link]
-
-Such abuse disrupts normal game economy and competition.
-
-Best regards,  
-[codename]
----
 The account activity logs at [timestamp] detail synchronized portal captures and link creations by multiple accounts controlled by [cheater]. These accounts consistently operate in lockstep to establish dominant control over contested areas.
 
 [link]
@@ -1428,15 +1407,6 @@ This multi-account abuse must be addressed to preserve game integrity.
 Regards,  
 [codename]
 ---
-At [timestamp], [cheater]’s multiple accounts were identified coordinating portal farming in a concentrated geographic area. The rapid sequence of hacks on the same portals by these accounts is not achievable without simultaneous management.
-
-[link]
-
-This practice is prohibited and unfair to honest players.
-
-Kind regards,  
-[codename]
----
 At [timestamp], analysis of network logs revealed [cheater] managing multiple linked accounts from the same IP address and device fingerprint. These accounts were used to monopolize portal control and artificially farm items.
 
 [link]
@@ -1444,15 +1414,6 @@ At [timestamp], analysis of network logs revealed [cheater] managing multiple li
 This coordinated multi-account usage violates game rules and disrupts equitable gameplay.
 
 Kind regards,  
-[codename]
----
-During the period starting [timestamp], [cheater] rapidly switched between several accounts to repeatedly hack and recharge the same set of portals. The synchronized activity strongly suggests scripted or manual multi-account exploitation.
-
-[link]
-
-Such behavior distorts game economy and is against Niantic’s policies.
-
-Regards,  
 [codename]
 ---
 Data from [timestamp] shows that [cheater]'s multiple accounts operate in a coordinated fashion, capturing and linking portals in unison to dominate an area unfairly.
@@ -1473,15 +1434,6 @@ This breaches the one-account-per-player guideline and requires enforcement acti
 Best regards,  
 [codename]
 ---
-Logs at [timestamp] confirm that [cheater] controls several accounts used to flood the game with portal hacks, gaining resources beyond legitimate means. The simultaneous activity patterns cannot be accidental.
-
-[link]
-
-This practice must be investigated and remediated.
-
-Kind regards,  
-[codename]
----
 Investigation at [timestamp] uncovered that [cheater] operates multiple accounts concurrently to gain unfair advantages. These accounts frequently cooperate, sharing portal control and resources, often from identical IP addresses and device fingerprints.
 
 [link]
@@ -1489,15 +1441,6 @@ Investigation at [timestamp] uncovered that [cheater] operates multiple accounts
 Such multi-accounting breaks game rules and provides [cheater] with an unjust competitive edge.
 
 Best regards,  
-[codename]
----
-During the timeframe beginning at [timestamp], network monitoring revealed coordinated actions between several accounts linked to [cheater]. This includes rapid cycling through accounts to hack, recharge, and farm the same portals repeatedly.
-
-[link]
-
-This artificial inflation of game activity harms the community and is strictly prohibited.
-
-Kind regards,  
 [codename]
 ---
 The logs dated [timestamp] show simultaneous logins from different accounts associated with [cheater], utilizing identical devices and network environments. These accounts synchronized attacks and portal upgrades to dominate territories unfairly.
@@ -1536,15 +1479,6 @@ This breach of the one-account-per-player rule grants unfair advantages and disr
 Thank you for your attention,  
 [codename]
 ---
-At [timestamp], evidence was gathered showing [cheater] switching between multiple accounts to hack and recharge the same portals repeatedly. The rapid cycling cannot be attributed to legitimate multi-player coordination.
-
-[link]
-
-This behavior distorts game statistics and is against Niantic’s policies.
-
-Kind regards,  
-[codename]
----
 During [timestamp], logs showed synchronized activity across accounts linked to [cheater], revealing coordinated resource sharing and portal domination efforts.
 
 [link]
@@ -1579,15 +1513,6 @@ The activity logs from [timestamp] reveal that [cheater] operates several accoun
 This unfair coordination distorts competitive play and should be addressed urgently.
 
 Thank you for your consideration,  
-[codename]
----
-Data captured on [timestamp] indicates that [cheater] switches between multiple accounts to gain repeated benefits such as multiple portal hacks and recharges from the same physical location, a clear abuse of the game's account policies.
-
-[link]
-
-Such actions undermine the game’s fairness and affect the broader community.
-
-Regards,  
 [codename]
 ---
 At [timestamp], patterns emerged showing [cheater] controlling a network of accounts which strategically support each other, making it difficult for other players to compete. These multiple accounts appear to share resources extensively.
@@ -2025,10 +1950,6 @@ One user accessed two accounts on the same mobile device to maximize AP gains an
 [link]  
 ---
 Several accounts under one player's control repeatedly flipped portal ownership in a coordinated pattern.  
-[timestamp]  
-[link]  
----
-Accounts alternated portal hacking and deploying mods to maintain field control with no downtime.  
 [timestamp]  
 [link]  
 ---

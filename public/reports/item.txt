@@ -1390,13 +1390,11 @@ I report suspicious activity by [cheater] involving capsule drops on [timestamp]
 [link]  
 Best regards,  
 [codename]
-
 ---
 At [timestamp], [cheater] was seen distributing capsules with valuable mods, collected almost immediately by dormant accounts.  
 [link]  
 Thank you,  
 [codename]
-
 ---
 On [timestamp], [cheater] dropped multiple capsules containing rare mods, gathered rapidly by low-activity accounts.  
 [link]  
@@ -1404,610 +1402,187 @@ Regards,
 [codename]
 ---
 On [timestamp], capsules were dropped containing Aegis shields and L8 resonators, immediately picked up by dormant accounts.
-
+[link]
 ---
 At [timestamp], multiple capsules with L8 XMP bursters and Ultra Strikes were quickly collected by inactive players.
-
+[link]
 ---
 Capsules dropped at [timestamp] contained Hypercubes and ADA viruses, gathered promptly by low-activity accounts.
-
+[link]
 ---
 During [timestamp], capsules filled with JARVIS viruses and anchor keys were found and swiftly picked up by dormant users.
-
+[link]
 ---
 At [timestamp], capsules holding keys from nowhere and Aegis shields were rapidly collected by inactive accounts.
-
+[link]
 ---
 Capsules with L8 resonators and L8 XMP bursters were dropped on [timestamp], instantly picked up by low-use players.
-
+[link]
 ---
 Suspicious capsule drops containing Ultra Strikes and Hypercubes occurred at [timestamp], quickly gathered by dormant accounts.
-
+[link]
 ---
 On [timestamp], capsules filled with ADA and JARVIS viruses were found and immediately collected by inactive players.
-
+[link]
 ---
 Capsules with anchor keys and keys from nowhere were dropped on [timestamp], rapidly picked up by low-activity accounts.
-
+[link]
 ---
 At [timestamp], multiple capsules containing Aegis shields and L8 resonators were left and swiftly collected by dormant users.
-
+[link]
 ---
 During [timestamp], capsules with L8 XMP bursters and Ultra Strikes were distributed and instantly gathered by inactive players.
-
+[link]
 ---
 Capsules dropped at [timestamp] included Hypercubes and ADA viruses, promptly picked up by low-use accounts.
-
+[link]
 ---
 At [timestamp], capsules holding JARVIS viruses and anchor keys were found and quickly collected by dormant accounts.
-
+[link]
 ---
 Capsules with keys from nowhere and Aegis shields were dropped on [timestamp], immediately picked up by inactive players.
-
+[link]
 ---
 On [timestamp], multiple capsules containing L8 resonators and L8 XMP bursters were left and swiftly gathered by dormant users.
-
+[link]
 ---
 Capsules with Ultra Strikes and Hypercubes were dropped at [timestamp], rapidly collected by low-activity accounts.
-
+[link]
 ---
 During [timestamp], capsules filled with ADA and JARVIS viruses were found and instantly picked up by inactive players.
-
+[link]
 ---
 At [timestamp], capsules holding anchor keys and keys from nowhere were dropped and promptly collected by dormant accounts.
-
+[link]
 ---
 Capsules containing Aegis shields and L8 resonators were dropped on [timestamp], quickly gathered by low-use players.
-
+[link]
 ---
 On [timestamp], multiple capsules with L8 XMP bursters and Ultra Strikes were found and immediately collected by inactive accounts.
-
+[link]
 ---
 Capsules dropped at [timestamp] contained Hypercubes and ADA viruses, rapidly picked up by dormant users.
-
+[link]
 ---
 During [timestamp], capsules filled with JARVIS viruses and anchor keys were left and swiftly gathered by low-activity accounts.
-
+[link]
 ---
 At [timestamp], capsules holding keys from nowhere and Aegis shields were found and instantly collected by inactive players.
-
+[link]
 ---
 Capsules with L8 resonators and L8 XMP bursters were dropped on [timestamp], immediately gathered by dormant accounts.
-
+[link]
 ---
 On [timestamp], multiple capsules containing Ultra Strikes and Hypercubes were found and rapidly picked up by low-use players.
-
+[link]
 ---
 Capsules dropped at [timestamp] included ADA and JARVIS viruses, swiftly collected by inactive users.
-
+[link]
 ---
 During [timestamp], capsules with anchor keys and keys from nowhere were left and promptly gathered by dormant accounts.
-
+[link]
 ---
 At [timestamp], capsules holding Aegis shields and L8 resonators were found and quickly picked up by low-activity players.
----
-I am reporting suspicious activity observed at [timestamp]. Several capsules containing high-level resonators and XMP bursters were dropped and almost instantly retrieved by low-activity accounts. The pattern suggests coordinated farming rather than genuine gameplay.
-
 [link]
-
 ---
-
 At [timestamp], a number of capsules filled with Ultra Strikes and rare mods appeared briefly in the field. These items were quickly collected by accounts showing minimal prior activity, raising concerns of unauthorized account management.
-
 [link]
-
 ---
-
-Please review the capsule drops logged on [timestamp]. The items, including Hypercubes and ADA Refactors, were swiftly picked up by multiple accounts that exhibit behavior consistent with farming or account sharing.
-
-[link]
-
----
-
 During the session on [timestamp], unusual capsule activity was noticed. Keys and high-value gear were dropped in a pattern inconsistent with normal gameplay and rapidly scooped up by dormant accounts.
-
 [link]
-
 ---
-
 Capsule drops at [timestamp] contained an abnormal concentration of rare items such as JARVIS Viruses and Aegis Shields. These were gathered almost immediately by several accounts with suspiciously low interaction history.
-
 [link]
-
 ---
-
-I want to highlight suspicious capsule farming at [timestamp]. Multiple dormant accounts collected a large volume of high-level items with no apparent legitimate in-game activity.
-
-[link]
-
----
-
-Observations from [timestamp] show capsules being dropped and quickly picked up by accounts with almost no portal interaction. The volume and timing strongly indicate unauthorized farming or selling activities.
-
-[link]
-
----
-
 At [timestamp], capsules carrying rare and valuable items were rapidly collected by a group of low-activity agents. This activity disrupts fair play and suggests possible multi-account abuse.
-
 [link]
-
 ---
-
 The pattern of capsule drops on [timestamp] is indicative of exploitative behavior. Items such as Hypercubes and Ultra Strikes appeared momentarily and were gathered by inactive accounts in a coordinated manner.
-
 [link]
-
 ---
-
 During the event on [timestamp], several capsules containing a variety of mods and rare items were observed. Their immediate collection by dormant accounts suggests the use of third-party automation tools.
-
 [link]
-
 ---
-
 On [timestamp], multiple capsules loaded with high-tier gear were detected in a small area. These capsules were instantly picked up by accounts with no prior portal engagement.
-
 [link]
-
 ---
-
-Unusual capsule farming was detected at [timestamp]. Several accounts with negligible activity collected a disproportionate amount of high-value items, pointing toward potential account sharing or selling.
-
-[link]
-
----
-
 Capsule drops noted at [timestamp] contained several Ultra Strikes and keys from nowhere. These were gathered quickly by agents exhibiting abnormal inactivity patterns.
-
 [link]
-
 ---
-
 At [timestamp], a suspicious cluster of capsules appeared, loaded with rare and powerful mods. The immediate pickup by low-use accounts suggests coordinated item hoarding or resale.
-
 [link]
-
 ---
-
 Observations from [timestamp] reveal capsules being dropped and collected at a rate and frequency unusual for normal play, particularly by dormant or new accounts.
-
 [link]
-
 ---
-
 Please investigate the capsule activity recorded on [timestamp]. High-level items were dropped and collected rapidly, with most pickups by agents with minimal playtime.
-
 [link]
-
 ---
-
 Capsules appeared briefly on the map at [timestamp], containing items like ADA Refactors and Aegis Shields. Their swift collection by inactive accounts is suspicious.
-
 [link]
-
 ---
-
-The capsule farming pattern at [timestamp] suggests exploitation of game mechanics. Dormant accounts gathered a large volume of rare gear without normal gameplay indicators.
-
-[link]
-
----
-
-At [timestamp], capsules containing rare gear were found in rapid succession, picked up by low-activity accounts. This behavior is consistent with third-party software usage or multi-account farming.
-
-[link]
-
----
-
 Capsules dropped at [timestamp] included keys from nowhere and Hypercubes, collected nearly instantly by accounts with minimal portal activity.
-
 [link]
-
 ---
-
-During [timestamp], capsule farming was observed involving multiple low-activity accounts collecting high-tier mods and items in quick succession.
-
-[link]
-
----
-
-Suspicious capsule farming detected on [timestamp]. Items were dropped and immediately gathered by agents with limited previous game activity.
-
-[link]
-
----
-
-The capsule drops at [timestamp] contain high-value items picked up in a pattern consistent with account sharing or automated farming.
-
-[link]
-
----
-
 At [timestamp], capsules holding a variety of rare items appeared briefly and were swiftly collected by dormant accounts, indicating possible exploitation.
-
 [link]
-
 ---
-
-Please review the unusual capsule farming activity recorded on [timestamp]. Several dormant accounts collected a high volume of rare items rapidly.
-
-[link]
-
----
-
 Capsule drops on [timestamp] featured a suspiciously high amount of high-level gear, quickly collected by low-use accounts with minimal interaction history.
-
 [link]
-
 ---
-
 Observed at [timestamp], rapid capsule collection by multiple dormant accounts suggests multi-account abuse or third-party tool use.
-
 [link]
-
 ---
-
 Capsules containing Ultra Strikes and Hypercubes were dropped and collected almost simultaneously on [timestamp] by inactive accounts.
-
 [link]
-
 ---
-
-Suspicious farming behavior recorded at [timestamp]. Capsules with valuable mods were swiftly gathered by low-activity agents.
-
-[link]
-
----
-
 Capsules loaded with Aegis Shields and JARVIS Viruses appeared at [timestamp], immediately picked up by several dormant accounts.
-
 [link]
-
 ---
-
 Unusual item pickup patterns at [timestamp], involving capsules containing rare gear collected by agents with low activity profiles.
-
 [link]
-
 ---
-
 Capsule drops at [timestamp] included high-level gear rapidly collected by accounts showing minimal play history.
-
 [link]
-
 ---
-
-At [timestamp], coordinated capsule farming was detected, with several dormant accounts collecting rare items in short timeframes.
-
-[link]
-
----
-
 Observations at [timestamp] show rapid capsule collection by agents suspected of using multiple accounts or third-party tools.
-
 [link]
-
 ---
-
-Suspicious activity involving capsule farming took place on [timestamp], with several low-activity accounts collecting rare items.
-
-[link]
-
----
-
 On [timestamp], high-value capsules were dropped and quickly picked up by dormant accounts, disrupting fair gameplay.
-
 [link]
-
 ---
-
-Capsule farming patterns recorded on [timestamp] strongly suggest use of unauthorized methods or account sharing.
-
-[link]
-
----
-
 Capsules with rare mods appeared briefly at [timestamp], instantly collected by low-activity accounts.
-
 [link]
-
 ---
-
 During [timestamp], several dormant accounts gathered high-level gear from capsules dropped in a suspicious pattern.
-
 [link]
-
 ---
-
 At [timestamp], suspicious capsule drops loaded with valuable items were swiftly picked up by low-use agents.
-
 [link]
-
 ---
-
-Capsule farming activity noted on [timestamp] involves rapid collection of rare items by multiple dormant accounts.
-
-[link]
-
----
-
 Capsules containing keys from nowhere and Hypercubes were dropped at [timestamp] and almost immediately collected by inactive agents.
-
 [link]
-
 ---
-
-Please investigate capsule farming activities at [timestamp], as dormant accounts collected a large number of rare items rapidly.
-
-[link]
-
----
-
 During [timestamp], capsules with rare mods and gear were found and swiftly collected by low-activity agents.
-
 [link]
-
 ---
-
-Unusual capsule farming observed on [timestamp], indicating possible third-party software use or multi-account exploitation.
-
-[link]
-
----
-
 Capsule drops containing Ultra Strikes and Aegis Shields appeared briefly on [timestamp] and were quickly gathered by inactive accounts.
-
 [link]
-
 ---
-
 At [timestamp], multiple dormant accounts collected a suspicious amount of rare gear from capsules dropped in quick succession.
-
 [link]
-
 ---
-
-Suspicious capsule farming noted on [timestamp], involving rapid collection of rare items by low-activity agents.
-
-[link]
-
----
-
-Please review the capsule farming pattern recorded at [timestamp]. Multiple dormant accounts gathered high-tier gear swiftly.
-
-[link]
-
----
-
 Capsule drops at [timestamp] were immediately collected by agents exhibiting minimal prior portal activity.
-
 [link]
-
----
-
-At [timestamp], rapid capsule collection by several dormant accounts suggests unauthorized farming or account sharing.
-
-[link]
-
----
-
-Capsules loaded with rare mods and keys appeared at [timestamp], collected almost instantly by low-use accounts.
-
-[link]
-
----
-
-During [timestamp], suspicious capsule farming activity was recorded involving multiple inactive agents gathering high-level items.
-
-[link]
----
-Hi Niantic Team,
-
-I’ve noticed suspicious capsule farming activity at [timestamp]. Several capsules loaded with rare items like Ultra Strikes and JARVIS Viruses appeared briefly and were quickly picked up by accounts with very low activity history. These accounts seem to be coordinated to farm items unfairly, which affects the game’s integrity.
-
-Please investigate these accounts for potential multi-account abuse or botting.
-
-Thanks,  
-[codename]
-
----
-
-Dear Niantic Support,
-
-During my play session on [timestamp], I observed multiple capsules dropped containing high-tier gear such as Aegis Shields and Hypercubes. The capsules were collected almost immediately by several accounts that have minimal portal interaction. This looks like a case of coordinated item farming or possible exploitation.
-
-I kindly request a thorough review of the involved accounts.
-
-Best regards,  
-[codename]
-
----
-
-Hello,
-
-I want to report suspicious behavior detected on [timestamp]. Capsules carrying rare mods were dropped in a small area and picked up instantly by a cluster of accounts that show very little prior activity or gameplay. This pattern strongly suggests automated farming or multi-account abuse.
-
-Please look into this matter and take necessary action.
-
-Thanks,  
-[codename]
-
----
-
-To the Niantic Investigation Team,
-
-On [timestamp], I noticed an unusual pattern where capsules containing valuable items like ADA Refactors and L8 resonators were dropped in rapid succession. These were promptly collected by several dormant accounts. The activity is suspicious and could indicate the use of bots or farming rings.
-
-Please review the logs and accounts for possible violations.
-
-Sincerely,  
-[codename]
-
----
-
-Hey Niantic,
-
-Something weird happened at [timestamp]. Capsules with rare gear were dropped and grabbed instantly by accounts that don’t seem active at all. Looks like someone’s farming items unfairly using multiple accounts.
-
-Could you please check this out?
-
-Cheers,  
-[codename]
-
----
-
-Niantic Team,
-
-I’m reporting a possible cheat on [timestamp]. Capsules loaded with high-value mods were dropped across several portals and quickly picked up by accounts with very limited gameplay history. The coordinated pickups suggest botting or multi-account farming.
-
-Please investigate these accounts thoroughly.
-
-Thanks,  
-[codename]
-
----
-
-Dear Niantic,
-
-Suspicious capsule drops and quick collections by dormant accounts were observed at [timestamp]. Items like Ultra Strikes and keys from nowhere appeared momentarily and were immediately picked up by several inactive players. This pattern points to possible account farming or automation.
-
-Please examine these cases and apply enforcement if needed.
-
-Regards,  
-[codename]
-
----
-
-Hi,
-
-I’d like to report suspicious capsule farming activity at [timestamp]. Multiple accounts with low activity logs collected capsules containing rare items in an unusually fast and coordinated manner. This seems like automated farming or account sharing.
-
-Your investigation would be appreciated.
-
-Thanks,  
-[codename]
-
----
-
-To Niantic Support,
-
-I witnessed suspicious item farming on [timestamp]. Capsules filled with rare mods and keys appeared briefly and were instantly collected by several accounts that have minimal previous engagement. This might be a sign of multi-account abuse or bot use.
-
-Please look into it and take action.
-
-Best,  
-[codename]
-
----
-
-Dear Niantic Team,
-
-During my gameplay on [timestamp], capsules loaded with high-tier items like Hypercubes and JARVIS Viruses were dropped and picked up very quickly by accounts that seem inactive otherwise. This suggests the use of bots or farming rings exploiting the game.
-
-Please investigate these accounts for possible cheating.
-
-Thank you,  
-[codename]
-
----
-
-Hello Niantic,
-
-I am reporting a suspicious farming pattern detected at [timestamp]. Capsules containing valuable gear were dropped and almost instantly collected by accounts showing little to no portal interaction history. This could be a violation of fair play policies.
-
-Kindly review these accounts and take necessary measures.
-
-Regards,  
-[codename]
-
----
-
-Hey,
-
-Noticed something odd at [timestamp]. Capsules with rare items like Aegis Shields were dropped in quick bursts and gathered immediately by accounts with minimal gameplay. It looks like farming through multiple accounts or bots.
-
-Hope you can investigate this.
-
-Cheers,  
-[codename]
-
----
-
-Niantic,
-
-On [timestamp], I observed rapid capsule farming where dormant accounts collected high-level mods and keys from nowhere. The speed and coordination of pickups are suspicious and suggest bot or multi-account usage.
-
-Please review and take action.
-
-Thanks,  
-[codename]
-
----
-
-Dear Niantic,
-
-Capsules loaded with rare and valuable items appeared on [timestamp] and were immediately collected by several low-activity accounts. This pattern is consistent with cheating behaviors such as account sharing or automated farming.
-
-Please investigate these accounts at your earliest convenience.
-
-Sincerely,  
-[codename]
-
----
-
-Hi Niantic Support,
-
-I want to flag suspicious capsule farming at [timestamp]. Multiple capsules with high-tier mods were dropped and quickly gathered by accounts with little prior activity. The synchronized collection indicates possible cheating.
-
-Your attention to this matter is appreciated.
-
-Thanks,  
-[codename]
----
-Hello Niantic Team,
-
-I observed suspicious capsule drops at [timestamp]. Capsules containing rare mods and gear were quickly picked up by accounts with minimal portal activity. This appears to be coordinated farming, potentially involving multiple accounts.
-
-Please investigate these incidents.
-
-Thanks,  
-[codename]
----
-Dear Niantic,
-
-At [timestamp], I noticed several capsules filled with valuable items were dropped and instantly collected by multiple low-activity accounts. This behavior strongly indicates unfair item farming or possible bot use.
-
-Kindly review the involved accounts.
-
-Regards,  
-[codename]
----
-Hi,
-
-During gameplay on [timestamp], I saw rapid capsule drops with rare items, collected immediately by a group of dormant accounts. This pattern suggests automated farming or multi-account exploitation.
-
-Please look into this issue.
-
-Thanks,  
-[codename]
 ---
 To Niantic Support,
 
 Suspicious capsule activity was observed at [timestamp]. Several capsules containing high-tier mods were dropped and swiftly gathered by accounts with limited prior engagement. This may be a sign of botting or cheating.
 
 Your investigation would be appreciated.
+[link]
 
 Best,  
-[codename]
----
-Hey Niantic,
-
-On [timestamp], I noticed capsules with rare gear being dropped and collected in seconds by a set of low-activity accounts. It looks like farming using multiple or automated accounts.
-
-Please check this out.
-
-Cheers,  
 [codename]
 ---
 Niantic Team,
@@ -2015,24 +1590,7 @@ Niantic Team,
 At [timestamp], I detected rapid capsule drops and immediate pickups by accounts that don’t seem active. The items included Ultra Strikes and ADA Refactors. This could be cheating.
 
 Please investigate.
-
-Thanks,  
-[codename]
----
-Dear Niantic,
-
-Suspicious capsule farming occurred at [timestamp]. Capsules with valuable mods and keys were collected instantly by a cluster of accounts with minimal portal history, suggesting multi-account abuse.
-
-Please take appropriate action.
-
-Sincerely,  
-[codename]
----
-Hi Niantic,
-
-I want to report suspicious capsule farming behavior noticed at [timestamp]. Capsules loaded with rare items appeared briefly and were collected quickly by multiple dormant accounts.
-
-Your attention is appreciated.
+[link]
 
 Thanks,  
 [codename]
@@ -2042,6 +1600,7 @@ Hello,
 At [timestamp], capsules containing high-tier gear were dropped and gathered almost immediately by inactive accounts. This pattern is suspicious and likely against fair play rules.
 
 Please investigate these accounts.
+[link]
 
 Regards,  
 [codename]
@@ -2051,44 +1610,9 @@ Niantic,
 I observed suspicious capsule drops and rapid pickups at [timestamp]. Multiple accounts with low activity history collected rare items quickly, indicating possible cheating or automation.
 
 Please review this case.
+[link]
 
 Thanks,  
-[codename]
----
-Hey Niantic Team,
-
-On [timestamp], capsules filled with rare mods appeared suddenly and were collected almost instantly by a group of dormant accounts. This seems like coordinated farming or botting.
-
-Please look into it.
-
-Best,  
-[codename]
----
-Dear Niantic Support,
-
-Suspicious capsule farming was detected at [timestamp]. Capsules containing valuable items were dropped in quick succession and collected by several inactive accounts.
-
-Please investigate.
-
-Regards,  
-[codename]
----
-Hi,
-
-I noticed strange capsule farming at [timestamp]. Multiple accounts with little prior activity quickly picked up capsules loaded with high-level gear.
-
-This could be a violation of game policies.
-
-Thanks,  
-[codename]
----
-To Niantic,
-
-Capsules with rare gear were dropped and instantly collected by dormant accounts at [timestamp]. This pattern strongly suggests multi-account or bot farming.
-
-Please review the situation.
-
-Sincerely,  
 [codename]
 ---
 Hello Niantic,
@@ -2096,17 +1620,9 @@ Hello Niantic,
 I am reporting suspicious capsule activity at [timestamp]. Rare items were dropped and rapidly collected by accounts showing minimal gameplay history.
 
 Please check these accounts.
+[link]
 
 Thank you,  
-[codename]
----
-Niantic Team,
-
-Suspicious rapid capsule farming took place at [timestamp]. Capsules filled with valuable mods were collected immediately by low-activity accounts.
-
-Please investigate.
-
-Best regards,  
 [codename]
 ---
 Dear Niantic,
@@ -2114,6 +1630,7 @@ Dear Niantic,
 On [timestamp], I observed capsules with high-tier items dropped and picked up instantly by accounts that appear inactive. This might be cheating.
 
 Please look into this.
+[link]
 
 Regards,  
 [codename]
@@ -2123,60 +1640,9 @@ Hi,
 Capsule drops at [timestamp] containing rare mods were collected rapidly by multiple dormant accounts. This suggests possible botting or multi-account abuse.
 
 Please review.
+[link]
 
 Thanks,  
-[codename]
----
-To Niantic Support,
-
-Suspicious item farming was noticed at [timestamp]. Capsules with valuable gear appeared and were collected quickly by inactive accounts.
-
-Your prompt investigation is appreciated.
-
-Best,  
-[codename]
----
-Hey Niantic,
-
-At [timestamp], capsules filled with rare items were dropped and grabbed immediately by accounts with minimal portal activity. This behavior looks like farming using multiple accounts.
-
-Please check.
-
-Cheers,  
-[codename]
----
-Niantic,
-
-Suspicious capsule farming involving rapid drops and immediate pickups by dormant accounts was observed at [timestamp]. Please investigate for botting or cheating.
-
-Thank you,  
-[codename]
----
-Dear Niantic Team,
-
-Capsules containing rare gear were dropped and quickly collected by low-activity accounts on [timestamp]. This activity suggests multi-account or bot farming.
-
-Please take necessary actions.
-
-Regards,  
-[codename]
----
-Hello,
-
-At [timestamp], suspicious capsule farming was seen where several dormant accounts collected rare mods and keys almost instantly after drops.
-
-Please investigate.
-
-Thanks,  
-[codename]
----
-Hi Niantic,
-
-I want to report suspicious capsule farming at [timestamp]. Multiple low-activity accounts rapidly picked up rare items, indicating potential cheating.
-
-Please review.
-
-Best,  
 [codename]
 ---
 To Niantic Support,
@@ -2184,17 +1650,9 @@ To Niantic Support,
 Capsules with high-tier items were dropped and gathered quickly by inactive accounts on [timestamp]. This is likely multi-account abuse.
 
 Please investigate and act accordingly.
+[link]
 
 Regards,  
-[codename]
----
-Hey,
-
-Suspicious capsule drops and instant pickups by dormant accounts occurred at [timestamp]. This suggests unfair farming.
-
-Please look into it.
-
-Cheers,  
 [codename]
 ---
 Niantic Team,
@@ -2202,24 +1660,7 @@ Niantic Team,
 On [timestamp], capsules with rare mods and gear were dropped and rapidly collected by several inactive accounts.
 
 Please check this suspicious activity.
-
-Thanks,  
-[codename]
----
-Dear Niantic,
-
-Rapid capsule farming by low-activity accounts at [timestamp] has been observed. Capsules with valuable items were collected almost immediately.
-
-Please investigate.
-
-Sincerely,  
-[codename]
----
-Hello Niantic,
-
-Suspicious capsule farming happened at [timestamp]. Multiple dormant accounts picked up rare gear quickly after capsule drops.
-
-Please take a look.
+[link]
 
 Thanks,  
 [codename]
@@ -2229,44 +1670,9 @@ Hi,
 Capsule drops at [timestamp] with rare items were instantly collected by accounts with little portal interaction. This seems like cheating.
 
 Please investigate.
+[link]
 
 Best,  
-[codename]
----
-To Niantic,
-
-Suspicious capsule farming by dormant accounts was observed on [timestamp]. Rare mods and keys were collected rapidly after drops.
-
-Please check these accounts.
-
-Regards,  
-[codename]
----
-Hey Niantic Support,
-
-I noticed rapid capsule farming at [timestamp]. Several inactive accounts quickly picked up rare items, indicating potential bot use.
-
-Please investigate.
-
-Thanks,  
-[codename]
----
-Niantic,
-
-Capsules with valuable gear were dropped and collected by low-activity accounts at [timestamp]. This likely involves multi-account farming.
-
-Please review.
-
-Best,  
-[codename]
----
-Dear Niantic Team,
-
-Suspicious capsule farming was observed on [timestamp]. Dormant accounts collected rare items almost instantly after drops.
-
-Please investigate the involved accounts.
-
-Regards,  
 [codename]
 ---
 Hello,
@@ -2274,17 +1680,9 @@ Hello,
 At [timestamp], multiple capsules containing rare mods were dropped and rapidly collected by accounts with minimal activity.
 
 Please look into this.
+[link]
 
 Thanks,  
-[codename]
----
-Hi Niantic,
-
-Suspicious capsule farming involving rapid drops and instant pickups by inactive accounts was noticed at [timestamp].
-
-Please investigate.
-
-Best,  
 [codename]
 ---
 To Niantic Support,
@@ -2292,6 +1690,7 @@ To Niantic Support,
 Capsule drops with rare items were collected quickly by dormant accounts on [timestamp]. This looks like multi-account abuse.
 
 Please review.
+[link]
 
 Regards,  
 [codename]
@@ -2301,35 +1700,9 @@ Hey Niantic,
 At [timestamp], capsules filled with valuable mods were dropped and collected immediately by low-activity accounts.
 
 Please investigate.
+[link]
 
 Cheers,  
-[codename]
----
-Niantic Team,
-
-Suspicious rapid capsule farming was observed at [timestamp]. Dormant accounts collected rare items almost instantly.
-
-Please act accordingly.
-
-Thanks,  
-[codename]
----
-Dear Niantic,
-
-On [timestamp], rapid capsule farming by inactive accounts was detected. Capsules with valuable gear were collected quickly.
-
-Please look into this.
-
-Sincerely,  
-[codename]
----
-Hello Niantic,
-
-Suspicious capsule farming was noticed at [timestamp]. Several dormant accounts gathered rare mods immediately after drops.
-
-Please investigate.
-
-Thanks,  
 [codename]
 ---
 Hi,
@@ -2337,26 +1710,9 @@ Hi,
 Capsule drops with rare gear were collected instantly by low-activity accounts at [timestamp]. This could be cheating.
 
 Please check.
+[link]
 
 Best,  
-[codename]
----
-To Niantic,
-
-Suspicious capsule farming at [timestamp] involved dormant accounts rapidly collecting rare items.
-
-Please review.
-
-Regards,  
-[codename]
----
-Hey Niantic Support,
-
-Rapid capsule farming involving inactive accounts was observed at [timestamp]. Rare mods and keys were collected almost immediately.
-
-Please investigate.
-
-Thanks,  
 [codename]
 ---
 Niantic,
@@ -2364,379 +1720,206 @@ Niantic,
 Capsules with valuable items were dropped and gathered quickly by dormant accounts on [timestamp].
 
 Please check this suspicious activity.
+[link]
 
 Best,  
 [codename]
 ---
-Hello Niantic Team, suspicious capsule drops with rare mods were quickly picked up by dormant accounts at [timestamp]. Please investigate these accounts. Thanks, [codename]
+Hello Niantic Team, suspicious capsule drops with rare mods were quickly picked up by dormant accounts at [timestamp]. Please investigate these accounts. 
+[link]
+Thanks, 
+[codename]
 ---
-Dear Niantic, multiple capsules containing high-tier gear were dropped and instantly collected by low-activity accounts at [timestamp]. This suggests unfair item farming. Kindly review the involved accounts. Regards, [codename]
+To Niantic Support, suspicious capsule activity was observed at [timestamp]. Capsules with valuable mods were dropped and swiftly gathered by inactive accounts. 
+Your investigation is appreciated. 
+[link]
+Best, 
+[codename]
 ---
-Hi, during gameplay on [timestamp], capsules filled with rare items were collected immediately by dormant accounts, indicating possible automated farming. Please look into this. Thanks, [codename]
+Niantic Team, at [timestamp], rapid capsule drops with Ultra Strikes and ADA Refactors were collected by inactive accounts. This could indicate cheating. 
+Please investigate. 
+[link]
+Thanks, 
+[codename]
 ---
-To Niantic Support, suspicious capsule activity was observed at [timestamp]. Capsules with valuable mods were dropped and swiftly gathered by inactive accounts. Your investigation is appreciated. Best, [codename]
+Hello, at [timestamp], capsules with high-tier gear were dropped and gathered immediately by inactive accounts. This pattern is suspicious and likely against fair play rules. 
+Please investigate. 
+[link]
+Regards, 
+[codename]
 ---
-Hey Niantic, on [timestamp], capsules with rare gear were dropped and collected quickly by low-activity accounts. This looks like multi-account farming. Please check this. Cheers, [codename]
+Niantic, suspicious capsule drops and rapid pickups at [timestamp] by dormant accounts suggest cheating or automation. 
+Please review. 
+[link]
+Thanks, 
+[codename]
 ---
-Niantic Team, at [timestamp], rapid capsule drops with Ultra Strikes and ADA Refactors were collected by inactive accounts. This could indicate cheating. Please investigate. Thanks, [codename]
+Hello Niantic, reporting suspicious capsule activity at [timestamp]. Rare items were dropped and rapidly collected by low-activity accounts.
+Please check these accounts. 
+[link]
+Thank you, 
+[codename]
 ---
-Dear Niantic, suspicious capsule farming at [timestamp] involved dormant accounts picking up valuable items instantly. Please take appropriate action. Sincerely, [codename]
+Dear Niantic, on [timestamp], capsules with high-tier items were dropped and picked up instantly by inactive accounts. This might be cheating.
+Please look into this. 
+[link]
+Regards, 
+[codename]
 ---
-Hi Niantic, reporting suspicious capsule farming at [timestamp]. Multiple low-activity accounts collected rare items quickly. Your attention is appreciated. Thanks, [codename]
+Hi, capsule drops at [timestamp] containing rare mods were collected rapidly by inactive accounts. This suggests possible botting or multi-account abuse. 
+Please review. 
+[link]
+Thanks, 
+[codename]
 ---
-Hello, at [timestamp], capsules with high-tier gear were dropped and gathered immediately by inactive accounts. This pattern is suspicious and likely against fair play rules. Please investigate. Regards, [codename]
+To Niantic Support, capsules with high-tier items were dropped and gathered quickly by inactive accounts on [timestamp]. This is likely multi-account abuse. 
+Please investigate and act accordingly. 
+[link]
+Regards, 
+[codename]
 ---
-Niantic, suspicious capsule drops and rapid pickups at [timestamp] by dormant accounts suggest cheating or automation. Please review. Thanks, [codename]
+Niantic Team, on [timestamp], capsules with rare mods and gear were dropped and rapidly collected by several inactive accounts. 
+Please check this suspicious activity. 
+[link]
+Thanks, 
+[codename]
 ---
-Hey Niantic Team, on [timestamp], capsules filled with rare mods were collected instantly by dormant accounts. This seems like coordinated farming or botting. Please investigate. Best, [codename]
+Hi, capsule drops at [timestamp] with rare gear were collected instantly by low-activity accounts. This could be cheating.
+Please check. 
+[link]
+Best, 
+[codename]
 ---
-Dear Niantic Support, suspicious capsule farming was detected at [timestamp]. Capsules with valuable items were collected instantly by inactive accounts. Please investigate. Regards, [codename]
----
-Hi, strange capsule farming at [timestamp]. Multiple low-activity accounts quickly picked up capsules with high-level gear. This may violate game policies. Thanks, [codename]
----
-To Niantic, capsules with rare gear were dropped and collected instantly by dormant accounts at [timestamp]. This suggests multi-account or bot farming. Please review. Sincerely, [codename]
----
-Hello Niantic, reporting suspicious capsule activity at [timestamp]. Rare items were dropped and rapidly collected by low-activity accounts. Please check these accounts. Thank you, [codename]
----
-Niantic Team, suspicious rapid capsule farming occurred at [timestamp]. Capsules filled with valuable mods were collected immediately by dormant accounts. Please investigate. Best regards, [codename]
----
-Dear Niantic, on [timestamp], capsules with high-tier items were dropped and picked up instantly by inactive accounts. This might be cheating. Please look into this. Regards, [codename]
----
-Hi, capsule drops at [timestamp] containing rare mods were collected rapidly by inactive accounts. This suggests possible botting or multi-account abuse. Please review. Thanks, [codename]
----
-To Niantic Support, suspicious item farming was noticed at [timestamp]. Capsules with valuable gear appeared and were collected quickly by inactive accounts. Your prompt investigation is appreciated. Best, [codename]
----
-Hey Niantic, at [timestamp], capsules filled with rare items were dropped and grabbed immediately by accounts with minimal portal activity. This behavior looks like farming using multiple accounts. Please check. Cheers, [codename]
----
-Niantic, suspicious capsule farming involving rapid drops and immediate pickups by dormant accounts was observed at [timestamp]. Please investigate for botting or cheating. Thank you, [codename]
----
-Dear Niantic Team, capsules containing rare gear were dropped and quickly collected by low-activity accounts on [timestamp]. This activity suggests multi-account or bot farming. Please take necessary actions. Regards, [codename]
----
-Hello, at [timestamp], suspicious capsule farming was seen where several dormant accounts collected rare mods and keys almost instantly after drops. Please investigate. Thanks, [codename]
----
-Hi Niantic, I want to report suspicious capsule farming at [timestamp]. Multiple low-activity accounts rapidly picked up rare items, indicating potential cheating. Please review. Best, [codename]
----
-To Niantic Support, capsules with high-tier items were dropped and gathered quickly by inactive accounts on [timestamp]. This is likely multi-account abuse. Please investigate and act accordingly. Regards, [codename]
----
-Hey, suspicious capsule drops and instant pickups by dormant accounts occurred at [timestamp]. This suggests unfair farming. Please look into it. Cheers, [codename]
----
-Niantic Team, on [timestamp], capsules with rare mods and gear were dropped and rapidly collected by several inactive accounts. Please check this suspicious activity. Thanks, [codename]
----
-Dear Niantic, rapid capsule farming by low-activity accounts at [timestamp] has been observed. Capsules with valuable items were collected almost immediately. Please investigate. Sincerely, [codename]
----
-Hello Niantic, suspicious capsule farming happened at [timestamp]. Multiple dormant accounts picked up rare gear quickly after capsule drops. Please take a look. Thanks, [codename]
----
-Hi, capsule drops at [timestamp] with rare gear were collected instantly by low-activity accounts. This could be cheating. Please check. Best, [codename]
----
-To Niantic, suspicious capsule farming by dormant accounts was observed on [timestamp]. Rare mods and keys were collected rapidly after drops. Please check these accounts. Regards, [codename]
----
-Hey Niantic Support, I noticed rapid capsule farming at [timestamp]. Several inactive accounts quickly picked up rare items, indicating potential bot use. Please investigate. Thanks, [codename]
----
-Niantic, capsules with valuable gear were dropped and collected by low-activity accounts at [timestamp]. This likely involves multi-account farming. Please review. Best, [codename]
----
-Dear Niantic Team, suspicious capsule farming was observed on [timestamp]. Dormant accounts collected rare items almost instantly after drops. Please investigate the involved accounts. Regards, [codename]
----
-Hello, at [timestamp], multiple capsules containing rare mods were dropped and rapidly collected by accounts with minimal activity. Please look into this. Thanks, [codename]
----
-Hi Niantic, suspicious capsule farming involving rapid drops and instant pickups by inactive accounts was noticed at [timestamp]. Please investigate. Best, [codename]
+Hello, at [timestamp], multiple capsules containing rare mods were dropped and rapidly collected by accounts with minimal activity. 
+Please look into this. 
+[link]
+Thanks, 
+[codename]
 ---
 To Niantic Support, capsule drops with rare items were collected quickly by dormant accounts on [timestamp]. This looks like multi-account abuse. Please review. Regards, [codename]
 ---
 Hey Niantic, at [timestamp], capsules filled with valuable mods were dropped and collected immediately by low-activity accounts. Please investigate. Cheers, [codename]
 ---
-Niantic Team, suspicious rapid capsule farming was observed at [timestamp]. Dormant accounts collected rare items almost instantly. Please act accordingly. Thanks, [codename]
----
-Dear Niantic, on [timestamp], rapid capsule farming by inactive accounts was detected. Capsules with valuable gear were collected quickly. Please look into this. Sincerely, [codename]
----
-Hello Niantic, suspicious capsule farming was noticed at [timestamp]. Several dormant accounts gathered rare mods immediately after drops. Please investigate. Thanks, [codename]
----
-Hi, capsule drops with rare gear were collected instantly by low-activity accounts at [timestamp]. This could be cheating. Please check. Best, [codename]
----
-To Niantic, suspicious capsule farming at [timestamp] involved dormant accounts rapidly collecting rare items. Please review. Regards, [codename]
----
-Hey Niantic Support, rapid capsule farming involving inactive accounts was observed at [timestamp]. Rare mods and keys were collected almost immediately. Please investigate. Thanks, [codename]
----
-Niantic, capsules with valuable items were dropped and gathered quickly by dormant accounts on [timestamp]. Please check this suspicious activity. Best, [codename]
----
-Hello Niantic Team, suspicious capsule drops with rare mods were quickly picked up by dormant accounts at [timestamp]. Please investigate these accounts. Thanks, [codename]
-
+Hi, capsule drops with rare gear were collected instantly by low-activity accounts at [timestamp]. This could be cheating. 
+Please check. 
 [link]
-
+Best, 
+[codename]
 ---
-
-Dear Niantic, multiple capsules containing high-tier gear were dropped and instantly collected by low-activity accounts at [timestamp]. This suggests unfair item farming. Kindly review the involved accounts. Regards, [codename]
-
----
-
-Hi, during gameplay on [timestamp], capsules filled with rare items were collected immediately by dormant accounts, indicating possible automated farming. Please look into this. Thanks, [codename]
-
+Niantic, capsules with valuable items were dropped and gathered quickly by dormant accounts on [timestamp]. 
+Please check this suspicious activity. 
 [link]
-
+Best, 
+[codename]
 ---
-
-To Niantic Support, suspicious capsule activity was observed at [timestamp]. Capsules with valuable mods were dropped and swiftly gathered by inactive accounts. Your investigation is appreciated. Best, [codename]
-
----
-
-Hey Niantic, on [timestamp], capsules with rare gear were dropped and collected quickly by low-activity accounts. This looks like multi-account farming. Please check this. Cheers, [codename]
-
+Hello Niantic Team, suspicious capsule drops with rare mods were quickly picked up by dormant accounts at [timestamp]. 
+Please investigate these accounts. 
 [link]
-
+Thanks, 
+[codename]
 ---
-
-Niantic Team, at [timestamp], rapid capsule drops with Ultra Strikes and ADA Refactors were collected by inactive accounts. This could indicate cheating. Please investigate. Thanks, [codename]
-
----
-
-Dear Niantic, suspicious capsule farming at [timestamp] involved dormant accounts picking up valuable items instantly. Please take appropriate action. Sincerely, [codename]
-
+To Niantic Support, suspicious capsule activity was observed at [timestamp]. Capsules with valuable mods were dropped and swiftly gathered by inactive accounts. 
+Your investigation is appreciated. 
 [link]
-
+Best, 
+[codename]
 ---
-
-Hi Niantic, reporting suspicious capsule farming at [timestamp]. Multiple low-activity accounts collected rare items quickly. Your attention is appreciated. Thanks, [codename]
-
----
-
-Hello, at [timestamp], capsules with high-tier gear were dropped and gathered immediately by inactive accounts. This pattern is suspicious and likely against fair play rules. Please investigate. Regards, [codename]
-
+Niantic Team, at [timestamp], rapid capsule drops with Ultra Strikes and ADA Refactors were collected by inactive accounts. This could indicate cheating. 
+Please investigate. 
 [link]
-
+Thanks, 
+[codename]
 ---
-
-Niantic, suspicious capsule drops and rapid pickups at [timestamp] by dormant accounts suggest cheating or automation. Please review. Thanks, [codename]
-
----
-
-Hey Niantic Team, on [timestamp], capsules filled with rare mods were collected instantly by dormant accounts. This seems like coordinated farming or botting. Please investigate. Best, [codename]
-
+Hello, at [timestamp], capsules with high-tier gear were dropped and gathered immediately by inactive accounts. This pattern is suspicious and likely against fair play rules. 
+Please investigate. 
 [link]
-
+Regards, 
+[codename]
 ---
-
-Dear Niantic Support, suspicious capsule farming was detected at [timestamp]. Capsules with valuable items were collected instantly by inactive accounts. Please investigate. Regards, [codename]
-
----
-
-Hi, strange capsule farming at [timestamp]. Multiple low-activity accounts quickly picked up capsules with high-level gear. This may violate game policies. Thanks, [codename]
-
+Niantic, suspicious capsule drops and rapid pickups at [timestamp] by dormant accounts suggest cheating or automation. 
+Please review. 
 [link]
-
+Thanks, 
+[codename]
 ---
-
-To Niantic, capsules with rare gear were dropped and collected instantly by dormant accounts at [timestamp]. This suggests multi-account or bot farming. Please review. Sincerely, [codename]
-
----
-
-Hello Niantic, reporting suspicious capsule activity at [timestamp]. Rare items were dropped and rapidly collected by low-activity accounts. Please check these accounts. Thank you, [codename]
-
+Hello Niantic, reporting suspicious capsule activity at [timestamp]. Rare items were dropped and rapidly collected by low-activity accounts. 
+Please check these accounts. 
 [link]
-
+Thank you, 
+[codename]
 ---
-
-Niantic Team, suspicious rapid capsule farming occurred at [timestamp]. Capsules filled with valuable mods were collected immediately by dormant accounts. Please investigate. Best regards, [codename]
-
----
-
-Dear Niantic, on [timestamp], capsules with high-tier items were dropped and picked up instantly by inactive accounts. This might be cheating. Please look into this. Regards, [codename]
-
+Dear Niantic, on [timestamp], capsules with high-tier items were dropped and picked up instantly by inactive accounts. This might be cheating. 
+Please look into this. 
 [link]
-
+Regards, 
+[codename]
 ---
-
-Hi, capsule drops at [timestamp] containing rare mods were collected rapidly by inactive accounts. This suggests possible botting or multi-account abuse. Please review. Thanks, [codename]
-
----
-
-To Niantic Support, suspicious item farming was noticed at [timestamp]. Capsules with valuable gear appeared and were collected quickly by inactive accounts. Your prompt investigation is appreciated. Best, [codename]
-
+Hi, capsule drops at [timestamp] containing rare mods were collected rapidly by inactive accounts. This suggests possible botting or multi-account abuse. 
+Please review. 
 [link]
+Thanks, 
+[codename]
 
 ---
-
-Hey Niantic, at [timestamp], capsules filled with rare items were dropped and grabbed immediately by accounts with minimal portal activity. This behavior looks like farming using multiple accounts. Please check. Cheers, [codename]
-
----
-
-Niantic, suspicious capsule farming involving rapid drops and immediate pickups by dormant accounts was observed at [timestamp]. Please investigate for botting or cheating. Thank you, [codename]
-
+To Niantic Support, capsules with high-tier items were dropped and gathered quickly by inactive accounts on [timestamp]. This is likely multi-account abuse. 
+Please investigate and act accordingly. 
 [link]
+Regards, 
+[codename]
 
 ---
-
-Dear Niantic Team, capsules containing rare gear were dropped and quickly collected by low-activity accounts on [timestamp]. This activity suggests multi-account or bot farming. Please take necessary actions. Regards, [codename]
-
----
-
-Hello, at [timestamp], suspicious capsule farming was seen where several dormant accounts collected rare mods and keys almost instantly after drops. Please investigate. Thanks, [codename]
-
+Niantic Team, on [timestamp], capsules with rare mods and gear were dropped and rapidly collected by several inactive accounts. 
+Please check this suspicious activity. 
 [link]
-
+Thanks, 
+[codename]
 ---
-
-Hi Niantic, I want to report suspicious capsule farming at [timestamp]. Multiple low-activity accounts rapidly picked up rare items, indicating potential cheating. Please review. Best, [codename]
-
----
-
-To Niantic Support, capsules with high-tier items were dropped and gathered quickly by inactive accounts on [timestamp]. This is likely multi-account abuse. Please investigate and act accordingly. Regards, [codename]
-
+Hi, capsule drops at [timestamp] with rare gear were collected instantly by low-activity accounts. This could be cheating. 
+Please check. 
 [link]
-
+Best,
+[codename]
 ---
-
-Hey, suspicious capsule drops and instant pickups by dormant accounts occurred at [timestamp]. This suggests unfair farming. Please look into it. Cheers, [codename]
-
----
-
-Niantic Team, on [timestamp], capsules with rare mods and gear were dropped and rapidly collected by several inactive accounts. Please check this suspicious activity. Thanks, [codename]
-
-[link]
-
----
-
-Dear Niantic, rapid capsule farming by low-activity accounts at [timestamp] has been observed. Capsules with valuable items were collected almost immediately. Please investigate. Sincerely, [codename]
-
----
-
-Hello Niantic, suspicious capsule farming happened at [timestamp]. Multiple dormant accounts picked up rare gear quickly after capsule drops. Please take a look. Thanks, [codename]
-
-[link]
-
----
-
-Hi, capsule drops at [timestamp] with rare gear were collected instantly by low-activity accounts. This could be cheating. Please check. Best, [codename]
-
----
-
-To Niantic, suspicious capsule farming by dormant accounts was observed on [timestamp]. Rare mods and keys were collected rapidly after drops. Please check these accounts. Regards, [codename]
-
-[link]
-
----
-
-Hey Niantic Support, I noticed rapid capsule farming at [timestamp]. Several inactive accounts quickly picked up rare items, indicating potential bot use. Please investigate. Thanks, [codename]
-
----
-
-Niantic, capsules with valuable gear were dropped and collected by low-activity accounts at [timestamp]. This likely involves multi-account farming. Please review. Best, [codename]
----
-Suspicious capsule drops with rare mods happened at [timestamp]. Dormant accounts collected them immediately.
-
-This behavior looks like coordinated farming using multiple low-activity accounts.
-
----
-
 At [timestamp], capsules containing high-tier items were dropped and picked up instantly by inactive players.
 
 Please investigate these accounts for possible botting or multi-account abuse.
-
+[link]
 ---
-
 Several capsules with Ultra Strikes and ADA Refactors were rapidly collected by dormant accounts at [timestamp].
 
 This pattern violates fair play policies and should be reviewed by Niantic.
-
+[link]
 ---
-
-Around [timestamp], rare gear capsules were dropped and quickly gathered by accounts with minimal portal activity.
-
-These accounts may be involved in automated farming or cheating.
-
----
-
-Capsules with valuable mods were seen being collected immediately after drops at [timestamp].
-
-Such rapid collection by dormant accounts suggests unfair item farming.
-
----
-
 At [timestamp], multiple low-activity accounts picked up rare items right after capsule drops.
 
 This is suspicious and possibly linked to multi-account exploitation.
-
+[link]
 ---
-
-Capsules filled with rare gear were dropped and instantly grabbed by dormant accounts at [timestamp].
-
-The timing and speed of pickups suggest bot-assisted farming.
-
----
-
-Suspicious capsule farming was noticed at [timestamp] involving inactive accounts collecting rare mods rapidly.
-
-Please take action against these accounts to maintain fair gameplay.
-
----
-
-Rare items were dropped in capsules and collected immediately by low-activity accounts at [timestamp].
-
-This likely indicates coordinated farming or use of automated tools.
-
----
-
 Capsules containing high-tier gear were gathered instantly by dormant accounts at [timestamp].
 
 Niantic should review these accounts for potential cheating behavior.
-
+[link]
 ---
-
 At [timestamp], capsules with valuable mods were dropped and picked up almost immediately.
 
 This rapid collection by inactive accounts is suspicious.
-
+[link]
 ---
-
 Dormant accounts collected capsules with rare items quickly at [timestamp].
 
 Such activity suggests multi-account abuse or botting.
-
+[link]
 ---
-
-Rare gear capsules were dropped at [timestamp] and instantly gathered by low-activity accounts.
-
-Please investigate for possible automated farming.
-
----
-
 Capsules with high-tier items were picked up immediately by dormant accounts at [timestamp].
 
 This suspicious activity likely violates game policies.
-
+[link]
 ---
-
-At [timestamp], capsules filled with rare mods were rapidly collected by inactive players.
-
-Such behavior indicates unfair farming methods.
-
----
-
-Several low-activity accounts collected capsules with valuable gear instantly at [timestamp].
-
-Niantic's review is needed to address this suspicious farming.
-
----
-
-Capsule drops containing rare items were picked up immediately at [timestamp] by dormant accounts.
-
-This could be bot-assisted item farming requiring investigation.
-
----
-
-At [timestamp], rapid capsule farming by low-activity accounts was observed.
-
-Capsules with valuable mods were collected almost instantly after drops.
-
----
-
 Dormant accounts gathered capsules with rare gear quickly at [timestamp].
 
 Such fast pickups point toward automated or multi-account abuse.
+[link]
 
----
-
-Capsules containing high-tier gear were dropped and collected rapidly at [timestamp].
-
-Please review the accounts involved for cheating or farming.
 ---
 Hello Niantic Team,
 
@@ -2774,16 +1957,6 @@ Sincerely,
 [codename]
 
 ---
-Dear Niantic,
-
-It appears that [cheater] is engaging in unfair farming. The rapid collection of rare mods at [timestamp] is concerning.
-
-[link]
-
-Thank you,  
-[codename]
-
----
 Hi,
 
 Please look into [cheater]’s activity at [timestamp]. Their pattern of instant capsule pickups is suspicious.
@@ -2814,16 +1987,6 @@ Kind regards,
 [codename]
 
 ---
-Greetings,
-
-The player [cheater] shows suspicious item farming behavior. At [timestamp], rare mods were grabbed immediately.
-
-[link]
-
-Please investigate.  
-[codename]
-
----
 Dear Team,
 
 I have evidence of [cheater] using multiple dormant accounts to collect rare capsules instantly at [timestamp].
@@ -2834,15 +1997,6 @@ Thank you,
 [codename]
 
 ---
-Niantic,
-
-[cheater]’s capsule farming at [timestamp] looks automated. They collect rare gear immediately after drops.
-
-[link]
-
-Please take action.  
-[codename]
----
 Dear Niantic Support,
 
 At [timestamp], I observed [cheater] instantly picking up a batch of rare items shortly after their appearance. This rapid collection is highly suspicious.
@@ -2852,18 +2006,6 @@ At [timestamp], I observed [cheater] instantly picking up a batch of rare items 
 Thank you for looking into this matter.
 
 Best regards,  
-[codename]
-
----
-Hello Team,
-
-I would like to report that at [timestamp], [cheater] demonstrated unusual item farming behavior. The speed and volume of pickups are beyond normal play.
-
-[link]
-
-Please investigate accordingly.
-
-Sincerely,  
 [codename]
 
 ---
@@ -2935,16 +2077,6 @@ Thanks,
 [codename]
 
 ---
-Hi Niantic,
-
-I am reporting [cheater] for suspicious rapid capsule farming at [timestamp]. This is likely against game rules.
-
-[link]
-
-Regards,  
-[codename]
-
----
 Niantic Support,
 
 At [timestamp], [cheater] collected multiple high-value capsules suspiciously fast, raising concerns of unfair play.
@@ -2965,17 +2097,6 @@ At [timestamp], the player [cheater] gathered rare gear with inhuman speed, sugg
 Please review this evidence.
 
 Best,  
-[codename]
-
----
-Hello Niantic Team,
-
-I observed [cheater] farming rare capsules at [timestamp] at a speed that defies normal gameplay.
-
-[link]
-
-Thanks for your attention.
-
 [codename]
 
 ---
@@ -3059,27 +2180,6 @@ Best,
 [codename]
 
 ---
-Niantic Support,
-
-At [timestamp], [cheater] was observed instantly farming rare capsules with no delay.
-
-[link]
-
-Thank you.
-
-[codename]
-
----
-Hi Niantic,
-
-[cheater]’s suspicious farming of rare items at [timestamp] needs review and action.
-
-[link]
-
-Regards,  
-[codename]
-
----
 Dear Niantic,
 
 Evidence shows that at [timestamp], [cheater] collected rare gear rapidly and repeatedly.
@@ -3089,18 +2189,6 @@ Evidence shows that at [timestamp], [cheater] collected rare gear rapidly and re
 Please take appropriate measures.
 
 Thanks,  
-[codename]
-
----
-Hello Niantic Team,
-
-At [timestamp], [cheater] demonstrated item farming that appears to be automated.
-
-[link]
-
-Please investigate this violation.
-
-Best,  
 [codename]
 
 ---
@@ -3150,18 +2238,6 @@ Thank you.
 [codename]
 
 ---
-Niantic,
-
-Suspicious rapid capsule farming by [cheater] was observed at [timestamp].
-
-[link]
-
-Please take appropriate action.
-
-Regards,  
-[codename]
-
----
 Hello Niantic,
 
 At [timestamp], [cheater] was seen collecting rare capsules immediately, suggesting unfair advantages.
@@ -3173,14 +2249,4 @@ Thanks for reviewing.
 [codename]
 
 ---
-To Niantic,
-
-[cheater]’s item farming at [timestamp] is suspiciously fast and likely violates game rules.
-
-[link]
-
-Please investigate.
-
-Sincerely,  
-[codename]
 

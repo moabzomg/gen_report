@@ -600,9 +600,6 @@ Unexpected game results produced by [cheater]. See [timestamp]
 Consistent unexplained behavior from [cheater] noted over[timestamp]
 [link]
 ---
-Unknown hack suspected; irregular deployment seen. Player: [cheater], Time: [timestamp]
-[link]
----
 Exploit-like pattern flagged. Requires manual review. Timestamp: [timestamp]
 [link]
 ---
@@ -1540,12 +1537,6 @@ Immediate steps to moderate such conduct are necessary.
 Regards,  
 [codename]
 ---
-At [timestamp], [cheater] completed actions that would require 400+ km of travel in less than 6 hours. The travel history, portal hacks, and link creation timeline are impossible for a human agent.
-
-[link]
-
-I strongly suspect third-party automation or spoofing tools.
----
 At [timestamp], [cheater] was observed repeatedly recharging portals and linking back and forth with another agent within 30 seconds intervals, suggesting multi-device usage or account sharing.
 
 [link]
@@ -1899,10 +1890,6 @@ Comm messages reveal racial slurs and threats from [cheater] during a mission ra
 [link]  
 ---
 Known agent falsely submitted reports against new players to discourage them from joining ops. Multiple volunteers confirmed false claims.  
-[timestamp]  
-[link]  
----
-A group coordinated to camp a new player’s Sojourner portal and repeatedly flip it every day before they could hack it.  
 [timestamp]  
 [link]  
 ---

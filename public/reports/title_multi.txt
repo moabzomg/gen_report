@@ -10,7 +10,6 @@
 [cheater] Detected Moving Items Across Accounts
 [cheater] Detected Moving Items Illegally via Capsules
 [cheater] Detected Moving Items via Capsule Drops
-[cheater] Detected Operating Account Farms
 [cheater] Detected Transferring Items via Capsules
 [cheater] Engaged in Account Trading
 [cheater] Engaged in Capsule Drop Exploitation
@@ -29,14 +28,12 @@
 [cheater] Exploiting Capsule Drops for Item Gains
 [cheater] Involved in Capsule Drop Manipulation
 [cheater] Linked to Account Sale Networks
-[cheater] Linked to Multiple Account Farms
 [cheater] Managing Several Accounts Simultaneously
 [cheater] Might Be Sharing Account
 [cheater] Moving Inventory Across Accounts
 [cheater] Operating Multiple Game Accounts
 [cheater] Operating Several Accounts
 [cheater] Possibly Coordinating Multiple Players
-[cheater] Possibly Running Account Farming
 [cheater] Possibly Selling Accounts or Items
 [cheater] Potentially Selling or Buying Accounts
 [cheater] Potentially Trading Accounts Illegally
@@ -45,7 +42,6 @@
 [cheater] Seen Using Capsule Drops Illegally
 [cheater] Suspected of Capsule Drop Exploits
 [cheater] suspected of multi-accounting
-[cheater] Suspected of Operating Farm Accounts
 [cheater] Using Bots or Alt Characters
 [cheater] Using Capsule Drops for Coordinated Item Movement
 [cheater] Using Capsule Drops for Illegal Item Movement
@@ -82,8 +78,6 @@ Abuse of Alt Accounts to Gain Advantage
 Account abuse affecting gameplay
 Account Behavior of [cheater] Seems Off
 Account Duplication Observed
-Account Farming Activity Linked to [cheater]
-Account farming and selling  
 Account network manipulation
 Account Sale Patterns Detected for [cheater]
 Account selling and sharing concerns
@@ -97,7 +91,6 @@ Account Sharing Evidence
 Account Sharing or Sale Suspected for [cheater]
 Account Sharing Suspicion
 Account sharing violating terms of service
-Account trading and farming by [cheater]
 Account Trading or Sale Activity Detected for [cheater]
 Accounts Used in Tandem
 Alt account activity at [timestamp]
@@ -107,7 +100,6 @@ Analysis of Item Drops from [cheater]
 Analysis of Item Movement Patterns by [cheater]
 Analysis of Unfair Item Moves by [cheater]
 Analysis: Multi-Account Drops by [cheater]
-Automation and Multi Account Farming: A Growing Concern
 Best Practices to Prevent Multi Account Abuse
 Capsule drop abuse  
 Capsule Drop Abuse Alerts for [cheater]
@@ -185,7 +177,6 @@ Detecting Multi-Account Usage: Challenges and Solutions
 Device fingerprinting exposes multiple IDs
 Duplicate actions flagged
 Evidence of Account Collusion Involving [cheater]
-Evidence of Account Resale or Item Farming
 Evidence of Account Trading Among [cheater] and Associates
 Evidence of Coordinated Capsule Drops by [cheater]
 Evidence of Inventory Manipulation by [cheater]
@@ -222,7 +213,6 @@ Likely Multi-account Coordination
 Linked Accounts Activity
 Logs Show Suspicious Capsule Drops from [cheater]
 Multi Account Detection Techniques in Online Platforms
-Multi Account Farming: Detection and Mitigation Techniques
 Multi Account Verification: Tools and Strategies
 Multi Accounts in Competitive Environments: Fairness at Stake
 Multi-Account Abuse Alert
@@ -271,7 +261,6 @@ Potential Account Trading by [cheater]
 Potential Account Trading Linked to [cheater]
 Potential Capsule Drop Exploit by [cheater]
 Potential Cheating: [cheater] Item Transfers
-Potential Farm Accounts Operated by [cheater]
 Potential Inventory Abuse by [cheater]
 Potential Multi-Account Abuse by [cheater]  
 Potential Multi-Account Item Hoarding by [cheater]
@@ -320,10 +309,8 @@ Simultaneous portal control abuse
 Strange Cluster of Activity Linked to [cheater]
 Suspected Item Transfers by [cheater]
 Suspected Multi-account Use
-Suspicion of Account Farming by [cheater]
 Suspicion of Account Sharing and Item Trading
 Suspicion of Multi-accounting: [cheater]
-Suspicious Account Farming Activities from [cheater]
 Suspicious Account Network
 Suspicious Account Sales Linked to [cheater]
 Suspicious account sharing
@@ -361,7 +348,6 @@ Suspicious Multi-Account Behavior Linked to [cheater]
 Suspicious Multi-Account Capsule Drop Activity Recorded
 Suspicious Multi-Account Capsule Drops by [cheater]
 Suspicious Multi-Account Capsule Drops Under Review
-Suspicious multi-account farming
 Suspicious Multi-Account Transfers Linked to [cheater]
 Suspicious Multi-Account Usage by [cheater]
 Suspicious Resource Movement by [cheater]
@@ -371,7 +357,6 @@ The Impact of Multi Accounts on Fair Play and Security
 Unauthorized Capsule Drops by [cheater]
 Understanding the Psychology Behind Multi Account Creation
 Unfair Advantage Through Capsule Drops by [cheater]
-Unfair farming with alternate IDs
 Unfair inventory manipulation  
 Unfair Item Transfers Detected from [cheater]
 Unfair multi-account resource gain  
