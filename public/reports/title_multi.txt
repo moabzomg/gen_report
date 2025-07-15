@@ -1,16 +1,31 @@
+[cheater] abuses alt to buffer fields before big ops  
 [cheater] Accounts Show Overlapping Usage
+[cheater] always finishes field sequence with identical mod set  
+[cheater] always has access to rare gear shortly after alt appears  
 [cheater] and alt moved in sync
+[cheater] appears to run item relay loop via multiple devices
 [cheater] Appears to Sell or Buy Accounts
+[cheater] benefits from ghost account throwing anchors  
+[cheater] caught operating dual accounts in tandem  
+[cheater] caught using extra accounts to recharge enemy portals  
+[cheater] clears area using ghost accounts, then links in  
+[cheater] consistently uses multiple accounts to hold key portals  
 [cheater] Coordinated Capsule Drops for Item Transfer
 [cheater] Coordinated Item Transfers at [timestamp]
 [cheater] Coordinated Multi-Account Capsule Drops
+[cheater] coordinating with self via multiple accounts
+[cheater] creates fake resistance through alternate IDs  
+[cheater] deploying resonators from separate accounts minutes apart
+[cheater] deploying two fields within seconds of each other  
+[cheater] deploys 8 resos in under 2 seconds — with alt help  
+[cheater] deploys from several accounts at identical times  
+[cheater] deploys within seconds using second profile  
 [cheater] Detected in Capsule Drop Transfer
 [cheater] Detected in Multi-Account Capsule Drop Transfers
 [cheater] Detected in Multi-Account Item Transfers
 [cheater] Detected Moving Items Across Accounts
 [cheater] Detected Moving Items Illegally via Capsules
 [cheater] Detected Moving Items via Capsule Drops
-[cheater] Detected Operating Account Farms
 [cheater] Detected Transferring Items via Capsules
 [cheater] Engaged in Account Trading
 [cheater] Engaged in Capsule Drop Exploitation
@@ -27,25 +42,43 @@
 [cheater] Engaged in Unauthorized Account Transactions
 [cheater] Exhibits Account Switching Patterns
 [cheater] Exploiting Capsule Drops for Item Gains
+[cheater] fields from three devices in quick succession  
+[cheater] found trading high-level gear across linked accounts
+[cheater] has unusually fast access to items at different spots  
+[cheater] interacts with own spoofed alt at identical location
 [cheater] Involved in Capsule Drop Manipulation
 [cheater] Linked to Account Sale Networks
-[cheater] Linked to Multiple Account Farms
+[cheater] logs out and back in with new account on [timestamp]  
 [cheater] Managing Several Accounts Simultaneously
 [cheater] Might Be Sharing Account
 [cheater] Moving Inventory Across Accounts
+[cheater] never runs low on resonators despite constant fielding  
+[cheater] observed swapping items between accounts during ops  
 [cheater] Operating Multiple Game Accounts
 [cheater] Operating Several Accounts
+[cheater] passes items from one device to another routinely  
+[cheater] performs handoff in remote location with no other players  
+[cheater] performs sequence of actions only possible via multi-accounts  
 [cheater] Possibly Coordinating Multiple Players
-[cheater] Possibly Running Account Farming
 [cheater] Possibly Selling Accounts or Items
 [cheater] Potentially Selling or Buying Accounts
 [cheater] Potentially Trading Accounts Illegally
+[cheater] regularly seen picking up gear from inactive accounts  
+[cheater] repeatedly accesses capsule caches under various names  
+[cheater] seemingly deploying from invisible alt nearby  
+[cheater] seen coordinating link drops across own devices  
+[cheater] seen managing several capsules using separate phones  
+[cheater] seen retrieving gear from shared stash dropped by unknowns  
+[cheater] seen switching phones mid-session on [timestamp]
 [cheater] Seen Trading Items
 [cheater] Seen Transferring Items Illegally
 [cheater] Seen Using Capsule Drops Illegally
 [cheater] Suspected of Capsule Drop Exploits
+[cheater] suspected of controlling multiple devices on [timestamp]  
 [cheater] suspected of multi-accounting
-[cheater] Suspected of Operating Farm Accounts
+[cheater] swaps roles mid-field — proof of multiple accounts  
+[cheater] uses one account to recharge, another to attack  
+[cheater] uses stealth support to capture anchors without resistance  
 [cheater] Using Bots or Alt Characters
 [cheater] Using Capsule Drops for Coordinated Item Movement
 [cheater] Using Capsule Drops for Illegal Item Movement
@@ -59,12 +92,15 @@
 [cheater] Using Capsules for Item Movement
 [cheater] Using Capsules to Bypass Inventory Limits
 [cheater] Using Capsules to Move Inventory Illegally
+[cheater] using decoys to block legit fielding  
+[cheater] utilizes multiple profiles to hoard VR gear  
 [cheater]'s Account Network Suspicious
 [cheater]'s Capsule Drop Activity Under Review
 [cheater]'s Capsule Drop Item Funnel Under Scrutiny
 [cheater]'s Capsule Drop Patterns Raise Concerns
 [cheater]'s Capsule Drop Strategy Raises Red Flags
 [cheater]'s Capsule Drops Raise Fair Play Concerns
+[cheater]’s deployment speed exceeds single-agent limit  
 [cheater]'s Engagement in Account Sale Suspected  
 [cheater]'s Item Transfer Activity Logged
 [cheater]'s Item Transfer Activity Under Investigation
@@ -77,13 +113,14 @@
 [cheater]'s Multi-Account Capsule Drop Activity
 [cheater]'s Multi-Account Resource Hoarding
 [cheater]'s Network of Accounts Under Investigation
+[cheater]’s play area overlaps with inactive accounts dropping gear  
+[cheater]’s timing too precise for solo — needs ghost recharger  
 [cheater]'s Use of Multiple Accounts for Item Moves
 Abuse of Alt Accounts to Gain Advantage
 Account abuse affecting gameplay
 Account Behavior of [cheater] Seems Off
 Account Duplication Observed
-Account Farming Activity Linked to [cheater]
-Account farming and selling  
+Account group rotating between roles traced back to [cheater]  
 Account network manipulation
 Account Sale Patterns Detected for [cheater]
 Account selling and sharing concerns
@@ -97,18 +134,87 @@ Account Sharing Evidence
 Account Sharing or Sale Suspected for [cheater]
 Account Sharing Suspicion
 Account sharing violating terms of service
-Account trading and farming by [cheater]
+Account switching patterns suggest automation by [cheater]  
 Account Trading or Sale Activity Detected for [cheater]
 Accounts Used in Tandem
+Activity spikes when [cheater] and known alts are present  
+Addressing [cheater]'s Capsule Dropping Infractions at [timestamp]
+Addressing [cheater]'s Capsule Dropping Misconduct at [timestamp]
+Addressing [cheater]'s Capsule Dropping Rule Breaches at [timestamp]
+Addressing [cheater]'s Capsule Dropping Violations at [timestamp]
+Addressing [cheater]'s Coordinated Multi-Account Activity at [timestamp]
+Addressing [cheater]'s Device Sharing Misconduct at [timestamp]
+Addressing [cheater]'s Item Trading Exploitation at [timestamp]
+Addressing [cheater]'s Item Trading Misconduct at [timestamp]
+Addressing [cheater]'s Item Trading Violations at [timestamp]
+Addressing [cheater]'s Multi-Account Exploit Concerns at [timestamp]
+Addressing [cheater]'s Multi-Account Rule Violations at [timestamp]
+Addressing [cheater]'s Multi-Device Gameplay Violations at [timestamp]
+Addressing [cheater]'s Multi-Device Rule Breach at [timestamp]
+Addressing [cheater]'s Unauthorized Account Sharing at [timestamp]
+Addressing [cheater]'s Unauthorized Capsule Dropping at [timestamp]
+Addressing [cheater]'s Unauthorized Item Trading at [timestamp]
+Addressing [cheater]'s Unauthorized Item Trading Behavior at [timestamp]
+Addressing [cheater]'s Unauthorized Item Trading Tactics at [timestamp]
+Addressing [cheater]'s Unauthorized Multi-Device Tactics at [timestamp]
+Addressing Account Sharing Concerns
+Addressing Capsule Dropping Misconduct Reports
+Addressing Capsule Dropping Rule Violations
+Addressing Item Trading Rule Violations
+Addressing Multi-Account Exploit Concerns
+Addressing Multi-Account Gameplay Violations
+Addressing Multi-Account Rule Breaches
+Addressing Multi-Account Violations
+Addressing Multi-Account Violations in Ingress
+Addressing Multi-Device Gameplay Concerns
+Addressing Multi-Device Rule Breaches
+Addressing Suspected Multi-Account Issues
+Addressing Unauthorized Account Sharing
+Addressing Unauthorized Item Trading Concerns
+Addressing Unauthorized Multi-Account Activity
+Addressing Unauthorized Multi-Account Behavior
+All accounts move in parallel during [timestamp] incident  
+All capsule activity linked to [cheater] has timestamp anomalies  
+All deploy timestamps match across [cheater]’s phone logs  
+All dummy accounts created within 1 week, follow [cheater]’s path  
+All fields built without opposition — aided by alt accounts of [cheater]  
+All fields converge on same sequence — likely macro-assisted  
 Alt account activity at [timestamp]
+Alt account hacked and deployed at [timestamp], then vanishes — used by [cheater]  
 Alt Account Network Detected
+Alt account only appears to deploy a single resonator for [cheater]  
+Alt account receives capsule at [timestamp] then disappears  
+Alt account used by [cheater] to create shield loops  
+Alt accounts appear to “meet” [cheater] and pass gear  
+Alt accounts under [cheater] only exist to block links  
+Alt always exits XM shortly after aiding [cheater]  
+ALT codenames with parallel behavior traced to [cheater]  
+Alt only ever appears to break enemy links before [cheater] fields  
+Alt profile used for strategic block mods for [cheater]  
+Alt used by [cheater] for throwaway shields  
+Alternating mod types placed too quickly — consistent with [cheater]  
+Alts continuously protecting [cheater]'s key anchor  
+Alts deploying mods to aid [cheater] during portal battles  
 Analysis of Capsule Drop Patterns for [cheater]
 Analysis of Item Drops from [cheater]
 Analysis of Item Movement Patterns by [cheater]
 Analysis of Unfair Item Moves by [cheater]
 Analysis: Multi-Account Drops by [cheater]
-Automation and Multi Account Farming: A Growing Concern
+Auto-deploy pattern consistent with alt support to [cheater]  
+Auto-pickup sequences seen during [timestamp] by [cheater]  
+Auto-transfer patterns logged between two of [cheater]'s names  
+Back-and-forth field flips seen from linked accounts under [cheater]  
+Back-to-back deploys from separate IDs confirmed tied to [cheater]  
+Backpack account used by [cheater] has zero AP activity  
+Backup IDs under [cheater] recharge large portals at same moment  
 Best Practices to Prevent Multi Account Abuse
+Booster account shows repeated bursts matching [cheater]’s recharge times  
+Bounce link portals only touched by [cheater] and known dummy  
+Burster and shield stockpile mirrored in [cheater]’s group  
+Burster drop loops spotted in [cheater]’s behavior logs  
+Burster drops found at scene attributed to [cheater]’s group  
+Burster stacks seen in logs from [cheater]'s different IDs  
+Bursters received from silent account, likely [cheater]’s  
 Capsule drop abuse  
 Capsule Drop Abuse Alerts for [cheater]
 Capsule Drop Abuse Alerts Raised for [cheater]
@@ -125,6 +231,7 @@ Capsule Drop and Item Transfer Logs for [cheater]
 Capsule Drop and Item Transfer Logs Implicate [cheater]
 Capsule Drop and Item Transfer Logs of [cheater]
 Capsule Drop and Item Transfer Patterns for [cheater]
+Capsule drop and pickup pattern too perfect — [cheater] suspected  
 Capsule Drop Coordination by [cheater]
 Capsule Drop Coordination Under Investigation for [cheater]
 Capsule Drop Exploit Report for [cheater]
@@ -161,15 +268,29 @@ Capsule Drop Transfer Patterns Raise Flags for [cheater]
 Capsule Drop Transfers Tracked for [cheater]
 Capsule Drop Transfers Under Investigation for [cheater]
 Capsule Drops Suspiciously Frequent from [cheater]
+Capsule handoff observed in quiet location by [cheater]
+Capsule handoffs occur near [cheater]’s base portals regularly  
+Capsule ID logs reveal repeated transfers between [cheater] and known alt  
+Capsule IDs passed through 3 alts before reaching [cheater]  
+Capsule metadata confirms prior ownership by [cheater]’s dummy ID  
+Capsule tags reappear repeatedly in [cheater]’s accounts  
+Capsules disappear from one profile and appear with [cheater]  
+Capsules reused across portals suggest item trafficking by [cheater]  
 Case Studies of Multi Account Exploitation
 Cheater Report
+Cluster fields built within 60 seconds — only possible with alt support  
+Cluster of account actions around [cheater] at [timestamp]
+Cluster of deploys from multiple devices associated with [cheater]  
 Clustered Account Management by [cheater]
 Clustered Account Usage Patterns Detected for [cheater]
 Clustered Accounts Coordinated by [cheater]
 Concurrent login activity observed
+Consistent alt login just before [cheater] starts fielding  
+Consistent inventory sync suggests dual-device usage by [cheater]
 Coordinated Account Behavior
 Coordinated actions across accounts
 Coordinated attacks via multiple accounts  
+Coordinated deploys traceable to [cheater]’s cluster of accounts  
 Coordinated item transfers  
 Coordinated multi-account attacks at [timestamp]
 Coordinated multi-account usage
@@ -177,27 +298,181 @@ Coordinated portal attacks by multiple accounts
 Covert item transfers among accounts
 Credential sharing violations reported
 Cross-account gameplay manipulation  
+Cross-account trades favor [cheater] gaining strategic advantage  
+Data shows [cheater] shares gear with mirror account via capsules  
+Deploy overlap in portal history reveals multi-device by [cheater]  
+Deploy-mod-link cycle unbroken due to [cheater]’s multi-device use  
+Deployment pattern reflects script — seen only in [cheater]’s cluster  
 Detected Capsule Drop Resource Funnel by [cheater]
 Detected Coordinated Drops by [cheater]
 Detected Multi-Account Transfers by [cheater]
+Detected portal flips from accounts linked to [cheater]  
 Detected Unfair Capsule Drop Transfers by [cheater]
 Detecting Multi-Account Usage: Challenges and Solutions
 Device fingerprinting exposes multiple IDs
+Direct portal interference using dummy IDs by [cheater]  
+Double-agent activity suspected from [cheater]'s account family  
+Drones moved in sync across accounts tied to [cheater]  
+Drop timing precision points to scripted trades for [cheater]  
+Drop timings and location of items match [cheater]'s known routines  
+Drop-pickup sequence with near-zero delay by [cheater]  
+Drop-trade-drop pattern maps directly to [cheater]’s op plans  
+Dual phone use confirmed in gear logs from [timestamp]  
+Dual-device latency patterns visible in [cheater]’s data  
+Dummy ID disappears after dropping gear next to [cheater]  
 Duplicate actions flagged
+Energy spikes from nearby portals match [cheater]’s path precisely  
 Evidence of Account Collusion Involving [cheater]
-Evidence of Account Resale or Item Farming
 Evidence of Account Trading Among [cheater] and Associates
 Evidence of Coordinated Capsule Drops by [cheater]
 Evidence of Inventory Manipulation by [cheater]
 Evidence of Multi-Account Abuse by [cheater]
 Evidence of Multiple Accounts Managed by [cheater]  
 Evidence Suggests Item Hoarding by [cheater]
+Exotic Mod use consistent across all dummy accounts tied to [cheater]  
+Extra deploys from linked IDs make field impossible to counter  
+Extra inventory held by new accounts tied to [cheater]  
+Fake resistance accounts feeding items to [cheater]  
 Family Accounts Assisting [cheater]
+Fast portal turnover indicates coordination by [cheater]  
+Field assist from cloaked account known to be [cheater]'s  
+Field build sequence too fast — indicates automation or dual device by [cheater]  
+Field collapse immediately countered by account assisting [cheater]  
+Field creation always ends with one resonator missing — filled by alt  
+Field plan clearly supported by gear from [cheater]’s alts  
+Field sabotage traced to [cheater]’s alt group  
+Field timing impossible without instant deploy — likely [cheater] with backup  
+Flagging [cheater] for Account Sharing Rule Violations at [timestamp]
+Flagging [cheater] for Coordinated Account Multiplication at [timestamp]
+Flagging [cheater] for Coordinated Account Sharing at [timestamp]
+Flagging [cheater] for Coordinated Multi-Account Tactics at [timestamp]
+Flagging [cheater] for Coordinated Multi-Account Use at [timestamp]
+Flagging [cheater] for Coordinated Multi-Account Violations at [timestamp]
+Flagging [cheater] for Suspected Account Multiplication Schemes at [timestamp]
+Flagging [cheater] for Suspected Account Sharing Exploits at [timestamp]
+Flagging [cheater] for Suspected Account Sharing Schemes at [timestamp]
+Flagging [cheater] for Suspected Capsule Dropping Breaches at [timestamp]
+Flagging [cheater] for Suspected Device Stacking Behavior at [timestamp]
+Flagging [cheater] for Suspected Device Stacking Violations at [timestamp]
+Flagging [cheater] for Suspected Item Trading Exploits at [timestamp]
+Flagging [cheater] for Suspected Item Trading Misconduct at [timestamp]
+Flagging [cheater] for Suspected Item Trading Practices at [timestamp]
+Flagging [cheater] for Suspected Item Trading Schemes at [timestamp]
+Flagging [cheater] for Suspected Item Trading Violations at [timestamp]
+Flagging [cheater] for Suspected Multi-Account Coordination at [timestamp]
+Flagging [cheater] for Suspected Multi-Account Exploits at [timestamp]
+Flagging [cheater] for Suspected Multi-Account Play at [timestamp]
+Flagging [cheater] for Suspected Multi-Account Strategies at [timestamp]
+Flagging [cheater] for Suspected Multi-Device Gameplay at [timestamp]
+Flagging [cheater] for Suspected Multi-Device Infractions at [timestamp]
+Flagging [cheater] for Suspected Multi-Device Strategies at [timestamp]
+Flagging [cheater] for Unauthorized Account Duplication at [timestamp]
+Flagging [cheater] for Unauthorized Account Multiplication at [timestamp]
+Flagging [cheater] for Unauthorized Capsule Dropping at [timestamp]
+Flagging [cheater] for Unauthorized Device Coordination on [timestamp]
+Flagging [cheater] for Unauthorized Device Sharing on [timestamp]
+Flagging [cheater] for Unauthorized Device Usage at [timestamp]
+Flagging [cheater] for Unauthorized Item Trading Exploits at [timestamp]
+Flagging [cheater] for Unauthorized Multi-Account Play at [timestamp]
+Flagging [cheater] for Unauthorized Multi-Device Activity on [timestamp]
+Flagging [cheater] for Unauthorized Multi-Device Play on [timestamp]
+Flagging a Player for Multiple Account Activity
+Flagging a Player for Multiple Accounts
+Flagging a Player for Unauthorized Device Sharing
+Flagging Multi-Account Activity Concerns
+Flagging Multi-Account Misconduct
+Flagging Multi-Account Rule Violations
+Flagging Players for Account Sharing
+Flagging Players for Account Sharing Rule Breaks
+Flagging Players for Multi-Account Infractions
+Flagging Players for Multi-Account Misconduct
+Flagging Players for Multiple Account Infractions
+Flagging Players for Unauthorized Device Use
+Flagging Suspected Account Duplication
+Flagging Suspected Account Sharing Behavior
+Flagging Suspected Account Sharing Exploits
+Flagging Suspected Coordinated Account Use
+Flagging Suspected Item Trading Behavior
+Flagging Suspected Multi-Account Coordination
+Flagging Suspected Multi-Device Gameplay
+Flagging Unauthorized Account Duplication Activity
+Flagging Unauthorized Capsule Dropping
+Flagging Unauthorized Capsule Dropping Practices
+Flagging Unauthorized Item Trading Activity
+Flagging Unauthorized Multi-Account Practices
+Frequent high-level item handovers logged under [cheater]  
+Frequent passcode claims linked to multiple [cheater] aliases  
+Frequent portal history only showing [cheater] and support  
+Frequent XM drain by cloaked IDs supporting [cheater]  
+Gear duplication signs seen from [cheater]'s behavior  
+Gear flow traces item transfers directly to [cheater]  
+Gear routing suggests [cheater] uses alternate IDs to stockpile  
+Gear used by [cheater] sourced from traceable alt interactions  
+Ghost agent modding for [cheater] prior to fielding  
+Handling [cheater]'s Account Sharing Complaint at [timestamp]
+Handling [cheater]'s Account Sharing Concern at [timestamp]
+Handling [cheater]'s Account Sharing Misuse Report at [timestamp]
+Handling [cheater]'s Capsule Dropping Concern Report at [timestamp]
+Handling [cheater]'s Capsule Dropping Misuse Report at [timestamp]
+Handling [cheater]'s Capsule Dropping Violation Report at [timestamp]
+Handling [cheater]'s Item Trading Misconduct Report at [timestamp]
+Handling [cheater]'s Item Trading Violation Report at [timestamp]
+Handling [cheater]'s Multi-Account Activity Report at [timestamp]
+Handling [cheater]'s Multi-Account Coordination Report at [timestamp]
+Handling [cheater]'s Multi-Account Exploitation Report at [timestamp]
+Handling [cheater]'s Multi-Account Rule Breach Report at [timestamp]
+Handling [cheater]'s Multi-Device Activity Report at [timestamp]
+Handling [cheater]'s Multi-Device Gameplay Complaint at [timestamp]
+Handling [cheater]'s Multi-Device Infraction Report at [timestamp]
+Handling [cheater]'s Multi-Device Violation Report at [timestamp]
+Handling Multi-Account Complaints
+Handling Multi-Account Coordination Complaints
+Handling Multi-Account Gameplay Complaints
+Handling Multi-Account Reports in Gameplay
+Handling Multi-Account Reports in Ingress Gameplay
+Handling Multi-Account Violation Reports
+Handling Multi-Device Gameplay Violation Reports
+Handling Multi-Device Rule Violation Reports
+Handling Reports of Account Sharing Misconduct
+Handling Reports of Account Sharing Violations
+Handling Reports of Capsule Dropping Misuse
+Handling Reports of Capsule Dropping Violations
+Handling Reports of Multiple Account Usage
+Heavy item transfer in rural areas suggests covert support for [cheater]  
+Heavy mod stacking behavior typical of [cheater]'s secondaries  
+Helper account’s name variations match [cheater]’s alias pattern  
+Helper always mods with shields [cheater] lacks  
+Helper appears across cities where [cheater] travels — not coincidence  
+Helper ID acts as mobile shield source for [cheater]  
+Helper ID only ever deploys when [cheater] is active nearby  
+Helper IDs disappear from portal history after op ends  
+Helper profile only active in events [cheater] attends  
 High Account Switching Rate on [cheater]'s Devices
 High Frequency Account Switching Detected for [cheater]
+High-frequency capsule trades linked to [cheater]’s known IDs  
+High-frequency link drops from [cheater]'s mirrored accounts  
+High-level gear appears without farming — clear alt mule for [cheater]  
+High-volume gear drop by alt in remote site later picked up by [cheater]  
+Highly coordinated capsule trade and deploy system run by [cheater]  
 How Multi Accounts Affect Gaming and Social Communities
+How to Flag a Player for Multiple Account Use
+How to Flag a Player for Multiple Account Use in Ingress
+Identical field paths built simultaneously from [cheater] aliases  
+Identical GPS trails noted on accounts controlled by [cheater]  
+Identical mod loadouts seen between [cheater] and fake profile  
+Identical portal keys show in both [cheater] and helper’s logs  
+Identical recharge paths logged from [cheater]’s IP cluster  
+Identical time stamps on mod actions — clear clone use  
 Identifying Suspicious Multi Account Behavior
+Impossible gear volume without external aid — clear support for [cheater]  
 Indicators of Account Marketplace Involvement by [cheater]
+Ingress Multi-Account Reporting Guidelines
+Ingress: Reporting Players Using Multiple Accounts
+Inventory ID logs reveal transfers between [cheater] and shell accounts  
+Inventory IDs match across accounts known to belong to [cheater]  
+Inventory logs suggest synced drop timing across [cheater]’s phones  
+Inventory patterns too stable — [cheater] replenishes from same source  
+Inventory scans show copycat patterns on [cheater]'s linked accounts  
 Investigation of Capsule Drop Item Transfers by [cheater]
 Investigation of Item Transfers by [cheater]
 Investigation of Item Transfers Involving [cheater]
@@ -207,7 +482,12 @@ Investigation on Capsule Drops by [cheater]
 Investigation: [cheater] Multi-Account Transfers
 IP and device overlap found
 Item Distribution Pattern from [cheater]
+Item distribution too even to be chance — tied to [cheater]  
+Item drop and pickup pattern indicates dual-account behavior
 Item hoarding via multiple accounts  
+Item movements across accounts linked to [cheater] raise flags  
+Item patterns suggest bulk gear moved from alt to [cheater]  
+Item trading patterns consistent with real-world meetups by [cheater]  
 Item Trading Suspicion on [cheater]
 Item Transfer Abuse Linked to [cheater]
 Item Transfer Analysis for [cheater]
@@ -219,13 +499,28 @@ Item transferring
 Item transfers across accounts
 Legal and Ethical Implications of Multi Account Usage
 Likely Multi-account Coordination
+Link distances covered too fast without VM or assistance — likely [cheater]  
+Link traces jump between [cheater]'s devices  
+Linked account appears solely to bounce fields for [cheater]  
 Linked Accounts Activity
+Linked accounts all show zero badges except shared use with [cheater]  
+Linked accounts traced to [cheater] show coordinated actions  
+Linked users with no other activity consistently aid [cheater]  
+Logins from same IP across accounts used in [cheater]’s ops  
 Logs Show Suspicious Capsule Drops from [cheater]
+Long-range recharges from dummy IDs help [cheater] preserve fields  
+Low-level account appears from same GPS offset as [cheater]  
+Low-level accounts repeatedly recharge only [cheater]’s fields  
+Mod deploy actions within 0.3s — multi-device pattern obvious  
+Mod deployment too consistent with two-device handling  
+Mod patterns across accounts show uniform timing — likely [cheater]  
+Mod stacking consistent with [cheater] exploiting multi-accounts  
+Mod stacking instantly reversed by backup account — [cheater] confirmed  
 Multi Account Detection Techniques in Online Platforms
-Multi Account Farming: Detection and Mitigation Techniques
 Multi Account Verification: Tools and Strategies
 Multi Accounts in Competitive Environments: Fairness at Stake
 Multi-Account Abuse Alert
+Multi-Account Activity Concern Submission
 Multi-account activity detected
 Multi-account behavior by [cheater]
 Multi-Account Capsule Drop Abuse by [cheater]
@@ -243,8 +538,12 @@ Multi-Account Item Trading by [cheater]
 Multi-account item transfer  
 Multi-Account Item Transfer Alert: [cheater]
 Multi-account login anomalies  
+Multi-account logins found within [timestamp] on same IP  
 Multi-account operation detected  
+Multi-Account Reporting Guidelines
 Multi-Account Resource Movement by [cheater]
+Multi-device GPS sync patterns match [cheater]'s habits  
+Multi-device trace logs suggest unfair advantage by [cheater]
 Multiple Account Abuse by [cheater]
 Multiple Account Abuse Linked to [cheater]
 Multiple account control detected
@@ -254,16 +553,95 @@ Multiple account operation detected for [cheater]
 Multiple Account Usage by [cheater]
 Multiple Account Usage Detected on [cheater]'s Devices
 Multiple Accounts Evidence Found for [cheater]
+Multiple accounts recharging the same portal on [timestamp]
+Multiple accounts under [cheater] assisting same portal capture  
 Multiple Accounts Used Around [cheater]
 Multiple Accounts Used by [cheater]
+Multiple accounts used by [cheater] observed near key portals
 Multiple cheaters operating together
+Multiple deploys logged within 1 second of each other — multi-device from [cheater]  
+Multiple link builds in sequence via shadow accounts from [cheater]  
+Multiple login locations point to shared use by [cheater]  
 Multiple Login Origins from [cheater]'s Accounts
 Multiple logins from same IP address
+Multiple phones ping same portal under [cheater] aliases  
+Multiple recharge bursts across synced phones traced to [cheater]  
+Multiple recharge bursts seen from [cheater]'s suspected devices  
+New account with no prior AP appears, aids deploy, disappears — clearly [cheater]’s  
+New accounts feeding L8 gear directly to [cheater]  
+New ID always appears to complete [cheater]’s portal octets  
+No AP progress on helper accounts — used purely to benefit [cheater]  
+No evidence of independent play from helper IDs — only serve [cheater]  
+Notifying Niantic of [cheater]'s Account Sharing Activity at [timestamp]
+Notifying Niantic of [cheater]'s Account Sharing Concerns at [timestamp]
+Notifying Niantic of [cheater]'s Account Sharing Infractions at [timestamp]
+Notifying Niantic of [cheater]'s Account Sharing Misconduct at [timestamp]
+Notifying Niantic of [cheater]'s Account Sharing Violations at [timestamp]
+Notifying Niantic of [cheater]'s Capsule Dropping Breaches at [timestamp]
+Notifying Niantic of [cheater]'s Capsule Dropping Concerns at [timestamp]
+Notifying Niantic of [cheater]'s Capsule Dropping Exploits at [timestamp]
+Notifying Niantic of [cheater]'s Capsule Dropping Infractions at [timestamp]
+Notifying Niantic of [cheater]'s Capsule Dropping Misuse at [timestamp]
+Notifying Niantic of [cheater]'s Device Coordination Violations at [timestamp]
+Notifying Niantic of [cheater]'s Device Sharing Concerns at [timestamp]
+Notifying Niantic of [cheater]'s Device Sharing Violations at [timestamp]
+Notifying Niantic of [cheater]'s Device Stacking Issues at [timestamp]
+Notifying Niantic of [cheater]'s Device Stacking Misconduct at [timestamp]
+Notifying Niantic of [cheater]'s Item Trading Concerns at [timestamp]
+Notifying Niantic of [cheater]'s Item Trading Infractions at [timestamp]
+Notifying Niantic of [cheater]'s Item Trading Misconduct at [timestamp]
+Notifying Niantic of [cheater]'s Item Trading Misuse at [timestamp]
+Notifying Niantic of [cheater]'s Item Trading Violations at [timestamp]
+Notifying Niantic of [cheater]'s Multi-Account Concerns at [timestamp]
+Notifying Niantic of [cheater]'s Multi-Account Coordination at [timestamp]
+Notifying Niantic of [cheater]'s Multi-Account Exploitation at [timestamp]
+Notifying Niantic of [cheater]'s Multi-Account Gameplay at [timestamp]
+Notifying Niantic of [cheater]'s Multi-Account Gameplay Issues at [timestamp]
+Notifying Niantic of [cheater]'s Multi-Account Misconduct at [timestamp]
+Notifying Niantic of [cheater]'s Multi-Account Misuse at [timestamp]
+Notifying Niantic of [cheater]'s Multi-Account Tactics at [timestamp]
+Notifying Niantic of [cheater]'s Multi-Device Gameplay Concerns at [timestamp]
+Notifying Niantic of [cheater]'s Multi-Device Issues at [timestamp]
+Notifying Niantic of [cheater]'s Multi-Device Misconduct at [timestamp]
+Notifying Niantic of [cheater]'s Multi-Device Violations at [timestamp]
+Notifying Niantic of Account Duplication Concerns
+Notifying Niantic of Account Sharing Concerns
+Notifying Niantic of Account Sharing Infractions
+Notifying Niantic of Account Sharing Issues
+Notifying Niantic of Capsule Dropping Concerns
+Notifying Niantic of Capsule Dropping Infractions
+Notifying Niantic of Capsule Dropping Misconduct
+Notifying Niantic of Device Sharing Violations
+Notifying Niantic of Improper Account Use
+Notifying Niantic of Item Trading Issues
+Notifying Niantic of Item Trading Misconduct
+Notifying Niantic of Item Trading Rule Violations
+Notifying Niantic of Multi-Account Behavior
+Notifying Niantic of Multi-Account Behavior in Ingress
+Notifying Niantic of Multi-Account Coordination
+Notifying Niantic of Multi-Account Gameplay Issues
+Notifying Niantic of Multi-Account Misuse Issues
+Notifying Niantic of Multi-Account Rule Breaks
+Notifying Niantic of Multi-Account Violations
+Notifying Niantic of Multi-Device Gameplay Issues
+Notifying Niantic of Multi-Device Violations
+Notifying Niantic of Multiple Device Usage
+Notifying Niantic of Suspected Multi-Accounting
+Numerous identical movement logs traced to [cheater]  
 Overlapping activity across accounts  
 Overlapping Device Usage Across Accounts of [cheater]  
+Pattern of one account setting up for [cheater]'s other  
+Perfect mod deployment spacing indicates automation by [cheater]  
+Portal captured and modded by [cheater] across different codenames
+Portal data shows unnatural link timing supporting [cheater]  
+Portal history shows only [cheater] and recurring low-AP helper  
+Portal remains linked despite takedowns — helper alt restores for [cheater]  
+Portals flipped instantly after capture — helper aids [cheater]  
+Portals lit up only by [cheater] and account with no other activity  
 Possible Account Selling Activities by [cheater]
 Possible Account Trading
 Possible ghost account activity
+Possible item funneling between [cheater]’s accounts
 Possible multi-account abuse
 Potential Abuse of Capsule Drops by [cheater]
 Potential Account Sharing or Selling by [cheater]
@@ -271,16 +649,143 @@ Potential Account Trading by [cheater]
 Potential Account Trading Linked to [cheater]
 Potential Capsule Drop Exploit by [cheater]
 Potential Cheating: [cheater] Item Transfers
-Potential Farm Accounts Operated by [cheater]
 Potential Inventory Abuse by [cheater]
 Potential Multi-Account Abuse by [cheater]  
 Potential Multi-Account Item Hoarding by [cheater]
 Rapid account switching behavior
+Rapid deploy/pickup cycle confirms [cheater] uses item farm account  
+Rapid item pickup/drops observed in [cheater]'s play area  
+Rare items held briefly by ghost account before [cheater] gets them  
 Real-Time Monitoring of Multi Account Activities
+Recharge shockwave from multiple accounts clearly linked to [cheater]  
+Recharging by unknowns at exact [timestamp] tied to [cheater]’s ops  
+Recurrent mod spike during [timestamp] suggests coordinated drop  
+Recurrent resonator assistance only during [cheater]’s actions  
+Remote glyph scores from backup ID appear within 1 minute of [cheater]’s  
+Repeat drop/pickup in same spot tied to [cheater]  
+Repeat gear transfer from low-level ID to [cheater] in remote location  
+Repeated “inactive” accounts show up during only [cheater]’s activities  
+Repeated gear funneling from level 8 alt into [cheater]’s inventory  
+Repeated gear transfers hint at account sharing by [cheater]
+Repeated gear transfers point to [cheater] using alt accounts  
 Repeated Multi-account Pattern
+Repetitive capsule sharing shows organized dual-account play  
+Repetitive portal usage with same gear types links to [cheater]  
 Report Cheater
 Report of using multiple accounts
 Report on [cheater] for Using Alts
+Reporting [cheater] for Account Multiplication Tactics on [timestamp]
+Reporting [cheater] for Account Multiplication Violations on [timestamp]
+Reporting [cheater] for Account Sharing Breaches on [timestamp]
+Reporting [cheater] for Account Sharing Exploitation at [timestamp]
+Reporting [cheater] for Account Sharing Misconduct on [timestamp]
+Reporting [cheater] for Account Sharing Rule Breaches on [timestamp]
+Reporting [cheater] for Account Sharing Violations on [timestamp]
+Reporting [cheater] for Capsule Dropping Exploits on [timestamp]
+Reporting [cheater] for Capsule Dropping Misuse on [timestamp]
+Reporting [cheater] for Capsule Dropping Rule Violations at [timestamp]
+Reporting [cheater] for Capsule Dropping Rule Violations on [timestamp]
+Reporting [cheater] for Coordinated Capsule Dropping at [timestamp]
+Reporting [cheater] for Coordinated Device Usage on [timestamp]
+Reporting [cheater] for Coordinated Multi-Account Activity at [timestamp]
+Reporting [cheater] for Coordinated Multi-Account Behavior on [timestamp]
+Reporting [cheater] for Coordinated Multi-Account Strategies on [timestamp]
+Reporting [cheater] for Coordinated Multi-Device Play on [timestamp]
+Reporting [cheater] for Device Sharing Infractions on [timestamp]
+Reporting [cheater] for Device Sharing Rule Breaches on [timestamp]
+Reporting [cheater] for Device Sharing Rule Violations on [timestamp]
+Reporting [cheater] for Item Trading Exploits on [timestamp]
+Reporting [cheater] for Item Trading Rule Breaches on [timestamp]
+Reporting [cheater] for Multi-Account Coordination Tactics on [timestamp]
+Reporting [cheater] for Multi-Account Gameplay Tactics on [timestamp]
+Reporting [cheater] for Multi-Account Rule Violations on [timestamp]
+Reporting [cheater] for Multi-Device Exploitation on [timestamp]
+Reporting [cheater] for Multi-Device Gameplay Tactics on [timestamp]
+Reporting [cheater] for Multi-Device Misconduct on [timestamp]
+Reporting [cheater] for Multi-Device Misuse on [timestamp]
+Reporting [cheater] for Multi-Device Rule Breaches on [timestamp]
+Reporting [cheater] for Multi-Device Rule Violations on [timestamp]
+Reporting [cheater] for Multi-Device Usage on [timestamp]
+Reporting [cheater] for Suspected Account Duplication at [timestamp]
+Reporting [cheater] for Suspected Account Multiplication at [timestamp]
+Reporting [cheater] for Suspected Capsule Dropping Exploits at [timestamp]
+Reporting [cheater] for Suspected Capsule Dropping Tactics at [timestamp]
+Reporting [cheater] for Suspected Device Sharing Exploits at [timestamp]
+Reporting [cheater] for Suspected Device Stacking at [timestamp]
+Reporting [cheater] for Suspected Item Trading Schemes at [timestamp]
+Reporting [cheater] for Suspected Multi-Account Activity at [timestamp]
+Reporting [cheater] for Suspected Multi-Account Manipulation at [timestamp]
+Reporting [cheater] for Suspected Multi-Account Usage at [timestamp]
+Reporting [cheater] for Suspected Multi-Device Misuse at [timestamp]
+Reporting [cheater] for Unauthorized Account Sharing on [timestamp]
+Reporting [cheater] for Unauthorized Account Sharing Tactics at [timestamp]
+Reporting [cheater] for Unauthorized Capsule Dropping Activity at [timestamp]
+Reporting [cheater] for Unauthorized Capsule Dropping at [timestamp]
+Reporting [cheater] for Unauthorized Capsule Dropping Behavior at [timestamp]
+Reporting [cheater] for Unauthorized Capsule Dropping Tactics at [timestamp]
+Reporting [cheater] for Unauthorized Device Sharing Activity at [timestamp]
+Reporting [cheater] for Unauthorized Device Stacking at [timestamp]
+Reporting [cheater] for Unauthorized Item Trading at [timestamp]
+Reporting [cheater] for Unauthorized Item Trading Schemes at [timestamp]
+Reporting [cheater] for Unauthorized Item Trading Tactics at [timestamp]
+Reporting [cheater] for Unauthorized Multi-Account Behavior at [timestamp]
+Reporting [cheater] for Unauthorized Multi-Account Exploits at [timestamp]
+Reporting [cheater] for Unauthorized Multi-Account Play at [timestamp]
+Reporting [cheater] for Unauthorized Multi-Account Strategies at [timestamp]
+Reporting [cheater] for Unauthorized Multi-Account Tactics at [timestamp]
+Reporting [cheater] for Unauthorized Multi-Device Strategies at [timestamp]
+Reporting Account Duplication Issues
+Reporting Account Sharing Violations
+Reporting Improper Multi-Account Use
+Reporting Ingress Players for Account Sharing Violations
+Reporting Players Engaging in Account Sharing
+Reporting Players Engaging in Multi-Account Play
+Reporting Players for Account Multiplication Tactics
+Reporting Players for Account Sharing Misconduct
+Reporting Players for Account Sharing Violations
+Reporting Players for Capsule Dropping Exploits
+Reporting Players for Capsule Dropping Issues
+Reporting Players for Coordinated Multi-Account Play
+Reporting Players for Device Stacking Behavior
+Reporting Players for Item Trading Exploits
+Reporting Players for Item Trading Violations
+Reporting Players for Multi-Account Exploitation
+Reporting Players for Multi-Account Gameplay Tactics
+Reporting Players for Multi-Account Misconduct
+Reporting Players for Multi-Account Practices
+Reporting Players for Multi-Account Rule Violations
+Reporting Players for Multi-Device Misconduct
+Reporting Players for Multi-Device Violations
+Reporting Players for Multiple Account Activity
+Reporting Players for Unauthorized Account Use
+Reporting Players Using Duplicate Accounts
+Reporting Players Using Multiple Accounts
+Reporting Players Using Multiple Devices
+Reporting Players with Multiple Accounts
+Reporting Suspected Account Multiplication
+Reporting Suspected Account Multiplication Activity
+Reporting Suspected Account Sharing Behavior
+Reporting Suspected Capsule Dropping Activity
+Reporting Suspected Device Stacking Activity
+Reporting Suspected Item Trading Infractions
+Reporting Suspected Item Trading Schemes
+Reporting Suspected Multi-Account Activity
+Reporting Suspected Multi-Account Activity in Ingress
+Reporting Suspected Multi-Account Cheating
+Reporting Suspected Multi-Account Exploitation
+Reporting Suspected Multi-Account Manipulation
+Reporting Suspected Multi-Account Usage
+Reporting Suspected Multi-Device Exploitation
+Reporting Unauthorized Account Duplication
+Reporting Unauthorized Capsule Dropping Behavior
+Reporting Unauthorized Item Exchange Practices
+Reporting Unauthorized Multi-Account Gameplay
+Reporting Unauthorized Multi-Account Operations
+Reporting Unauthorized Multi-Account Practices
+Reporting Unauthorized Multi-Account Strategies
+Reporting Unauthorized Multi-Accounting
+Reporting Unauthorized Multi-Accounting in Ingress
+Reporting Unauthorized Multi-Device Play
 Reports Confirm Capsule Drop Abuse by [cheater]
 Reports Confirm Capsule Drop Item Transfer Abuse by [cheater]
 Reports Confirm Multi-Account Capsule Drop Exploits by [cheater]
@@ -307,23 +812,113 @@ Reports Show Coordinated Capsule Drops by [cheater]
 Reports Show Item Transfer Manipulation by [cheater]
 Reports Show Multi-Account Item Transfers by [cheater]
 Reports Show Unfair Capsule Drops by [cheater]
+Resonator placements done in quick succession by [cheater]  
 Resource funneling between accounts  
 Risks and Consequences of Using Multi Accounts
+Same anomaly deployment style used across 3 aliases of [cheater]  
+Same device ID across multiple logins under [cheater]’s aliases  
+Same error pattern in glyph input appears on 3 support IDs — [cheater]  
+Same glyphing habits found across all related accounts  
+Same mod types with identical timing used by [cheater]’s alts  
+Same mods applied on different accounts tied to [cheater]  
+Same time mod drops observed across five accounts linked to [cheater]  
+Same unique portal visited from several accounts under [cheater]
+Second profile only appears near [cheater] to boost deploy  
+Self-farm cycle observed in [cheater]’s movement logs  
 Shared Account Credentials Suspected Involving [cheater]
 Shared Account Usage Detected Involving [cheater]
+Shared capsules appear repeatedly under [cheater]'s usage  
+Shared capsules repeatedly passed between [cheater]'s profiles
 Shared Credentials Detected
 Shared Credentials Suspected Involving [cheater]
+Shared GPS offset suggests phone switch by [cheater]  
+Shared key portals stored by both [cheater] and backup IDs  
+Shared login device fingerprints across [cheater]’s codenames  
+Shared MAC address logs show connection to [cheater]  
+Shared pattern of play hours across all linked profiles  
+Shared recharge key logs prove connection between [cheater] and support ID  
+Shared XM trails suggest phone swapping by [cheater]  
+Shell accounts only active during [cheater]’s fielding  
+Shield timing logs from alternate user consistent with [cheater]’s actions  
 Signs of Account Trading by [cheater]
 Signs of Account Trading Involving [cheater]
+Simultaneous deploys too fast to be legit — suspect [cheater]  
+Simultaneous linking impossible without extra accounts, flagged [cheater]  
 Simultaneous portal activity on different accounts
 Simultaneous portal control abuse  
+Solo links followed by bursts from helper accounts point to [cheater]  
+Spoofed inventory matching actions traced to [cheater]  
+Storage account never gains AP — only used for [cheater]’s ops  
 Strange Cluster of Activity Linked to [cheater]
+Strange XM activity from accounts known to be tied to [cheater]  
+Submitting a Complaint for [cheater]'s Account Sharing at [timestamp]
+Submitting a Complaint for [cheater]'s Capsule Dropping Breaches at [timestamp]
+Submitting a Complaint for [cheater]'s Capsule Dropping Misconduct at [timestamp]
+Submitting a Complaint for [cheater]'s Capsule Dropping Misuse at [timestamp]
+Submitting a Complaint for [cheater]'s Capsule Dropping Violations at [timestamp]
+Submitting a Complaint for [cheater]'s Item Trading Activity at [timestamp]
+Submitting a Complaint for [cheater]'s Item Trading Breaches at [timestamp]
+Submitting a Complaint for [cheater]'s Item Trading Misconduct at [timestamp]
+Submitting a Complaint for [cheater]'s Item Trading Misuse at [timestamp]
+Submitting a Complaint for [cheater]'s Item Trading Violations at [timestamp]
+Submitting a Complaint for [cheater]'s Multi-Account Concerns at [timestamp]
+Submitting a Complaint for [cheater]'s Multi-Account Misuse at [timestamp]
+Submitting a Complaint for [cheater]'s Multi-Account Violations at [timestamp]
+Submitting a Complaint for [cheater]'s Multi-Device Gameplay at [timestamp]
+Submitting a Complaint for [cheater]'s Multi-Device Misuse at [timestamp]
+Submitting a Complaint for Account Sharing
+Submitting a Complaint for Capsule Dropping Misuse
+Submitting a Complaint for Item Trading Breaches
+Submitting a Complaint for Multiple Accounts
+Submitting a Multi-Account Activity Complaint
+Submitting a Multi-Account Behavior Report
+Submitting a Multi-Account Complaint
+Submitting a Multi-Account Complaint in Ingress
+Submitting a Multi-Account Exploitation Report
+Submitting a Multi-Account Infraction Report
+Submitting a Multi-Account Misconduct Report
+Submitting a Multi-Account Violation Complaint
+Submitting a Multi-Account Violation Report
+Submitting a Multi-Device Infraction Complaint
+Submitting a Multi-Device Misconduct Report
+Submitting a Multi-Device Usage Complaint
+Submitting a Multi-Device Usage Violation Report
+Submitting a Report for [cheater]'s Account Multiplication at [timestamp]
+Submitting a Report for [cheater]'s Account Sharing Tactics at [timestamp]
+Submitting a Report for [cheater]'s Account Sharing Violations at [timestamp]
+Submitting a Report for [cheater]'s Capsule Dropping Issues at [timestamp]
+Submitting a Report for [cheater]'s Device Stacking Misuse at [timestamp]
+Submitting a Report for [cheater]'s Device Stacking Violations at [timestamp]
+Submitting a Report for [cheater]'s Item Trading Concerns at [timestamp]
+Submitting a Report for [cheater]'s Item Trading Issues at [timestamp]
+Submitting a Report for [cheater]'s Item Trading Rule Breaches at [timestamp]
+Submitting a Report for [cheater]'s Multi-Account Activity at [timestamp]
+Submitting a Report for [cheater]'s Multi-Account Exploitation at [timestamp]
+Submitting a Report for [cheater]'s Multi-Account Gameplay at [timestamp]
+Submitting a Report for [cheater]'s Multi-Account Infractions at [timestamp]
+Submitting a Report for [cheater]'s Multi-Account Issues at [timestamp]
+Submitting a Report for [cheater]'s Multi-Account Misconduct at [timestamp]
+Submitting a Report for [cheater]'s Multi-Account Strategies at [timestamp]
+Submitting a Report for [cheater]'s Multi-Device Infractions at [timestamp]
+Submitting a Report for [cheater]'s Multi-Device Usage at [timestamp]
+Submitting a Report for [cheater]'s Multi-Device Violations at [timestamp]
+Submitting a Report for Account Misuse
+Submitting a Report for Account Sharing Breaches
+Submitting a Report for Account Sharing Concerns
+Submitting a Report for Capsule Dropping Misuse
+Submitting a Report for Item Trading Misconduct
+Submitting a Report for Item Trading Violations
+Submitting a Report for Multi-Account Gameplay Issues
+Submitting a Report for Multiple Account Activity
+Submitting a Report for Multiple Account Violations
+Support account deploys mods within milliseconds of [cheater] capturing portal  
+Support IDs seen only during major ops initiated by [cheater]  
+Support profile exists only to recharge [cheater]’s anchors  
+Supporting ID’s only badge is Sojourner — likely spoof or bot  
 Suspected Item Transfers by [cheater]
 Suspected Multi-account Use
-Suspicion of Account Farming by [cheater]
 Suspicion of Account Sharing and Item Trading
 Suspicion of Multi-accounting: [cheater]
-Suspicious Account Farming Activities from [cheater]
 Suspicious Account Network
 Suspicious Account Sales Linked to [cheater]
 Suspicious account sharing
@@ -342,6 +937,8 @@ Suspicious Capsule Drop Usage Patterns by [cheater]
 Suspicious Capsule Drops Between Accounts by [cheater]
 Suspicious Capsule Drops by [cheater]
 Suspicious Capsule Drops Detected for [cheater]
+Suspicious drop spots repeat across [cheater]’s route  
+Suspicious dual-login behavior detected involving [cheater]  
 Suspicious Inventory Movements by [cheater]
 Suspicious Inventory Redistribution by [cheater]
 Suspicious Inventory Transfers by [cheater]
@@ -356,28 +953,48 @@ Suspicious Item Transfers at [timestamp] by [cheater]
 Suspicious Item Transfers via Capsules Linked to [cheater]
 Suspicious login metadata  
 Suspicious mirror actions detected
+Suspicious mod placement at [timestamp] by multiple accounts  
 Suspicious Multi-Account Activity by [cheater]
 Suspicious Multi-Account Behavior Linked to [cheater]
 Suspicious Multi-Account Capsule Drop Activity Recorded
 Suspicious Multi-Account Capsule Drops by [cheater]
 Suspicious Multi-Account Capsule Drops Under Review
-Suspicious multi-account farming
 Suspicious Multi-Account Transfers Linked to [cheater]
 Suspicious Multi-Account Usage by [cheater]
+Suspicious recharge storm from multiple unknown accounts near [cheater]  
 Suspicious Resource Movement by [cheater]
 Suspicious Trading Activities Linked to [cheater]
 Suspicious transactions through linked accounts
+Suspicious use of multi-devices by [cheater] on [timestamp]
+Synchronized attacks and defenses on portals match [cheater]’s tactics  
+Synchronized portal actions show signs of macro or multi-device use  
 The Impact of Multi Accounts on Fair Play and Security
+Time gap too short for legit action switch — [cheater] suspected  
+Timing of mod deploys proves two hands on separate devices  
+Traded capsules recovered with matching IDs from [cheater]  
 Unauthorized Capsule Drops by [cheater]
+Unbroken gear pipeline links new players to [cheater]  
 Understanding the Psychology Behind Multi Account Creation
 Unfair Advantage Through Capsule Drops by [cheater]
-Unfair farming with alternate IDs
 Unfair inventory manipulation  
 Unfair Item Transfers Detected from [cheater]
 Unfair multi-account resource gain  
 Unfair play through multiple IDs
+Unlinked accounts throw blocker, drop key, disappear — enables [cheater]  
+Unnatural mod deployment speed from [cheater]'s linked IDs  
 Unusual Account Activity Across [cheater]'s IDs
 Unusual Account Linking Activity with [cheater]
 Unusual Account Login Patterns
+Unusual capsule exchange logs connected to [cheater]
+Unusual capsule pass pattern confirms collusion between [cheater] accounts  
+Unusual deployment overlap found with [cheater]'s accounts  
+Unusual mod pattern shows items transferred from [cheater]’s secondary accounts  
 Unusual Multi-Account Behavior from [cheater]
 Unusual Multi-Account Coordination Detected with [cheater]
+XM behavior of helper IDs match [cheater]’s sync pattern  
+XM drain surge on anchor matches [cheater]’s play radius  
+XM logs show identical latency patterns from [cheater]’s deployments  
+XM trail starts from [cheater] and ends at dummy portal  
+XM usage spike observed from [cheater]'s connected accounts  
+Zero interaction outside support of [cheater] — pure ghost account  
+Zero recharge activity from helper ID except for [cheater]’s portals

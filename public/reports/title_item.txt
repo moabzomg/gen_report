@@ -1,4 +1,3 @@
-[cheater] automating farming  
 [cheater] Coordinated Capsule Drops for Item Transfer
 [cheater] Detected in Multi-Account Capsule Drop Transfers
 [cheater] Detected Moving Items Across Accounts
@@ -14,8 +13,6 @@
 [cheater] Exploiting Capsule Drops for Item Gains
 [cheater] exploiting item drops  
 [cheater] exploiting spawn mechanics  
-[cheater] farming capsules rapidly  
-[cheater] farming capsules too quickly  
 [cheater] Involved in Capsule Drop Manipulation
 [cheater] Using Capsule Drops for Coordinated Item Movement
 [cheater] Using Capsule Drops for Illegal Item Movement
@@ -37,7 +34,6 @@ Agent attempting to monetize in-game assets
 Agent claimed they were “compensated”  
 Agent involved in real-world item exchange  
 Agent offering items for out-of-game benefit  
-Agent quoted saying “they paid well”  
 Agent receiving high-level gear from unknowns  
 Agent suspected of profiting from game items  
 Agent with zero hacks holding full inventory  
@@ -46,16 +42,9 @@ Analysis of Item Movement Patterns by [cheater]
 Anonymous reports of off-game item trading  
 Anonymous tips about gear-for-goods exchange  
 Appears to function as gear broker  
-Automation Suspected in Farming  
-Automation Suspected in Item Farming  
 Automation suspected in item pickup  
 Automation used by [cheater]  
 Bot use for item collection suspected  
-Bot use suspected for capsule farming  
-Bot use suspected in capsule farming  
-Bot-assisted capsule farming suspected  
-Bot-assisted farming suspected  
-Botting Suspected in Capsule Farming  
 Capsule Collection Pattern Suspicious  
 Capsule Collection Speed Suspicious  
 Capsule Collection Too Fast to be Legit  
@@ -86,81 +75,17 @@ Capsule Drop Transfer Activity Raises Concerns for [cheater]
 Capsule Drop Transfer Activity Raises Suspicion
 Capsule Drop Transfer Logs Under Review for [cheater]
 Capsule Drop Transfer Patterns Raise Flags for [cheater]
-Capsule Farming Activity Reported  
-Capsule farming automated behavior  
-Capsule Farming Behavior Questioned  
-Capsule Farming Behavior Raises Red Flags  
-Capsule Farming Behavior Reported  
-Capsule Farming Behavior Under Review  
-Capsule farming beyond fair limits  
-Capsule Farming Beyond Fair Play  
-Capsule Farming Beyond Game Norms  
-Capsule Farming Beyond Legitimate Play  
-Capsule Farming Beyond Normal Limits  
-Capsule farming beyond normal speed  
-Capsule Farming Concerns Raised  
-Capsule Farming Investigation Needed  
-Capsule farming investigation requested  
-Capsule Farming Pattern Suspicious  
-Capsule Farming Possible Exploit  
-Capsule Farming Possibly Against Rules  
-Capsule farming possibly automated  
-Capsule Farming Possibly Exploited  
-Capsule Farming Possibly Using Exploits  
-Capsule Farming Raises Fairness Issues  
-Capsule Farming Raises Integrity Concerns  
-Capsule Farming Raises Red Flags  
-Capsule Farming Raises Suspicion  
-Capsule farming red flags
-Capsule farming red flags  
-Capsule farming report filed  
-Capsule farming report for Niantic  
-Capsule farming report submitted  
-Capsule Farming Report to Niantic  
-Capsule Farming Reported to Niantic  
-Capsule Farming Speed Alert  
-Capsule farming speed flagged  
-Capsule Farming Speed Investigation  
-Capsule Farming Speed Raises Flags  
-Capsule farming speed too fast  
-Capsule Farming Speed Too High  
-Capsule Farming Speed Too High to Be Fair  
-Capsule farming speed violation  
-Capsule Farming Speed Violation Noted  
-Capsule farming speed violation reported  
-Capsule Farming Suspected at [timestamp]  
-Capsule Farming Suspicious Behavior  
-Capsule Farming Too Fast for Fair Play  
-Capsule Farming Too Fast for Legit Play  
-Capsule Farming Too Fast to be Fair  
-Capsule Farming Too Fast to be Genuine  
-Capsule farming too fast to be legit  
-Capsule Farming Unfair Behavior  
-Capsule Farming Unfair Play Alert  
-Capsule Farming Violates Fair Play  
-Capsule Farming Violates Game Rules  
-Capsule Farming Violates Terms  
-Capsule farming violation  
-Capsule farming violation noted  
-Capsule Farming Violation Report  
-Capsule farming violation reported  
 Cheater Behavior Detected  
 Cheater Exploiting Item Drops  
 Cheater Exploiting Spawn Mechanics  
 Cheater Using Automation for Capsules  
-Cheating alert on capsule farming  
-Cheating alert: capsule farming  
-Cheating Alert: Rapid Item Farming  
 Cheating Behavior in Item Pickup  
 Cheating Behavior Suspicion  
 Cheating in item pickup suspected  
-Cheating report: capsule farming  
 Cheating Report: Item Collection  
-Cheating Report: Rapid Item Farming  
 Cheating Suspected in Capsule Collection  
 Cheating Suspected in Item Collection  
 Cheating suspected in item pickup  
-Cheating suspicion in farming  
 Cheating Suspicion in Item Pickup  
 Cheating Suspicion: Instant Capsule Grab  
 Claimed “supplier” providing gear illegally  
@@ -175,18 +100,8 @@ Cross-faction transfers without ops context
 Drop timing and item types seem suspicious  
 Evidence of Coordinated Capsule Drops by [cheater]
 Evidence of third-party gear coordination  
-Farming behavior suspicious  
-Farming beyond game norms  
-Farming beyond legitimate play  
-Farming raising red flags  
-Farming speed alert  
-Farming speed flagged  
-Farming speed too high  
-Farming speed too high for fair play  
-Farming suspected at [timestamp]  
 Frequent deliveries not linked to gameplay  
 Frequent gear handoffs without gameplay link  
-Gear accumulation exceeds typical farming  
 Gear drops reported to occur on schedule  
 Gear flow shows signs of profit motive  
 Gear redistribution unrelated to ops  
@@ -208,7 +123,6 @@ Ingress inventory moved with no game context
 Ingress items allegedly traded for goods  
 Instant capsule collection  
 Instant Capsule Collection Observed  
-Instant capsule farming noticed  
 Instant Capsule Pickup Evidence  
 Instant capsule pickup recorded  
 Instant Pickup of Rare Items  
@@ -222,15 +136,10 @@ Investigation of Multi-Account Capsule Drops by [cheater]
 Investigation on Capsule Drop Exploitation by [cheater]
 Item dispersal pattern outside gameplay norms  
 Item distribution suggesting commercial intent  
-Item Farming Beyond Game Norms  
-Item Farming Report Submitted  
-Item Farming Violates Game Rules  
-Item Farming Violation Suspected  
 Item trail ends at suspect account  
 Item Transfer Logs Implicate [cheater]
 Item transfers without reciprocal activity  
 Known players meeting for non-game item swaps  
-Large transfers with no logs of farming  
 Local agents raise concern over gear imbalance  
 Logs Show Suspicious Capsule Drops from [cheater]
 Mass item drop traced back to [cheater]  
@@ -242,8 +151,6 @@ Multi-Account Capsule Drop Abuse Under Investigation
 Multi-Account Capsule Drop Activity Detected for [cheater]
 Multi-Account Capsule Drop Alert for [cheater]
 Multi-Account Capsule Drop Tracking Indicates Abuse by [cheater]
-Multi-account capsule farming suspected  
-Multi-account farming suspected  
 Multi-Account Item Transfer Alert: [cheater]
 Multiple agents identified in gear chain  
 Multiple Capsules Collected Instantly  
@@ -260,65 +167,35 @@ Pattern of deposit-pickup loop
 Pattern of gear sharing with no strategic gain  
 Patterns of suspicious gear logistics  
 Player [cheater] collecting capsules instantly  
-Player [cheater] Farming Capsules Fast  
 Player Behavior Raises Concerns  
 Player behavior suggests item resale  
 Player Behavior Under Review  
 Player Behavior Violates Rules  
 Player Collecting Capsules Instantly  
-Player exploiting farming mechanics  
 Player Exploiting Game for Capsules  
 Player exploiting game mechanics  
 Player Exploiting Item Drops  
 Player Exploiting Item Spawn Mechanics  
 Player Exploiting Spawn Mechanic  
-Player Farming Capsules at Suspicious Speed  
-Player Farming Capsules at Unfair Speed  
-Player Farming Capsules Illegally  
-Player Farming Capsules Instantly    
-Player Farming Capsules Quickly  
-Player Farming Capsules Rapidly  
-Player Farming Capsules Suspiciously  
-Player Farming Capsules Too Fast  
-Player Farming Capsules Too Quickly  
-Player farming capsules unfairly  
-Player Farming Capsules with Bots  
 Player movement implies gear distribution  
 Player Possibly Using Automation  
 Player Possibly Using Bots  
 Player Possibly Using Scripts  
 Player Suspected of Automation  
-Player Using Automation in Farming  
 Player Using Automation Suspected  
 Player Using Automation Tools for Capsules  
 Player Using Automation Tools?  
-Player Using Bots for Capsule Farming  
-Player Using Bots for Farming  
 Player Using Bots for Item Collection  
-Player Using Bots in Capsule Farming  
 Player Using Bots to Collect Capsules  
-Player Using Bots to Farm Items  
-Player Using Scripts for Capsule Farming  
-Player Using Scripts for Farming  
-Player Using Scripts for Farming?  
 Player Using Unauthorized Methods  
-Player Using Unauthorized Methods for Farming  
 Player Using Unauthorized Tools  
 Possible account misuse for item vending  
 Possible automation detected  
 Possible Automation in Item Pickup  
-Possible Bot Use in Capsule Farming  
 Possible Bot Use in Capsule Pickup  
-Possible bot use in farming  
-Possible Bot Use in Item Farming  
-Possible capsule farming exploit  
-Possible exploit in capsule farming  
 Possible Exploit in Item Pickup  
 Possible Exploit Use in Item Pickup  
 Possible Multi-Account Abuse  
-Possible Multi-Account Capsule Farming  
-Possible Multi-Account Farming  
-Possible Multi-Account Farming Detected  
 Possible real-world transaction coordination  
 Possible Use of Automation Tools  
 Possible Use of Unauthorized Tools  
@@ -336,44 +213,18 @@ Rapid capsule collection noticed
 Rapid Capsule Collection Observed  
 Rapid Capsule Collection Report Filed  
 Rapid capsule collection suspicious  
-Rapid Capsule Farming Activity  
-Rapid Capsule Farming Activity Noted  
-Rapid Capsule Farming Activity Reported  
-Rapid Capsule Farming Alert  
-Rapid Capsule Farming Alerts  
-Rapid capsule farming behavior  
-Rapid capsule farming behavior noted  
-Rapid Capsule Farming Behavior Observed  
-Rapid capsule farming concerns  
-Rapid capsule farming evidence  
-Rapid Capsule Farming Evidence Submitted  
-Rapid Capsule Farming Observed  
-Rapid Capsule Farming Raises Concerns  
-Rapid Capsule Farming Suspected  
-Rapid capsule farming suspicious  
 Rapid Capsule Grab Evidence  
 Rapid Capsule Pickup Suspected  
 Rapid capsule pickup suspicious  
 Rapid Collection of High-Value Gear  
 Rapid Collection of Rare Mods  
 Rapid Collection of Rare Mods Noted  
-Rapid farming activity noted  
-Rapid farming behavior noted  
-Rapid farming behavior observed  
-Rapid farming behavior reported  
-Rapid Farming Detected at [timestamp]  
-Rapid Farming Raises Concerns  
 Rapid gear collection by [cheater]  
 Rapid Gear Collection Reported  
 Rapid Gear Pickup by Player [cheater]  
 Rapid Item Collection Report  
 Rapid Item Collection Suspicion  
 Rapid item collection suspicious  
-Rapid Item Farming Investigated  
-Rapid Item Farming Observed  
-Rapid Item Farming Raises Flags  
-Rapid item farming raising flags  
-Rapid Item Farming Suspicion Raised  
 Rapid Item Pickup Behavior  
 Rapid Item Pickup Behavior Noted  
 Rapid item pickup by [cheater]  
@@ -384,12 +235,9 @@ Rapid item pickup recorded
 Rapid Item Pickup Reported  
 Rapid Pickup of Rare Items  
 Rapid Pickup of Rare Items Noted  
-Rapid Rare Capsule Farming Alert  
 Rapid Rare Capsule Pickup  
 Rapid rare item collection  
 Rapid Rare Item Collection Report  
-Rapid rare item farming by [cheater]  
-Rapid rare item farming observed  
 Rapid rare mod collection noted  
 Real-world value exchange suspected  
 Recurring high-level gear donor identified  
@@ -436,25 +284,10 @@ Suspicious Capsule Drop Transfers Under Review
 Suspicious Capsule Drop Usage by [cheater]
 Suspicious Capsule Drop Usage Patterns by [cheater]
 Suspicious Capsule Drops Detected for [cheater]
-Suspicious Capsule Farming Activity  
-Suspicious Capsule Farming Activity Reported  
-Suspicious capsule farming behavior  
-Suspicious capsule farming by [cheater]  
-Suspicious capsule farming detected  
-Suspicious Capsule Farming Pattern  
-Suspicious capsule farming pattern by [cheater]  
 Suspicious capsule pattern by [cheater]  
-Suspicious Farming Activity at [timestamp]  
-Suspicious farming at [timestamp]  
-Suspicious Farming Behavior at [timestamp]  
-Suspicious farming pattern detected  
-Suspicious farming speed  
-Suspicious Fast Capsule Farming  
 Suspicious inventory movement detected  
 Suspicious Inventory Movements by [cheater]
 Suspicious Inventory Redistribution by [cheater]
-Suspicious item farming by [cheater]  
-Suspicious Item Farming Detected  
 Suspicious Item Movement Patterns by [cheater]
 Suspicious Item Swapping via Capsules by [cheater]
 Suspicious Item Transfer Behavior by [cheater]
@@ -465,43 +298,22 @@ Suspicious Multi-Account Capsule Drops Under Review
 Suspicious Player Activity Noted  
 Suspicious Player Behavior Observed  
 Suspicious player behavior spotted  
-Suspicious Player Item Farming  
 Suspicious Rapid Capsule Pickup  
 Temporal correlation with gear boost  
 Third-party exchange suspected  
 Trading behavior raises violation concerns  
 Unauthorized Capsule Drops by [cheater]
-Unauthorized farming methods used  
 Unauthorized tools used by [cheater]  
 Underground gear circuit suspected  
 Unexplained gear accumulation by single agent  
 Unexplained mod stockpiling  
-Unfair advantage in capsule farming  
 Unfair Advantage in Item Collection  
 Unfair Capsule Collection Activity  
-Unfair capsule farming activity  
-Unfair capsule farming by [cheater]  
-Unfair Capsule Farming Observed  
-Unfair farming behavior  
-Unfair Farming Behavior Detected  
-Unfair Farming Behavior Noticed  
-Unfair Farming Practices Noted  
-Unfair farming practices noticed  
-Unfair item farming behavior  
 Unfair Play in Capsule Collection  
-Unfair Play: Rapid Item Farming  
-Unfair speed capsule farming  
 Unmonitored zones used for gear drops  
 Unrelated agents appear to share stockpile  
-Unusual Capsule Farming Activity  
-Unusual Capsule Farming Pattern  
-Unusual Capsule Farming Speed  
-Unusual farming speed detected  
-Unusual Farming Speed Report  
 Unusual handover of rare gear logged  
-Unusual Item Farming Activity Report  
 Unusual item flow between unrelated accounts  
-Unusual Player Farming Activity  
 Unusual rise in mods and weapons  
 Unusual Speed in Capsule Collection  
 Unusual speed in capsule gathering  
@@ -509,10 +321,7 @@ Unusual Speed in Item Collection
 Unusual Speed in Item Gathering  
 Unusual XM activity during gear meetups  
 Unusually timed drops with no portal actions  
-Use of scripts for farming suspected  
 Use of scripts suspected  
-Use of scripts suspected in farming  
 Use of unauthorized tools suspected  
 Verbal exchange suggesting paid drop-off  
-Violation of capsule farming rules  
 Witness report of drop-for-benefit exchange  

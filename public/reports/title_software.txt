@@ -45,7 +45,6 @@ Automated Gameplay Detected on [cheater]'s Account
 Automated Gameplay Detected: Report on Third-Party Software Usage  
 Automated Gameplay Detection for [cheater]
 Automated Gameplay Suspected in [cheater]'s Account  
-Automated hacking actions flagged
 Automated Play Detected
 Automated Recharge Suspected
 Automated Script Usage Detected for [cheater]
@@ -68,7 +67,6 @@ Bot-like Behavior Detected on [cheater]'s Account
 Bot-Like Behavior Found
 Bot-like play patterns seen
 Bot-like Portal Actions
-Bot-like portal hacking activity
 Bots or Cloned Accounts in Use
 Botting activity uncovered
 Botting Behavior Observed in [cheater]'s Account
@@ -85,7 +83,6 @@ Evidence of Scripted Actions from [cheater]
 Evidence Suggests [cheater] Uses Automation Software  
 Exploit of game mechanics via bots
 Flawless repetitive actions  
-Hacking tools detected
 Illegal software signs in logs
 Improper Use of Scripts
 Inappropriate Use of Extra Accounts
@@ -97,7 +94,6 @@ Likely Use of External Tools
 Macro and script usage evidence  
 Macro behavior detected
 Non-human Speed Behavior by [cheater]
-Perfectly timed portal hacks  
 Possible Automation Detected in [cheater] Profile  
 Possible Bot Usage by [cheater]
 Possible Macro or Bot Usage in Game Actions  
@@ -105,7 +101,6 @@ Possible Third-party App Usage by [cheater]
 Possible Unauthorized Tools
 Potential Automation Involvement for [cheater]  
 Prohibited software usage
-Rapid portal hacking not humanly possible
 Rapid repeated actions detected
 Repeated Action Loops Found on [cheater]'s Profile
 Repeated Identical Actions by [cheater]
@@ -149,7 +144,6 @@ Suspicious Automation Activity Detected in [cheater]'s Account
 Suspicious Bot-Like Behavior from [cheater]  
 Suspicious External Tool Usage by [cheater]  
 Suspicious Gameplay Automation
-Suspicious high-frequency farming
 Suspicious Non-Human Patterns Indicate Software Assistance  
 Suspicious Perfect Timing
 Suspicious Portal Action Timing
@@ -176,7 +170,6 @@ Unauthorized Software Use
 Unauthorized tools suspected for [cheater]
 Unfair Advantage: [cheater]'s Use of Third-Party Software  
 Unnatural Action Patterns Found for [cheater]
-Unnatural farming speed detected
 Unnatural Game Interaction Speeds by [cheater]
 Unnatural Gameplay Patterns from [cheater]
 Unnatural Gameplay Patterns Suggesting Third-Party Software by [cheater]  

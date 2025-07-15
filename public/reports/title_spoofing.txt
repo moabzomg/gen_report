@@ -352,7 +352,6 @@ Unnatural Teleports by [cheater]
 Unnatural Travel Behavior by [cheater]
 Unnatural travel speed between portals
 Unreachable Portal Access Detected
-Unreachable portal hacked with no trace
 Unrealistic Geographic Movement Patterns in [cheater]'s Account  
 Unrealistic Location Switching by [cheater]
 Unrealistic Movement Patterns Detected for [cheater]
