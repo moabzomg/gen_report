@@ -48,7 +48,6 @@
 [cheater] interacts with own spoofed alt at identical location
 [cheater] Involved in Capsule Drop Manipulation
 [cheater] Linked to Account Sale Networks
-[cheater] logs out and back in with new account on [timestamp]  
 [cheater] Managing Several Accounts Simultaneously
 [cheater] Might Be Sharing Account
 [cheater] Moving Inventory Across Accounts
@@ -76,9 +75,6 @@
 [cheater] Suspected of Capsule Drop Exploits
 [cheater] suspected of controlling multiple devices on [timestamp]  
 [cheater] suspected of multi-accounting
-[cheater] swaps roles mid-field — proof of multiple accounts  
-[cheater] uses one account to recharge, another to attack  
-[cheater] uses stealth support to capture anchors without resistance  
 [cheater] Using Bots or Alt Characters
 [cheater] Using Capsule Drops for Coordinated Item Movement
 [cheater] Using Capsule Drops for Illegal Item Movement
@@ -120,7 +116,6 @@ Abuse of Alt Accounts to Gain Advantage
 Account abuse affecting gameplay
 Account Behavior of [cheater] Seems Off
 Account Duplication Observed
-Account group rotating between roles traced back to [cheater]  
 Account network manipulation
 Account Sale Patterns Detected for [cheater]
 Account selling and sharing concerns
@@ -134,7 +129,6 @@ Account Sharing Evidence
 Account Sharing or Sale Suspected for [cheater]
 Account Sharing Suspicion
 Account sharing violating terms of service
-Account switching patterns suggest automation by [cheater]  
 Account Trading or Sale Activity Detected for [cheater]
 Accounts Used in Tandem
 Activity spikes when [cheater] and known alts are present  
@@ -200,13 +194,6 @@ Analysis of Item Drops from [cheater]
 Analysis of Item Movement Patterns by [cheater]
 Analysis of Unfair Item Moves by [cheater]
 Analysis: Multi-Account Drops by [cheater]
-Auto-deploy pattern consistent with alt support to [cheater]  
-Auto-pickup sequences seen during [timestamp] by [cheater]  
-Auto-transfer patterns logged between two of [cheater]'s names  
-Back-and-forth field flips seen from linked accounts under [cheater]  
-Back-to-back deploys from separate IDs confirmed tied to [cheater]  
-Backpack account used by [cheater] has zero AP activity  
-Backup IDs under [cheater] recharge large portals at same moment  
 Best Practices to Prevent Multi Account Abuse
 Booster account shows repeated bursts matching [cheater]’s recharge times  
 Bounce link portals only touched by [cheater] and known dummy  

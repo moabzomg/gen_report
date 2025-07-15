@@ -2,7 +2,13 @@
 
 import React, { useState, useEffect } from "react";
 
-type ReportType = "spoofing" | "multi" | "software" | "item" | "other";
+type ReportType =
+  | "spoofing"
+  | "multi"
+  | "software"
+  | "item"
+  | "attack"
+  | "other";
 
 const reportTypeMap = {
   spoofing: {
@@ -24,6 +30,11 @@ const reportTypeMap = {
     titleFile: "/reports/title_item.txt",
     contentFile: "/reports/item.txt",
     label: "Trading or selling items",
+  },
+  attack: {
+    titleFile: "/reports/title_attack.txt",
+    contentFile: "/reports/attack.txt",
+    label: "Unrealistic Portal Attack",
   },
   other: {
     titleFile: "/reports/title_other.txt",
@@ -191,7 +202,7 @@ export default function GenReportPage() {
           : generateRandomTimestampWithin30Days();
         const link = timestampLinks[i].link.trim();
         if (ts || link) {
-          combinedLinkBlock += `\n${ts},${link}`;
+          combinedLinkBlock += `\n${ts}\n${link}`;
         }
       }
 
@@ -388,7 +399,39 @@ export default function GenReportPage() {
         }
       `}</style>
       <div className="container">
-        <h1>Generate Report</h1>
+        <div className="mb-4 text-gray-700 text-sm">
+          <p>
+            This tool generates a report based on your selected{" "}
+            <strong>report type</strong>:{" "}
+            <em>{reportTypeMap[reportType].label}</em>.
+            <br />
+          </p>
+
+          <table className="table-auto border-collapse border border-gray-300 mt-3 w-full text-left text-sm">
+            <thead>
+              <tr className="bg-gray-100">
+                <th className="border border-gray-300 px-3 py-1">
+                  Report Type
+                </th>
+                <th className="border border-gray-300 px-3 py-1"># Titles</th>
+                <th className="border border-gray-300 px-3 py-1"># Contents</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td className="border border-gray-300 px-3 py-1">
+                  {reportTypeMap[reportType].label}
+                </td>
+                <td className="border border-gray-300 px-3 py-1">
+                  {titles.length}
+                </td>
+                <td className="border border-gray-300 px-3 py-1">
+                  {contents.length}
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
 
         <label htmlFor="report-type">Select report type:</label>
         <select
@@ -411,6 +454,9 @@ export default function GenReportPage() {
           onChange={(e) => setUserCodename(e.target.value)}
           placeholder="Enter your codename"
         />
+        <small className="text-gray-600">
+          This will replace [codename] in the report.
+        </small>
 
         <label htmlFor="cheater-codename">Cheater&apos;s codename:</label>
         <input
@@ -420,6 +466,9 @@ export default function GenReportPage() {
           onChange={(e) => setCheaterCodename(e.target.value)}
           placeholder="Enter cheater's codename"
         />
+        <small className="text-gray-600">
+          This will replace [cheater] in the report.
+        </small>
 
         <label htmlFor="cheat-timestamp" className="block font-semibold mb-1">
           Timestamp (optional):
@@ -428,10 +477,16 @@ export default function GenReportPage() {
           id="cheat-timestamp"
           type="text"
           onChange={(e) => setCheatTimestamp(e.target.value)}
-          placeholder="2025-07-03 10:22:33 UTC+8"
           value={cheatTimestamp}
-          className="input"
+          placeholder="YYYY-MM-DD HH:MM:SS UTC+08:00"
+          className="input w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring focus:ring-blue-300"
         />
+        <small className="text-gray-600">
+          Auto-generate from 30 days if leaving blank or the format is wrong.
+          Default timezone UTC+8 will be used if timezone missing or wrong
+          format. This will replace [timestamp] in the report.
+        </small>
+
         <label htmlFor="intel-link" className="block font-semibold mb-1">
           Intel Link (optional):
         </label>
@@ -443,16 +498,18 @@ export default function GenReportPage() {
           onChange={(e) => setCheatLink(e.target.value)}
           className="input mt-2"
         />
-
-        {/* Show link inputs if timestamp entered */}
+        <small className="text-gray-600">
+          This will replace [link] in the report. Any additional links and
+          timestamps will be added below.
+        </small>
         {showLinksInput && (
           <>
-            <label>Intel link and timestamps (optional):</label>
+            <label>Additional Intel Links and Timestamps (optional):</label>
             {timestampLinks.map((pair, i) => (
               <div className="timestamp-link-row" key={i}>
                 <input
                   type="text"
-                  placeholder={`Timestamp${i + 1} (format as above)`}
+                  placeholder="YYYY-MM-DD HH:MM:SS UTC+08:00"
                   value={pair.timestamp}
                   onChange={(e) => {
                     const newPairs = [...timestampLinks];
@@ -460,9 +517,9 @@ export default function GenReportPage() {
                     setTimestampLinks(newPairs);
                   }}
                 />
+
                 <input
                   type="text"
-                  placeholder={`Link${i + 1}`}
                   value={pair.link}
                   onChange={(e) => {
                     const newPairs = [...timestampLinks];
@@ -470,6 +527,7 @@ export default function GenReportPage() {
                     setTimestampLinks(newPairs);
                   }}
                 />
+
                 {timestampLinks.length > 1 && (
                   <button
                     type="button"
@@ -496,7 +554,10 @@ export default function GenReportPage() {
           </>
         )}
 
-        <button className="button" onClick={onSubmit}>
+        <button
+          className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded shadow button"
+          onClick={onSubmit}
+        >
           Generate Report
         </button>
 
