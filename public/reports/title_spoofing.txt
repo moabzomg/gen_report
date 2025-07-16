@@ -1,3 +1,6 @@
+
+“Appeared” where no agent was  
+[cheater] abused travel mechanics yet again
 [cheater] accessed distant portals rapidly
 [cheater] Account Displays Phantom Locations
 [cheater] Account Exhibits Signs of GPS Spoofing
@@ -7,7 +10,19 @@
 [cheater] Account Shows GPS Spoofing Patterns  
 [cheater] Account Shows Signs of Fake GPS Use
 [cheater] Account Shows Signs of Fake GPS Use  
+[cheater] acting faster than network latency
+[cheater] activated portals underwater?
+[cheater] active simultaneously in distant zones
+[cheater] again showing up where no one can
+[cheater] appeared in remote site instantly
+[cheater] appearing in different cities daily without record
+[cheater] appears at distant locations without travel time
+[cheater] appears like a phantom
 [cheater] appears to be spoofing again
+[cheater] captured portal from impossible location
+[cheater] caught jumping continents in minutes
+[cheater] defying urban traffic and logic
+[cheater] deployed links from hard-to-reach zones
 [cheater] Detected Spoofing Game Location
 [cheater] Detected Using Fake GPS Coordinates
 [cheater] Detected Using Fake IP and Location Data
@@ -17,6 +32,7 @@
 [cheater] Detected Using Spoofing Tools
 [cheater] Detected with Fake Authentication Tokens
 [cheater] Detected With Unauthorized Spoofed Credentials
+[cheater] does the impossible again  
 [cheater] Engaged in Device and Location Spoofing
 [cheater] Engaged in Device Spoofing
 [cheater] Engaged in GPS and Device Spoofing
@@ -26,6 +42,8 @@
 [cheater] Engaged in Spoofing to Evade Restrictions
 [cheater] Engaged in Spoofing to Gain Unfair Access
 [cheater] Engaged in Unauthorized Location Spoofing
+[cheater] executes portal hacks in 3 cities within an hour
+[cheater] executing impossible fielding routes
 [cheater] Exhibiting Impossible Travel Speeds
 [cheater] Exhibiting Location Jumping
 [cheater] Exhibits Fake Location Behavior
@@ -33,10 +51,16 @@
 [cheater] Flagged for Location Falsification  
 [cheater] Flagged for Unauthorized Location Software
 [cheater] Flagged for Unauthorized Location Software  
+[cheater] hit mountain portals with zero travel
 [cheater] Involved in Authentication Spoofing
 [cheater] Involved in Identity Spoofing
 [cheater] Involved in Spoofed Login Attempts
 [cheater] Involved in Spoofing for Unfair Advantage
+[cheater] jumped continents again  
+[cheater] just flew through a wall  
+[cheater] likely using GPS anomaly
+[cheater] linked from inside restricted zone
+[cheater] linked portals from air-locked zones
 [cheater] Location Data Does Not Match Reality
 [cheater] Location Data Raises Flags
 [cheater] May Be Exploiting GPS Spoofing Techniques
@@ -47,19 +71,38 @@
 [cheater] May Be Spoofing Geographical Position  
 [cheater] May Be Using Third-Party Spoofing Tools
 [cheater] May Be Using Third-Party Spoofing Tools  
+[cheater] miraculously everywhere when it counts
+[cheater] never seen, always active
+[cheater] never sticks to cooldowns  
+[cheater] operating through mountains without travel
+[cheater] performing actions from quarantine zone
+[cheater] playing in places they’ve never visited
+[cheater] popping in and out of zones too fast
 [cheater] Position Data Violates Movement Rules
 [cheater] Possibly Exploiting Location Manipulation
 [cheater] Possibly Exploiting Location Manipulation  
 [cheater] Possibly Using Fake Location Tools
 [cheater] Possibly Using Fake Location Tools  
+[cheater] pretending to be legit  
+[cheater] seen operating far beyond home region repeatedly
 [cheater] showed teleport-like movement
+[cheater] showed up again where no one could
 [cheater] Showing Unrealistic Location Jumps
 [cheater] Shows Inconsistent Geolocation Logs
+[cheater] sniped portal with no access route
+[cheater] somehow got past guarded gates?
 [cheater] Spoofing Player Identity Details
+[cheater] still faking travel  
 [cheater] Suspected of Fake GPS Use
 [cheater] Suspected of Falsifying Position Data
 [cheater] Suspected of Falsifying Position Data  
 [cheater] Suspected of Spoofing Multiple Accounts
+[cheater] suspiciously capturing portals from airports and sea
+[cheater] teleported again – no way this is legit
+[cheater] teleporting across country lines
+[cheater] teleports like a superhero
+[cheater] timing doesn’t make sense
+[cheater] took portals hours apart, locations are 800km away
 [cheater] Using Device Spoofing to Bypass Detection
 [cheater] Using Fake Authentication Methods
 [cheater] Using Fake Device IDs and Spoofing Tools
@@ -75,7 +118,9 @@
 [cheater] Using Spoofed IDs and Credentials Illegally
 [cheater] Using Spoofed IP Addresses
 [cheater] Using Spoofing Techniques to Mask Location
+[cheater] visible in comm far outside home region
 [cheater] Warping Across Regions
+[cheater] working faster than traffic allows
 [cheater]'s Account Shows Signs of Location Tampering
 [cheater]'s Activity Seems Unnatural
 [cheater]'s Location Data Defies Physics
@@ -88,10 +133,59 @@
 [cheater]'s Location Updates Defy Physical Limits
 [cheater]'s Movement Patterns Are Inconsistent With Reality
 [cheater]'s Position Data Fails Consistency Checks
+[cheater]’s travel defies public transport logic
+100 km hops like it’s nothing
+A portal claimed in mid-river  
+A straight line through terrain? Spoof alert
+Abnormal field creation in low-signal area
+Abnormal portal interaction  
 Abnormal travel time for [cheater]
+Absurd pathing through locked areas
+Abusing GPS mechanics blatantly
 Access breach at restricted tower  
+Access does not make sense  
+Access to closed heritage sites without presence
+Access to geographically distant portals without delay
+Accessed inaccessible area  
 Accessed off-limits area without being present
+Accessed private land with no clearance
+Accessing mountain-top portals without physical evidence
 Account Access Spoofing Suspicion for [cheater]
+Action range proves location tampering
+Actions contradict plausible public transport use
+Actions don’t match any real-world travel
+Actions faster than physically possible  
+Actions happen before GPS settles  
+Actions in closed facilities without entry
+Actions indicate use of emulator or GPS tampering
+Actions logged from thin air  
+Actions performed beyond realistic travel capability
+Actions without presence  
+Activity defies common logic again
+Activity far from population  
+Activity from isolated regions  
+Activity implies third-party location spoofing
+Activity log makes no physical sense
+Activity overlaps with zero transition time
+Activity timeline contradicts geography
+Activity without human limits  
+Again with the teleport play  
+Agent acting beyond norms  
+Agent actions don’t align with physics
+Agent covering 300km in a blink  
+Agent crossed rivers without bridges  
+Agent faster than satellites  
+Agent goes where roads don’t  
+Agent ignores travel physics  
+Agent is operating like a bot
+Agent log makes no sense
+Agent logged in but never moved  
+Agent moves outside logic  
+Agent moving like a drone  
+Agent not present at claimed location
+Agent outside feasible area  
+Agent skips space and time  
+Agents nearby saw nothing  
 Alert: [cheater] Suspected of Location Fraud
 Alert: [cheater] Suspected of Location Fraud  
 Alert: [cheater]'s Account Shows Signs of GPS Spoofing
@@ -110,12 +204,93 @@ Alert: Possible Use of Location Faking Software by [cheater]
 Alert: Possible Use of Location Faking Software by [cheater]  
 Alert: Suspicious Location Behavior from [cheater]
 Alert: Suspicious Location Behavior from [cheater]  
+Always a step ahead, unrealistically  
+Always acting out of reach  
+Always active, never visible  
 Analysis of Spoofed Access Patterns by [cheater]
 Anomalous GPS activity
 Anomalous GPS coordinate shifts  
+Another day of spoof speedruns
+Another day, another fake hop
+Another fake jump  
+Another ghost op from [cheater]
+Another ghost operation logged  
+Another hard-to-reach portal flipped  
+Another impossible link  
+Another invisible hack  
+Another overnight teleport spree
+Another remote portal gone  
+Another round of spoof links  
 Another spoof report
+Another stolen portal by a ghost
+Another teleport triangle  
+Apparent usage of fake location techniques
+Appeared deep in private property  
+Appeared from mid-ocean  
+Appeared in locked compound
+Appearing in locked zones again  
+Appears at odd hours, never seen  
+Appears in no-signal zones  
+Appears inside fences and disappears
+Back again with ghost links
+Back again with no cool down  
+Back-and-forth warping to control portals
+Back-to-back cities, zero delay
+Back-to-back hacks across borders
+Back-to-back intercontinental links by [cheater]
+Back-to-back long-distance links
+Backdoor deployment observed  
+Backdoored into a secure facility  
+Backdooring every portal
+Blatant spoofing again
+Blatant spoofing at [timestamp]
+Breach of physical limitations observed
+Bridge-less portal claimed  
+Broke time and space again? [cheater] under suspicion
+Came and went without a trace
+Came from a restricted military zone  
+Came out of nowhere – literally
+Can’t be coincidence every day
+Can’t let [cheater] get away with this again
+Captured through mountain walls
+Captured without ever being seen  
+Captures in no-signal zones again?
+Chain links from different regions – too fast
+Cheater field triangle detected
+Cheater got lazy again  
 Cheater Likely Using Fake Location Tools
 Cheating Concern — Location Inconsistency
+Cheating confirmed through patterns
+Cheating every cooldown
+Chronological and geographical inconsistencies observed
+Chronology of links proves GPS manipulation
+Claimed inaccessible portals
+Claiming portals inside fences
+Clear spoofing trend  
+Clearly cheating, still not banned  
+Clearly gaming the GPS system
+Clearly not walking  
+Closed zones accessed without permission
+Cluster cleared with no travel path
+Completely unrealistic travel log from [cheater]
+Confirmed ghost field  
+Confirmed no one was at the portal
+Confirmed spoofing, again  
+Consistency of cheating is suspicious  
+Consistent abuse of location mechanics by [cheater]
+Consistent speed-cheating  
+Consistent suspect behavior  
+Consistently unreachable portals claimed
+Continuous jumps between cities without proper breaks
+Coordinates don’t add up  
+Cross-country captures within minutes – spoofing suspected
+Cross-region action in short time  
+Crossing the country in seconds
+Deep forest portal flipped  
+Definitely not on foot
+Defying terrain boundaries without delay
+Deployed through walls  
+Deployment sequence violates space-time rules
 Detected Account Spoofing Behavior by [cheater]
 Detected IP and Device Spoofing by [cheater]
 Detected Location Spoofing Activity by [cheater]
@@ -126,6 +301,32 @@ Detected Spoofed Signals Linked to [cheater]
 Detected Spoofing Activity During [timestamp] by [cheater]
 Detected Spoofing and Fake Credential Usage by [cheater]
 Detected Spoofing Attempts on User Account [cheater]
+Did [cheater] bring a time machine?
+Didn’t even pretend to walk this time
+Disappears and reappears instantly
+Discrepancies in in-game presence vs local reports
+Discrepancy in location  
+Distance impossible on foot  
+Distance traveled in seconds
+Distance vs time mismatch  
+Distant recharge beyond XM range
+Does [cheater] use teleportation?
+Emergency-only zones accessed freely?
+Events out of sync with reality  
+Every action’s a jump. This isn’t right
+Every anchor a spoof anchor
+Every anchor is ghost-claimed  
+Every anchor smells like spoof  
+Every day, same fake agent
+Every field smells like teleport  
+Every field trace is fiction  
+Every move is suspicious  
+Every new op is another ghost job  
+Every new op is suspect  
+Every op is a teleport job  
+Every portal taken instantly
+Every portal, zero travel
+Everything about this smells spoof  
 Evidence of Fake Coordinates
 Evidence of GPS Data Manipulation by [cheater]
 Evidence of GPS Data Manipulation by [cheater]  
@@ -134,6 +335,7 @@ Evidence of Location Spoofing by [cheater]
 Evidence of Location Spoofing in [cheater]'s Gameplay
 Evidence of Location Spoofing in [cheater]'s Gameplay  
 Evidence of Location Tampering by [cheater]
+Evidence of non-legitimate presence at remote locations
 Evidence of Spoofed Device Info from [cheater]
 Evidence of Spoofed Location in [cheater]'s Gameplay
 Evidence of Spoofed Location in [cheater]'s Gameplay  
@@ -142,44 +344,168 @@ Evidence Suggests [cheater] is Spoofing Position
 Evidence Suggests [cheater] is Spoofing Position  
 Evidence Suggests GPS Spoofing by [cheater]
 Evidence Suggests GPS Spoofing by [cheater]  
+Evidence suggests location spoofing on multiple dates
+Excessive range linking  
+Extreme XM usage in remote zones by [cheater]
+Fake anchor farm detected
+Fake anchors everywhere in this op
 Fake coordinates usage
+Fake field combo seen again  
+Fake field ops continuing
+Fake fields, fake links, fake play  
+Fake ops day after day  
+Fake trail, real damage  
+Faked being at the scene  
+Faked their way into another op  
+Faked travel logs, obvious again  
 False GPS detected for [cheater]
 Falsified GPS data by [cheater]
 Falsified location reports
+Familiar spoofing route  
+Fastest “human” alive
+Fastest agent alive? Or just cheating?
+Fastest deployment of the month  
+Fastest op ever — because fake
+Fictional anchor farm  
+Field appears without groundwork  
+Field formed via unreachable portals
+Field geometry breaks GPS bounds
+Field linking contradicts local travel logs
+Field popped up instantly  
+Field set up by a ghost
+Field shaped through impassable terrain
+Field spans countries, no signs of travel
+Fielding from ghost locations
+Fielding pattern does not match normal movement
+Fielding without being present
+Fields form in total isolation  
+Fields formed from non-public property
+Five cities in a single hour  
 Flagged Portal Capture — Unrealistic Distance Travelled
+Flagrant spoofing behavior from [cheater]
+Flightless links? Must be spoofing
+Flying across zones in seconds  
+Flying cheater confirmed  
 Frequent Impossible Jumps by [cheater]
+From city to countryside in minutes
+From deep forest to tower top
+From dense city to forest in 2 mins
+From hill to shore in under a minute?
+From hilltop shrine to city park instantly  
+From hilltop to lake to city  
+From island to mainland in a snap  
+From lake to city in minutes
+From lake to land with no time  
+From mountain top to subway  
+From remote village to downtown – instantly?
+From the top of a mountain to city square
+From top of mountain to mall  
+From underground to rooftops  
 Geo-location Fabrication Detected on [cheater]
 Geolocation Inconsistency Found
+Ghost activity repeated  
+Ghost agent strikes again  
+Ghost deploys continue  
+Ghost ops strike again
+Ghost portals captured  
+Global activity without travel gaps – [cheater] under suspicion
+Global operations in minutes? Yeah right
 GPS Anomalies Linked to [cheater]
 GPS Data Anomalies Detected
 GPS Data Discrepancies Noticed for [cheater]
 GPS Data Inconsistencies Found in [cheater]'s Account
 GPS Data Inconsistencies Found in [cheater]'s Account  
+GPS drift doesn’t explain this distance
 GPS jumps suggest location spoofing  
 GPS Location Forgery Detected on [cheater]
 GPS manipulation evidence
 GPS Manipulation Suspected for [cheater]
 GPS Signal Tampering Suspected for [cheater]
+GPS spoofing clearly in play
 GPS Spoofing Concerns
 GPS Spoofing Confirmed on [cheater]'s Account
 GPS Spoofing Detected for [cheater]
 GPS spoofing suspected - evidence attached
+Hacked from a construction site  
+Hard proof of spoofing isn’t needed – it’s clear
+Hard to keep playing fair when spoofers dominate
+Hard-to-explain rapid jumps over difficult terrain
+Hard-to-reach portal accessed  
+Heavily restricted area spoofed
 High-speed travel across continents  
+Highly improbable route, GPS manipulation suspected
+Highly suspect portal access  
+Highly suspicious portal access pattern
+Highly unlikely travel  
+Hopping zones without trace
+Hops over oceans and fences
+Hops over restricted land without pause
+How did [cheater] get in there?  
+How do they move that fast?  
+How do they reach rooftops?  
+How does [cheater] always skip traffic?
+How does this even make sense?
+How does this happen daily?
+How is [cheater] always everywhere?
+How is [cheater] doing this every time?
+How long will [cheater] keep doing this?  
+How long will this continue?  
+How’s [cheater] not banned yet?
+Illegal move combo  
+Illogical deployment  
+Implausible ingress pattern detected from [cheater]
+Implausible portal access  
+Impossible access timeframe  
+Impossible bridge hops – no time to travel
 Impossible Capture Pattern
+Impossible diagonal travel across large bodies of water
 Impossible field appeared overnight
+Impossible field geometry without aircraft
+Impossible geography for current ops
+Impossible ingress  
+Impossible jump over closed borders
+Impossible location within seconds  
+Impossible logistics for solo play
+Impossible move sequence  
+Impossible movement speed  
+Impossible multi-country portal captures
+Impossible op for a solo agent
+Impossible path to reach portal cluster
+Impossible portal access during curfew hours
 Impossible Portal Capture Activity Detected
 Impossible portal capture inside a locked facility  
+Impossible portal captures during lockdown
+Impossible portal jumps
+Impossible portal order  
+Impossible portal order in local cluster
+Impossible range for any normal agent
+Impossible recharge and deploy pattern
+Impossible recharge range – spoofing signs present
+Impossible route in dense city grid
+Impossible sequences during inclement weather
+Impossible timing, again
+Impossible to cover that ground  
 Impossible travel detected from [cheater]
 Impossible travel pattern flagged
+Impossible travel speed on congested routes
 Impossible Travel Speeds by [cheater]
 Impossible travel speeds detected  
 Impossible Travel Speeds Recorded for [cheater]
+Impossible travel times observed – [cheater]
+Impossible triangle – one portal unreachable
 Impossible XM traces detected
 Inaccessible region controlled mysteriously
+Inaccessible rooftop portals hacked again
+Incoherent deployment path hints at GPS tool usage
 Inconsistent Geo-Data from [cheater]
 Inconsistent GPS logs for [cheater]
 Inconsistent Location Reports from [cheater]  
+Inconsistent login locations in log history
 Inconsistent movement logs
+Inconsistent travel path suggests spoofing by [cheater]
+Incredible timing or just spoofing?
+Inhuman speed between regions – highly suspect
+Instant region hops without cooldown
 Invalid Location Report from [cheater]
 Investigation into Location Spoofing Involving [cheater]
 Investigation Needed for Fake Location Use by [cheater]
@@ -211,8 +537,39 @@ Irregular Location Data Recorded
 Irregular Location Logs for [cheater]
 Irregular location patterns
 Irregular Location Updates Suggest Falsification by [cheater]
+It’s a ghost doing the work  
+It’s not clever, it’s obvious  
+It’s not just fast—it’s fake  
 Jump in distance detected at [timestamp]
+Jumped borders with no trace
+Jumped distance again  
+Jumping city boundaries again  
+Jumps like this break the game
+Lack of expected XM use  
+Large op without physical trace  
+Likely GPS spoofing by [cheater]
 Likely Location Falsification
+Likely remote operation  
+Likely spoofed field  
+Likely unnatural mobility  
+Likely usage of mock GPS by [cheater]
+Link anchored in closed compound  
+Link impossible to establish  
+Link path crosses water with no bridge  
+Linked through lake and forest, no access path
+Links across restricted airfield  
+Links chained from unlinked anchor zones
+Links dropped from rooftops  
+Links forged from fake anchors
+Links formed between continents instantly
+Links forming faster than travel  
+Links forming out of nowhere  
+Links show up before footprints  
+Literally no way to get there
+Local agents confirm no one was present
+Local agents saw no one
+Local players report no sighting
+Local portal taken by out-of-town ghost
 Location Anomalies Found in [cheater]'s Gameplay
 Location Anomalies Found in [cheater]'s Gameplay  
 Location Anomalies Suggesting Spoofing by [cheater]  
@@ -223,17 +580,157 @@ Location jump between two continents
 Location Manipulation Observed
 Location Spoofing Alert
 Location spoofing detected
+Location spoofing likely based on pattern
 Location spoofing suspicion raised
+Locations accessed with no local presence
+Logged action makes zero sense  
+Logged from behind fences  
+Logged in and out of reality  
+Logged in, captured, vanished  
+Logged inside a dam  
+Long links with no support  
 Long-range travel inhumanly fast
+Magical links across terrain
+Magical movement at it again  
+Magically appeared in mountains – again
+Map says spoof, logs say spoof  
+Massive field built with zero XM trail
+More ghost fields  
+Movement defies logic  
+Moves faster than any agent should
+Moves like a ghost with bad intentions  
+Moving faster than a car, again  
+Moving faster than satellites
+Moving like a ghost
+Multiple continents covered in short interval
+Multiple days of fantasy movement logs
+Multiple distant captures suggest spoofing
 Multiple Geolocation Anomalies Linked to [cheater]
+Multiple portal attacks, no presence  
+Multiple portals claimed with no overlap
+Multiple regions touched  
+Multiple remote captures during local events
 Multiple simultaneous locations  
+Mysterious link paths  
+Mysterious speed run through portal clusters
+Never caught on scanner  
+Never in local chat, never seen, always active
+Never seen, always active
+Never seen, always active  
+Night ops from a fake location  
+No access = spoof access  
+No agent can move like that  
+No agent seen, but portals flipped  
+No agent spotted nearby  
+No car, no bike, just spoof
+No cooldown, just constant jumps
+No cooldown, no commute
+No downtime, just links
+No footsteps, all results  
+No legit path to those portals  
+No line-of-sight possible  
+No line-of-sight, no access, still captured  
+No local intel, no local presence
+No logical route to match fielding sequence
+No matching GPS data  
+No matching movement pattern – suspected location falsification
+No one else could’ve done this
+No one moves this fast – clearly spoofing
+No one plays like this, only spoofers
+No prior visit yet portals captured immediately
+No proof of presence  
+No proof of real visit to these locations
+No public access = spoofed  
+No public transport matches [cheater]’s trail
+No sign of [cheater] – just phantom activity
+No sign of local presence – actions suggest GPS spoofing
+No sign, no walk, just spoof
+No travel time. Just links and deploys
+No video proof of presence – highly suspect
+No visibility, no presence, but portal’s gone
+No visible agent at claimed location
+No visible support  
+No visible travel logs for distant interactions
 No visual contact, but portals flipped   
+No way [cheater] moved that fast
+No XM drop, just ghost play
+No XM trace, no trail, just portals taken
+No XM trail for long-distance portal captures
+No XM trail, just results  
+Nobody saw a thing—again  
+Non-existent transport in travel path
+Non-human travel speed indicates spoofing
+Non-physical access to remote portal – [cheater]
+Non-replicable travel route from portal to portal
+Non-traceable transport to multiple portals
+Not an ounce of realism  
+Not buying [cheater]’s miracle movement
+Not even close to believable
+Not even pretending to be legit  
+Not even trying to hide it
+Not physically possible  
+Not the first time [cheater] did this
+Obvious non-legit behavior  
+Obvious spoof pattern all month  
+Odd log sequence implies cheating
+Odd ops within short span  
+Odd timing and frequency  
+Odd timing and placement  
+One cheater, entire region affected  
+One-man global op in 10 minutes
+One-man op? More like one-fake-op
+Only explanation: spoofing
+Only spoof explains this op  
+Op pulled off with no trace  
+Op speed is superhuman
+Operation from nowhere  
+Operations too fast to be real
+Operations under suspicious conditions  
+Ops built in ghost mode  
+Ops carried by teleportation
+Ops happening without effort  
+Ops without footprints  
+Out-of-bounds activity strongly suggests spoofing
+Outrageous jumps across the country
+Outran aircraft  
+Overlapping region activity raises alarms
+Overseas portals captured overnight – suspicious
+Pattern of impossible hacking persists
+Pattern points to spoofing  
+Pattern shows serial spoofing  
+Pattern too fake to ignore  
+Perfect triangle through dense terrain
+Phantom agent activity suggests GPS tricks
 Phantom agent in a guarded zone  
 Phantom agent strike during maintenance
+Phantom portal activity in wilderness
+Physical impossibility in timeline – [cheater]
 Physical travel constraints violated  
+Physically impossible portal pathing detected
 Player [cheater] likely faked location
 Please review the spoofer
+Portal accessed in rapid succession across oceans
+Portal accessed in restricted area  
 Portal activity inconsistent with location logs
+Portal capture defies terrain  
+Portal flip with no XM trail
+Portal flips without an agent  
+Portal inside secured zone captured
+Portal linked across nations in under 10 minutes
+Portal taken while [cheater] was seen elsewhere
+Portal touched behind locked gates  
+Portals accessed behind locked fences
+Portals captured beyond regular transport capacity
+Portals captured from the void
+Portals captured in rapid succession across distant locations
+Portals captured in remote islands without access logs
+Portals captured without access
+Portals fall with no one nearby
+Portals fall without any real presence
+Portals flipped by no one  
+Portals flipped without presence  
+Portals hit deep in jungle with no approach
+Portals lit with no explanation  
 Position data discrepancies
 Possible GPS Spoofing Detected
 Possible GPS spoofing incident
@@ -241,11 +738,25 @@ Possible Use of Location Spoofing Tools by [cheater]
 Potential GPS Manipulation by [cheater]  
 Potential GPS spoofing software use  
 Questionable Remote Portal Capture
+Questionable travel history  
+Quick shift across zones  
+Rapid actions across wide area  
+Rapid deployment over long distances
 Rapid Location Fluctuations from [cheater]
+Rapid teleport pattern observed repeatedly
+Rapid transit through restricted areas – [cheater] suspected
+Recurring movement anomalies  
+Region skipped – activity doesn’t check out
+Region-hopping patterns unexplainable by normal means
+Remote actions executed too quickly – [cheater] under review
 Remote capture in restricted zone
+Remote ops executed again  
 Remote portal capture under tight surveillance
 Remote Portal Taken Illegally by [cheater]
+Remote spoof detected  
+Repeat of known spoof tactic  
 Repeated ghosting activity
+Repeated impossible operations  
 Repeated Location Discrepancies from [cheater]
 Repeated Location Falsification Detected for [cheater]
 Repeated Teleportation Events by [cheater]
@@ -289,18 +800,93 @@ Reports of Spoofing Exploits by [cheater]
 Reports of Spoofing-Related Suspicious Activity
 Reports Show Coordinated Spoofing Activity by [cheater]
 Reports Show Spoofing Violations by [cheater]
+Results without agent trail  
+Results without nearby support  
+Ridiculous range, impossible travel
+Ridiculous travel path  
+Ridiculously fake movements
+Rural portals hit with no agent visit
+Rural to city hops—no delay  
+Same account, same nonsense  
+Same agent, same odd pattern  
+Same cheater, same method  
+Same pattern, different day
+Same pattern, different day  
+Same suspicious tactics  
+Same tactic, different portals
+Same timing, different cities  
+Same trail of fake hacks  
+Same tricks, different day  
+Saw nothing, but portal's gone
+Seems like GPS override in use
+Seen in multiple zones at once  
+Seen once, gone forever
+Sequence of deploys not humanly feasible
+Shameless spoof patterns
+Showed up from thin air
+Shows up where cameras don’t
 Signs of Location Fabrication from [cheater]
+Signs of non-legit access  
+Simultaneous activity from faraway zones
+Slippery spoof behavior  
+Sniped from behind closed doors  
+Sniping across the map  
+Sniping from places no one can reach  
+Sniping portals from afar again
+So many anchors, no travel time  
+Solo op from 4 cities
+Speed exceeds any known vehicle
+Speed hiker of legend  
+Speed run? More like spoof run  
+Speedrun from sea to mountain? Nope.
+Spoof attack repeated today  
+Spoof confirmed by travel log  
+Spoof path repeats over and over
+Spoof pattern: [cheater] captured while physically elsewhere
+Spoof pattern: identical timing, different places
+Spoof routes defy time and space
+Spoof signature is too consistent  
+Spoof suspected again  
+Spoof suspected based on trajectory and duration
+Spoof triangle spotted again
+Spoof-like action pattern repeating
+Spoof-like behavior repeatedly observed from [cheater]
 Spoofed link chain through private zones
 Spoofed presence at historic site
+Spoofer alert – again, again, again
 Spoofer linked through secure borders  
 Spoofing Activity Analysis Involving [cheater]
 Spoofing Attack Traces Linked to [cheater]
 Spoofing Attempts Detected from [cheater]
+Spoofing behavior consistent  
+Spoofing confirmed, again
+Spoofing is all they do
 Spoofing report
+Spoofing signs: portal captured mid-flight
+Spoofing suspected – check [cheater] activity
 Spoofing suspected at [timestamp]
+Spoofing tool usage indicated by unusual intervals
+Spotted [cheater] in three countries in a day
+Spotted fake GPS behavior again
+Spotted ghost fields from nowhere
+Stadium link made during a concert  
+Stealth link dropper  
+Still pretending to be legit?
+Still spoofing like it's normal
+Still spoofing without shame
+Stolen portal via spoof  
+Strange access pattern to highly remote areas
+Strange login pattern – remote activity within seconds
+Strange movement pattern  
 Strange Movement Timeline of [cheater]
+Strange portal engagement  
+Strikes without warning, always remote
 Strong Indications of GPS Spoofing by [cheater]
 Sudden activity in isolated restricted trail
+Sudden appearance in restricted areas – [cheater] suspected
+Sudden long-distance interaction  
+Sudden XM activity from nowhere  
+Surprise field with no travel  
 Suspected Fake GPS Usage by [cheater]
 Suspected GPS Manipulation by [cheater]
 Suspected Location Spoofing
@@ -308,6 +894,7 @@ Suspicious Account Spoofing Patterns Detected
 Suspicious Activity from [cheater]
 Suspicious Behavior by [cheater]
 Suspicious distance covered in short time
+Suspicious efficiency in global link deployment
 Suspicious geographic anomalies  
 Suspicious GPS Activity Reported
 Suspicious GPS and IP Spoofing Patterns by [cheater]
@@ -327,11 +914,17 @@ Suspicious Location Patterns for [cheater]
 Suspicious Location Spoofing Detected for [cheater]
 Suspicious Location Spoofing Detected for [cheater]  
 Suspicious Location Spoofing for Account [cheater]
+Suspicious logins from exotic, unrelated regions
 Suspicious Movement Patterns
 Suspicious Movement Patterns from [cheater]
 Suspicious Movement Timeline
+Suspicious operations continue  
 Suspicious park activity with no witnesses  
+Suspicious portal activity  
 Suspicious portal captures at impossible locations
+Suspicious recharging from outside reachable range
+Suspicious remote activity from [cheater]
+Suspicious remote capture  
 Suspicious Spoofing Activity by [cheater]
 Suspicious Spoofing Activity Under Review for [cheater]
 Suspicious Spoofing Attempts on Multiple Accounts
@@ -339,28 +932,162 @@ Suspicious Spoofing Attempts Recorded for [cheater]
 Suspicious Spoofing Behavior Detected for [cheater]
 Suspicious Spoofing Patterns Found in Access Logs
 Suspicious Spoofing Traces Found for [cheater]
+Suspicious timing on portal grabs
 Suspicious Use of Spoofing Software by [cheater]
 Suspicious Use of Spoofing Software by [cheater]  
+Suspiciously fast links  
+Teleport ops are the new meta?  
+Teleport trap again  
 Teleportation between cities reported
+Teleportation masquerading as gameplay
 Teleportation Pattern by [cheater]
 Teleportation-like behavior in logs  
+That field geometry proves cheating
+That field? Fully fabricated
+That link is not physically possible
+That link is physically impossible
+That travel log is a work of fiction
+The “phantom deployer” strikes again
+The agent who never rests  
+The commute speed is unreal
+The evidence is routine now
+The game is not meant to be magic
+The logs don’t lie, [cheater] does  
+The quietest cheater in town
+The roads don’t go there
+There’s no road, but [cheater] was there?
+They must own a cloaking device  
+They were never at any portal
+This “op” was entirely fabricated
+This agent skipped geography class
+This can't be explained by drift
+This cannot happen by accident  
+This field shouldn’t be possible
+This game isn’t sci-fi  
+This is getting ridiculous now
+This is not how Ingress works
+This is not real play  
+This isn’t a fair game  
+This isn't bad GPS — it’s cheating
+This isn't subtle anymore
+This isn’t teleportation—it’s spoofing  
+This kind of travel is sci-fi
+This movement is not human  
+This one breaks physics  
+This one broke space-time  
+This pattern matches prior spoofing  
+This play is beyond logic  
+This route only exists in dreams
+This travel pattern is a joke
+This was not legit  
+This was not physically possible
+Three continents in one op. Seriously?
+Three zones cleared by [cheater] in an hour – cheating
+Time log mismatch proves cheating
+Time travel agent detected  
+Time-distance mismatch in [cheater] logs
+Time-space reality violated again
+Timing doesn’t match location
+Timing too perfect to be legit  
+Tired of seeing fake actions every day
+Tired of this teleport act  
+Too clean to be human movement
+Too clean, too fast, too fake
+Too efficient to be legitimate movement
+Too fast for any known vehicle  
+Too fast to be real  
+Too fast, too far, too fake  
+Too many fields, no visible effort  
+Too many inaccessible portal actions to ignore
+Too quick for terrain  
+Too-fast movement between check-ins – possible spoofing
+Travel distances defy physics – [cheater] likely spoofing
+Travel path doesn’t add up  
+Travel route = total nonsense  
+Travel speed beyond believable  
+Traveled through restricted area in seconds
+Tunnels don’t allow GPS – yet [cheater] was there
+Two countries in an hour – not possible
+Ultra-fast cross-country operations raise suspicion
 Unauthorized Location Change
+Unbelievable pattern repeated  
+Unbelievable travel distance  
+Underground portal accessed without entry
+Undetected agent strikes again  
+Unexpected field placement  
+Unexplainable range of activity
+Unexplained link origins  
+Unexplained link paths  
+Unfathomable travel pattern
+Unlikely travel between portals  
 Unnatural Location Shifts Detected
+Unnatural movement  
+Unnatural movement logs
 Unnatural Movement Patterns Identified for [cheater]
+Unnatural pacing across region
 Unnatural Teleportation Patterns Found for [cheater]
 Unnatural Teleports by [cheater]
 Unnatural Travel Behavior by [cheater]
 Unnatural travel speed between portals
+Unreachable farm deployed  
 Unreachable Portal Access Detected
+Unreachable portal captured  
+Unreachable portal interaction – GPS spoofing suspected
+Unreachable portal touched by [cheater]
+Unreachable portals touched again
+Unreachable terrain hacked by [cheater]
+Unreal access to high-security portals
+Unreal field triangle  
+Unreal movement across regions
+Unreal travel path logged  
+Unrealistic distance covered with no downtime
 Unrealistic Geographic Movement Patterns in [cheater]'s Account  
 Unrealistic Location Switching by [cheater]
+Unrealistic long-distance jumps by [cheater]
+Unrealistic movement between portals – [cheater] under suspicion
 Unrealistic Movement Patterns Detected for [cheater]
 Unrealistic portal hopping patterns  
 Unrealistic Portal Reach Detected
+Unrealistic sequence of captures  
 Unrealistic Teleportation by [cheater]
 Unrealistic Travel Pattern Logged
 Unrealistic Travel Patterns Observed in [cheater]'s Account
 Unrealistic Travel Routes by [cheater]
+Unrealistically timed link deployment
 Unseen agent flips secured nodes
 Unseen presence at high-elevation site
+Untraceable activity pattern, impossible timing
+Untraceable operation  
+Unusual agent behavior  
 Unusual In-Game Movement Observed
+Vanished and reappeared cities away
+Vanishing act caught again  
+Vanishing agent tactics
+Vanishing and reappearing like magic
+Warp-speed fielding by [cheater]
+Warped into portal cluster instantly
+Warping between towns isn’t legit
+Was watching the portal – [cheater] never came
+Wasn't there, yet captured it
+Wasn’t there. Never is.  
+We all know that was a spoof
+Where is [cheater] really?  
+Why even pretend anymore?  
+Wormhole user detected  
+XM activity but no one seen  
+XM pattern inconsistent  
+XM usage from ghost hands  
+Yet another sketchy deployment pattern
+Yet another solo spoof op  
+Zero comm chatter in capture zone – suspicious
+Zero cooldown, zero presence  
+Zero delay between remote deployments
+Zero deviation from portal plan – suspicious
+Zero downtime between long-distance movements
+Zero footprints, total destruction
+Zero lag, zero delay, full spoof
+Zero legit movement observed
+Zero nearby agents, but full field  
+Zero travel delay – actions suggest spoofing
+Zero XM build-up, just action  
+Zero XM trail, yet full op complete  
