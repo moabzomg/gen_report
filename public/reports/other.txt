@@ -4,7 +4,14 @@ Hi,
 [timestamp]
 [link]
 Best regards,  
-[codename]  
+[codename]
+---
+Hi,
+It’s disturbing that [cheater] has been stalking agents in person and sending offensive messages through comms. Please take action.
+[timestamp]
+[link]
+Best,  
+[codename]
 ---
 Dear Niantic,
 [cheater] repeatedly blocks other agents from playing by sitting near portals for hours, especially during ops. It feels aggressive and unfair.
@@ -13,8 +20,20 @@ Dear Niantic,
 Sincerely,  
 [codename]
 ---
+Hi,
+Agent [cheater] has been consistently harassing our players during operations — verbal messages and blocking tactics.
+[timestamp]
+[link]
+[codename]
+---
 Hello,
 [cheater] intentionally blocks operations and uses multiple methods to sabotage coordinated gameplay.
+[timestamp]
+[link]
+[codename]
+---
+Hi there,
+Our team has received repeated reports from other players about [cheater]'s abusive behavior in COMMs and in-game actions.
 [timestamp]
 [link]
 [codename]
@@ -26,11 +45,24 @@ I’m reporting [cheater] for repeated use of offensive language in COMMs. It’
 Thanks,  
 [codename]
 ---
+Hi support,
+The agent [cheater] behaves disruptively and exhibits repeated hostility toward other players.
+[timestamp]
+[link]
+[codename]
+---
 Hi,
 [cheater] is exploiting link timing to block fields. Possibly abusing lag or sync delay.
 [timestamp]
 [link]
 Regards,
+[codename]
+---
+Hi,
+There are repeated exploits being used around [cheater]. Timed captures, immediate mods, ultra-efficient.
+[timestamp]
+[link]
+Cheers,
 [codename]
 ---
 Hello,
@@ -41,10 +73,24 @@ Best,
 [codename]
 ---
 Hi,
+[cheater] creates links and fields without needing to visit many of the locations. Possibly exploiting game delay.
+[timestamp]
+[link]
+Regards,
+[codename]
+---
+Hi,
 [cheater] has been harassing other agents in comms and group chats. Very disrespectful tone. Please take action.
 [timestamp]
 [link]
 Thanks,
+[codename]
+---
+Hello support,
+[cheater] has been bullying lower-level players. Making fun of them and discouraging new players.
+[timestamp]
+[link]
+Sincerely,
 [codename]
 ---
 Hey,
@@ -52,6 +98,12 @@ A recent event led to [cheater] calling out agents aggressively in faction chat.
 [timestamp]
 [link]
 Cheers,
+[codename]
+---
+Hello,
+[cheater] repeatedly posts private info and mocks agents in public chat. Feels targeted.
+[timestamp]
+[link]
 [codename]
 ---
 Hi Niantic Team,
@@ -62,12 +114,28 @@ Please take necessary action.
 Thanks,
 [codename]
 ---
+Hello,
+Multiple players report abusive and offensive conduct from [cheater].
+[timestamp]
+[link]
+Recommend sanctions.
+Regards,
+[codename]
+---
 Hi,
 There are repeated violations by [cheater] including harassment and disruptive conduct.
 [timestamp]
 [link]
 Please address.
 Best,
+[codename]
+---
+Hello Team,
+[cheater] violates the game's code of conduct through harassment and misuse.
+[timestamp]
+[link]
+Please take prompt action.
+Thanks,
 [codename]
 ---
 Hi Niantic Support,
@@ -78,6 +146,14 @@ Please address this promptly.
 Thank you,
 [codename]
 ---
+Hello Niantic Team,
+[cheater]'s player conduct violates community guidelines, involving toxic behavior.
+[timestamp]
+[link]
+Please investigate.
+Thanks,
+[codename]
+---
 Hi,
 Multiple complaints about [cheater]'s harassment and disruptive conduct have been submitted.
 [timestamp]
@@ -86,11 +162,27 @@ Please act accordingly.
 Regards,
 [codename]
 ---
+Hello,
+[cheater]’s repeated rule violations negatively affect other players’ experience.
+[timestamp]
+[link]
+Please intervene.
+Best,
+[codename]
+---
 Hi Niantic Support,
 Reports have been received about harassment and abusive language by [cheater].
 [timestamp]
 [link]
 Please address accordingly.
+Thanks,
+[codename]
+---
+Hello Niantic Team,
+[cheater] has breached community standards through disruptive and offensive conduct.
+[timestamp]
+[link]
+Please investigate.
 Thanks,
 [codename]
 ---
@@ -102,6 +194,14 @@ Please take appropriate measures.
 Regards,
 [codename]
 ---
+Hello,
+[cheater]’s repeated rule violations negatively impact community experience.
+[timestamp]
+[link]
+Please intervene.
+Best,
+[codename]
+---
 Hi Niantic,
 Multiple harassment reports filed against [cheater].
 [timestamp]
@@ -110,12 +210,28 @@ Please take appropriate action.
 Thanks,
 [codename]
 ---
+Hello Niantic Team,
+[cheater] repeatedly violates community standards with abusive conduct.
+[timestamp]
+[link]
+Please review.
+Best,
+[codename]
+---
 Hi,
 [cheater] has been flagged for disruptive and offensive behavior.
 [timestamp]
 [link]
 Please act.
 Regards,
+[codename]
+---
+Hello,
+[cheater]’s conduct is toxic and violates fair play rules.
+[timestamp]
+[link]
+Please review and respond.
+Best,
 [codename]
 ---
 Hi Niantic Support Team,
@@ -128,6 +244,16 @@ Thank you for your prompt attention.
 Best regards,
 [codename]
 ---
+Hello Niantic Team,
+This report concerns ongoing harassment by [cheater], who has engaged in abusive and disruptive behavior towards other players.
+Multiple reports confirm violations of the code of conduct.
+[timestamp]
+[link]
+We urge Niantic to act decisively to protect community well-being.
+Thank you.
+Regards,
+[codename]
+---
 Hello Niantic Support,
 We would like to bring to your attention repeated toxic and harassing behavior exhibited by [cheater]. Several users have submitted complaints describing offensive messages and disruptive actions.
 [timestamp]
@@ -135,6 +261,16 @@ We would like to bring to your attention repeated toxic and harassing behavior e
 Maintaining a respectful gaming environment is critical.
 Please investigate and take appropriate measures.
 Regards,
+[codename]
+---
+Dear Niantic Community Team,
+Multiple players have reported harassment and offensive language by [cheater]. This includes repeated abusive messages and targeted bullying within the game.
+[timestamp]
+[link]
+Such behavior violates community guidelines and damages the player experience.
+Please investigate and apply appropriate sanctions.
+Thank you.
+Sincerely,
 [codename]
 ---
 Hi Niantic Enforcement,
@@ -146,10 +282,24 @@ Thanks in advance.
 Best,
 [codename]
 ---
+Hello Niantic Support,
+We bring to your attention continuous reports of toxic and harassing conduct from [cheater]. The behavior includes insults and bullying, which negatively affects community morale.
+[timestamp]
+[link]
+Please review and take necessary action.
+Kind regards,  
+[codename]
+---
 Behavior outside normal gameplay patterns recorded at [timestamp]
 [link]
 ---
+General anomaly flagged — [cheater] involved. First seen at [timestamp]
+[link]
+---
 Unexpected game results produced by [cheater]. See [timestamp]
+[link]
+---
+Consistent unexplained behavior from [cheater] noted over[timestamp]
 [link]
 ---
 [cheater] exhibits unnatural game influence. 
@@ -158,11 +308,23 @@ Primary evidence:[timestamp]
 ---
 [timestamp]
 [link]
+verbal harassment occurred during a meetup. [cheater] was involved.
+---
+[timestamp]
+[link]
 physical confrontation occurred at portal. [cheater] initiated contact.
 ---
 [timestamp]
 [link]
+non-game confrontation initiated by [cheater] over portal capture.
+---
+[timestamp]
+[link]
 intimidation via comms and in-person meetup by [cheater]. needs review.
+---
+[timestamp]
+[link]
+persistent stalking behavior. [cheater] appeared at multiple private meetups uninvited.
 ---
 Hi,
 We are seeing escalating comm spam and verbal abuse from [cheater]. Their messages repeatedly target individual players with threats and derogatory remarks.
@@ -172,13 +334,24 @@ The language violates both community guidelines and common decency. Thank you fo
 Warm regards,  
 Agent [codename]
 ---
+Dear Niantic Support,
+I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
+[timestamp]
+[link]
+---
 Hi Niantic,
 I’d like to raise a serious concern about agent [cheater]. They've been verbally aggressive in comms and made targeted remarks toward me and others.
 [timestamp]
 [link]
 This kind of behavior ruins the experience and makes people feel unsafe.
 Please look into this.  
-[codename]  
+[codename]
+---
+Agent [cheater] followed me for several blocks after I captured a portal. This happened in real life, not in-game. It was extremely unsettling.
+[timestamp]
+[link]
+Please investigate. This is beyond acceptable boundaries.
+[codename]
 ---
 Hi Niantic,
 I’m concerned about [cheater]'s behavior outside of the game. They waited at a portal where I usually play and tried to confront me aggressively.
@@ -187,7 +360,16 @@ I’m concerned about [cheater]'s behavior outside of the game. They waited at a
 This is not just gameplay anymore. It’s harassment.
 Please take action before someone gets seriously affected.  
 —
-[codename]  
+[codename]
+---
+Greetings,
+I'm writing on behalf of a small group of players who’ve been targeted by [cheater] for harassment in person.
+[timestamp]
+[link]
+The person has followed players home, shouted at them, and even tried to record them without consent.
+This is serious and needs your attention.  
+—
+[codename]
 ---
 Dear Niantic Support,
 [timestamp]
@@ -197,7 +379,17 @@ I felt physically threatened by [cheater] who cornered me at a portal and began 
 Ingress should not enable real-world conflict. This felt like stalking.
 Kindly investigate.  
 —
-[codename]  
+[codename]
+---
+Niantic team,
+I witnessed [cheater] inappropriately touching another player at an Ingress event. It was not welcome, and the victim didn’t want to make it public.
+[timestamp]
+[link]
+  
+We feel unsafe knowing someone like this is still active in the community.
+Please act swiftly.  
+—
+[codename]
 ---
 Hi Niantic,  
 [cheater] has been spamming offensive language in local COMM and has targeted me personally. I’ve muted them but the behavior continues.  
@@ -206,11 +398,23 @@ Hi Niantic,
 Please review their chats.  
 [codename]
 ---
+At [timestamp], [cheater] sent repeated unwanted messages disrupting group communications and affecting player experience.
+
+[link]
+---
 [cheater]'s behavior at [timestamp] included spamming chat with inappropriate content, violating community standards.
 
 [link]
 ---
+Following and stalking behavior was observed from [cheater] starting at [timestamp], causing concern among players.
+
+[link]
+---
 Inappropriate real-life conduct by [cheater] was documented at [timestamp], which could harm the game's reputation.
+
+[link]
+---
+[cheater] repeatedly disrupted public chat with spam messages as of [timestamp], negatively impacting player experience.
 
 [link]
 ---
@@ -221,13 +425,28 @@ At [timestamp], [cheater] was involved in incidents of harassment and intimidati
 Regards,  
 [codename]
 ---
+We have verified that as of [timestamp], [cheater] has engaged in stalking and following other players during in-game events, making them uncomfortable and creating a hostile atmosphere.
+
+[link]
+---
 There is documented evidence at [timestamp] showing that [cheater] was involved in a physical confrontation off the game premises. Such behavior compromises the integrity of the community.
+
+[link]
+---
+Reports dated [timestamp] indicate that [cheater]'s conduct during live events has included intimidating gestures and verbal threats directed at fellow players.
 
 [link]
 ---
 On [timestamp], [cheater] was noted for repeatedly shadowing a particular player, resulting in discomfort and complaints filed by the victim.
 
 [link]
+---
+Following a detailed review of incidents on [timestamp], it is clear that [cheater]'s actions have consistently breached expected standards of behavior, including verbal abuse and public harassment.
+
+[link]
+
+Kind regards,  
+[codename]
 ---
 At [timestamp], [cheater] engaged in repeated harassment toward other players.
 
@@ -236,9 +455,20 @@ At [timestamp], [cheater] engaged in repeated harassment toward other players.
 Kind regards,  
 [codename]
 ---
+Reports from [timestamp] document disruptive chat spam originating from [cheater].
+
+[link]
+---
 Physical altercation involving [cheater] was documented at [timestamp].
 
 [link]
+---
+Unwanted conduct by [cheater], including chat harassment, was noted at [timestamp].
+
+[link]
+
+Best,  
+[codename]
 ---
 Violations of community standards by [cheater] were recorded at [timestamp].
 
@@ -247,9 +477,23 @@ Violations of community standards by [cheater] were recorded at [timestamp].
 Sincerely,  
 [codename]
 ---
+At [timestamp], [cheater] sent repeated harassing messages disrupting player communication.
+
+[link]
+
+Kind regards,  
+[codename]
+---
 Spam messages from [cheater] flooded chat channels at [timestamp].
 
 [link]
+---
+Disruptive and toxic chat conduct by [cheater] was recorded at [timestamp].
+
+[link]
+
+Best,  
+[codename]
 ---
 Violation of community guidelines by [cheater] was noted at [timestamp].
 
@@ -258,13 +502,31 @@ Violation of community guidelines by [cheater] was noted at [timestamp].
 Sincerely,  
 [codename]
 ---
+Inappropriate messages from [cheater] flagged during session at [timestamp].
+
+[link]
+
+Regards,  
+[codename]
+---
 At [timestamp], reports show [cheater] disrupting public gameplay spaces with spam.
+
+[link]
+---
+At [timestamp], [cheater] displayed toxic behavior consistently during gameplay.
 
 [link]
 ---
 [cheater]'s chat messages at [timestamp] violated acceptable conduct policies.
 
 [link]
+---
+At [timestamp], [cheater] sent a series of harassing messages in the chat, targeting several players with offensive language and threats, severely disrupting the community.
+
+[link]
+
+Kind regards,  
+[codename]
 ---
 On [timestamp], reports were received regarding [cheater]'s repeated following and stalking of other players in-game, causing discomfort and anxiety.
 
@@ -273,11 +535,22 @@ On [timestamp], reports were received regarding [cheater]'s repeated following a
 Sincerely,  
 [codename]
 ---
+Physical altercations involving [cheater] were reported at [timestamp], negatively impacting the player community’s safety and enjoyment.
+
+[link]
+---
 At [timestamp], [cheater] was found to have deliberately followed other players persistently, breaching community guidelines against harassment.
 
 [link]
 
 Regards,  
+[codename]
+---
+The incident at [timestamp] where [cheater] threatened other players both verbally and through in-game messages was recorded and verified.
+
+[link]
+
+Kind regards,  
 [codename]
 ---
 At [timestamp], [cheater] sent repeated harassing messages targeting other players, creating a hostile environment that violates community guidelines.
@@ -287,6 +560,13 @@ At [timestamp], [cheater] sent repeated harassing messages targeting other playe
 Kind regards,  
 [codename]
 ---
+During events at [timestamp], [cheater] exhibited aggressive real-life behavior toward other players, including verbal threats, raising serious concerns for player safety.
+
+[link]
+
+Sincerely,  
+[codename]
+---
 At [timestamp], [cheater] was involved in real-world physical altercations linked to in-game disputes, endangering others and violating terms of conduct.
 
 [link]
@@ -294,9 +574,25 @@ At [timestamp], [cheater] was involved in real-world physical altercations linke
 Kind regards,  
 [codename]
 ---
+During [timestamp], [cheater] posted offensive and inappropriate comments in public chats, violating community standards and creating a negative environment.
+
+[link]
+
+Sincerely,  
+[codename]
+---
 At [timestamp], [cheater] was reported for stalking and following other players persistently in real life, posing serious safety concerns.
 
 [link]
+
+Kind regards,  
+[codename]
+---
+At [timestamp], multiple chat transcripts document [cheater] sending repeated harassing messages targeting specific players, including derogatory language and threats. This conduct violates community standards and creates a hostile environment.
+
+[link]
+
+Such behavior necessitates enforcement action to protect player safety and community integrity.
 
 Kind regards,  
 [codename]
@@ -310,6 +606,15 @@ Immediate intervention and reporting to relevant authorities are recommended.
 Sincerely,  
 [codename]
 ---
+During [timestamp], investigation confirms that [cheater] organized multiple accounts to flood chat channels with advertisements, effectively spamming and obstructing normal gameplay conversations.
+
+[link]
+
+These actions violate community guidelines and necessitate prompt account suspension.
+
+Kind regards,  
+[codename]
+---
 Reports from [timestamp] include multiple instances of [cheater] flooding global chat channels with unsolicited advertisements and spam links, disrupting normal communication flow.
 
 [link]
@@ -317,6 +622,15 @@ Reports from [timestamp] include multiple instances of [cheater] flooding global
 Such disruptive behavior warrants moderation penalties.
 
 Best regards,  
+[codename]
+---
+Player testimonies at [timestamp] describe [cheater] physically following and stalking another player outside the game environment, raising concerns about personal safety and harassment.
+
+[link]
+
+Immediate investigation and appropriate action are recommended.
+
+Regards,  
 [codename]
 ---
 At [timestamp], [cheater] sent repeated harassing messages to other players, including insults and threats, violating community standards and creating an unsafe environment.
@@ -328,6 +642,15 @@ This conduct is unacceptable and requires prompt disciplinary measures.
 Kind regards,  
 [codename]
 ---
+At [timestamp], an incident was reported where [cheater] physically confronted another player during an in-person event, escalating an online dispute into a real-life safety concern.
+
+[link]
+
+This conduct crosses the line of acceptable behavior and merits serious review.
+
+Sincerely,  
+[codename]
+---
 At [timestamp], [cheater] launched a coordinated spam attack, flooding global chat with repetitive, disruptive messages, degrading user experience.
 
 [link]
@@ -335,6 +658,15 @@ At [timestamp], [cheater] launched a coordinated spam attack, flooding global ch
 Immediate action is needed to restore chat integrity and penalize offenders.
 
 Best,  
+[codename]
+---
+At [timestamp], [cheater] was observed repeatedly posting unsolicited advertisements and disruptive messages in global chat channels, significantly impairing communication flow.
+
+[link]
+
+Such spam adversely affects player interaction and must be curtailed.
+
+Best regards,  
 [codename]
 ---
 During [timestamp], reports were made about [cheater] following and stalking players in real life after in-game conflicts, causing distress and safety concerns.
@@ -346,6 +678,15 @@ Such actions cross legal boundaries and require urgent attention.
 Kind regards,  
 [codename]
 ---
+Multiple complaints recorded at [timestamp] indicate that [cheater] has engaged in persistent harassment of other players through abusive messages and threats, creating a hostile environment.
+
+[link]
+
+This conduct violates community standards and warrants immediate attention.
+
+Regards,  
+[codename]
+---
 Reports from [timestamp] describe an incident where [cheater] physically confronted another player during an in-person event, escalating online conflicts into real-world violence.
 
 [link]
@@ -353,6 +694,15 @@ Reports from [timestamp] describe an incident where [cheater] physically confron
 This serious breach calls for urgent intervention.
 
 Kind regards,  
+[codename]
+---
+The chat logs from [timestamp] show that [cheater] flooded channels with repetitive, disruptive messages, effectively silencing legitimate player conversations through spam.
+
+[link]
+
+Prompt measures are needed to restore order.
+
+Thank you,  
 [codename]
 ---
 Chat logs from [timestamp] reveal that [cheater] spammed community channels with repeated unwanted advertisements and disruptive messages, interfering with normal player communication.
@@ -364,131 +714,267 @@ This behavior degrades the user experience and should be addressed.
 Best regards,  
 [codename]
 ---
+Timestamp [timestamp] contains multiple eyewitness accounts of [cheater] stalking other players in real life following game-related disagreements, causing significant distress and concern for personal safety.
+
+[link]
+
+This behavior extends beyond in-game misconduct and must be handled seriously.
+
+Kind regards,  
+[codename]
+---
 At [timestamp], [cheater] was observed repeatedly recharging portals and linking back and forth with another agent within 30 seconds intervals, suggesting multi-device usage or account sharing.
 
 [link]
 
 Please check linked account actions around this timestamp.
 ---
+At [timestamp], [cheater] used the COMM to send harassing messages after I re-captured a portal. They implied stalking and real-life retaliation.  
+[link]
+---
 I was followed physically by [cheater] after an in-game encounter on [timestamp]. They made verbal threats related to portal control.  
+[link]
+---
+On [timestamp], [cheater] threatened to damage my bike if I ever “touched their field again.”  
 [link]
 ---
 They repeatedly post offensive memes in COMM tied to players in our area. Most recently at [timestamp].  
 [link]
 ---
+During [timestamp], [cheater] drove past my home and took pictures of me playing. This is stalking.  
+[link]
+---
 At [timestamp], [cheater] let an enemy destroy a portal, then rebuilt it with the same links minutes later. They did this several times.  
+[link]
+---
+This isn't competition — it’s coordination. [cheater] met with another faction agent at [timestamp] and they swapped fields for badges.  
 [link]
 ---
 They are rotating between the same three portals. At [timestamp], [cheater] captured, then let another agent destroy, then repeated.  
 [link]
 ---
+Badge farming is happening here. [cheater] set up weak portals and let them be destroyed on purpose. We recorded this at [timestamp].  
+[link]
+---
 Logs at [timestamp] show perfect 10-minute cycles of build and destroy between the same two players. Definitely a farming loop.  
+[link]
+---
+At [timestamp], [cheater] was seen dropping capsules on the ground and walking away while another agent of the opposing faction came to collect them minutes later. This is a clear case of illicit item trading.  
 [link]
 ---
 This has become routine. At [timestamp], [cheater] parked, dropped multiple capsules near a key portal, and left. A few minutes later, a different faction agent picked them up without any interaction.  
 [link]
 ---
+I filmed [cheater] dropping a capsule on the ground and sending a message over an external chat group. Moments later (around [timestamp]), a low-level enemy agent picked up the items and vanished.  
+[link]
+---
 It happened again at [timestamp]. [cheater] is using neutral portals to leave gear for the opposing team. This encourages coordinated item trading outside intended gameplay.  
+[link]
+---
+This is item laundering, essentially. [cheater] dropped gear at [timestamp], including multiple L8 resonators and XMPs, and within minutes they disappeared. We tracked the recipient.  
 [link]
 ---
 At [timestamp], [cheater] manipulated portal ownership to prevent enemy access by constantly flipping and redeploying without strategic value.  
 [link]
 ---
+At [timestamp], [cheater] rapidly changed their faction affiliation multiple times in order to manipulate local fields and deploy limits.  
+[link]
+---
 [cheater] held a portal in a cemetery for over 8 months with spoofed links and 24/7 recharge bots. This was first noticed at [timestamp].  
+[link]
+---
+This agent accessed portals inside a museum outside open hours at [timestamp]. There is no explanation besides system manipulation.  
 [link]
 ---
 [cheater] and several unknown agents built a dense BAF at [timestamp] that blocks regional plans. Most accounts had no prior activity. Likely spoof-created.  
 [link]
 ---
+At [timestamp], [cheater] used a farm of throwaway accounts to build up a portal cluster overnight. Each account deployed only once and disappeared. These accounts are all below L3 and have zero stats beyond that one event, indicating they were made solely to build shielding.  
+[link]
+---
 During [timestamp], [cheater] left misleading COMM messages under a different faction’s color to impersonate another player and provoke a response. Several agents received insults and baiting remarks from an account that hadn’t been active in months.  
+[link]
+---
+[cheater] captured portals in a restricted location with no public access, such as a rooftop or fenced facility, without being seen by nearby agents.  
+[timestamp] 
 [link]
 ---
 Within a span of 5 minutes, [cheater] moved between two cities 100+ km apart without any recorded travel in-between.  
 [timestamp] 
-[link]  
+[link]
+---
+[cheater] deployed keys and made links across portals that require local SIM authentication or network presence, yet their activity log suggests remote access.  
+[link]
 ---
 A full series of portals inside a gated community were flipped and modded in under 10 minutes—normally taking 30–40 minutes to walk.  
-[link]  
+[link]
+---
+[cheater] attacked a sequence of portals located deep in a forest trail with no vehicle access or daylight during the timestamp shown.  
+[link]
 ---
 Portals were modded, linked, and deployed in a rapid repeating pattern for 20+ minutes without variation or pause.  
 [timestamp]
- [link]  
+ [link]
+---
+[cheater] used over 100 XMPs in quick succession with uniform intervals. The button press rhythm appears too consistent for manual interaction.  
+[timestamp] 
+[link]
 ---
 [cheater] maintained perfect recharge timing across hundreds of portals for an entire hour without signs of fatigue, movement, or variation.  
 [timestamp]
- [link]  
+ [link]
+---
+Portal modifications and linking behavior occurred at the exact same time every day, with no location variation—suggesting scheduled or automated input.  
+[timestamp]
+ [link]
 ---
 [cheater] used multiple disposable accounts to deploy rare shields across portals, and those accounts have not been active since.  
 [timestamp]  
-[link]  
+[link]
+---
+The agent repeatedly flipped a portal to block links despite having no strategic need. This occurred daily for over a week.  
+[timestamp]  
+[link]
 ---
 Portals were being upgraded daily by different accounts with no XM gains or linking, suggesting gear sinks rather than gameplay.  
 [timestamp]  
-[link]  
+[link]
+---
+Rare gear such as Aegis shields and LA mods were distributed to portals with no history of nearby agents, indicating inventory manipulation.  
+[timestamp]  
+[link]
 ---
 [cheater] repeatedly blocked high-traffic links using obscure portals with junk keys and no clear faction objective.  
 [timestamp]  
-[link]  
+[link]
+---
+During a local event, [cheater] was seen verbally harassing opposing faction members in person, mocking their play and obstructing movement.  
+[timestamp]  
+[link]
 ---
 Two agents coordinated fake battles, alternating portal destruction and rebuilds for AP gain—bystanders witnessed the intentional collusion.  
 [timestamp]  
-[link]  
+[link]
+---
+Reports from multiple cities show [cheater] intentionally sabotaging ops by revealing portal keys to the enemy after losing faction votes.  
+[timestamp]  
+[link]
 ---
 Multiple accounts coordinated to harass a specific player via repeated stalker links and portal destruction near their home and work.  
 [timestamp]  
-[link]  
+[link]
+---
+On [timestamp], [cheater] made physical threats during a portal meetup, leading to local police involvement and faction-led mediation.  
+[link]
 ---
 A known agent exchanged gear and AP flips with rival faction members in exchange for regional control—confirmed in private chats leaked to faction leaders.  
 [timestamp]  
-[link]  
+[link]
+---
+An op was intentionally sabotaged by leaking portal locations to the enemy, traced to an agent who lost a previous leadership vote.  
+[timestamp]  
+[link]
 ---
 During a mission event, the player harassed others physically and verbally, threatening to damage their bikes if they didn’t leave portals alone.  
 [timestamp]  
-[link]  
+[link]
+---
+One player has been impersonating other agents using burner accounts to post misinformation and provoke conflict inside internal faction chats.  
+[timestamp]  
+[link]
 ---
 Several locals reported that [cheater] deliberately destroyed portals before a new agent could complete their Sojourner streak.  
 [timestamp]  
-[link]  
+[link]
+---
+At [timestamp], the player placed beacons with mocking or abusive names on another player's portal repeatedly after each capture.  
+[link]
 ---
 A sabotage incident occurred where one agent redirected portal keys before a coordinated op, causing planned links to fail.  
 [timestamp]  
-[link]  
+[link]
+---
+A resistance agent was seen placing fart and poop emojis on Enlightened missions repeatedly to troll the creator.  
+[timestamp]  
+[link]
 ---
 Comm messages reveal racial slurs and threats from [cheater] during a mission race. Chat logs preserved.  
 [timestamp]  
-[link]  
+[link]
+---
+A mission series was cloned and re-uploaded under a different alias, with deliberate low ratings submitted to harm the original creator.  
+[timestamp]  
+[link]
 ---
 Two agents coordinated to clear each other’s blockers to gain AP rapidly without resistance.  
 [timestamp]  
-[link]  
+[link]
+---
+Repeated hostile messages were sent via comm targeting another agent, including personal insults and threats.  
+[timestamp]  
+[link]
 ---
 An agent targeted a new player’s portals and repeatedly neutralized them to prevent progression.  
 [timestamp]  
-[link]  
+[link]
+---
+A player copied and reposted mission content under a false name to defraud original creators.  
+[timestamp]  
+[link]
 ---
 An agent abused team comm channels to spread misinformation and confusion during competitive events.  
 [timestamp]  
-[link]  
+[link]
+---
+Two players agreed to exchange portal captures and AP gains through coordinated win-trading during competitive events.  
+[timestamp]  
+[link]
 ---
 A player was reported for consistent verbal abuse and spam messages in faction and global comm channels.  
 [timestamp]  
-[link]  
+[link]
+---
+A cheater intentionally targeted new players’ portals repeatedly to discourage participation and progression.  
+[timestamp]  
+[link]
 ---
 A player used multiple accounts to unfairly dominate local gameplay through repeated neutralizations and field creation.  
 [timestamp]  
-[link]  
+[link]
+---
+Players were caught sharing personal location data without consent, violating community guidelines.  
+[timestamp]  
+[link]
 ---
 Two agents coordinated to exchange portal ownership to artificially boost AP during a local competition.  
 [timestamp]  
-[link]  
+[link]
+---
+Offensive portal names and inappropriate content were repeatedly placed by a player to harass the community.  
+[timestamp]  
+[link]
 ---
 A player used multiple accounts to sabotage opposing faction progress in an area.  
 [timestamp]  
-[link]  
+[link]
+---
+A player shared others’ personal location data publicly without consent.  
+[timestamp]  
+[link]
 ---
 Players repeatedly neutralized a new user’s portals to prevent advancement.  
 [timestamp]  
-[link]  
+[link]
+---
+To whom it may concern,
+
+This is a formal report regarding potential account sharing between users. I observed that the account associated with [cheater] is accessed from multiple IP addresses simultaneously, indicating the likely use of multiple players or account rentals. This violates the game's terms and creates an unfair advantage.
+
+Please investigate the following data:  
+[link]
+
+Sincerely,  
+[codename]
 ---
 Niantic team,
 
@@ -501,6 +987,16 @@ Thank you for your efforts.
 
 [codename]
 ---
+Dear Niantic,
+
+I am submitting a report about [cheater] who appears to be using third-party software to gain an unfair advantage. On [timestamp], their rapid and flawless gameplay was clearly beyond normal human capabilities. This behavior disrupts competitive balance and diminishes the experience for others.
+
+Please examine the following proof:  
+[link]
+
+Kind regards,  
+[codename]
+---
 Niantic Support,
 
 On [timestamp], I observed [cheater] engaging in suspicious activities involving unauthorized software. Their actions showed signs of automation including repeated precise inputs and unnatural speed. This is a clear violation of the game’s fair play policies.
@@ -509,6 +1005,16 @@ Please investigate:
 [link]
 
 Regards,  
+[codename]
+---
+To Niantic team,
+
+I want to report persistent following and harassment by [cheater] within the game. They have been repeatedly tracking my location and disrupting gameplay, causing distress. This behavior is unacceptable and needs urgent attention.
+
+Attached evidence:  
+[link]
+
+Thank you,  
 [codename]
 ---
 Hello,
@@ -521,6 +1027,16 @@ The relevant data is available here:
 Best regards,  
 [codename]
 ---
+Hi Niantic,
+
+On [timestamp], [cheater] demonstrated extremely abnormal gameplay patterns consistent with third-party tools. Their reaction times and precision far exceed normal human limits.
+
+You can verify this here:  
+[link]
+
+Thanks for your support.  
+[codename]
+---
 Hello Niantic team,
 
 I am reporting a case of harassment involving [cheater]. They have sent numerous aggressive messages and spam in public chat channels on [timestamp], creating a toxic environment.
@@ -529,6 +1045,16 @@ The chat logs can be found here:
 [link]
 
 Kind regards,  
+[codename]
+---
+Dear Niantic Support,
+
+I’m contacting you about possible account sharing by [cheater]. Their accounts show unusual login activity from different IPs simultaneously, suggesting multiple users accessing the same account.
+
+Details at:  
+[link]
+
+Regards,  
 [codename]
 ---
 Niantic team,
@@ -541,6 +1067,16 @@ Evidence provided:
 Please take action.  
 [codename]
 ---
+Dear Support,
+
+I am reporting [cheater] for operating multiple accounts concurrently. The login timestamps and activity logs show impossible simultaneous play.
+
+Evidence:  
+[link]
+
+Best,  
+[codename]
+---
 Niantic Team,
 
 On [timestamp], [cheater] repeatedly used unauthorized software to automate gameplay. Their precision and speed were suspiciously perfect.
@@ -549,6 +1085,16 @@ Check the logs:
 [link]
 
 Thanks,  
+[codename]
+---
+Dear Niantic,
+
+I am writing to report repeated harassment by [cheater] in global chat. Their messages on [timestamp] were offensive and disruptive.
+
+Logs attached:  
+[link]
+
+Sincerely,  
 [codename]
 ---
 Hi,
@@ -561,6 +1107,16 @@ Supporting files:
 Regards,  
 [codename]
 ---
+Hello Niantic Team,
+
+During gameplay on [timestamp], [cheater] demonstrated suspiciously fast and consistent actions that indicate third-party software use.
+
+Logs here:  
+[link]
+
+Best regards,  
+[codename]
+---
 Support Team,
 
 Reports show that [cheater] engages in trading and selling items for real money, which is against game rules.
@@ -569,6 +1125,16 @@ Please review the evidence:
 [link]
 
 Sincerely,  
+[codename]
+---
+Niantic Support,
+
+[cheater] uses multiple accounts in coordinated raids to unfairly win battles. The timestamps and movement patterns confirm this.
+
+Details here:  
+[link]
+
+Regards,  
 [codename]
 ---
 Dear Niantic,
@@ -581,6 +1147,16 @@ Please see:
 Best,  
 [codename]
 ---
+Niantic,
+
+Multiple accounts associated with [cheater] appear to be controlled by one person, undermining fair play.
+
+Proof included:  
+[link]
+
+Thanks,  
+[codename]
+---
 Hello Niantic,
 
 [cheater] demonstrates non-human gameplay patterns, strongly indicating the use of cheating software.
@@ -589,6 +1165,16 @@ Logs available:
 [link]
 
 Best,  
+[codename]
+---
+Dear Niantic Team,
+
+[cheater] manages multiple accounts simultaneously, with overlapping activity logs showing possible account sharing.
+
+Please review:  
+[link]
+
+Kind regards,  
 [codename]
 ---
 Hello,
@@ -601,6 +1187,16 @@ Evidence:
 Best regards,  
 [codename]
 ---
+Hi Support,
+
+[cheater] appears to control multiple accounts with highly coordinated gameplay.
+
+Supporting data:  
+[link]
+
+Regards,  
+[codename]
+---
 Hello Niantic Team,
 
 Evidence points to [cheater] using automation tools to play on [timestamp]. Their gameplay is unnaturally flawless.
@@ -609,6 +1205,16 @@ Please see:
 [link]
 
 Thanks,  
+[codename]
+---
+Hi,
+
+[cheater] runs multiple accounts, often simultaneously online, violating terms of use.
+
+Evidence included:  
+[link]
+
+Regards,  
 [codename]
 ---
 Dear Niantic Team,
@@ -621,6 +1227,16 @@ Supporting logs:
 Kind regards,  
 [codename]
 ---
+Hi Support,
+
+Multiple accounts linked to [cheater] operate in sync, indicating possible account sharing.
+
+Details:  
+[link]
+
+Regards,  
+[codename]
+---
 Dear Niantic,
 
 [cheater]'s gameplay on [timestamp] is suspiciously perfect, consistent with bot use.
@@ -629,6 +1245,16 @@ Logs attached:
 [link]
 
 Thanks,  
+[codename]
+---
+Hi Niantic,
+
+[cheater] manages multiple accounts simultaneously with suspiciously coordinated activity.
+
+Details included:  
+[link]
+
+Regards,  
 [codename]
 ---
 Dear Niantic,
@@ -641,6 +1267,16 @@ Evidence for review:
 Best regards,  
 [codename]
 ---
+Hi,
+
+Multiple accounts under [cheater] appear to be used simultaneously, suggesting unfair play.
+
+Evidence attached:  
+[link]
+
+Regards,  
+[codename]
+---
 Dear Niantic Team,
 
 On [timestamp], [cheater]'s actions strongly suggest the use of automated scripts to gain unfair advantage.
@@ -649,6 +1285,16 @@ Logs here:
 [link]
 
 Thank you,  
+[codename]
+---
+Hi Niantic,
+
+Multiple accounts linked to [cheater] exhibit suspicious coordinated play patterns.
+
+Details here:  
+[link]
+
+Thanks,  
 [codename]
 ---
 Dear Niantic,
@@ -661,6 +1307,16 @@ Proof:
 Best,  
 [codename]
 ---
+Hi,
+
+[cheater] uses multiple accounts at once, breaking the game rules.
+
+Supporting data:  
+[link]
+
+Regards,  
+[codename]
+---
 Dear Niantic Team,
 
 On [timestamp], [cheater] displayed gameplay with suspicious precision and speed.
@@ -669,6 +1325,16 @@ Please review:
 [link]
 
 Kind regards,  
+[codename]
+---
+Hi Support,
+
+Multiple accounts controlled by [cheater] show suspicious activity.
+
+Details attached:  
+[link]
+
+Regards,  
 [codename]
 ---
 Dear Niantic,
@@ -681,6 +1347,16 @@ Evidence:
 Thanks,  
 [codename]
 ---
+Hi,
+
+Multiple accounts linked to [cheater] violate game policies by coordinated use.
+
+Details here:  
+[link]
+
+Regards,  
+[codename]
+---
 Dear Niantic,
 
 On [timestamp], [cheater] showed signs of using automated gameplay tools.
@@ -689,6 +1365,16 @@ Proof attached:
 [link]
 
 Kind regards,  
+[codename]
+---
+Hi Niantic,
+
+Multiple accounts under [cheater] show suspiciously coordinated behavior.
+
+Supporting data:  
+[link]
+
+Regards,  
 [codename]
 ---
 Dear Niantic Team,
@@ -701,6 +1387,16 @@ Please review:
 Best,  
 [codename]
 ---
+Hi,
+
+Multiple accounts linked to [cheater] suggest unfair coordinated play.
+
+Details attached:  
+[link]
+
+Regards,  
+[codename]
+---
 Dear Niantic,
 
 [cheater]’s gameplay on [timestamp] is consistent with cheating software.
@@ -709,6 +1405,16 @@ Evidence here:
 [link]
 
 Thanks,  
+[codename]
+---
+Hi Niantic,
+
+Multiple accounts operated by [cheater] are suspiciously coordinated.
+
+Details attached:  
+[link]
+
+Regards,  
 [codename]
 ---
 Dear Niantic Team,
@@ -721,6 +1427,16 @@ Proof attached:
 Kind regards,  
 [codename]
 ---
+Hi Support,
+
+Multiple accounts linked to [cheater] are used in coordinated play violating terms.
+
+Details here:  
+[link]
+
+Regards,  
+[codename]
+---
 Dear Niantic,
 
 [cheater]’s gameplay on [timestamp] matches automated tool usage.
@@ -729,6 +1445,16 @@ Proof attached:
 [link]
 
 Best,  
+[codename]
+---
+Hi,
+
+Multiple accounts under [cheater] violate game policies through synchronized activity.
+
+Evidence:  
+[link]
+
+Regards,  
 [codename]
 ---
 Dear Niantic Team,
@@ -741,6 +1467,16 @@ Please review:
 Kind regards,  
 [codename]
 ---
+Hi Niantic,
+
+Multiple accounts linked to [cheater] suggest unfair coordinated play.
+
+Supporting data:  
+[link]
+
+Regards,  
+[codename]
+---
 Dear Niantic,
 
 [cheater]’s gameplay on [timestamp] shows signs of cheating software.
@@ -749,6 +1485,16 @@ Proof attached:
 [link]
 
 Best,  
+[codename]
+---
+Hi,
+
+Multiple accounts operated by [cheater] demonstrate suspicious coordination.
+
+Details here:  
+[link]
+
+Regards,  
 [codename]
 ---
 Dear Niantic Team,
@@ -760,5 +1506,4 @@ Please review:
 
 Kind regards,  
 [codename]
-
 ---
