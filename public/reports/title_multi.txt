@@ -200,6 +200,10 @@ Analysis of Item Drops from [cheater]
 Analysis of Item Movement Patterns by [cheater]
 Analysis of Unfair Item Moves by [cheater]
 Analysis: Multi-Account Drops by [cheater]
+Another instance of [cheater] exploiting GPS mechanics.
+Another instance of [cheater] exploiting GPS mechanics. [timestamp]
+Another report of [cheater] exploiting GPS mechanics.
+Another report of [cheater] exploiting GPS mechanics. [timestamp]
 Auto-deploy pattern consistent with alt support to [cheater]  
 Auto-pickup sequences seen during [timestamp] by [cheater]  
 Auto-transfer patterns logged between two of [cheater]'s names  
@@ -284,6 +288,12 @@ Cluster of deploys from multiple devices associated with [cheater]
 Clustered Account Management by [cheater]
 Clustered Account Usage Patterns Detected for [cheater]
 Clustered Accounts Coordinated by [cheater]
+Community impact due to [cheater]'s falsified locations.
+Community impact due to [cheater]'s falsified locations. [timestamp]
+Community reports indicate [cheater] is falsifying location.
+Community reports indicate [cheater] is falsifying location. [timestamp]
+Concerned about [cheater]'s consistent spoofing behavior.
+Concerned about [cheater]'s consistent spoofing behavior. [timestamp]
 Concurrent login activity observed
 Consistent alt login just before [cheater] starts fielding  
 Consistent inventory sync suggests dual-device usage by [cheater]
@@ -322,9 +332,13 @@ Dual-device latency patterns visible in [cheater]’s data
 Dummy ID disappears after dropping gear next to [cheater]  
 Duplicate actions flagged
 Energy spikes from nearby portals match [cheater]’s path precisely  
+Escalating spoofing activity from [cheater].
+Escalating spoofing activity from [cheater]. [timestamp]
 Evidence of Account Collusion Involving [cheater]
 Evidence of Account Trading Among [cheater] and Associates
 Evidence of Coordinated Capsule Drops by [cheater]
+Evidence of GPS spoofing by [cheater] continues to mount.
+Evidence of GPS spoofing by [cheater] continues to mount. [timestamp]
 Evidence of Inventory Manipulation by [cheater]
 Evidence of Multi-Account Abuse by [cheater]
 Evidence of Multiple Accounts Managed by [cheater]  
@@ -404,11 +418,19 @@ Frequent high-level item handovers logged under [cheater]
 Frequent passcode claims linked to multiple [cheater] aliases  
 Frequent portal history only showing [cheater] and support  
 Frequent XM drain by cloaked IDs supporting [cheater]  
+Frustrated by lack of action on [cheater]'s spoofing.
+Frustrated by lack of action on [cheater]'s spoofing. [timestamp]
+Frustrated by repeated spoofing from [cheater].
+Frustrated by repeated spoofing from [cheater]. [timestamp]
 Gear duplication signs seen from [cheater]'s behavior  
 Gear flow traces item transfers directly to [cheater]  
 Gear routing suggests [cheater] uses alternate IDs to stockpile  
 Gear used by [cheater] sourced from traceable alt interactions  
 Ghost agent modding for [cheater] prior to fielding  
+GPS anomalies linked to [cheater] persist.
+GPS anomalies linked to [cheater] persist. [timestamp]
+GPS spoofing by [cheater] undermines fair play.
+GPS spoofing by [cheater] undermines fair play. [timestamp]
 Handling [cheater]'s Account Sharing Complaint at [timestamp]
 Handling [cheater]'s Account Sharing Concern at [timestamp]
 Handling [cheater]'s Account Sharing Misuse Report at [timestamp]
@@ -506,6 +528,8 @@ Linked Accounts Activity
 Linked accounts all show zero badges except shared use with [cheater]  
 Linked accounts traced to [cheater] show coordinated actions  
 Linked users with no other activity consistently aid [cheater]  
+Location falsification by [cheater] remains unpunished.
+Location falsification by [cheater] remains unpunished. [timestamp]
 Logins from same IP across accounts used in [cheater]’s ops  
 Logs Show Suspicious Capsule Drops from [cheater]
 Long-range recharges from dummy IDs help [cheater] preserve fields  
@@ -567,11 +591,17 @@ Multiple logins from same IP address
 Multiple phones ping same portal under [cheater] aliases  
 Multiple recharge bursts across synced phones traced to [cheater]  
 Multiple recharge bursts seen from [cheater]'s suspected devices  
+Multiple spoofing incidents linked to [cheater].
+Multiple spoofing incidents linked to [cheater]. [timestamp]
 New account with no prior AP appears, aids deploy, disappears — clearly [cheater]’s  
 New accounts feeding L8 gear directly to [cheater]  
 New ID always appears to complete [cheater]’s portal octets  
+No accountability for [cheater]'s GPS manipulation.
+No accountability for [cheater]'s GPS manipulation. [timestamp]
 No AP progress on helper accounts — used purely to benefit [cheater]  
 No evidence of independent play from helper IDs — only serve [cheater]  
+No resolution yet for [cheater]'s spoofing reports.
+No resolution yet for [cheater]'s spoofing reports. [timestamp]
 Notifying Niantic of [cheater]'s Account Sharing Activity at [timestamp]
 Notifying Niantic of [cheater]'s Account Sharing Concerns at [timestamp]
 Notifying Niantic of [cheater]'s Account Sharing Infractions at [timestamp]
@@ -628,10 +658,20 @@ Notifying Niantic of Multi-Device Violations
 Notifying Niantic of Multiple Device Usage
 Notifying Niantic of Suspected Multi-Accounting
 Numerous identical movement logs traced to [cheater]  
+Ongoing abuse of location systems by [cheater].
+Ongoing abuse of location systems by [cheater]. [timestamp]
+Ongoing spoofing suspected from [cheater] despite prior reports.
+Ongoing spoofing suspected from [cheater] despite prior reports. [timestamp]
 Overlapping activity across accounts  
 Overlapping Device Usage Across Accounts of [cheater]  
 Pattern of one account setting up for [cheater]'s other  
 Perfect mod deployment spacing indicates automation by [cheater]  
+Please investigate [cheater] for falsifying location data.
+Please investigate [cheater] for falsifying location data. [timestamp]
+Please investigate [cheater] for repeated location spoofing.
+Please investigate [cheater] for repeated location spoofing. [timestamp]
+Please take action against [cheater] for GPS spoofing.
+Please take action against [cheater] for GPS spoofing. [timestamp]
 Portal captured and modded by [cheater] across different codenames
 Portal data shows unnatural link timing supporting [cheater]  
 Portal history shows only [cheater] and recurring low-AP helper  
@@ -669,6 +709,8 @@ Repeated gear funneling from level 8 alt into [cheater]’s inventory
 Repeated gear transfers hint at account sharing by [cheater]
 Repeated gear transfers point to [cheater] using alt accounts  
 Repeated Multi-account Pattern
+Repeated spoofing behavior observed from [cheater].
+Repeated spoofing behavior observed from [cheater]. [timestamp]
 Repetitive capsule sharing shows organized dual-account play  
 Repetitive portal usage with same gear types links to [cheater]  
 Report Cheater
@@ -812,6 +854,8 @@ Reports Show Coordinated Capsule Drops by [cheater]
 Reports Show Item Transfer Manipulation by [cheater]
 Reports Show Multi-Account Item Transfers by [cheater]
 Reports Show Unfair Capsule Drops by [cheater]
+Requesting review of [cheater] for GPS spoofing.
+Requesting review of [cheater] for GPS spoofing. [timestamp]
 Resonator placements done in quick succession by [cheater]  
 Resource funneling between accounts  
 Risks and Consequences of Using Multi Accounts
@@ -848,6 +892,12 @@ Simultaneous portal activity on different accounts
 Simultaneous portal control abuse  
 Solo links followed by bursts from helper accounts point to [cheater]  
 Spoofed inventory matching actions traced to [cheater]  
+Spoofing behavior by [cheater] is affecting local players.
+Spoofing behavior by [cheater] is affecting local players. [timestamp]
+Still no response regarding [cheater]'s GPS manipulation.
+Still no response regarding [cheater]'s GPS manipulation. [timestamp]
+Still waiting for action on [cheater]'s spoofing.
+Still waiting for action on [cheater]'s spoofing. [timestamp]
 Storage account never gains AP — only used for [cheater]’s ops  
 Strange Cluster of Activity Linked to [cheater]
 Strange XM activity from accounts known to be tied to [cheater]  
@@ -939,6 +989,8 @@ Suspicious Capsule Drops by [cheater]
 Suspicious Capsule Drops Detected for [cheater]
 Suspicious drop spots repeat across [cheater]’s route  
 Suspicious dual-login behavior detected involving [cheater]  
+Suspicious GPS activity detected for [cheater].
+Suspicious GPS activity detected for [cheater]. [timestamp]
 Suspicious Inventory Movements by [cheater]
 Suspicious Inventory Redistribution by [cheater]
 Suspicious Inventory Transfers by [cheater]
@@ -972,6 +1024,8 @@ The Impact of Multi Accounts on Fair Play and Security
 Time gap too short for legit action switch — [cheater] suspected  
 Timing of mod deploys proves two hands on separate devices  
 Traded capsules recovered with matching IDs from [cheater]  
+Unaddressed spoofing by [cheater] continues to affect gameplay.
+Unaddressed spoofing by [cheater] continues to affect gameplay. [timestamp]
 Unauthorized Capsule Drops by [cheater]
 Unbroken gear pipeline links new players to [cheater]  
 Understanding the Psychology Behind Multi Account Creation
@@ -982,6 +1036,10 @@ Unfair multi-account resource gain
 Unfair play through multiple IDs
 Unlinked accounts throw blocker, drop key, disappear — enables [cheater]  
 Unnatural mod deployment speed from [cheater]'s linked IDs  
+Unnatural movement patterns by [cheater] raise concerns.
+Unnatural movement patterns by [cheater] raise concerns. [timestamp]
+Unrealistic travel speeds and distances by [cheater].
+Unrealistic travel speeds and distances by [cheater]. [timestamp]
 Unusual Account Activity Across [cheater]'s IDs
 Unusual Account Linking Activity with [cheater]
 Unusual Account Login Patterns
@@ -991,6 +1049,8 @@ Unusual deployment overlap found with [cheater]'s accounts
 Unusual mod pattern shows items transferred from [cheater]’s secondary accounts  
 Unusual Multi-Account Behavior from [cheater]
 Unusual Multi-Account Coordination Detected with [cheater]
+Urgent review needed for [cheater]'s spoofing activity.
+Urgent review needed for [cheater]'s spoofing activity. [timestamp]
 XM behavior of helper IDs match [cheater]’s sync pattern  
 XM drain surge on anchor matches [cheater]’s play radius  
 XM logs show identical latency patterns from [cheater]’s deployments  
