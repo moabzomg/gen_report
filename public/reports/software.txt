@@ -1,6 +1,3 @@
-There is strong evidence that Agent [cheater] is using third-party tools or unauthorized software to gain an unfair advantage. Portal actions are executed with abnormal speed and consistency beyond human capability.
-This compromises the integrity of the game. Please investigate the agent’s activity for potential violations.
-Reported by: Agent [codename]
 ---
 Agent [cheater] might be using third-party software. Their portal actions are too precise and too fast to be natural.
 Please review their logs.
@@ -8,21 +5,7 @@ Please review their logs.
 [link]
 – [codename]
 ---
-I’d like to report Agent [cheater] for repeated cheating via spoofing or other unauthorized methods. Their actions have disrupted multiple agent operations in our area, and this behavior has become a frequent issue.
-Please consider appropriate penalties to restore fair play.
-[timestamp]
-[link]
-Thank you,  
-Agent [codename]
----
 There are signs that [cheater] is using third-party tools or scripts. Their reaction time and movement patterns are unusually consistent and faster than humanly possible.
----
-Hi,
-I have reason to believe [cheater] is using automation tools. Their actions repeat in robotic patterns, like exact same times and distances.
-[timestamp]
-[link]
-Regards,  
-[codename]
 ---
 Hello Support,
 [cheater] displays behavior that seems scripted — very rapid links, and portal flips. The speed is beyond normal human input.
@@ -31,24 +14,10 @@ Hello Support,
 Thank you,  
 [codename]
 ---
-Dear team,
-I’m reporting [cheater] for using third-party software. Their inventory changes drastically overnight, and their fielding speed is highly suspect.
-[timestamp]
-[link]
-Respectfully,  
-[codename]
----
 Hi,
 [cheater] always captures portals and then follows with another agent deploying instantly. Seems like a clear multi-account behavior.
 [timestamp]
 [link]
-[codename]
----
-Dear team,
-The agent [cheater] was once inactive, now suddenly very active under a new alias. This could be an account trade.
-[timestamp]
-[link]
-Thanks,  
 [codename]
 ---
 Hi,
@@ -57,21 +26,8 @@ I’m seeing patterns suggesting [cheater] is managing more than one account to 
 [link]
 [codename]
 ---
-Hello,
-Please investigate [cheater]. The portal logs show deployment from three accounts within the same minute — repeatedly.
-[timestamp]
-[link]
-Regards,  
-[codename]
----
 Hi team,
 A local player, [cheater], is operating with accounts that follow each other. This hurts fair gameplay.
-[timestamp]
-[link]
-[codename]
----
-Hi Niantic,
-[cheater] exhibits behavior that is too fast and too regular. The capture and deploy actions are inhumanly precise.
 [timestamp]
 [link]
 [codename]
@@ -82,13 +38,6 @@ Portal actions by [cheater] happen every few seconds like a script. This raises 
 [link]
 [codename]
 ---
-Niantic team,
-There's a visible pattern from [cheater]'s activity — exact 5-minute interval deployments 24/7. This seems unnatural.
-[timestamp]
-[link]
-Regards,  
-[codename]
----
 To support,
 [cheater] is likely using third-party automation tools to interact with portals. The pace and timing are not human-like.
 [timestamp]
@@ -97,19 +46,7 @@ Thanks,
 [codename]
 ---
 Hi,
-There is strong suspicion that [cheater] uses scripts to automatically recharge portals. The system behavior is highly predictable.
-[timestamp]
-[link]
-[codename]
----
-Hi,
 [cheater]'s portal recharge timings are too perfect to be manual. This looks like external tool usage.
-[timestamp]
-[link]
-[codename]
----
-Hi support,
-A player named [cheater] deploys mods instantly across portals at a bot-like speed. Please investigate.
 [timestamp]
 [link]
 [codename]
@@ -121,23 +58,10 @@ I suspect [cheater] of using automation. Their activity logs are abnormally repe
 Thanks,  
 [codename]
 ---
-Hi there,
-The precise timing and execution from [cheater] suggest the use of an unauthorized third-party tool. This should be checked.
-[timestamp]
-[link]
-[codename]
----
 Dear Niantic team,
 [cheater]'s behavior mimics that of a scripted agent. The identical patterns in portal activity cannot be natural.
 [timestamp]
 [link]
-[codename]
----
-Hi,
-The way [cheater] plays looks mechanical. Same timing, same order, same path every time. Might be using a bot.
-[timestamp]
-[link]
-Regards,
 [codename]
 ---
 Dear Niantic,
@@ -147,24 +71,10 @@ Requesting investigation into [cheater]. Their portal interactions are too preci
 Best,
 [codename]
 ---
-Hey there,
-Noticed [cheater] linking, recharging, and deploying in an automated way. Suspicious of scripting tools or unauthorized apps.
-[timestamp]
-[link]
-Thanks,
-[codename]
----
 To Niantic support,
 [cheater] is active 24/7 with no variation in speed or pattern. Looks like a third-party tool is in use.
 [timestamp]
 [link]
-[codename]
----
-Hi,
-Just wanted to flag [cheater]. Their actions are always instant, with zero lag or delay. Doesn’t feel human.
-[timestamp]
-[link]
-Cheers,
 [codename]
 ---
 Hello team,
@@ -174,21 +84,8 @@ Hello team,
 Regards,
 [codename]
 ---
-Niantic,
-Possible that [cheater] is using automated tools to recharge or flip portals on schedule. Too perfect.
-[timestamp]
-[link]
-[codename]
----
 Hi,
 [cheater]'s behavior is eerily robotic. Maybe running scripts or tools that violate TOS.
-[timestamp]
-[link]
-Thanks,
-[codename]
----
-Hi Niantic,
-[cheater]’s portal interactions are too uniform and frequent. Suspected automation.
 [timestamp]
 [link]
 Thanks,
@@ -201,24 +98,11 @@ Hello,
 Regards,
 [codename]
 ---
-Hi,
-Request investigation on [cheater] for potential automation and scripting.
-[timestamp]
-[link]
-Cheers,
-[codename]
----
 Team,
 [cheater]'s gameplay timing is suspiciously exact, possible bot behavior.
 [timestamp]
 [link]
 Thank you,
-[codename]
----
-Dear Niantic,
-Unnatural intervals between [cheater]'s actions strongly suggest third-party tool use.
-[timestamp]
-[link]
 [codename]
 ---
 Hi,
@@ -229,25 +113,11 @@ Best regards,
 [codename]
 ---
 Hello,
-Evidence points to [cheater] using automation software to gain unfair advantages.
-[timestamp]
-[link]
-Thanks,
-[codename]
----
-Hello,
 [cheater]'s account shows signs of automated gameplay with repeated identical action intervals.
 [timestamp]
 [link]
 Please investigate.
 Thanks,
-[codename]
----
-Hi Niantic Team,
-We suspect [cheater] is using bots or scripts to automate game actions, violating policies.
-[timestamp]
-[link]
-Regards,
 [codename]
 ---
 Dear Support,
@@ -257,13 +127,6 @@ Dear Support,
 Best,
 [codename]
 ---
-Team,
-Repeated and uniform portal flips on [cheater]'s account suggest unauthorized automation tools.
-[timestamp]
-[link]
-Thank you,
-[codename]
----
 Hi,
 There are strong indications that [cheater] uses third-party software to gain unfair advantages.
 [timestamp]
@@ -271,26 +134,11 @@ There are strong indications that [cheater] uses third-party software to gain un
 Please review.
 [codename]
 ---
-Dear Niantic,
-[cheater]'s gameplay data matches patterns of script or bot usage.
-[timestamp]
-[link]
-Kindly take necessary measures.
-Best regards,
-[codename]
----
 Hello Team,
 Unnatural timing and repeated sequences from [cheater] imply automation.
 [timestamp]
 [link]
 Please take action.
-[codename]
----
-Hi,
-[cheater] is suspected of exploiting unauthorized software to manipulate game mechanics.
-[timestamp]
-[link]
-Thanks,
 [codename]
 ---
 Hello,
@@ -301,28 +149,12 @@ Please check.
 Thanks,
 [codename]
 ---
-Hi Niantic,
-Evidence suggests [cheater] is using third-party software to automate gameplay.
-[timestamp]
-[link]
-Please investigate.
-Best,
-[codename]
----
 Dear Support,
 Unnatural action timing and repetition on [cheater]'s account suggest automation tools.
 [timestamp]
 [link]
 Kindly act.
 Regards,
-[codename]
----
-Niantic Team,
-[cheater]'s account activity patterns resemble those generated by scripts or bots.
-[timestamp]
-[link]
-Please review.
-Thank you,
 [codename]
 ---
 Hi,
@@ -333,28 +165,12 @@ Please investigate.
 Best,
 [codename]
 ---
-Hello,
-Repeated identical behavior on [cheater]'s account is suspicious for automated play.
-[timestamp]
-[link]
-Recommend action.
-Regards,
-[codename]
----
 Dear Niantic,
 [cheater] shows evidence of using exploits or unauthorized software.
 [timestamp]
 [link]
 Please take necessary measures.
 Thanks,
-[codename]
----
-Hi Team,
-Signs of scripting and automation detected on [cheater]'s profile.
-[timestamp]
-[link]
-Please intervene.
-Best,
 [codename]
 ---
 Hi Niantic,
@@ -365,28 +181,12 @@ Please review and take action.
 Thanks,
 [codename]
 ---
-Hello Support,
-Repeated action loops and timing on [cheater]'s profile suggest use of scripts or bots.
-[timestamp]
-[link]
-Kindly investigate.
-Best regards,
-[codename]
----
 Dear Team,
 Indicators of unauthorized automation tools detected on [cheater]'s account.
 [timestamp]
 [link]
 Please look into this.
 Regards,
-[codename]
----
-Niantic,
-[cheater] shows gameplay speed and interaction patterns inconsistent with human behavior.
-[timestamp]
-[link]
-Please act accordingly.
-Thanks,
 [codename]
 ---
 Hi,
@@ -397,28 +197,12 @@ Please verify.
 Best,
 [codename]
 ---
-Hello,
-Consistent and unnatural timing patterns on [cheater]'s profile strongly imply automation.
-[timestamp]
-[link]
-Recommend action.
-Regards,
-[codename]
----
 Dear Niantic,
 [cheater] is suspected of using unauthorized third-party software to manipulate gameplay.
 [timestamp]
 [link]
 Please investigate.
 Thanks,
-[codename]
----
-Hi Team,
-[cheater]'s gameplay patterns are suspicious for bot or script use.
-[timestamp]
-[link]
-Please intervene.
-Best,
 [codename]
 ---
 Hello,
@@ -429,28 +213,12 @@ Please investigate.
 Thank you,
 [codename]
 ---
-Hi Niantic,
-We suspect [cheater] uses automated scripts to perform repetitive actions.
-[timestamp]
-[link]
-Please look into this.
-Best,
-[codename]
----
 Dear Support,
 Unnatural gameplay speed and patterns suggest automation on [cheater]'s account.
 [timestamp]
 [link]
 Kindly review.
 Regards,
-[codename]
----
-Niantic Team,
-[cheater]'s account logs reveal suspicious automation use.
-[timestamp]
-[link]
-Please take necessary measures.
-Thanks,
 [codename]
 ---
 Hi,
@@ -461,27 +229,12 @@ Please investigate.
 Best,
 [codename]
 ---
-Hello Niantic,
-Evidence points to software automation on [cheater]’s profile.
-[timestamp]
-[link]
-Please act.
-Regards,
-[codename]
----
 Dear Niantic,
 [cheater] shows signs of using third-party automation tools.
 [timestamp]
 [link]
 Please review and intervene.
 Thanks,
-[codename]
----
-Hi Team,
-Repeated action loops on [cheater]’s account strongly suggest bot use.
-[timestamp]
-[link]
-Please check.
 [codename]
 ---
 Hello Niantic Team,
@@ -492,28 +245,12 @@ Please investigate.
 Thanks,
 [codename]
 ---
-Hi Support,
-Suspicious automated behavior detected for [cheater].
-[timestamp]
-[link]
-Kindly verify.
-Best,
-[codename]
----
 Dear Niantic,
 Unnatural input patterns and repetitive actions found on [cheater]'s profile.
 [timestamp]
 [link]
 Please review.
 Regards,
-[codename]
----
-Niantic,
-[cheater] account activity suggests use of third-party automation tools.
-[timestamp]
-[link]
-Please act accordingly.
-Thanks,
 [codename]
 ---
 Hi,
@@ -524,26 +261,10 @@ Please investigate.
 Best,
 [codename]
 ---
-Hello,
-Repeated identical inputs and timing patterns suggest automation by [cheater].
-[timestamp]
-[link]
-Please check.
-Regards,
-[codename]
----
 Dear Team,
 [cheater] likely using unauthorized bots or macros to gain advantage.
 Please intervene.
 Thanks,
-[codename]
----
-Hi Niantic Support,
-Evidence points to automation on [cheater]'s account.
-[timestamp]
-[link]
-Please investigate and act.
-Best,
 [codename]
 ---
 Dear Niantic Enforcement Team,
@@ -556,16 +277,6 @@ Thank you for your attention.
 Best regards,
 [codename]
 ---
-Hello Niantic,
-The player [cheater] exhibits clear signs of gameplay automation. Detailed analysis of in-game activity reveals identical, repeated inputs at a speed and consistency beyond normal human capabilities.
-Such behavior violates the Terms of Service and undermines the community’s integrity.
-We urge a comprehensive review and enforcement action against [cheater].
-[timestamp]
-[link]
-Please let us know if you require additional logs or evidence.
-Sincerely,
-[codename]
----
 Hi Support Team,
 We report that [cheater] is very likely using bots or automated scripts based on observed gameplay patterns. The precision, repetition, and timing of actions are consistent with software-assisted play.
 This undermines the fairness of the game and must be addressed promptly.
@@ -575,16 +286,6 @@ Thank you for your attention to this matter.
 Regards,
 [codename]
 ---
-Dear Niantic Enforcement,
-Our analysis of [cheater]’s gameplay reveals highly repetitive, timed actions with robotic precision, consistent with automation via third-party software.
-This behavior severely disrupts game fairness and contravenes the terms of service.
-[timestamp]
-[link]
-We urge immediate review and enforcement action to prevent further misuse.
-Thank you for your cooperation.
-Best,
-[codename]
----
 Hello Niantic Support,
 The account identified as [cheater] exhibits clear signs of bot usage. Actions performed at precise intervals, with no variance typical of human players, suggest the employment of automated scripts.
 These activities provide an unfair competitive advantage.
@@ -592,15 +293,6 @@ These activities provide an unfair competitive advantage.
 [link]
 Please investigate accordingly.
 Regards,
-[codename]
----
-Hi Niantic,
-We have evidence that [cheater] is likely using bots to automate gameplay. The behavior includes repetitive actions at consistent intervals and flawless execution beyond human capabilities.
-This undermines the spirit of fair play.
-[timestamp]
-[link]
-Thank you for addressing this matter promptly.
-Best wishes,
 [codename]
 ---
 Dear Niantic Enforcement,
@@ -613,30 +305,12 @@ Thank you for your attention.
 Best,
 [codename]
 ---
-Hello Niantic Support,
-The account belonging to [cheater] exhibits non-human activity such as exact timing of actions and perfect execution sequences, suggesting the use of third-party automation tools.
-[timestamp]
-[link]
-This contravenes Niantic’s terms and impacts player fairness.
-Kindly investigate this matter.
-Regards,
-[codename]
----
 Hi Niantic Team,
 [cheater]’s account shows signs of automated software use. Behavior includes repetitive actions performed with machine-like precision over extended periods.
 [timestamp]
 [link]
 Please take necessary measures to ensure fair gameplay.
 Thanks.
-[codename]
----
-Dear Niantic Enforcement,
-[cheater]’s gameplay exhibits repetitive, mechanical patterns, including perfectly timed actions and responses inconsistent with human play. This strongly suggests the use of automation or bot software.
-[timestamp]
-[link]
-Such behavior disrupts fair competition and violates Niantic policies.
-Please investigate and act accordingly.
-Thank you,  
 [codename]
 ---
 Hello Niantic Support,
@@ -647,39 +321,17 @@ We request immediate review and enforcement.
 Regards,  
 [codename]
 ---
-Hi Niantic Team,
-Evidence suggests [cheater] is employing bots or scripts to perform in-game actions. The repetitive and non-human patterns detected undermine the game's integrity.
-[timestamp]
-[link]
-Thank you for your prompt attention.
-Best,  
-[codename]
----
 Rapid and repeated actions consistent with automation. [cheater] flagged at [timestamp]
-[link]
----
-Evidence suggests 3rd-party software in use. T
-[timestamp]
 [link]
 ---
 Botting pattern detected around [timestamp]. User: [cheater]
 [link]
 ---
-Timed script-like behavior captured at [timestamp]
-Suspect: [cheater]
-[link]
----
 Multiple identical responses detected. Likely script behavior by [cheater]. Evidence: [timestamp]
-[link]
----
-Unusually fast recharge and deploy sequence. Timeline: [timestamp]
 [link]
 ---
 [cheater] performed actions within sub-second intervals. Highly irregular
 [timestamp]
-[link]
----
-Detected software-assisted movement speed. [cheater], Time: [timestamp], 
 [link]
 ---
 Sequence logs show automated pattern. Suspected tool usage at [timestamp]
@@ -687,36 +339,9 @@ Sequence logs show automated pattern. Suspected tool usage at [timestamp]
 ---
 [timestamp]
 [link]
-actions performed faster than possible for manual input. likely a macro or script in use.
----
-[timestamp]
-[link]
 script detected during field creation. all links fired off in under 1.5 seconds.
 ---
-[timestamp]
-[link]
-intel timestamps don’t align with expected latency. tool-assisted gameplay likely.
----
 no variation in timing between deploys and recharges. clear automation.
-[timestamp]
-[link]
----
-suspected of using a bot. too accurate, too consistent, too fast.
-[timestamp]
-[link]
----
-Dear Niantic Support,
-I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-[timestamp]
-[link]
----
-Dear Niantic Support,
-I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-[timestamp]
-[link]
----
-Dear Niantic Support,
-I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
 [timestamp]
 [link]
 ---
@@ -730,52 +355,22 @@ The repeated high-frequency portal attacks by [cheater] on [timestamp] exceed hu
 [link]
 Suspected third party software use.
 ---
-Dear Niantic Support,
-I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-[timestamp]
-[link]
----
 Hello Niantic,
 The logs at [timestamp] and  show suspiciously fast interactions from [cheater].
 [timestamp]
 [link]
 Please verify possible automation.
 ---
-Dear Niantic Support,
-I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-[timestamp]
-[link]
----
 Hi,
 Portal activity by [cheater] between [timestamp] is too fast and uniform, indicating third party software.
 [link]
 Kindly investigate.
----
-Dear Niantic Support,
-I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-[timestamp]
-[link]
----
-Dear Niantic Support,
-I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-[timestamp]
-[link]
----
-Dear Niantic Support,
-I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-[timestamp]
-[link]
 ---
 Hi Team,
 [cheater]’s activity spikes at [timestamp] and  are consistent with scripts or bots.
 [timestamp]
 [link]
 Please take action.
----
-Dear Niantic Support,
-I am [codename], and I am submitting the following report regarding suspicious activity in Ingress.
-[timestamp]
-[link]
 ---
 Hi there,
 I'm seeing bot-like behavior from agent [cheater].
@@ -784,27 +379,12 @@ I'm seeing bot-like behavior from agent [cheater].
 The timing and actions feel too fast and regular, almost like a script.
 Please take a look.
 ---
-Niantic,
-Please check [cheater]’s activity. It's highly automated.
-[timestamp]
-[link]
-It's impossible to sustain such efficiency manually.
-Regards,
-[codename]
----
 [timestamp]
 [link]
 I’ve observed [cheater] using what looks like spoofing combined with automation tools.
 They can operate 24/7, nonstop.
 —
 [codename]
----
-Hi,
-The intel below shows [cheater] moving too consistently between portals.
-[timestamp]
-[link]
-This reeks of third-party software.
-Hope this helps.
 ---
 Hey team,
 We've had trouble with [cheater] showing up in multiple cities daily.
@@ -815,13 +395,6 @@ Please determine if this is automation or GPS manipulation.
 Regards,
 [codename]
 ---
-Niantic support,
-Agent [cheater] possibly uses GPS-faking apps. They often appear on top of multiple strategic portals.
-[timestamp]
-[link]
-Please investigate the legitimacy of their movements.
-Thanks.
----
 Hey team,  
 The actions from [cheater] are too precise—like instant recharges or link drops with no delays. This could be an automation tool.  
 [timestamp]
@@ -829,23 +402,11 @@ The actions from [cheater] are too precise—like instant recharges or link drop
 Consider checking their action timings.  
 [codename]
 ---
-Analysis of activity at [timestamp] indicates that [cheater] is likely using unauthorized third-party software to automate gameplay.
-
-[link]
----
 Logs from [timestamp] show unusual patterns consistent with botting software usage by [cheater], breaking game terms.
 
 [link]
 ---
-At [timestamp], suspicious automated actions were detected for [cheater], pointing towards third-party software exploitation.
-
-[link]
----
 Our monitoring at [timestamp] uncovered use of unauthorized programs by [cheater], affecting gameplay fairness.
-
-[link]
----
-Data from [timestamp] confirms that [cheater] is likely using prohibited third-party applications to gain advantages.
 
 [link]
 ---
@@ -854,10 +415,6 @@ Evidence at [timestamp] supports claims that [cheater] employs external software
 [link]
 
 ---
-The session logs at [timestamp] reveal that [cheater]'s actions are consistent with automation tools usage.
-
-[link]
----
 Unusual command execution timing starting at [timestamp] strongly suggests [cheater] uses third-party software.
 
 [link]
@@ -865,15 +422,7 @@ Unusual command execution timing starting at [timestamp] strongly suggests [chea
 Sincerely,  
 [codename]
 ---
-At [timestamp], monitoring revealed automated gameplay consistent with bot usage by [cheater], disrupting game balance.
-
-[link]
----
 Analysis at [timestamp] uncovered repeated scripted actions from [cheater]'s account, suggesting third-party software involvement.
-
-[link]
----
-The behavioral data logged at [timestamp] strongly indicates use of unauthorized software tools by [cheater].
 
 [link]
 ---
@@ -881,15 +430,7 @@ Unusual timing patterns from [cheater] detected at [timestamp] are consistent wi
 
 [link]
 ---
-The session recorded at [timestamp] highlights actions that cannot be replicated by manual play, implicating [cheater] in botting.
-
-[link]
----
 At [timestamp], logs show repeated identical sequences of commands from [cheater], indicating third-party automation.
-
-[link]
----
-Suspicious repeated behavior at [timestamp] demonstrates [cheater]'s use of prohibited software to gain unfair advantages.
 
 [link]
 ---
@@ -900,23 +441,7 @@ Strong evidence from [timestamp] supports the conclusion that [cheater] relies o
 Sincerely,  
 [codename]
 ---
-At [timestamp], monitoring revealed automated gameplay consistent with bot usage by [cheater], disrupting game balance.
-
-[link]
----
-Analysis at [timestamp] uncovered repeated scripted actions from [cheater]'s account, suggesting third-party software involvement.
-
-[link]
----
-The behavioral data logged at [timestamp] strongly indicates use of unauthorized software tools by [cheater].
-
-[link]
----
 Evidence collected at [timestamp] shows [cheater]'s account performing tasks at inhuman speeds, implying automation software use.
-
-[link]
----
-Unusual timing patterns from [cheater] detected at [timestamp] are consistent with third-party software assistance.
 
 [link]
 ---
@@ -927,31 +452,7 @@ Following a detailed review of incidents on [timestamp], it is clear that [cheat
 Kind regards,  
 [codename]
 ---
-At [timestamp], monitoring revealed automated gameplay consistent with bot usage by [cheater], disrupting game balance.
-
-[link]
----
-Analysis at [timestamp] uncovered repeated scripted actions from [cheater]'s account, suggesting third-party software involvement.
-
-[link]
----
-The behavioral data logged at [timestamp] strongly indicates use of unauthorized software tools by [cheater].
-
-[link]
----
-Evidence collected at [timestamp] shows [cheater]'s account performing tasks at inhuman speeds, implying automation software use.
-
-[link]
----
-Unusual timing patterns from [timestamp] are consistent with third-party software assistance by [cheater].
-
-[link]
----
 At [timestamp], automated behavior consistent with bot usage was recorded on [cheater]'s account.
-
-[link]
----
-Suspicious scripting activity detected at [timestamp] suggests [cheater] is using third-party software.
 
 [link]
 ---
@@ -959,15 +460,7 @@ Behavior at [timestamp] indicates use of unauthorized automation tools by [cheat
 
 [link]
 ---
-Analysis at [timestamp] shows unnatural gameplay speeds, typical of software assistance for [cheater].
-
-[link]
----
 Logs from [timestamp] reveal repetitive scripted actions from [cheater]'s account.
-
-[link]
----
-At [timestamp], abnormal interaction rates point to bot involvement by [cheater].
 
 [link]
 ---
@@ -975,15 +468,7 @@ Software automation patterns recorded at [timestamp] are linked to [cheater].
 
 [link]
 ---
-[cheater] exhibited software-aided gameplay during the session at [timestamp].
-
-[link]
----
 Evidence at [timestamp] confirms unauthorized third-party software use by [cheater].
-
-[link]
----
-Gameplay recorded at [timestamp] shows clear signs of bot-like activity from [cheater].
 
 [link]
 ---
@@ -991,15 +476,7 @@ Automated gameplay detected from [cheater]’s account at [timestamp].
 
 [link]
 ---
-At [timestamp], suspiciously rapid actions suggest [cheater] is using third-party software.
-
-[link]
----
 Logs from [timestamp] confirm [cheater] utilized unauthorized automation tools.
-
-[link]
----
-Unnatural interaction speeds recorded at [timestamp] point to software assistance for [cheater].
 
 [link]
 ---
@@ -1007,15 +484,7 @@ At [timestamp], scripted behavior consistent with bots was observed on [cheater]
 
 [link]
 ---
-[cheater] exhibited patterns of repetitive automated actions at [timestamp].
-
-[link]
----
 Evidence from [timestamp] reveals use of unapproved third-party programs by [cheater].
-
-[link]
----
-Software-generated input detected during [cheater]'s session at [timestamp].
 
 [link]
 ---
@@ -1023,15 +492,7 @@ Software-generated input detected during [cheater]'s session at [timestamp].
 
 [link]
 ---
-Automation-related anomalies linked to [cheater] were recorded at [timestamp].
-
-[link]
----
 At [timestamp], rapid-fire commands from [cheater]’s account are inconsistent with human play.
-
-[link]
----
-Use of cheating software by [cheater] was confirmed at [timestamp].
 
 [link]
 ---
@@ -1039,15 +500,7 @@ Gameplay logs at [timestamp] indicate scripted movement patterns for [cheater].
 
 [link]
 ---
-Unapproved software usage detected in [cheater]’s account activity at [timestamp].
-
-[link]
----
 At [timestamp], [cheater]'s actions matched known bot operation signatures.
-
-[link]
----
-Suspicious third-party tool usage by [cheater] was captured at [timestamp].
 
 [link]
 ---
@@ -1055,15 +508,7 @@ Suspicious third-party tool usage by [cheater] was captured at [timestamp].
 
 [link]
 ---
-Logs reveal bot-like behavior in [cheater]'s play at [timestamp].
-
-[link]
----
 At [timestamp], repetitive scripted events were logged from [cheater]’s account.
-
-[link]
----
-Third-party software-assisted gameplay was confirmed for [cheater] at [timestamp].
 
 [link]
 ---
@@ -1071,15 +516,7 @@ At [timestamp], gameplay data shows [cheater] performing perfectly timed actions
 
 [link]
 ---
-The interaction rate of [cheater] at [timestamp] is far beyond normal player capabilities, suggesting third-party software assistance to automate gameplay.
-
-[link]
----
 Monitoring at [timestamp] recorded rapid, repetitive actions from [cheater]'s account that align perfectly with bot-generated input sequences.
-
-[link]
----
-The logs from [timestamp] demonstrate [cheater] executing scripted moves and attacks without hesitation or error, a typical behavior when using unauthorized software.
 
 [link]
 ---
@@ -1087,15 +524,7 @@ Unusual gameplay mechanics exhibited by [cheater] at [timestamp], including flaw
 
 [link]
 ---
-[cheater] displayed non-human reaction times and mechanical precision during gameplay recorded at [timestamp], indicating bot usage.
-
-[link]
----
 At [timestamp], the input patterns from [cheater] match known signatures of automation tools designed to give unfair advantages.
-
-[link]
----
-Repeated identical sequences in portal attacks by [cheater] at [timestamp] reveal the presence of scripted commands rather than natural play.
 
 [link]
 ---
@@ -1103,25 +532,11 @@ Suspicious input intervals and flawless execution by [cheater] observed at [time
 
 [link]
 ---
-At [timestamp], [cheater] demonstrated non-human precision and reaction times, performing automated sequences that strongly suggest the use of botting software to automate gameplay tasks.
-
-[link]
-
-Kind regards,  
-[codename]
----
 During gameplay at [timestamp], [cheater] showed repetitive, flawless actions typical of automation tools, including consistent timing and pattern repetition.
 
 [link]
 
 Sincerely,  
-[codename]
----
-The input data at [timestamp] reveals inhuman timing and near-perfect accuracy in [cheater]'s gameplay, strongly indicating the use of unauthorized third-party software.
-
-[link]
-
-Kind regards,  
 [codename]
 ---
 [cheater]'s account activity at [timestamp] includes scripted behaviors, such as repeated identical commands and unnatural intervals between actions.
@@ -1131,25 +546,11 @@ Kind regards,
 Best regards,  
 [codename]
 ---
-At [timestamp], suspicious gameplay features from [cheater]—including ultra-fast rotations and flawless portal interactions—match known signatures of bot software.
-
-[link]
-
-Sincerely,  
-[codename]
----
 During gameplay on [timestamp], [cheater] showed unnatural reaction times and perfect repeatability in actions, which strongly suggest the use of macros or scripts.
 
 [link]
 
 Best regards,  
-[codename]
----
-At [timestamp], the inhuman speed and flawless execution of portal interactions by [cheater] match known botting behavior patterns.
-
-[link]
-
-Regards,  
 [codename]
 ---
 Evidence from [timestamp] shows repeated identical command sequences by [cheater], indicative of scripted automation controlling gameplay instead of manual input.
@@ -1159,25 +560,11 @@ Evidence from [timestamp] shows repeated identical command sequences by [cheater
 Kind regards,  
 [codename]
 ---
-The logs from [timestamp] indicate [cheater] uses third-party software to bypass human limitations in speed and accuracy during portal interactions.
-
-[link]
-
-Regards,  
-[codename]
----
 During [timestamp], automated sequences and flawless action timing reveal [cheater]'s reliance on unauthorized gameplay software.
 
 [link]
 
 Kind regards,  
-[codename]
----
-The data captured at [timestamp] confirms [cheater]'s use of automation tools that undermine game balance by enabling perfect, repeated actions.
-
-[link]
-
-Best regards,  
 [codename]
 ---
 At [timestamp], the user activity of [cheater] matches the signature of third-party software control: perfect repeatability and error-free execution over long sessions.
@@ -1189,15 +576,6 @@ Niantic's policies clearly prohibit such automation due to its disruptive effect
 Sincerely,  
 [codename]
 ---
-During [timestamp], detailed telemetry showed [cheater] operating portals with near-zero delay between actions, a hallmark of bot scripts designed to maximize efficiency.
-
-[link]
-
-This automated exploitation undermines player integrity and the spirit of the game.
-
-Kind regards,  
-[codename]
----
 Logs from [timestamp] detail that [cheater] employs third-party software to automate gameplay. The consistency, speed, and precision of portal interactions far exceed human capabilities, confirming unauthorized assistance.
 
 [link]
@@ -1205,15 +583,6 @@ Logs from [timestamp] detail that [cheater] employs third-party software to auto
 This undermines the challenge and integrity of the game and warrants decisive action.
 
 Kind regards,  
-[codename]
----
-Timestamp [timestamp] highlights suspicious activity by [cheater], whose gameplay shows consistent, rapid, and error-free portal interactions indicative of botting.
-
-[link]
-
-Such third-party software use disrupts game fairness and should be curtailed.
-
-Best,  
 [codename]
 ---
 Evidence from [timestamp] confirms [cheater] employs unauthorized software, automating portal actions with machine-like precision over extended durations.
@@ -1225,17 +594,6 @@ This undermines honest play and negatively impacts community trust.
 Regards,  
 [codename]
 ---
-Upon review of the logs from [timestamp], [cheater] displays gameplay characteristics typical of automated tools—perfect timing, precise actions, and relentless portal interactions without human error or delay.
-
-[link]
-
-Use of unauthorized software contravenes the game’s terms and damages the experience for legitimate players.
-
-Please investigate this matter promptly.
-
-Best regards,  
-[codename]
----
 The logs from [timestamp] exhibit repeated, rapid portal interactions from [cheater] consistent with scripted automation. Such behavior unfairly inflates scores and resource accumulation.
 
 [link]
@@ -1245,12 +603,6 @@ I urge Niantic to take swift action against this.
 Regards,  
 [codename]
 ---
-Niantic team,
-
-There’s highly suspicious behavior from [cheater] observed at [timestamp]. Over the course of a single day, they traveled more than 400 km, performed hundreds of actions, and had zero rest intervals. This suggests third-party automation tools are in use.
-
-[link]
----
 To whom it may concern,
 
 I wish to bring to your attention possible abuse involving third-party software. [cheater], on [timestamp], managed portal actions in five widely spaced towns — distances covered make no sense for legitimate travel.
@@ -1259,67 +611,31 @@ I wish to bring to your attention possible abuse involving third-party software.
 
 Kindly check travel logs, device fingerprints, and any unusual behavior from this player.
 ---
-At [timestamp], [cheater] linked dozens of portals in an exact scripted sequence, one every 2–3 seconds. This points to automation or a bot.  
-[link]
----
 During [timestamp], [cheater] dropped items, picked up gear, and recharged multiple distant portals—all while maintaining a 2-second input pattern.  
-[link]
----
-Bot behavior suspected at [timestamp]. [cheater] recharged a network of remote portals simultaneously with precise 3-second intervals.  
 [link]
 ---
 At [timestamp], [cheater] fired 100+ XMP bursts with 0.1–0.2s spacing, non-human speed. Strongly indicates use of macros or scripts.  
 [link]
 ---
-[cheater] linked and deployed in a loop over 20 portals in perfect geographical order at [timestamp], suggesting route automation software.  
-[link]
----
 At [timestamp], [cheater] performed synchronous recharge on 12 portals in different cities within milliseconds, impossible without a tool.  
-[link]
----
-This player exhibits non-human reaction speeds. At [timestamp], all 4 resonators were deployed in the same order at each portal in under 1.2 seconds.  
 [link]
 ---
 [cheater] recharged a dense portal cluster of over 50 portals in under 15 seconds, maintaining exact intervals between each recharge.  
 [link]  
 ---
-Portals were modded, linked, and deployed in a rapid repeating pattern for 20+ minutes without variation or pause.  
-[timestamp]
- [link]  
----
 Linking operations between distant portals were executed with high-speed precision, consistent timing, and no GPS drift—unusual for regular mobile use.  
 [link]  
----
-[cheater] used over 100 XMPs in quick succession with uniform intervals. The button press rhythm appears too consistent for manual interaction.  
-[timestamp]
- [link]  
 ---
 Actions such as deploy–mod–link were repeated exactly the same way dozens of times within short periods, suggesting macro-like behavior.  
 [link]  
 ---
-[cheater] maintained perfect recharge timing across hundreds of portals for an entire hour without signs of fatigue, movement, or variation.  
-[timestamp]
- [link]  
----
 During [timestamp], [cheater] performed dozens of actions per minute while also appearing to drive or move across a large area, which seems unlikely for safe manual play.  
-[link]  
----
-Portal modifications and linking behavior occurred at the exact same time every day, with no location variation—suggesting scheduled or automated input.  
-[timestamp] 
 [link]  
 ---
 [cheater] performed hundreds of consecutive actions without any system misclicks, delays, or fatigue indicators, which is uncommon in human play.  
 [link]  
 ---
-At [timestamp], [cheater] deployed and modded 40 portals in under 6 minutes, each with identical action timing and no walking delay between them.  
-[timestamp]  
-[link]  
----
 Dozens of attacks were made within milliseconds of each other with exact spacing, consistent with mechanical tapping tools rather than human interaction.  
-[timestamp]  
-[link]  
----
-[cheater] fired over 200 XMPs in 10 minutes without delay, each within a consistent 0.3-second rhythm. No device misfires or XM pauses were observed.  
 [timestamp]  
 [link]  
 ---
@@ -1327,15 +643,7 @@ The agent repeated the same pattern of deploy → mod → link across 50+ portal
 [timestamp]  
 [link]  
 ---
-At [timestamp], multiple link attempts were made from 10 different portals within a 2-minute window, all within perfect link distance.  
-[timestamp]  
-[link]  
----
 The player moved through an urban path executing attacks every 2 seconds with exact intervals over a 20-minute period—no signs of traffic or walking interruptions.  
-[timestamp]  
-[link]  
----
-A portal was attacked and captured in seconds, and several mods were installed with no menu lag. Timing logs show identical action intervals for each.  
 [timestamp]  
 [link]  
 ---
@@ -1343,22 +651,10 @@ On [timestamp], a sequence of portals was deployed in a straight line with zero 
 [timestamp]  
 [link]  
 ---
-The player performed 90+ actions per minute for over 20 minutes, showing no signs of fatigue, UI misclicks, or varied action delay.  
-[timestamp]  
-[link]  
----
 At [timestamp], [cheater] fired 100+ XMPs with zero cooldown and perfect spread timing across dozens of portals—humanly impossible input rate.  
 [link]  
 ---
-Recharge logs show sustained activity across 50 portals every 0.2s with no delay. The player was not present at the scanner and was reportedly asleep.  
-[timestamp]  
-[link]  
----
 Each portal deployed by [cheater] was modded with exact 1.00s intervals, without UI lag, scroll delay, or touch variation.  
-[timestamp]  
-[link]  
----
-All nearby links were dropped, then relinked in a looped pattern within seconds using perfect mod stacking and without apparent scanner response time.  
 [timestamp]  
 [link]  
 ---
@@ -1366,15 +662,7 @@ In a dense area, the player linked from 8 portals within 30 seconds, with identi
 [timestamp]  
 [link]  
 ---
-Timing logs reveal the agent used uniform tap intervals and mod placements, lacking any human hesitation or misfires across multiple ops.  
-[timestamp]  
-[link]  
----
 Every link created during a micro-fielding operation had a matching 1.8s link gap with no error over 25 minutes. This strongly implies bot scripting.  
-[timestamp]  
-[link]  
----
-A 3x8-layer field was deployed in under 4 minutes with rapid rotation through portal menus, link keys, and mod UI—all from a single device.  
 [timestamp]  
 [link]  
 ---
@@ -1382,22 +670,11 @@ A 3x8-layer field was deployed in under 4 minutes with rapid rotation through po
 [timestamp]  
 [link]  
 ---
-Player fired nearly 200 bursters in under 2 minutes, each perfectly spaced and triggered. No visible action was seen on the screen.  
-[timestamp]  
-[link]  
----
 Player used macros to mod portals in specific sequences with perfect speed, always placing rare shields and multihacks in the same order.  
 [timestamp]  
 [link]  
 ---
-At [timestamp], the agent linked portals in a rapid arc pattern with no physical repositioning. The key usage pattern was linear and flawless.  
-[link]  
----
 Links were dropped and rebuilt repeatedly in seconds using a repeated loop, suggesting link scripting or packet automation.  
-[timestamp]  
-[link]  
----
-In 90 minutes, [cheater] built an 8-layer starburst alone, with no drop in action speed. Gesture and pause patterns are machine-perfect.  
 [timestamp]  
 [link]  
 ---
@@ -1405,15 +682,7 @@ The player executed a 45-link star within 10 minutes, using keys from multiple c
 [timestamp]  
 [link]  
 ---
-Comm logs show portal interactions every 1.1 seconds for an hour straight—no breathing room or deviation, suggesting automation.  
-[timestamp]  
-[link]  
----
 A 200-link starburst was built within 8 minutes using perfect arc spacing and key sequencing—impossible without macros or scripts.  
-[timestamp]  
-[link]  
----
-The player fired 12 XMPs per second while maintaining perfect rotation, spacing, and timing. GPS drift was zero, and latency was absent.  
 [timestamp]  
 [link]  
 ---
@@ -1421,15 +690,7 @@ A portal was continuously modded in exactly 11-second intervals for 2 hours with
 [timestamp]  
 [link]  
 ---
-All bursters fired within a perfectly timed .750s interval across 120 actions. Review suggests this violates human reaction time limits.  
-[timestamp]  
-[link]  
----
 Attack pattern repeated across portals in a perfect clockwise rotation with zero variation—likely bot behavior triggered by GPS waypoint events.  
-[timestamp]  
-[link]  
----
-[Cheater] used a sequence that allowed link cycling faster than UI animation speeds. Key movement too fast to be manual.  
 [timestamp]  
 [link]  
 ---
@@ -1437,15 +698,7 @@ Multiple logins from same IP showed identical portal actions, with time differen
 [timestamp]  
 [link]  
 ---
-Agent deployed 15 links in 10 minutes with perfect geometric spacing, impossible to replicate manually with current UI constraints.  
-[timestamp]  
-[link]  
----
 Repeated mod placement at exact 10-second intervals for over 90 minutes indicates scripted automation.  
-[timestamp]  
-[link]  
----
-Player maintained flawless XMP timing with zero delay across multiple portals in a pattern that exceeds human reaction capabilities.  
 [timestamp]  
 [link]  
 ---
@@ -1453,15 +706,7 @@ Portal interactions consistently occur at intervals of exactly 5 seconds, with n
 [timestamp]  
 [link]  
 ---
-Agent completed complex multi-link fields faster than any known manual player, with zero mistakes or delays.  
-[timestamp]  
-[link]  
----
 Multiple portals were attacked and recaptured at perfectly even time intervals repeatedly, strongly suggesting use of a macro script.  
-[timestamp]  
-[link]  
----
-Logs show identical portal mod deployment sequences repeated multiple times with no deviation or error.  
 [timestamp]  
 [link]  
 ---
@@ -1469,15 +714,7 @@ The player maintained continuous shield deployment on 6 portals with perfect tim
 [timestamp]  
 [link]  
 ---
-Coordinates of portal interactions match a fixed grid pattern with no variation over several weeks.  
-[timestamp]  
-[link]  
----
 Agent’s portal interactions are recorded from multiple devices syncing in perfect unison, suggesting remote automation.  
-[timestamp]  
-[link]  
----
-The agent’s portal interaction logs show repetitive sequences with zero human error over several hours.  
 [timestamp]  
 [link]  
 ---
@@ -1485,15 +722,7 @@ On [timestamp], the suspect automated mod placement on multiple portals simultan
 [timestamp]  
 [link]  
 ---
-Portal attacks and recharges were performed with robotic precision, leaving no gap longer than 2 seconds.  
-[timestamp]  
-[link]  
----
 Several portals were captured and linked with millisecond timing patterns impossible for manual play.  
-[timestamp]  
-[link]  
----
-The agent maintained continuous activity across five portals with perfectly timed shield deployment every 60 seconds.  
 [timestamp]  
 [link]  
 ---
@@ -1501,15 +730,7 @@ Attack and recharge events logged at exact consistent intervals across multiple 
 [timestamp]  
 [link]  
 ---
-The player exhibited non-human timing patterns during a prolonged session of portal control, consistent with software assistance.  
-[timestamp]  
-[link]  
----
 Multiple portals attacked and recharged in perfect round-robin fashion without breaks or errors for several hours straight.  
-[timestamp]  
-[link]  
----
-Agent deployed mods on multiple portals exactly every 10 seconds for over 2 hours without breaks.  
 [timestamp]  
 [link]  
 ---
@@ -1517,15 +738,7 @@ Portal attacks and recharges occurred with machine-like precision and timing imp
 [timestamp]  
 [link]  
 ---
-Sequences of portal interactions repeated identically across several days, suggesting macro use.  
-[timestamp]  
-[link]  
----
 An agent’s actions showed perfect timing in shield deployments on multiple portals simultaneously.  
-[timestamp]  
-[link]  
----
-Logs reveal repeated mod placement patterns with no errors or delays over extended sessions.  
 [timestamp]  
 [link]  
 ---
@@ -1533,25 +746,11 @@ Agent performed flawless link creation sequences faster than any recorded manual
 [timestamp]  
 [link]   
 ---
-Continuous shield renewals on multiple portals at exact intervals indicate automation.  
-[timestamp]  
-[link]  
----
 Player’s interaction coordinates form an unnaturally perfect grid pattern over a wide area.  
 [timestamp]  
 [link]  
 ---
-We have gathered conclusive evidence indicating that [cheater] has been using unauthorized third-party software to automate various aspects of gameplay. This software allows for actions that no human player could realistically perform, such as perfect timing, rapid repeated commands, and simultaneous multi-tasking beyond normal capabilities.
-
-[timestamp]
-[link]
----
 Multiple logs show [cheater]'s actions perfectly synchronized with known bot signatures, demonstrating scripted behavior rather than genuine player input. The irregular, highly repetitive activity patterns strongly suggest the use of macro tools designed to manipulate game mechanics unfairly.
-
-[timestamp]
-[link]
----
-Our investigation found that [cheater] injected external code into their game client, altering gameplay variables including player speed and cooldown timers. These modifications provide a significant advantage by bypassing intended game restrictions.
 
 [timestamp]
 [link]
@@ -1561,17 +760,7 @@ In reviewing network traffic, it became evident that [cheater] used tools to int
 [timestamp]
 [link]
 ---
-Additional analysis confirms [cheater] uses unauthorized overlays and scripts to gain information and automate decisions, significantly disrupting fair competition among players.
-
-[timestamp]
-[link]
----
 The behavior logs show repetitive patterns of precise timing consistent with the use of external automation software, including macros and bots, which directly violates the game's terms of service.
-
-[timestamp]
-[link]
----
-Forensic data reveals that [cheater] utilizes software that automatically performs grinding activities over extended periods, which would be impossible to maintain manually.
 
 [timestamp]
 [link]
@@ -1579,21 +768,6 @@ Forensic data reveals that [cheater] utilizes software that automatically perfor
 Continuous monitoring shows [cheater] consistently performing actions at speeds and accuracy that defy human limits, supported by telemetry data confirming the use of automated gameplay tools.
 
 [timestamp]
-[link]
----
-Dear Niantic Support Team,
-
-I am writing to formally report suspicious activity associated with player [cheater]. Our analysis of gameplay data from [timestamp] clearly indicates the use of unauthorized third-party software to automate game functions. This software has enabled [cheater] to perform tasks with inhuman speed and precision, disrupting fair play.
-
-Please find the relevant logs and evidence here:  
-[link]
-
-Your urgent attention to this matter is appreciated.
-
-Best regards,  
-[codename]
-
-[timestamp]  
 [link]
 ---
 Hello Niantic Team,
@@ -1606,21 +780,6 @@ Supporting data can be reviewed at:
 Thank you for your prompt investigation.
 
 Sincerely,  
-[codename]
-
-[timestamp]  
-[link]
----
-To Whom It May Concern,
-
-Upon detailed review of gameplay activities at [timestamp], it has become evident that [cheater] is employing external software for automated play. The patterns recorded are inconsistent with natural human interaction and violate community standards.
-
-Evidence documentation available here:  
-[link]
-
-Looking forward to your swift response.
-
-Kind regards,  
 [codename]
 
 [timestamp]  
@@ -1641,21 +800,6 @@ Regards,
 [timestamp]  
 [link]
 ---
-Dear Niantic,
-
-I write to report confirmed cheating behavior by [cheater], with key incidents recorded on [timestamp]. The use of third-party automation tools severely undermines the fairness of gameplay.
-
-All related evidence is provided here:  
-[link]
-
-Thank you for your attention to this serious issue.
-
-Yours sincerely,  
-[codename]
-
-[timestamp]  
-[link]
----
 Hello,
 
 Our team has detected irregular gameplay associated with [cheater] at [timestamp]. The behavior corresponds with automated software usage, including repeated, precise command inputs.
@@ -1666,21 +810,6 @@ The evidence link is:
 We trust you will take the necessary actions.
 
 Best,  
-[codename]
-
-[timestamp]  
-[link]
----
-Niantic Support,
-
-Following a review on [timestamp], [cheater] is suspected of using illegal automation software. The gameplay data reflects machine-like precision and repetitive patterns impossible for legitimate play.
-
-See evidence here:  
-[link]
-
-Please investigate accordingly.
-
-Thanks,  
 [codename]
 
 [timestamp]  
@@ -1701,21 +830,6 @@ Sincerely,
 [timestamp]  
 [link]
 ---
-Dear Niantic Team,
-
-I wish to report player [cheater] for suspected use of automation software based on logs from [timestamp]. The data indicates bot-like behavior compromising game integrity.
-
-The evidence is linked below:  
-[link]
-
-Please address this issue with urgency.
-
-Best regards,  
-[codename]
-
-[timestamp]  
-[link]
----
 Niantic Enforcement Team,
 
 We have confirmed through analysis on [timestamp] that [cheater] uses macros and bots to automate gameplay, providing an unfair advantage.
@@ -1726,22 +840,6 @@ Relevant files and logs:
 Thank you for your dedication to fair play.
 
 Kind regards,  
-[codename]
-
-[timestamp]  
-[link]
----
-
-Hello Niantic,
-
-During a routine review of gameplay at [timestamp], it became clear that [cheater] is employing unauthorized automation tools. Their actions show superhuman reflexes and flawless timing that indicate third-party software interference.
-
-Please find evidence here:  
-[link]
-
-Looking forward to your review.
-
-Regards,  
 [codename]
 
 [timestamp]  
@@ -1762,21 +860,6 @@ Sincerely,
 [timestamp]  
 [link]
 ---
-Dear Niantic Team,
-
-On [timestamp], we observed [cheater] engaging in gameplay behavior that strongly suggests the use of third-party automation. This includes repeated, timed actions that no human could replicate.
-
-All relevant data is linked here:  
-[link]
-
-Thank you for taking action.
-
-Kind regards,  
-[codename]
-
-[timestamp]  
-[link]
----
 To Niantic Enforcement,
 
 After thorough analysis of [timestamp] gameplay, [cheater] has been identified using software that automates gameplay to gain unfair advantage. The pattern of behavior violates game rules and undermines the experience.
@@ -1787,21 +870,6 @@ Supporting documents attached:
 Please investigate at your earliest convenience.
 
 Best,  
-[codename]
-
-[timestamp]  
-[link]
----
-Dear Niantic,
-
-I am reporting player [cheater] for the use of automation software discovered during sessions on [timestamp]. This software enables unfair gameplay advantages that disrupt the community.
-
-You can review the logs and evidence here:  
-[link]
-
-Thank you for your swift response.
-
-Regards,  
 [codename]
 
 [timestamp]  
@@ -1822,21 +890,6 @@ Best regards,
 [timestamp]  
 [link]
 ---
-Niantic Support Team,
-
-Following investigation on [timestamp], we have found [cheater] to be using unauthorized automation software. Their gameplay is consistent with bot behavior, showing non-human timing and flawless actions.
-
-Please examine the evidence:  
-[link]
-
-Appreciate your efforts.
-
-Sincerely,  
-[codename]
-
-[timestamp]  
-[link]
----
 Dear Niantic,
 
 On [timestamp], data collected indicates that [cheater] is running software that automates gameplay actions, violating terms of service and creating unfair conditions.
@@ -1847,21 +900,6 @@ Evidence is available here:
 Thank you for addressing this.
 
 Kind regards,  
-[codename]
-
-[timestamp]  
-[link]
----
-Niantic Enforcement,
-
-We have reason to believe that [cheater] uses third-party automation software as confirmed on [timestamp]. The gameplay logs demonstrate machine-like precision that disrupts fair play.
-
-Supporting documentation here:  
-[link]
-
-Thank you.
-
-Best,  
 [codename]
 
 [timestamp]  
@@ -1880,15 +918,6 @@ Regards,
 [timestamp]  
 [link]
 ---
-Greetings Niantic,
-
-I am reporting [cheater] for persistent GPS spoofing. Their location data on [timestamp] shows abrupt shifts incompatible with real movement.
-
-[link]
-
-Thanks,  
-[codename]
----
 Dear Niantic Team,
 
 [cheater] appears to exploit location spoofing apps, as their activity on [timestamp] covers impossible distances in unreal time frames.
@@ -1897,15 +926,6 @@ Dear Niantic Team,
 
 Please investigate.  
 Best regards,  
-[codename]
----
-Hi Niantic Support,
-
-Please investigate [cheater]. On [timestamp], their position alternated between far-apart points instantly, suggesting GPS spoofing.
-
-[link]
-
-Thank you,  
 [codename]
 ---
 Niantic,
@@ -1917,15 +937,6 @@ Niantic,
 Kind regards,  
 [codename]
 ---
-Dear Niantic,
-
-Suspicious movement patterns from [cheater] on [timestamp] strongly imply GPS spoofing or the use of unauthorized location tools.
-
-[link]
-
-Thank you,  
-[codename]
----
 Hello,
 
 I am submitting a report for [cheater] who uses GPS spoofing to appear at multiple distant locations rapidly on [timestamp].
@@ -1933,16 +944,6 @@ I am submitting a report for [cheater] who uses GPS spoofing to appear at multip
 [link]
 
 Regards,  
-[codename]
----
-Hi Team,
-
-GPS logs of [cheater] reveal unnatural jumps between locations that cannot be physically traveled within the given times.
-
-[link]
-
-Please take action.  
-Best,  
 [codename]
 ---
 Niantic Support,
@@ -1954,15 +955,6 @@ Niantic Support,
 Thank you,  
 [codename]
 ---
-Dear Niantic,
-
-On [timestamp], [cheater] exhibited suspicious GPS activity, with sudden, unrealistic changes in location consistent with spoofing.
-
-[link]
-
-Kind regards,  
-[codename]
----
 Hello Niantic,
 
 I report [cheater] for using third-party GPS spoofing apps. Their in-game positions on [timestamp] are highly inconsistent with real-world movement.
@@ -1970,16 +962,6 @@ I report [cheater] for using third-party GPS spoofing apps. Their in-game positi
 [link]
 
 Thank you,  
-[codename]
----
-To Niantic Team,
-
-There is clear evidence that [cheater] is manipulating their GPS data to appear in multiple locations within impossibly short timeframes as shown on [timestamp]. This undermines game integrity.
-
-Supporting info:  
-[link]
-
-Regards,  
 [codename]
 ---
 Dear Niantic,
@@ -1992,16 +974,6 @@ Evidence here:
 Thank you,  
 [codename]
 ---
-Hello Niantic Support,
-
-Please review the attached logs for [cheater]. On [timestamp], their location shifted erratically in a way that strongly suggests spoofing.
-
-See attachment:  
-[link]
-
-Best,  
-[codename]
----
 Niantic,
 
 I am submitting a report against [cheater] whose GPS trace on [timestamp] reveals sudden teleports, indicating use of unauthorized location spoofing tools.
@@ -2010,16 +982,6 @@ Proof:
 [link]
 
 Regards,  
-[codename]
----
-Hi Niantic,
-
-[cheater]’s in-game positions recorded on [timestamp] clearly defy real-world movement speeds, indicating probable GPS spoofing.
-
-Details attached:  
-[link]
-
-Thanks,  
 [codename]
 ---
 Dear Niantic Team,
@@ -2032,16 +994,6 @@ See the evidence below:
 Kind regards,  
 [codename]
 ---
-To Niantic Support,
-
-On [timestamp], [cheater] exhibited sudden and impossible location changes that strongly suggest GPS spoofing.
-
-Evidence provided:  
-[link]
-
-Thank you,  
-[codename]
----
 Niantic,
 
 The account [cheater] has been showing impossible movement speeds and location jumps on [timestamp], likely using third-party GPS spoofing apps.
@@ -2050,15 +1002,6 @@ Documentation:
 [link]
 
 Regards,  
-[codename]
----
-Dear Niantic,
-
-Attached is the location data for [cheater] on [timestamp]. The unnatural rapid movement indicates location spoofing.
-
-[link]
-
-Best wishes,  
 [codename]
 ---
 Hello Niantic,
@@ -2071,15 +1014,6 @@ Evidence attached:
 Sincerely,  
 [codename]
 ---
-Hello Niantic Team,
-
-I’m reporting [cheater] who has shown suspiciously erratic GPS data on [timestamp]. The movements indicate the use of a third-party location spoofing tool.
-
-[link]
-
-Thanks,  
-[codename]
----
 Dear Niantic,
 
 On [timestamp], [cheater] demonstrated movement patterns incompatible with normal gameplay, strongly suggesting GPS spoofing.
@@ -2087,15 +1021,6 @@ On [timestamp], [cheater] demonstrated movement patterns incompatible with norma
 [link]
 
 Regards,  
-[codename]
----
-Niantic Support,
-
-Please investigate [cheater]. The location records on [timestamp] reflect impossible travel speeds, a hallmark of GPS spoofing.
-
-[link]
-
-Best,  
 [codename]
 ---
 To Niantic,
@@ -2107,15 +1032,6 @@ The data for [cheater] on [timestamp] shows sudden teleports and location jumps 
 Thank you,  
 [codename]
 ---
-Hello,
-
-I noticed [cheater] using GPS spoofing on [timestamp]. The location changes are unnatural and outside reasonable player behavior.
-
-[link]
-
-Regards,  
-[codename]
----
 Niantic Team,
 
 [cheater]’s position on [timestamp] moves erratically over large distances in seconds, pointing to use of a GPS spoofing application.
@@ -2125,15 +1041,6 @@ Niantic Team,
 Sincerely,  
 [codename]
 ---
-Dear Niantic,
-
-The recorded location data for [cheater] on [timestamp] shows patterns consistent with GPS spoofing software.
-
-[link]
-
-Thanks,  
-[codename]
----
 Niantic,
 
 There is clear evidence that [cheater] manipulated their location data on [timestamp]. The abrupt jumps confirm GPS spoofing.
@@ -2141,15 +1048,6 @@ There is clear evidence that [cheater] manipulated their location data on [times
 [link]
 
 Best,  
-[codename]
----
-Hello Niantic Support,
-
-I am submitting evidence of GPS spoofing by [cheater] based on their location on [timestamp].
-
-[link]
-
-Regards,  
 [codename]
 ---
 Dear Niantic Team,

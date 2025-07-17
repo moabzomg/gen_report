@@ -1,317 +1,158 @@
-[timestamp]  
-[cheater] was observed dropping capsules containing high-level gear to multiple agents without any associated gameplay. Behavior consistent with commercial item delivery.  
-[link]  
----  
+---
 [timestamp]  
 Reports indicate [cheater] exchanged inventory for external payment via messaging platforms. Witnesses confirmed off-game compensation was involved.  
 [link]  
----  
-[timestamp]  
-A sudden influx of rare items into a local group aligns with a suspected transaction involving [cheater]. No corresponding portal activity logged.  
-[link]  
----  
+---
 [timestamp]  
 Three agents met [cheater] at a neutral portal, collected gear, and dispersed without any other in-game action. Suspected coordinated drop-off for sale.  
 [link]  
----  
-[timestamp]  
-Screenshots from group chat show [cheater] advertising L8 gear packages in exchange for cryptocurrency.  
-[link]  
----  
+---
 [timestamp]  
 Unusual travel pattern by [cheater] matches reports of scheduled gear handovers. Drop confirmed by three agents at pickup site.  
 [link]  
----  
-[timestamp]  
-Inventory logs show [cheater] consistently drops gear at specific times and locations. Recipients are often new or unrelated agents.  
-[link]  
----  
+---
 [timestamp]  
 Agent offered in-game gear in return for app store gift cards. Exchange was coordinated with [cheater] and completed via remote drop.  
 [link]  
----  
-[timestamp]  
-Cluster of identical capsules found dropped by [cheater]. Each contained a curated set of rare items. Witnesses claim the exchange was pre-arranged.  
-[link]  
----  
+---
 [timestamp]  
 [cheater] appears to be a gear supplier. Multiple accounts rely on them for L7–L8 gear despite no hacking or farming by recipients.  
 [link]  
----  
-[timestamp]  
-Private Telegram group linked to [cheater] involves trading resonators and mods for monetary compensation. Item pickup confirmed in-game.  
-[link]  
----  
+---
 [timestamp]  
 No portals captured, yet [cheater] dropped three capsules containing valuable gear. Agent at location admitted paying for the drop.  
 [link]  
----  
-[timestamp]  
-Known seller [cheater] dropped items to cross-faction agents outside any operation. Timing and content match prior transactions.  
-[link]  
----  
+---
 [timestamp]  
 Unusual concentration of ADA and Jarvis drops by [cheater] at low-activity locations. Likely staging for commercial gear distribution.  
 [link]  
----  
-[timestamp]  
-[cheater] involved in real-world item trade. Shared links show portal locations as designated pickup points for buyers.  
-[link]  
----  
+---
 [timestamp]  
 Evidence of multiple drop deliveries by [cheater] followed by financial messages from buyers in a side channel.  
 [link]  
----  
-[timestamp]  
-Capsule ID tracking shows [cheater] delivering packages to accounts with no portal interaction, suggesting sale-based activity.  
-[link]  
----  
+---
 [timestamp]  
 [cheater] delivers gear in remote areas where only a few trusted agents meet. Pattern repeats weekly.  
 [link]  
----  
-[timestamp]  
-Several new agents gained access to high-level mods immediately after meeting [cheater] at portal [redacted]. Sale suspected.  
-[link]  
----  
+---
 [timestamp]  
 [cheater] consistently appears as the origin of rare mod circulation in our region. Their inventory logs imply gear is moved commercially.  
 [link]  
----  
-[timestamp]  
-Covert drops arranged via encrypted chat. [cheater] was the confirmed supplier. Payment confirmed via third-party screenshot.  
-[link]  
----  
+---
 [timestamp]  
 [cheater] dropped a cluster of capsules at a scheduled time. Buyers arrived within minutes without further gameplay.  
 [link]  
----  
-[timestamp]  
-Pattern of gear distribution by [cheater] indicates organized supply chain, not organic gameplay. Drops documented over 3 months.  
-[link]  
----  
+---
 [timestamp]  
 [cheater] reportedly receives payment before meeting at remote portals to distribute rare gear.  
 [link]  
----  
-[timestamp]  
-Capsule recovered contained exact quantities of gear listed in earlier chat with [cheater]. Transaction confirmed by recipient.  
-[link]  
----  
+---
 [timestamp]  
 Multiple agents use [cheater] as their sole gear provider. Neither party engages in fielding or normal play.  
 [link]  
----  
-[timestamp]  
-Capsule found with suspicious gear combo (ADA, SBUL, VRLA). Matching description of a “prepaid pack” offered by [cheater] days prior.  
-[link]  
----  
+---
 [timestamp]  
 Reports from three cities show consistent pattern: [cheater] arrives, drops items, leaves. Gear claimed by different agents shortly after.  
 [link]  
----  
-[timestamp]  
-New player received full loadout of L7+ gear from [cheater] minutes after account creation. No other support agents visible.  
-[link]  
----  
+---
 [timestamp]  
 Rare item resale tied to [cheater] seen in Discord logs. Dropoff location coordinates matched in-game behavior.  
 [link]  
----  
-[timestamp]  
-Independent confirmations link [cheater] to scheduled gear drops in exchange for cash. No corresponding gameplay evident.  
-[link]  
----  
+---
 [timestamp]  
 [cheater] performs weekly “supply run” at non-strategic portals. Drops gear used by a different group entirely.  
 [link]  
----  
-[timestamp]  
-Message logs provided where [cheater] offered XM gear bundles and delivered capsules at marked portals.  
-[link]  
----  
+---
 [timestamp]  
 Anonymous agent reported gear-for-money trade with [cheater]. Provided timestamp and video of portal drop.  
 [link]  
----  
-[timestamp]  
-Weekly gear shipments allegedly delivered by [cheater] to buyers who do not play actively.  
-[link]  
----  
+---
 [timestamp]  
 Drop was arranged in chat, verified by screenshots. [cheater] delivered gear as agreed and received mobile payment.  
 [link]  
----  
-[timestamp]  
-[cheater] conducted back-to-back drops at different towns without doing any hacks or captures. Suspected bulk gear supplier.  
-[link]  
----  
+---
 [timestamp]  
 Recipient confirmed that [cheater] offers “gear packs” with mod, SBULs, and ADA/Jarvis via pre-order message.  
 [link]  
----  
-[timestamp]  
-Large drop contained gear sets labeled “premium,” matching [cheater]’s previous catalog. Collected by unknown agents.  
-[link]  
----  
+---
 [timestamp]  
 At least four accounts depend entirely on [cheater] for farming. Transactions occur off-app.  
 [link]  
 ---
 [timestamp]  
-[cheater] was seen coordinating with multiple agents to distribute L8 gear in exchange for cryptocurrency payments. Drops occurred without any in-game portal interaction.  
-[link]  
----  
-[timestamp]  
 An unusual number of shield and mod drops appeared at a secluded portal after [cheater] logged in briefly. Buyers arrived shortly after to collect items.  
 [link]  
----  
-[timestamp]  
-Captured chat logs reveal [cheater] advertising rare mods and capsules for direct payment via third-party apps. Verified in-game capsule drops confirmed.  
-[link]  
----  
+---
 [timestamp]  
 [cheater] frequently appears at low-traffic locations to drop large quantities of gear. These drop zones coincide with known buyer meeting points.  
 [link]  
----  
-[timestamp]  
-Reports suggest [cheater] operates a gear reselling operation, supplying new agents with starter packs for real money. Purchases confirmed outside the game.  
-[link]  
----  
+---
 [timestamp]  
 Three accounts linked to [cheater] show no hacking activity but receive regular gear drops from a central account, indicating an item laundering scheme.  
 [link]  
----  
-[timestamp]  
-Private screenshots show [cheater] negotiating gear prices in a messaging group, with deliveries scheduled to specific portal coordinates.  
-[link]  
----  
+---
 [timestamp]  
 [cheater] dropped multiple capsules containing high-value mods near a busy portal. No capturing or farming observed during the time window.  
 [link]  
----  
-[timestamp]  
-Repeated drops from [cheater] at non-strategic portals suggest item sales rather than tactical gameplay. Buyers arrive with minimal interaction.  
-[link]  
----  
+---
 [timestamp]  
 Evidence of [cheater] coordinating with buyers to deliver items in-game immediately after receiving payment proofs from external platforms.  
 [link]  
----  
-[timestamp]  
-Patterns show [cheater] supplying gear to inactive or low-activity accounts, which then use the gear with no logged farming or fielding activity.  
-[link]  
----  
+---
 [timestamp]  
 [cheater] discussed bulk item selling and pricing strategies in private chat. Drop locations align with in-game capsule deliveries recorded by agents.  
 [link]  
----  
-[timestamp]  
-Multiple reports of L8 resonators and rare mods dropped at a secluded location with no faction activity. Agents who collect admitted paying for the items.  
-[link]  
----  
+---
 [timestamp]  
 [cheater] was observed exchanging gear with an agent known for minimal playtime, reinforcing suspicion of commercial item transfer.  
 [link]  
----  
-[timestamp]  
-Recurring gear drops by [cheater] timed with payment confirmations received via encrypted messaging channels. All drops occur in neutral zones.  
-[link]  
----  
+---
 [timestamp]  
 An agent with no active fielding received high-level mods immediately after meeting [cheater] at a designated drop portal. Transaction details confirmed off-app.  
 [link]  
----  
-[timestamp]  
-[cheater] distributes gear to multiple accounts, often shortly before their participation in community events, despite no visible contribution.  
-[link]  
----  
+---
 [timestamp]  
 A known item trader, [cheater] has a pattern of dropping high-value capsules during scheduled meetings, facilitating real-world item sales.  
 [link]  
----  
-[timestamp]  
-Suspicious drop involving a large number of ADA and Jarvis viruses from [cheater], with no linked portal interaction before or after the event.  
-[link]  
----  
+---
 [timestamp]  
 Analysis of agent logs shows that [cheater]’s gear deliveries consistently precede new accounts upgrading to high levels of gameplay gear suddenly.  
 [link]  
----  
-[timestamp]  
-Agents attending a meetup with [cheater] reported that gear was exchanged for payment via mobile apps. No legitimate gameplay activities took place.  
-[link]  
----  
+---
 [timestamp]  
 Repeated drop patterns from [cheater] at low-visibility portals align with buyer arrival times, consistent with item selling rather than normal farming.  
 [link]  
----  
-[timestamp]  
-[cheater] was caught coordinating multi-account gear distribution via private chat, confirming the involvement in commercial gear sales.  
-[link]  
----  
+---
 [timestamp]  
 A capsule drop by [cheater] included an unusually large quantity of rare shields, beyond what regular gameplay would produce, likely part of a sale.  
 [link]  
----  
-[timestamp]  
-Detailed message logs from third-party chat groups show [cheater] arranging gear sales and delivery logistics with multiple buyers.  
-[link]  
----  
+---
 [timestamp]  
 [cheater]’s account activity is restricted to gear dropoffs and inventory replenishments, with no portal interaction or field hacking recorded.  
 [link]  
----  
-[timestamp]  
-High-level gear drops at neutral portals by [cheater] correlate with known buyers collecting packages immediately afterwards.  
-[link]  
----  
+---
 [timestamp]  
 [cheater]’s sudden influx of hypercubes and rare mods in inventory matches suspicious off-game transactions reported by witnesses.  
 [link]  
----  
-[timestamp]  
-An agent, believed to be a reseller, regularly meets with [cheater] to collect items but does not engage in gameplay. Confirmed item selling activity.  
-[link]  
----  
+---
 [timestamp]  
 Gear drop coordination among agents involving [cheater] suggests an organized black market for items outside game rules.  
 [link]  
----  
-[timestamp]  
-Logs and screenshots confirm [cheater] has sold gear through multiple intermediary accounts to avoid detection, with delivery verified in-game.  
-[link]  
----  
+---
 [timestamp]  
 [cheater]’s regular gear drops coincide with confirmed payments from agents outside normal gameplay, confirming real-money transactions.  
 [link]  
----  
-[timestamp]  
-[cheater] is a known facilitator for selling and distributing rare mods and capsules to agents who have minimal game interaction.  
-[link]  
----  
+---
 [timestamp]  
 Cluster of agents relying on [cheater] for all high-level gear despite no observable gameplay supporting item acquisition.  
 [link]  
----  
-[timestamp]  
-In-game drop logs and off-game chat logs together reveal that [cheater] trades gear for payment via third-party services.  
-[link]  
----  
+---
 [timestamp]  
 [cheater] continues to supply gear to agents with low activity, reinforcing evidence of commercial gear distribution networks.  
 [link]  
----  
-[timestamp]  
-An arranged drop by [cheater] was attended by buyers who left immediately after collecting capsules, with no gameplay interaction recorded.  
-[link]  
----  
+---
 [timestamp]  
 Repeated deliveries by [cheater] at strategic, yet low-traffic portals suggest a planned item trading operation rather than gameplay.  
-[link]  
----  
-[timestamp]  
-[cheater] offers package deals of rare mods and gear in private chats, with in-game drop deliveries recorded at buyer locations.  
 [link]  
 ---
 I noticed [cheater] frequently drops capsules filled with high-level gear near busy portals. Agents arrive quickly to pick up items without any portal interaction. This appears to be organized item selling. Timestamp: [timestamp]  
@@ -319,19 +160,9 @@ I noticed [cheater] frequently drops capsules filled with high-level gear near b
 Best regards,  
 [codename]
 ---
-There is strong evidence that [cheater] coordinates gear sales through private chats. Capsules containing rare mods are dropped immediately after payment confirmations. This happened multiple times around [timestamp].  
-[link]  
-Thanks,  
-[codename]
----
 Around [timestamp], [cheater] advertised Level 8 gear for sale on private messaging platforms. Drops matched the advertised times and locations. Recipients show minimal gameplay activity.  
 [link]  
 Regards,  
-[codename]
----
-During patrols near remote portals, I observed [cheater] dropping capsules with valuable items. The collectors admitted to buying gear outside the game. No hacking or portal captures were logged. Timestamp: [timestamp]  
-[link]  
-Kind regards,  
 [codename]
 ---
 Evidence collected on [timestamp] indicates [cheater] runs a real-money item selling operation. Chat logs, payment screenshots, and matching capsule drops were found. Buyers rarely play actively.  
@@ -339,19 +170,9 @@ Evidence collected on [timestamp] indicates [cheater] runs a real-money item sel
 Cheers,  
 [codename]
 ---
-Multiple clusters of rare gear capsules dropped by [cheater] at quiet locations were collected shortly after by paying users. No hacking or normal gameplay was observed. Timestamp: [timestamp]  
-[link]  
-Best,  
-[codename]
----
 [cheater] is suspected of operating a black market for in-game gear. Drops of high-level mods correspond with payment confirmations found in chats. Timestamp: [timestamp]  
 [link]  
 Thank you for your attention,  
-[codename]
----
-[cheater] dropped multiple capsules loaded with rare items in sequence at various portals. Recipients appear to be purchasing gear rather than farming it. This breaches fair play guidelines. Timestamp: [timestamp]  
-[link]  
-Regards,  
 [codename]
 ---
 Repeated capsule drops by [cheater] at different portals, collected immediately by inactive players, suggest off-game transactions. This behavior has been consistent over time. Timestamp: [timestamp]  
@@ -359,19 +180,9 @@ Repeated capsule drops by [cheater] at different portals, collected immediately 
 Sincerely,  
 [codename]
 ---
-The data shows [cheater] drops clusters of rare gear capsules. Buyers exhibit no legitimate gameplay patterns. This strongly indicates real money trading of in-game items. Timestamp: [timestamp]  
-[link]  
-Thank you,  
-[codename]
----
 There’s a clear pattern of [cheater] leaving high-value capsules at various portals. These are snapped up within minutes by accounts with no regular activity, indicating item trading off-game. Observed at [timestamp].  
 [link]  
 Regards,  
-[codename]
----
-[cheater] regularly distributes capsules packed with rare mods to inactive accounts shortly after receiving payment confirmations via external messaging apps. This occurred repeatedly on [timestamp].  
-[link]  
-Best regards,  
 [codename]
 ---
 On [timestamp], [cheater] dropped multiple capsules loaded with L8 resonators and rare shields at secluded portals. The collectors didn’t interact with the portals, suggesting gear selling instead of gameplay.  
@@ -379,19 +190,9 @@ On [timestamp], [cheater] dropped multiple capsules loaded with L8 resonators an
 Thank you,  
 [codename]
 ---
-Evidence from [timestamp] shows [cheater] facilitating real money transactions by dropping capsules with valuable items in precise locations. Buyers appeared to be inactive players collecting without playing.  
-[link]  
-Sincerely,  
-[codename]
----
 Timestamp [timestamp] logs [cheater] dropping multiple rare capsule bundles at specified portals. The pattern aligns with chat records mentioning payment and gear trading outside the game.  
 [link]  
 Regards,  
-[codename]
----
-During the period around [timestamp], [cheater] was observed distributing capsules filled with rare mods and power cubes to other agents who do not seem to engage in normal play.  
-[link]  
-Kind regards,  
 [codename]
 ---
 There are strong indications that [cheater] runs an illicit item trading scheme, with capsules dropped after off-game transactions confirmed on chat platforms. Noted on [timestamp].  
@@ -399,19 +200,9 @@ There are strong indications that [cheater] runs an illicit item trading scheme,
 Thank you,  
 [codename]
 ---
-[cheater] dropped several capsules containing rare items at multiple portals on [timestamp]. These were quickly collected by players whose profiles show minimal portal activity.  
-[link]  
-Best,  
-[codename]
----
 On [timestamp], [cheater] was seen transferring capsules loaded with high-end gear to accounts that appear to be buyers, not active players. This behavior disrupts fair play principles.  
 [link]  
 Thanks,  
-[codename]
----
-The pattern of repeated gear capsule drops by [cheater] observed on [timestamp] indicates involvement in real money trading. The recipients’ lack of in-game activity supports this claim.  
-[link]  
-Sincerely,  
 [codename]
 ---
 Following my recent observations on [timestamp], [cheater] has been systematically distributing rare capsules at quiet portals, often followed by immediate collection from low-activity accounts. This indicates item selling.  
@@ -419,19 +210,9 @@ Following my recent observations on [timestamp], [cheater] has been systematical
 Respectfully,  
 [codename]
 ---
-The logs from [timestamp] reveal [cheater] dropping multiple high-level gear capsules across several portals, with collectors showing no significant gameplay involvement. This strongly suggests off-game trading.  
-[link]  
-Kind regards,  
-[codename]
----
 [cheater] engaged in suspicious behavior around [timestamp], dropping gear capsules loaded with rare mods at secluded locations. The recipients appear to be buyers rather than genuine players.  
 [link]  
 Thank you for your attention,  
-[codename]
----
-During [timestamp], I tracked [cheater] leaving clusters of capsules filled with valuable items in remote portal areas. The timing of collection aligns with payment confirmations outside the game.  
-[link]  
-Regards,  
 [codename]
 ---
 Evidence collected at [timestamp] shows [cheater] coordinating item drops with external payment messages. The inactive profiles collecting the gear further support illicit trading activity.  
@@ -439,19 +220,9 @@ Evidence collected at [timestamp] shows [cheater] coordinating item drops with e
 Sincerely,  
 [codename]
 ---
-Capsule drops by [cheater] on [timestamp] correspond precisely to payment timestamps shared on third-party platforms, indicating real money gear selling. The collectors have little portal interaction otherwise.  
-[link]  
-Best regards,  
-[codename]
----
 Multiple instances on [timestamp] confirm [cheater] supplying rare capsules directly to non-active accounts. This pattern is consistent with unauthorized gear trading.  
 [link]  
 Thanks,  
-[codename]
----
-Timestamp [timestamp] records show [cheater] dropping numerous high-value capsules while coordinating collection with buyers outside the game. This severely impacts fair competition.  
-[link]  
-Kind regards,  
 [codename]
 ---
 Observed on [timestamp], [cheater] transferred capsules containing valuable mods in quick succession to accounts suspected of purchasing items illicitly. These accounts show negligible gameplay.  
@@ -459,39 +230,19 @@ Observed on [timestamp], [cheater] transferred capsules containing valuable mods
 Thank you,  
 [codename]
 ---
-[cheater] consistently dropped multiple gear capsules at strategic portals on [timestamp]. The collecting agents’ profiles suggest they are buyers, not active players, indicating a violation of game policy.  
-[link]  
-Regards,  
-[codename]
----
 [cheater] was observed dropping capsules containing multiple rare mods at several portals on [timestamp]. The items were immediately collected by accounts with no prior portal activity, suggesting unauthorized item distribution.  
-[link]
----
-On [timestamp], [cheater] left multiple capsules loaded with rare gear at hidden portal clusters. These capsules were quickly picked up by inactive accounts. This behavior indicates possible item trading or selling off-game.  
 [link]
 ---
 There is evidence from [timestamp] showing [cheater] dropping valuable gear capsules at various locations. The recipients are accounts with minimal playtime, implying that these are buyers in a trading scheme.  
 [link]
 ---
-During [timestamp], [cheater] coordinated capsule drops of high-level mods in isolated portals. The capsules were collected swiftly by accounts unlikely to have earned them through legitimate gameplay.  
-[link]
----
 Logs from [timestamp] show [cheater] repeatedly depositing rare capsules at different portals. The quick pickup by inactive accounts strongly suggests involvement in unauthorized item selling.  
-[link]
----
-[cheater] deposited multiple capsules containing rare items at various portal locations on [timestamp]. The collectors’ low activity levels indicate these items are being sold or traded outside the game environment.  
 [link]
 ---
 At [timestamp], [cheater] dropped capsules packed with rare mods and resonators. These were immediately collected by inactive accounts, indicating possible gear distribution for real-world value.  
 [link]
 ---
-Evidence from [timestamp] shows a pattern where [cheater] leaves valuable gear capsules at remote portals. The collection by accounts with no gameplay history suggests illicit item trading.  
-[link]
----
 [cheater] has been depositing rare capsules at multiple portals on [timestamp]. These capsules are picked up rapidly by accounts suspected of purchasing gear externally.  
-[link]
----
-The activity recorded on [timestamp] shows [cheater] dropping capsules with valuable mods for collection by non-active accounts. This strongly implies off-game item selling.  
 [link]
 ---
 Subject: Suspicious Capsule Drops Indicating Item Selling  
@@ -500,22 +251,10 @@ On [timestamp], [cheater] was detected dropping numerous capsules packed with ra
 Regards,  
 [codename]  
 ---
-Hello team,  
-The logs from [timestamp] reveal [cheater] leaving capsules filled with valuable gear mods at various remote portals. The collectors are mostly dormant accounts, strongly indicating possible unauthorized item selling or trading.  
-[link]  
-Best,  
-[codename]  
----
 Alert: Unauthorized Gear Distribution Detected  
 On [timestamp], [cheater] deposited multiple capsules containing high-level mods at portals scattered across the area. These capsules were immediately collected by accounts with very low activity, consistent with illicit gear sales.  
 [link]  
 Thanks,  
-[codename]  
----
-Dear colleagues,  
-Analysis of the activity on [timestamp] shows that [cheater] has been distributing rare gear capsules, which are collected promptly by inactive players. This pattern is highly suggestive of real-world item selling.  
-[link]  
-Regards,  
 [codename]  
 ---
 Subject: Possible Off-Game Item Trading by [cheater]  
@@ -524,21 +263,10 @@ Subject: Possible Off-Game Item Trading by [cheater]
 Kind regards,  
 [codename]  
 ---
-Team,  
-On [timestamp], capsule drops by [cheater] containing valuable gear were quickly collected by dormant accounts. This activity strongly points toward unauthorized item selling or trading outside the game environment.  
-[link]  
-[codename]  
----
 Hi all,  
 We observed on [timestamp] that [cheater] left numerous capsules packed with rare mods at isolated portals. Inactive accounts collected these immediately, indicating possible item selling. Further monitoring recommended.  
 [link]  
 Best regards,  
-[codename]  
----
-To whom it may concern,  
-The logs for [timestamp] indicate [cheater] is engaging in suspicious capsule drops with rare items, collected by accounts showing minimal playtime. This matches known patterns of off-game item distribution.  
-[link]  
-Sincerely,  
 [codename]  
 ---
 Greetings,  
@@ -547,16 +275,7 @@ On [timestamp], [cheater] coordinated multiple capsule drops containing high-val
 Regards,  
 [codename]  
 ---
-Attention,  
-[cheater] was seen dropping rare capsules at various portals on [timestamp]. These were picked up rapidly by accounts with low gameplay engagement, consistent with off-game item selling.  
-[link]  
-[codename]  
----
 [cheater] dropped multiple capsules with rare mods on [timestamp]. The quick collection by inactive accounts is consistent with item selling. Please review the attached evidence.  
-[link]  
-[codename]  
----
-On [timestamp], suspicious drops by [cheater] included capsules loaded with rare gear, collected almost immediately by dormant players. This points to illicit trading activity.  
 [link]  
 [codename]  
 ---
@@ -565,27 +284,13 @@ Subject: Capsule Drops Suggesting Item Selling
 [link]  
 [codename]  
 ---
-Hello,  
-Evidence from [timestamp] shows [cheater] distributing rare mods through capsule drops, collected by inactive accounts. This behavior aligns with real-world item selling.  
-[link]  
-Thanks,  
-[codename]  
----
 Dear team,  
 On [timestamp], [cheater] was observed dropping capsules filled with rare gear mods at various portals. The quick collection by inactive accounts supports suspicion of off-game item sales.  
 [link]  
 Regards,  
 [codename]  
 ---
-[cheater] dropped rare gear capsules on [timestamp]. These were collected swiftly by accounts with minimal portal activity, indicating unauthorized item trading.  
-[link]  
-[codename]  
----
 At [timestamp], [cheater] coordinated multiple capsule drops of high-level mods. Collection by dormant players is suspicious and consistent with illicit item selling.  
-[link]  
-[codename]  
----
-Reports indicate [cheater] left capsules with valuable gear at several portals on [timestamp]. Inactive collectors suggest real-world item trading.  
 [link]  
 [codename]  
 ---
@@ -595,27 +300,12 @@ On [timestamp], [cheater] was seen dropping rare capsules at remote portals, imm
 Best,  
 [codename]  
 ---
-[cheater]'s activity on [timestamp] includes dropping capsules loaded with rare mods. Collection by low-activity accounts strongly suggests off-game gear distribution.  
-[link]  
-[codename]  
----
 Alert: Item Selling Behavior Detected  
 On [timestamp], [cheater] left multiple capsules containing rare mods. These were collected by dormant accounts, indicating unauthorized gear trading.  
 [link]  
 [codename]  
 ---
-Dear colleagues,  
-The pattern of capsule drops by [cheater] on [timestamp], followed by immediate collection by inactive players, is consistent with item selling or trading outside the game.  
-[link]  
-Regards,  
-[codename]  
----
 On [timestamp], [cheater] deposited numerous capsules containing high-value gear at isolated portals. These were quickly collected by dormant accounts, suggesting illicit item selling.  
-[link]  
-[codename]  
----
-Team,  
-Suspicious capsule drops by [cheater] on [timestamp] involved rare mods collected by low-activity accounts. This strongly indicates off-game trading activity.  
 [link]  
 [codename]  
 ---
@@ -625,15 +315,7 @@ On [timestamp], [cheater] distributed capsules packed with rare gear mods at sev
 Best regards,  
 [codename]  
 ---
-[cheater] was recorded dropping valuable gear capsules on [timestamp]. These were immediately picked up by dormant accounts, consistent with illicit item trading.  
-[link]  
-[codename]  
----
 At [timestamp], [cheater] left multiple rare mod capsules at hidden portals. Collection by inactive accounts indicates unauthorized item selling.  
-[link]  
-[codename]  
----
-Reports from [timestamp] show [cheater] distributing rare capsules, which were gathered quickly by dormant accounts suspected of being buyers.  
 [link]  
 [codename]  
 ---
@@ -641,37 +323,16 @@ On [timestamp], [cheater] coordinated capsule drops containing rare gear mods. T
 [link]  
 [codename]  
 ---
-Dear team,  
-[cheater] left multiple capsules filled with rare mods at various portals on [timestamp]. The quick pickup by inactive accounts indicates possible illicit trading.  
-[link]  
-Regards,  
-[codename]  
----
 Subject: Off-Game Item Selling by [cheater]  
 Logs from [timestamp] confirm [cheater]'s pattern of dropping rare gear capsules collected by dormant accounts, consistent with unauthorized item selling.  
 [link]  
-[codename]  
----
-Hello,  
-On [timestamp], [cheater] distributed capsules loaded with rare mods at isolated portals. Collection by low-activity accounts suggests off-game trading.  
-[link]  
-Thanks,  
 [codename]  
 ---
 [cheater] was observed leaving multiple capsules with rare mods at portals on [timestamp]. These were promptly collected by accounts suspected of item buying.  
 [link]  
 [codename]  
 ---
-Team,  
-The logs from [timestamp] indicate [cheater] dropping capsules filled with high-level gear, collected by dormant accounts, consistent with item selling.  
-[link]  
-[codename]  
----
 On [timestamp], [cheater] left capsules containing valuable mods at several portals. The rapid collection by inactive accounts points to illicit item trading.  
-[link]  
-[codename]  
----
-[cheater] dropped multiple capsules with rare mods on [timestamp], which were quickly collected by low-activity accounts, indicating real-world item selling.  
 [link]  
 [codename]  
 ---
@@ -681,17 +342,7 @@ During [timestamp], [cheater] distributed rare gear capsules collected immediate
 Regards,  
 [codename]  
 ---
-Hello all,  
-On [timestamp], capsule drops by [cheater] were collected swiftly by dormant accounts, consistent with unauthorized gear selling.  
-[link]  
-Best,  
-[codename]  
----
 Reports from [timestamp] show [cheater] repeatedly dropping rare capsules at various portals. Collection by low-activity accounts indicates illicit item selling.  
-[link]  
-[codename]  
----
-At [timestamp], [cheater] dropped capsules containing rare mods, which were quickly gathered by inactive players, suggesting unauthorized trading.  
 [link]  
 [codename]  
 ---
@@ -701,32 +352,16 @@ Dear colleagues,
 Regards,  
 [codename]  
 ---
-[cheater] distributed capsules with high-value mods on [timestamp]. These were collected by inactive accounts, suggesting real-world item trading.  
-[link]  
-[codename]  
----
 Team,  
 Suspicious capsule drops by [cheater] on [timestamp] were followed by rapid collection from low-activity accounts, consistent with off-game gear selling.  
 [link]  
 [codename]  
----
-Greetings,  
-On [timestamp], [cheater] dropped capsules filled with rare gear mods at multiple portals. Collection by dormant accounts
 ---
 It has come to my attention that on [timestamp], [cheater] was observed leaving multiple capsules containing high-level mods at obscure portals. These capsules were promptly collected by accounts with minimal activity, strongly suggesting coordinated item trading.
 
 [link]
 
 Please review the activity logs for verification.
-
-[codename]
-
----
-During the period around [timestamp], [cheater] engaged in suspicious behavior by dropping capsules packed with rare mods. The immediate collection by low-usage accounts strongly indicates illicit item selling practices.
-
-[link]
-
-Your attention to this matter is appreciated.
 
 [codename]
 
@@ -740,29 +375,11 @@ Thank you for investigating this.
 [codename]
 
 ---
-Analysis of events on [timestamp] reveals that [cheater] dropped multiple capsules containing rare gear mods. These were almost instantaneously gathered by inactive or rarely used accounts, which aligns with known item selling patterns.
-
-[link]
-
-Best regards,
-
-[codename]
-
----
 On [timestamp], a suspicious sequence of capsule drops by [cheater] was detected. Capsules held rare mods and were quickly picked up by accounts exhibiting minimal activity, indicative of possible unauthorized item trading.
 
 [link]
 
 Please take necessary action.
-
-[codename]
-
----
-The logs from [timestamp] show that [cheater] placed several capsules filled with high-value mods. These were immediately collected by dormant accounts, which is typical behavior of item selling operations.
-
-[link]
-
-Thank you for your attention.
 
 [codename]
 
@@ -776,15 +393,6 @@ Please look into this issue.
 [codename]
 
 ---
-On [timestamp], [cheater] left capsules loaded with rare mods at isolated locations. These capsules were rapidly gathered by inactive accounts, supporting suspicions of illicit item selling.
-
-[link]
-
-Regards,
-
-[codename]
-
----
 I would like to bring to your notice that on [timestamp], [cheater] was involved in suspicious capsule drops containing valuable mods. These capsules were collected almost immediately by accounts with very low activity.
 
 [link]
@@ -793,14 +401,6 @@ Please investigate.
 
 [codename]
 
----
-According to activity recorded on [timestamp], [cheater] was dropping capsules filled with rare mods which were quickly picked up by inactive or dormant players, a behavior consistent with unauthorized item selling.
-
-[link]
-
-Thank you.
-
-[codename]
 ---
 Dear Niantic Support,
 
@@ -811,18 +411,6 @@ On [timestamp], I observed [cheater] systematically dropping capsules containing
 I trust this information will aid your investigation.
 
 Sincerely,  
-[codename]
-
----
-Hello Team,
-
-I would like to report suspicious behavior by [cheater] detected on [timestamp]. Multiple capsules loaded with rare mods were left scattered at different portals. These were picked up almost immediately by inactive accounts, which is indicative of possible item selling or account sharing.
-
-[link]
-
-Thanks for looking into this.
-
-Best regards,  
 [codename]
 
 ---
@@ -838,17 +426,6 @@ Regards,
 [codename]
 
 ---
-Greetings,
-
-I am reporting potential item selling by [cheater] recorded on [timestamp]. Capsules filled with valuable mods were placed strategically, with near-instant collection by accounts with minimal activity history, suggesting illicit behavior.
-
-[link]
-
-Thank you for your attention.
-
-[codename]
-
----
 Dear Niantic,
 
 At [timestamp], [cheater] was seen distributing capsules packed with high-value mods. The pattern of quick collection by accounts showing little engagement supports suspicion of item trading beyond game rules.
@@ -856,17 +433,6 @@ At [timestamp], [cheater] was seen distributing capsules packed with high-value 
 [link]
 
 Kindly investigate this matter.
-
-[codename]
-
----
-Hello,
-
-Evidence from [timestamp] indicates [cheater] engaged in questionable item trading. Capsules containing rare mods were dropped and quickly picked up by low-use accounts, implying coordination possibly violating terms of service.
-
-[link]
-
-Looking forward to your response.
 
 [codename]
 
@@ -883,18 +449,6 @@ Thanks,
 [codename]
 
 ---
-Dear Support Team,
-
-I noticed suspicious behavior on [timestamp] where [cheater] dropped multiple capsules filled with rare mods. These capsules were promptly retrieved by low-activity accounts, pointing towards possible off-game item selling.
-
-[link]
-
-Your investigation is appreciated.
-
-Best,  
-[codename]
-
----
 Hello Niantic,
 
 On [timestamp], I witnessed [cheater] leaving several capsules packed with valuable mods. The immediate pickup by inactive or little-used accounts strongly indicates unauthorized item trading.
@@ -906,26 +460,9 @@ Thank you for addressing this.
 [codename]
 
 ---
-Team Niantic,
-
-I wish to report suspicious item trading activities by [cheater] on [timestamp]. Capsules containing rare mods were placed and almost instantly collected by accounts showing little game engagement, consistent with selling or sharing accounts.
-
-[link]
-
-Please take necessary action.
-
-Regards,  
-[codename]
----
 On [timestamp], [cheater] was seen dropping multiple capsules with rare mods. These were promptly collected by inactive accounts.  
 [link]  
 Regards,  
-[codename]
-
----
-I observed suspicious capsule drops by [cheater] at [timestamp]. Capsules filled with valuable mods were collected almost immediately by low-use accounts.  
-[link]  
-Thanks,  
 [codename]
 
 ---
@@ -935,20 +472,8 @@ Please investigate,
 [codename]
 
 ---
-[cheater] distributed capsules containing rare mods on [timestamp]. These were gathered by accounts with minimal activity, strongly suggesting illicit item trading.  
-[link]  
-Best,  
-[codename]
-
----
 During [timestamp], [cheater] was repeatedly dropping mod capsules at obscure portals. The immediate pickup by low-activity players points to suspicious activity.  
 [link]  
-[codename]
-
----
-I report that [cheater] placed capsules with rare mods on [timestamp]. These were quickly collected by inactive accounts, indicating item selling.  
-[link]  
-Thank you,  
 [codename]
 
 ---
@@ -958,21 +483,9 @@ Regards,
 [codename]
 
 ---
-At [timestamp], [cheater] was seen dropping capsules packed with valuable mods. The pattern suggests coordinated item selling.  
-[link]  
-Thanks for your attention,  
-[codename]
-
----
 On [timestamp], [cheater] left several capsules filled with rare mods that were picked up immediately by dormant accounts.  
 [link]  
 Please review,  
-[codename]
-
----
-I noticed [cheater] dropping multiple mod capsules on [timestamp]. These were collected swiftly by accounts with minimal game activity.  
-[link]  
-Best regards,  
 [codename]
 
 ---
@@ -982,20 +495,9 @@ Kindly investigate,
 [codename]
 
 ---
-I am reporting [cheater] who was dropping capsules with valuable mods on [timestamp]. These capsules were collected rapidly by inactive accounts.  
-[link]  
-Thank you,  
-[codename]
-
----
 Suspicious activity by [cheater] was observed at [timestamp]. Capsules filled with rare mods were left and promptly collected by dormant accounts.  
 [link]  
 Regards,  
-[codename]
-
----
-[cheater] was seen distributing capsules of rare mods on [timestamp]. Quick pickups by low-activity accounts suggest illicit item selling.  
-[link]  
 [codename]
 
 ---
@@ -1005,21 +507,9 @@ Please review this,
 [codename]
 
 ---
-I observed suspicious mod capsule drops by [cheater] on [timestamp], collected quickly by accounts with minimal gameplay.  
-[link]  
-Thanks,  
-[codename]
-
----
 On [timestamp], [cheater] left several capsules with rare mods that were promptly gathered by dormant accounts.  
 [link]  
 Best regards,  
-[codename]
-
----
-I am bringing to your attention suspicious capsule drops by [cheater] on [timestamp]. These were quickly collected by low-activity players.  
-[link]  
-Thank you for investigating,  
 [codename]
 
 ---
@@ -1029,20 +519,9 @@ Regards,
 [codename]
 
 ---
-Evidence from [timestamp] points to [cheater] dropping mod capsules picked up immediately by dormant accounts, indicative of item trading.  
-[link]  
-[codename]
-
----
 On [timestamp], [cheater] was leaving capsules with rare mods at multiple portals, quickly collected by inactive accounts.  
 [link]  
 Please take action,  
-[codename]
-
----
-[cheater] engaged in suspicious capsule drops on [timestamp], distributing valuable mods collected almost instantly by dormant players.  
-[link]  
-Best,  
 [codename]
 
 ---
@@ -1052,20 +531,8 @@ Thank you,
 [codename]
 
 ---
-At [timestamp], [cheater] dropped capsules loaded with rare mods, which were immediately collected by inactive accounts.  
-[link]  
-Kind regards,  
-[codename]
-
----
 On [timestamp], multiple capsules containing valuable mods were dropped by [cheater] and gathered swiftly by dormant accounts.  
 [link]  
-[codename]
-
----
-I observed [cheater] distributing mod capsules on [timestamp]. The quick collection by low-activity accounts suggests item selling.  
-[link]  
-Regards,  
 [codename]
 
 ---
@@ -1075,20 +542,9 @@ Thank you,
 [codename]
 
 ---
-On [timestamp], [cheater] left capsules with rare mods at portals. These were almost immediately collected by low-use accounts, indicating illicit activity.  
-[link]  
-Best regards,  
-[codename]
-
----
 I report that on [timestamp], [cheater] dropped several capsules containing valuable mods, picked up quickly by dormant accounts.  
 [link]  
 Please investigate,  
-[codename]
-
----
-At [timestamp], [cheater] was seen placing capsules filled with rare mods, which were swiftly gathered by inactive players.  
-[link]  
 [codename]
 
 ---
@@ -1098,21 +554,9 @@ Thanks,
 [codename]
 
 ---
-I am reporting [cheater] for dropping mod capsules at multiple portals on [timestamp]. The capsules were immediately collected by low-activity accounts.  
-[link]  
-Kind regards,  
-[codename]
-
----
 On [timestamp], [cheater] was distributing rare mod capsules, promptly gathered by dormant players, consistent with item selling.  
 [link]  
 Regards,  
-[codename]
-
----
-Suspicious capsule drops were noticed on [timestamp] by [cheater], with rare mods quickly collected by inactive accounts.  
-[link]  
-Thank you,  
 [codename]
 
 ---
@@ -1122,21 +566,9 @@ Please look into this,
 [codename]
 
 ---
-At [timestamp], [cheater] engaged in suspicious item drops involving rare mods, quickly gathered by inactive players.  
-[link]  
-Best,  
-[codename]
-
----
 On [timestamp], multiple mod capsules were dropped by [cheater] and promptly collected by low-use accounts, indicating possible item trading.  
 [link]  
 Regards,  
-[codename]
-
----
-I report suspicious capsule drops by [cheater] on [timestamp]. Capsules with valuable mods were quickly picked up by dormant accounts.  
-[link]  
-Thanks,  
 [codename]
 
 ---
@@ -1146,21 +578,9 @@ Please investigate,
 [codename]
 
 ---
-On [timestamp], [cheater] was observed dropping capsules containing high-value mods, collected swiftly by low-activity accounts.  
-[link]  
-Best regards,  
-[codename]
-
----
 Suspicious mod capsule drops by [cheater] were recorded on [timestamp]. Capsules were quickly gathered by dormant accounts.  
 [link]  
 Thank you,  
-[codename]
-
----
-At [timestamp], [cheater] distributed capsules packed with rare mods, which were almost immediately picked up by inactive players.  
-[link]  
-Kind regards,  
 [codename]
 
 ---
@@ -1170,21 +590,9 @@ Regards,
 [codename]
 
 ---
-I observed suspicious capsule drops by [cheater] on [timestamp]. The capsules were collected quickly by inactive accounts.  
-[link]  
-Thanks,  
-[codename]
-
----
 At [timestamp], [cheater] was dropping mod capsules that were promptly gathered by dormant accounts, consistent with item selling behavior.  
 [link]  
 Please investigate,  
-[codename]
-
----
-On [timestamp], [cheater] distributed several capsules filled with rare mods, rapidly collected by low-activity accounts.  
-[link]  
-Best,  
 [codename]
 
 ---
@@ -1194,21 +602,9 @@ Thank you,
 [codename]
 
 ---
-Suspicious activity by [cheater] was noted on [timestamp] involving dropping capsules with rare mods, collected immediately by dormant accounts.  
-[link]  
-Regards,  
-[codename]
-
----
 At [timestamp], [cheater] left mod capsules that were swiftly collected by inactive accounts, indicating illicit item trading.  
 [link]  
 Thanks,  
-[codename]
-
----
-On [timestamp], [cheater] was seen dropping capsules loaded with rare mods, gathered quickly by low-use players.  
-[link]  
-Please take action,  
 [codename]
 
 ---
@@ -1218,21 +614,9 @@ Best regards,
 [codename]
 
 ---
-On [timestamp], [cheater] distributed multiple capsules containing valuable mods, which were picked up almost immediately by inactive players.  
-[link]  
-Thank you,  
-[codename]
-
----
 Suspicious capsule drops by [cheater] were recorded at [timestamp]. The capsules were gathered quickly by low-activity accounts.  
 [link]  
 Regards,  
-[codename]
-
----
-At [timestamp], [cheater] engaged in suspicious item drops involving mod capsules, rapidly collected by dormant accounts.  
-[link]  
-Best,  
 [codename]
 
 ---
@@ -1242,21 +626,9 @@ Thank you,
 [codename]
 
 ---
-I report suspicious capsule drops by [cheater] on [timestamp]. Capsules were swiftly collected by inactive players.  
-[link]  
-Please investigate,  
-[codename]
-
----
 At [timestamp], [cheater] distributed mod capsules that were quickly gathered by dormant accounts, consistent with item selling.  
 [link]  
 Regards,  
-[codename]
-
----
-On [timestamp], [cheater] dropped several capsules containing rare mods, collected promptly by low-activity accounts.  
-[link]  
-Thanks,  
 [codename]
 
 ---
@@ -1266,21 +638,9 @@ Best regards,
 [codename]
 
 ---
-At [timestamp], [cheater] was seen leaving capsules filled with valuable mods, rapidly collected by dormant accounts.  
-[link]  
-Thank you,  
-[codename]
-
----
 On [timestamp], [cheater] distributed multiple mod capsules quickly picked up by low-use accounts, indicating possible item trading.  
 [link]  
 Regards,  
-[codename]
-
----
-I observed suspicious capsule drops by [cheater] on [timestamp], collected swiftly by inactive players.  
-[link]  
-Please review,  
 [codename]
 
 ---
@@ -1290,21 +650,9 @@ Thanks,
 [codename]
 
 ---
-On [timestamp], [cheater] was seen distributing capsules containing valuable mods. These were almost immediately picked up by low-activity accounts.  
-[link]  
-Best,  
-[codename]
-
----
 Suspicious activity by [cheater] on [timestamp] involves dropping mod capsules collected rapidly by inactive accounts.  
 [link]  
 Thank you,  
-[codename]
-
----
-At [timestamp], [cheater] dropped multiple capsules filled with rare mods, quickly collected by dormant accounts.  
-[link]  
-Regards,  
 [codename]
 
 ---
@@ -1314,21 +662,9 @@ Please investigate,
 [codename]
 
 ---
-I report suspicious mod capsule drops by [cheater] on [timestamp]. Capsules were picked up rapidly by inactive players.  
-[link]  
-Thanks,  
-[codename]
-
----
 At [timestamp], [cheater] was distributing capsules with rare mods, collected immediately by dormant accounts, consistent with item selling.  
 [link]  
 Regards,  
-[codename]
-
----
-On [timestamp], [cheater] dropped multiple capsules containing high-value mods, collected swiftly by low-activity accounts.  
-[link]  
-Best regards,  
 [codename]
 
 ---
@@ -1338,21 +674,9 @@ Thank you,
 [codename]
 
 ---
-At [timestamp], [cheater] was seen leaving mod capsules that were rapidly collected by dormant accounts, indicating illicit trading.  
-[link]  
-Regards,  
-[codename]
-
----
 On [timestamp], [cheater] distributed capsules with rare mods, promptly picked up by low-use accounts.  
 [link]  
 Please take action,  
-[codename]
-
----
-I observed suspicious capsule drops by [cheater] on [timestamp]. The capsules were gathered swiftly by inactive players.  
-[link]  
-Thanks,  
 [codename]
 
 ---
@@ -1362,21 +686,9 @@ Best,
 [codename]
 
 ---
-On [timestamp], [cheater] was distributing mod capsules quickly collected by low-activity accounts, indicating item selling.  
-[link]  
-Thank you,  
-[codename]
-
----
 Suspicious capsule drops by [cheater] were recorded on [timestamp]. The capsules were promptly gathered by inactive players.  
 [link]  
 Regards,  
-[codename]
-
----
-At [timestamp], [cheater] dropped mod capsules collected rapidly by dormant accounts, consistent with illicit activity.  
-[link]  
-Thanks,  
 [codename]
 
 ---
@@ -1386,193 +698,96 @@ Please investigate,
 [codename]
 
 ---
-I report suspicious activity by [cheater] involving capsule drops on [timestamp]. Capsules were picked up swiftly by inactive players.  
-[link]  
-Best regards,  
-[codename]
----
 At [timestamp], [cheater] was seen distributing capsules with valuable mods, collected almost immediately by dormant accounts.  
 [link]  
 Thank you,  
 [codename]
 ---
-On [timestamp], [cheater] dropped multiple capsules containing rare mods, gathered rapidly by low-activity accounts.  
-[link]  
-Regards,  
-[codename]
----
 On [timestamp], capsules were dropped containing Aegis shields and L8 resonators, immediately picked up by dormant accounts.
-[link]
----
-At [timestamp], multiple capsules with L8 XMP bursters and Ultra Strikes were quickly collected by inactive players.
 [link]
 ---
 Capsules dropped at [timestamp] contained Hypercubes and ADA viruses, gathered promptly by low-activity accounts.
 [link]
 ---
-During [timestamp], capsules filled with JARVIS viruses and anchor keys were found and swiftly picked up by dormant users.
-[link]
----
 At [timestamp], capsules holding keys from nowhere and Aegis shields were rapidly collected by inactive accounts.
-[link]
----
-Capsules with L8 resonators and L8 XMP bursters were dropped on [timestamp], instantly picked up by low-use players.
 [link]
 ---
 Suspicious capsule drops containing Ultra Strikes and Hypercubes occurred at [timestamp], quickly gathered by dormant accounts.
 [link]
 ---
-On [timestamp], capsules filled with ADA and JARVIS viruses were found and immediately collected by inactive players.
-[link]
----
 Capsules with anchor keys and keys from nowhere were dropped on [timestamp], rapidly picked up by low-activity accounts.
-[link]
----
-At [timestamp], multiple capsules containing Aegis shields and L8 resonators were left and swiftly collected by dormant users.
 [link]
 ---
 During [timestamp], capsules with L8 XMP bursters and Ultra Strikes were distributed and instantly gathered by inactive players.
 [link]
 ---
-Capsules dropped at [timestamp] included Hypercubes and ADA viruses, promptly picked up by low-use accounts.
-[link]
----
 At [timestamp], capsules holding JARVIS viruses and anchor keys were found and quickly collected by dormant accounts.
-[link]
----
-Capsules with keys from nowhere and Aegis shields were dropped on [timestamp], immediately picked up by inactive players.
 [link]
 ---
 On [timestamp], multiple capsules containing L8 resonators and L8 XMP bursters were left and swiftly gathered by dormant users.
 [link]
 ---
-Capsules with Ultra Strikes and Hypercubes were dropped at [timestamp], rapidly collected by low-activity accounts.
-[link]
----
 During [timestamp], capsules filled with ADA and JARVIS viruses were found and instantly picked up by inactive players.
-[link]
----
-At [timestamp], capsules holding anchor keys and keys from nowhere were dropped and promptly collected by dormant accounts.
 [link]
 ---
 Capsules containing Aegis shields and L8 resonators were dropped on [timestamp], quickly gathered by low-use players.
 [link]
 ---
-On [timestamp], multiple capsules with L8 XMP bursters and Ultra Strikes were found and immediately collected by inactive accounts.
-[link]
----
 Capsules dropped at [timestamp] contained Hypercubes and ADA viruses, rapidly picked up by dormant users.
-[link]
----
-During [timestamp], capsules filled with JARVIS viruses and anchor keys were left and swiftly gathered by low-activity accounts.
 [link]
 ---
 At [timestamp], capsules holding keys from nowhere and Aegis shields were found and instantly collected by inactive players.
 [link]
 ---
-Capsules with L8 resonators and L8 XMP bursters were dropped on [timestamp], immediately gathered by dormant accounts.
-[link]
----
 On [timestamp], multiple capsules containing Ultra Strikes and Hypercubes were found and rapidly picked up by low-use players.
-[link]
----
-Capsules dropped at [timestamp] included ADA and JARVIS viruses, swiftly collected by inactive users.
 [link]
 ---
 During [timestamp], capsules with anchor keys and keys from nowhere were left and promptly gathered by dormant accounts.
 [link]
 ---
-At [timestamp], capsules holding Aegis shields and L8 resonators were found and quickly picked up by low-activity players.
-[link]
----
 At [timestamp], a number of capsules filled with Ultra Strikes and rare mods appeared briefly in the field. These items were quickly collected by accounts showing minimal prior activity, raising concerns of unauthorized account management.
-[link]
----
-During the session on [timestamp], unusual capsule activity was noticed. Keys and high-value gear were dropped in a pattern inconsistent with normal gameplay and rapidly scooped up by dormant accounts.
 [link]
 ---
 Capsule drops at [timestamp] contained an abnormal concentration of rare items such as JARVIS Viruses and Aegis Shields. These were gathered almost immediately by several accounts with suspiciously low interaction history.
 [link]
 ---
-At [timestamp], capsules carrying rare and valuable items were rapidly collected by a group of low-activity agents. This activity disrupts fair play and suggests possible multi-account abuse.
-[link]
----
 The pattern of capsule drops on [timestamp] is indicative of exploitative behavior. Items such as Hypercubes and Ultra Strikes appeared momentarily and were gathered by inactive accounts in a coordinated manner.
-[link]
----
-During the event on [timestamp], several capsules containing a variety of mods and rare items were observed. Their immediate collection by dormant accounts suggests the use of third-party automation tools.
 [link]
 ---
 On [timestamp], multiple capsules loaded with high-tier gear were detected in a small area. These capsules were instantly picked up by accounts with no prior portal engagement.
 [link]
 ---
-Capsule drops noted at [timestamp] contained several Ultra Strikes and keys from nowhere. These were gathered quickly by agents exhibiting abnormal inactivity patterns.
-[link]
----
 At [timestamp], a suspicious cluster of capsules appeared, loaded with rare and powerful mods. The immediate pickup by low-use accounts suggests coordinated item hoarding or resale.
-[link]
----
-Observations from [timestamp] reveal capsules being dropped and collected at a rate and frequency unusual for normal play, particularly by dormant or new accounts.
 [link]
 ---
 Please investigate the capsule activity recorded on [timestamp]. High-level items were dropped and collected rapidly, with most pickups by agents with minimal playtime.
 [link]
 ---
-Capsules appeared briefly on the map at [timestamp], containing items like ADA Refactors and Aegis Shields. Their swift collection by inactive accounts is suspicious.
-[link]
----
 Capsules dropped at [timestamp] included keys from nowhere and Hypercubes, collected nearly instantly by accounts with minimal portal activity.
-[link]
----
-At [timestamp], capsules holding a variety of rare items appeared briefly and were swiftly collected by dormant accounts, indicating possible exploitation.
 [link]
 ---
 Capsule drops on [timestamp] featured a suspiciously high amount of high-level gear, quickly collected by low-use accounts with minimal interaction history.
 [link]
 ---
-Observed at [timestamp], rapid capsule collection by multiple dormant accounts suggests multi-account abuse or third-party tool use.
-[link]
----
 Capsules containing Ultra Strikes and Hypercubes were dropped and collected almost simultaneously on [timestamp] by inactive accounts.
-[link]
----
-Capsules loaded with Aegis Shields and JARVIS Viruses appeared at [timestamp], immediately picked up by several dormant accounts.
 [link]
 ---
 Unusual item pickup patterns at [timestamp], involving capsules containing rare gear collected by agents with low activity profiles.
 [link]
 ---
-Capsule drops at [timestamp] included high-level gear rapidly collected by accounts showing minimal play history.
-[link]
----
 Observations at [timestamp] show rapid capsule collection by agents suspected of using multiple accounts or third-party tools.
-[link]
----
-On [timestamp], high-value capsules were dropped and quickly picked up by dormant accounts, disrupting fair gameplay.
 [link]
 ---
 Capsules with rare mods appeared briefly at [timestamp], instantly collected by low-activity accounts.
 [link]
 ---
-During [timestamp], several dormant accounts gathered high-level gear from capsules dropped in a suspicious pattern.
-[link]
----
 At [timestamp], suspicious capsule drops loaded with valuable items were swiftly picked up by low-use agents.
-[link]
----
-Capsules containing keys from nowhere and Hypercubes were dropped at [timestamp] and almost immediately collected by inactive agents.
 [link]
 ---
 During [timestamp], capsules with rare mods and gear were found and swiftly collected by low-activity agents.
 [link]
 ---
-Capsule drops containing Ultra Strikes and Aegis Shields appeared briefly on [timestamp] and were quickly gathered by inactive accounts.
-[link]
----
 At [timestamp], multiple dormant accounts collected a suspicious amount of rare gear from capsules dropped in quick succession.
-[link]
----
-Capsule drops at [timestamp] were immediately collected by agents exhibiting minimal prior portal activity.
 [link]
 ---
 To Niantic Support,
@@ -1585,16 +800,6 @@ Your investigation would be appreciated.
 Best,  
 [codename]
 ---
-Niantic Team,
-
-At [timestamp], I detected rapid capsule drops and immediate pickups by accounts that don’t seem active. The items included Ultra Strikes and ADA Refactors. This could be cheating.
-
-Please investigate.
-[link]
-
-Thanks,  
-[codename]
----
 Hello,
 
 At [timestamp], capsules containing high-tier gear were dropped and gathered almost immediately by inactive accounts. This pattern is suspicious and likely against fair play rules.
@@ -1603,16 +808,6 @@ Please investigate these accounts.
 [link]
 
 Regards,  
-[codename]
----
-Niantic,
-
-I observed suspicious capsule drops and rapid pickups at [timestamp]. Multiple accounts with low activity history collected rare items quickly, indicating possible cheating or automation.
-
-Please review this case.
-[link]
-
-Thanks,  
 [codename]
 ---
 Hello Niantic,
@@ -1625,16 +820,6 @@ Please check these accounts.
 Thank you,  
 [codename]
 ---
-Dear Niantic,
-
-On [timestamp], I observed capsules with high-tier items dropped and picked up instantly by accounts that appear inactive. This might be cheating.
-
-Please look into this.
-[link]
-
-Regards,  
-[codename]
----
 Hi,
 
 Capsule drops at [timestamp] containing rare mods were collected rapidly by multiple dormant accounts. This suggests possible botting or multi-account abuse.
@@ -1643,16 +828,6 @@ Please review.
 [link]
 
 Thanks,  
-[codename]
----
-To Niantic Support,
-
-Capsules with high-tier items were dropped and gathered quickly by inactive accounts on [timestamp]. This is likely multi-account abuse.
-
-Please investigate and act accordingly.
-[link]
-
-Regards,  
 [codename]
 ---
 Niantic Team,
@@ -1665,16 +840,6 @@ Please check this suspicious activity.
 Thanks,  
 [codename]
 ---
-Hi,
-
-Capsule drops at [timestamp] with rare items were instantly collected by accounts with little portal interaction. This seems like cheating.
-
-Please investigate.
-[link]
-
-Best,  
-[codename]
----
 Hello,
 
 At [timestamp], multiple capsules containing rare mods were dropped and rapidly collected by accounts with minimal activity.
@@ -1683,16 +848,6 @@ Please look into this.
 [link]
 
 Thanks,  
-[codename]
----
-To Niantic Support,
-
-Capsule drops with rare items were collected quickly by dormant accounts on [timestamp]. This looks like multi-account abuse.
-
-Please review.
-[link]
-
-Regards,  
 [codename]
 ---
 Hey Niantic,
@@ -1705,16 +860,6 @@ Please investigate.
 Cheers,  
 [codename]
 ---
-Hi,
-
-Capsule drops with rare gear were collected instantly by low-activity accounts at [timestamp]. This could be cheating.
-
-Please check.
-[link]
-
-Best,  
-[codename]
----
 Niantic,
 
 Capsules with valuable items were dropped and gathered quickly by dormant accounts on [timestamp].
@@ -1725,33 +870,16 @@ Please check this suspicious activity.
 Best,  
 [codename]
 ---
-Hello Niantic Team, suspicious capsule drops with rare mods were quickly picked up by dormant accounts at [timestamp]. Please investigate these accounts. 
-[link]
-Thanks, 
-[codename]
----
 To Niantic Support, suspicious capsule activity was observed at [timestamp]. Capsules with valuable mods were dropped and swiftly gathered by inactive accounts. 
 Your investigation is appreciated. 
 [link]
 Best, 
 [codename]
 ---
-Niantic Team, at [timestamp], rapid capsule drops with Ultra Strikes and ADA Refactors were collected by inactive accounts. This could indicate cheating. 
-Please investigate. 
-[link]
-Thanks, 
-[codename]
----
 Hello, at [timestamp], capsules with high-tier gear were dropped and gathered immediately by inactive accounts. This pattern is suspicious and likely against fair play rules. 
 Please investigate. 
 [link]
 Regards, 
-[codename]
----
-Niantic, suspicious capsule drops and rapid pickups at [timestamp] by dormant accounts suggest cheating or automation. 
-Please review. 
-[link]
-Thanks, 
 [codename]
 ---
 Hello Niantic, reporting suspicious capsule activity at [timestamp]. Rare items were dropped and rapidly collected by low-activity accounts.
@@ -1760,34 +888,16 @@ Please check these accounts.
 Thank you, 
 [codename]
 ---
-Dear Niantic, on [timestamp], capsules with high-tier items were dropped and picked up instantly by inactive accounts. This might be cheating.
-Please look into this. 
-[link]
-Regards, 
-[codename]
----
 Hi, capsule drops at [timestamp] containing rare mods were collected rapidly by inactive accounts. This suggests possible botting or multi-account abuse. 
 Please review. 
 [link]
 Thanks, 
 [codename]
 ---
-To Niantic Support, capsules with high-tier items were dropped and gathered quickly by inactive accounts on [timestamp]. This is likely multi-account abuse. 
-Please investigate and act accordingly. 
-[link]
-Regards, 
-[codename]
----
 Niantic Team, on [timestamp], capsules with rare mods and gear were dropped and rapidly collected by several inactive accounts. 
 Please check this suspicious activity. 
 [link]
 Thanks, 
-[codename]
----
-Hi, capsule drops at [timestamp] with rare gear were collected instantly by low-activity accounts. This could be cheating.
-Please check. 
-[link]
-Best, 
 [codename]
 ---
 Hello, at [timestamp], multiple capsules containing rare mods were dropped and rapidly collected by accounts with minimal activity. 
@@ -1796,15 +906,7 @@ Please look into this.
 Thanks, 
 [codename]
 ---
-To Niantic Support, capsule drops with rare items were collected quickly by dormant accounts on [timestamp]. This looks like multi-account abuse. Please review. Regards, [codename]
----
 Hey Niantic, at [timestamp], capsules filled with valuable mods were dropped and collected immediately by low-activity accounts. Please investigate. Cheers, [codename]
----
-Hi, capsule drops with rare gear were collected instantly by low-activity accounts at [timestamp]. This could be cheating. 
-Please check. 
-[link]
-Best, 
-[codename]
 ---
 Niantic, capsules with valuable items were dropped and gathered quickly by dormant accounts on [timestamp]. 
 Please check this suspicious activity. 
@@ -1812,46 +914,10 @@ Please check this suspicious activity.
 Best, 
 [codename]
 ---
-Hello Niantic Team, suspicious capsule drops with rare mods were quickly picked up by dormant accounts at [timestamp]. 
-Please investigate these accounts. 
-[link]
-Thanks, 
-[codename]
----
-To Niantic Support, suspicious capsule activity was observed at [timestamp]. Capsules with valuable mods were dropped and swiftly gathered by inactive accounts. 
-Your investigation is appreciated. 
-[link]
-Best, 
-[codename]
----
-Niantic Team, at [timestamp], rapid capsule drops with Ultra Strikes and ADA Refactors were collected by inactive accounts. This could indicate cheating. 
-Please investigate. 
-[link]
-Thanks, 
-[codename]
----
-Hello, at [timestamp], capsules with high-tier gear were dropped and gathered immediately by inactive accounts. This pattern is suspicious and likely against fair play rules. 
-Please investigate. 
-[link]
-Regards, 
-[codename]
----
-Niantic, suspicious capsule drops and rapid pickups at [timestamp] by dormant accounts suggest cheating or automation. 
-Please review. 
-[link]
-Thanks, 
-[codename]
----
 Hello Niantic, reporting suspicious capsule activity at [timestamp]. Rare items were dropped and rapidly collected by low-activity accounts. 
 Please check these accounts. 
 [link]
 Thank you, 
-[codename]
----
-Dear Niantic, on [timestamp], capsules with high-tier items were dropped and picked up instantly by inactive accounts. This might be cheating. 
-Please look into this. 
-[link]
-Regards, 
 [codename]
 ---
 Hi, capsule drops at [timestamp] containing rare mods were collected rapidly by inactive accounts. This suggests possible botting or multi-account abuse. 
@@ -1861,33 +927,9 @@ Thanks,
 [codename]
 
 ---
-To Niantic Support, capsules with high-tier items were dropped and gathered quickly by inactive accounts on [timestamp]. This is likely multi-account abuse. 
-Please investigate and act accordingly. 
-[link]
-Regards, 
-[codename]
-
----
-Niantic Team, on [timestamp], capsules with rare mods and gear were dropped and rapidly collected by several inactive accounts. 
-Please check this suspicious activity. 
-[link]
-Thanks, 
-[codename]
----
-Hi, capsule drops at [timestamp] with rare gear were collected instantly by low-activity accounts. This could be cheating. 
-Please check. 
-[link]
-Best,
-[codename]
----
 At [timestamp], capsules containing high-tier items were dropped and picked up instantly by inactive players.
 
 Please investigate these accounts for possible botting or multi-account abuse.
-[link]
----
-Several capsules with Ultra Strikes and ADA Refactors were rapidly collected by dormant accounts at [timestamp].
-
-This pattern violates fair play policies and should be reviewed by Niantic.
 [link]
 ---
 At [timestamp], multiple low-activity accounts picked up rare items right after capsule drops.
@@ -1895,31 +937,15 @@ At [timestamp], multiple low-activity accounts picked up rare items right after 
 This is suspicious and possibly linked to multi-account exploitation.
 [link]
 ---
-Capsules containing high-tier gear were gathered instantly by dormant accounts at [timestamp].
-
-Niantic should review these accounts for potential cheating behavior.
-[link]
----
 At [timestamp], capsules with valuable mods were dropped and picked up almost immediately.
 
 This rapid collection by inactive accounts is suspicious.
-[link]
----
-Dormant accounts collected capsules with rare items quickly at [timestamp].
-
-Such activity suggests multi-account abuse or botting.
 [link]
 ---
 Capsules with high-tier items were picked up immediately by dormant accounts at [timestamp].
 
 This suspicious activity likely violates game policies.
 [link]
----
-Dormant accounts gathered capsules with rare gear quickly at [timestamp].
-
-Such fast pickups point toward automated or multi-account abuse.
-[link]
-
 ---
 Hello Niantic Team,
 
@@ -1930,18 +956,6 @@ I have noticed suspicious activity involving the player [cheater]. At [timestamp
 Please investigate.
 
 Regards,  
-[codename]
-
----
-To Whom It May Concern,
-
-The user [cheater] has been exploiting item drops repeatedly at [timestamp]. These capsules with high-value gear are gathered immediately after spawning.
-
-[link]
-
-Thank you for your attention.
-
-Best,  
 [codename]
 
 ---
@@ -1957,16 +971,6 @@ Sincerely,
 [codename]
 
 ---
-Hi,
-
-Please look into [cheater]’s activity at [timestamp]. Their pattern of instant capsule pickups is suspicious.
-
-[link]
-
-Regards,  
-[codename]
-
----
 Hello,
 
 I’m reporting [cheater] for possible botting or multi-account abuse. The timing at [timestamp] matches with rapid rare item pickups.
@@ -1977,16 +981,6 @@ Thanks,
 [codename]
 
 ---
-To Niantic,
-
-[cheater] repeatedly collects capsules instantly upon spawn, as observed at [timestamp]. This unfair advantage needs addressing.
-
-[link]
-
-Kind regards,  
-[codename]
-
----
 Dear Team,
 
 I have evidence of [cheater] using multiple dormant accounts to collect rare capsules instantly at [timestamp].
@@ -1994,18 +988,6 @@ I have evidence of [cheater] using multiple dormant accounts to collect rare cap
 [link]
 
 Thank you,  
-[codename]
-
----
-Dear Niantic Support,
-
-At [timestamp], I observed [cheater] instantly picking up a batch of rare items shortly after their appearance. This rapid collection is highly suspicious.
-
-[link]
-
-Thank you for looking into this matter.
-
-Best regards,  
 [codename]
 
 ---
@@ -2021,17 +1003,6 @@ Regards,
 [codename]
 
 ---
-To Niantic,
-
-At [timestamp], [cheater] collected rare gear at an impossible pace. This undermines the spirit of the game and should be reviewed.
-
-[link]
-
-Thank you.
-
-[codename]
-
----
 Greetings Niantic Team,
 
 [cheater] has shown clear signs of exploiting item spawn mechanics. At [timestamp], rapid collection of rare capsules occurred.
@@ -2041,17 +1012,6 @@ Greetings Niantic Team,
 Please take appropriate action.
 
 Kind regards,  
-[codename]
-
----
-Hello Niantic,
-
-At [timestamp], I witnessed [cheater] swiftly gathering rare mods immediately after they appeared, which looks like cheating.
-
-[link]
-
-Thank you for your attention.
-
 [codename]
 
 ---
@@ -2065,18 +1025,6 @@ Best,
 [codename]
 
 ---
-To Whom It May Concern,
-
-On [timestamp], [cheater] demonstrated suspicious behavior by collecting rare items almost instantly after spawning.
-
-[link]
-
-Please verify and take action.
-
-Thanks,  
-[codename]
-
----
 Niantic Support,
 
 At [timestamp], [cheater] collected multiple high-value capsules suspiciously fast, raising concerns of unfair play.
@@ -2085,18 +1033,6 @@ At [timestamp], [cheater] collected multiple high-value capsules suspiciously fa
 
 Thank you for your investigation.
 
-[codename]
-
----
-Dear Niantic,
-
-At [timestamp], the player [cheater] gathered rare gear with inhuman speed, suggesting automation.
-
-[link]
-
-Please review this evidence.
-
-Best,  
 [codename]
 
 ---
@@ -2112,17 +1048,6 @@ Sincerely,
 [codename]
 
 ---
-To Niantic Support,
-
-I am submitting a report on [cheater], who collected rare capsules suspiciously quickly at [timestamp].
-
-[link]
-
-Thank you for your efforts.
-
-[codename]
-
----
 Hi Niantic,
 
 At [timestamp], [cheater] was seen instantly collecting multiple rare capsules. This might be a violation of game policy.
@@ -2135,18 +1060,6 @@ Regards,
 [codename]
 
 ---
-Dear Team,
-
-[cheater]’s rapid item pickups at [timestamp] appear to be automated and unfair to other players.
-
-[link]
-
-Please take the necessary actions.
-
-Thanks,  
-[codename]
-
----
 Niantic,
 
 The speed at which [cheater] collected rare capsules at [timestamp] is suspicious and merits investigation.
@@ -2154,17 +1067,6 @@ The speed at which [cheater] collected rare capsules at [timestamp] is suspiciou
 [link]
 
 Regards,  
-[codename]
-
----
-Hello Niantic,
-
-At [timestamp], [cheater] collected rare mods immediately after they spawned, suggesting the use of unfair advantages.
-
-[link]
-
-Thank you for reviewing this.
-
 [codename]
 
 ---
@@ -2180,18 +1082,6 @@ Best,
 [codename]
 
 ---
-Dear Niantic,
-
-Evidence shows that at [timestamp], [cheater] collected rare gear rapidly and repeatedly.
-
-[link]
-
-Please take appropriate measures.
-
-Thanks,  
-[codename]
-
----
 Niantic,
 
 [cheater] has been collecting rare capsules suspiciously fast, as seen at [timestamp].
@@ -2201,17 +1091,6 @@ Niantic,
 Kindly review and take action.
 
 Regards,  
-[codename]
-
----
-To Niantic Support,
-
-At [timestamp], [cheater] exhibited instant capsule collection behavior, which is likely unfair.
-
-[link]
-
-Thank you for your attention.
-
 [codename]
 
 ---
@@ -2227,17 +1106,6 @@ Best,
 [codename]
 
 ---
-Dear Team,
-
-At [timestamp], [cheater] rapidly gathered rare mods. This behavior undermines fair play.
-
-[link]
-
-Thank you.
-
-[codename]
-
----
 Hello Niantic,
 
 At [timestamp], [cheater] was seen collecting rare capsules immediately, suggesting unfair advantages.
@@ -2249,4 +1117,3 @@ Thanks for reviewing.
 [codename]
 
 ---
-
