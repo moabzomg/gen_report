@@ -202,10 +202,9 @@ export default function GenReportPage() {
           : generateRandomTimestampWithin30Days();
         const link = timestampLinks[i].link.trim();
         if (ts || link) {
-          if (i == 0) 
-            combinedLinkBlock += `${ts}\n${link}`;
+          if (i == 0) combinedLinkBlock += `${ts}\n${link}`;
           else combinedLinkBlock += `\n${ts}\n${link}`;
-        
+        }
       }
 
       replaced = replaced.replace(/\[link\]/gi, combinedLinkBlock);
