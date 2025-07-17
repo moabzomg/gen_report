@@ -416,4 +416,3 @@ Unrealistic timing on portal attack
 Unrealistic timing on portal attack — [cheater] suspected
 Unrealistic timing on portal attack by [cheater]
 Unusual burst frequency detected
-Unusual burst frequency detected from [cheater]
