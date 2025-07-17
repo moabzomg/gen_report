@@ -1012,3 +1012,306 @@ The burst attack timeline for [cheater] at [timestamp] was marked by a suspiciou
 
 [codename]
 ---
+Hi,  
+[cheater] launched a portal attack at [timestamp] with no visible delay between XMPs. The pattern was too consistent to be manual.  
+[link]  
+Filed by [codename]  
+---  
+To NIA,  
+[cheater]’s attack at [timestamp] was executed with robotic timing. No repositioning, no pause—just rapid bursts.  
+[link]  
+[codename]  
+---  
+Hello,  
+[cheater] attacked a portal at [timestamp] with a speed and rhythm that strongly suggest automation.  
+[link]  
+[codename]  
+---  
+Hi NIA,  
+[cheater] launched XMPs at [timestamp] in a way that looked like a macro. The timing was unnaturally perfect.  
+[link]  
+[codename]  
+---  
+Dear Niantic,  
+Please investigate [cheater]’s activity at [timestamp]. The attack sequence was too fast and too smooth to be human.  
+[link]  
+Sincerely,  
+[codename]  
+---  
+Hi,  
+[cheater] executed a portal attack at [timestamp] with no movement and no delay. This behavior is highly suspicious.  
+[link]  
+[codename]  
+---  
+To NIA,  
+[cheater]’s attack pattern on [timestamp] was too regular and fast. It didn’t resemble any normal gameplay.  
+[link]  
+[codename]  
+---  
+Hello,  
+[cheater] launched a series of attacks at [timestamp] that were evenly spaced and lacked any human variation.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] attacked a portal at [timestamp] with no visible repositioning. The attack speed was highly abnormal.  
+[link]  
+[codename]  
+---  
+Hi there,  
+[cheater]’s portal attack on [timestamp] was suspicious. The XMPs were fired in a pattern that felt automated.  
+[link]  
+[codename]  
+---  
+To Niantic,  
+[cheater] executed a portal attack at [timestamp] with no movement and perfect timing. This needs review.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] launched attacks at [timestamp] in a way that suggests GPS spoofing or automation. Please investigate.  
+[link]  
+[codename]  
+---  
+Hello,  
+[cheater]’s attack pattern at [timestamp] was too consistent to be human. It looked like a script.  
+[link]  
+[codename]  
+---  
+Hi NIA,  
+[cheater] attacked a portal at [timestamp] with no delay between bursts. This is not normal gameplay.  
+[link]  
+[codename]  
+---  
+To NIA,  
+[cheater]’s portal attack on [timestamp] was suspiciously fast and lacked any signs of manual control.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] launched XMPs at [timestamp] in a way that looked automated. The timing was too perfect.  
+[link]  
+[codename]  
+---  
+Hello,  
+[cheater] attacked a portal at [timestamp] with no visible movement or delay. This behavior is not typical.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] executed a portal attack at [timestamp] with robotic timing. Please review for possible automation.  
+[link]  
+[codename]  
+---  
+To Niantic,  
+[cheater]’s attack pattern on [timestamp] was too fast and too regular. It didn’t look like human input.  
+[link]  
+[codename]  
+---  
+Hi NIA,  
+[cheater] launched attacks at [timestamp] with no variation or repositioning. This suggests non-human behavior.  
+[link]  
+[codename]
+---
+Hi,  
+Observed [cheater] attacking a portal at [timestamp] with an extremely fast and consistent XMP burst rate. This doesn’t resemble normal gameplay.  
+[link]  
+Filed by [codename]  
+---  
+To NIA,  
+[cheater] launched attacks at [timestamp] with no visible movement between bursts. The pattern suggests possible automation.  
+[link]  
+[codename]  
+---  
+Hello,  
+Suspicious portal activity by [cheater] on [timestamp]. The attack sequence was too rapid and precise to be manual.  
+[link]  
+[codename]  
+---  
+Hi NIA,  
+[cheater] executed a portal attack at [timestamp] with unnatural timing and no pause between actions. Please review.  
+[link]  
+[codename]  
+---  
+Dear Niantic,  
+[cheater] launched XMPs in a pattern that looked automated at [timestamp]. The timing was too perfect to be human.  
+[link]  
+Sincerely,  
+[codename]  
+---  
+Hi,  
+Reporting [cheater] for suspicious portal attack behavior on [timestamp]. The speed and consistency of the attacks were highly abnormal.  
+[link]  
+[codename]  
+---  
+To NIA,  
+[cheater] attacked a portal at [timestamp] with no visible movement or delay. This could indicate spoofing or automation.  
+[link]  
+[codename]  
+---  
+Hello,  
+[cheater]’s attack pattern at [timestamp] was too fast and too smooth. It didn’t resemble any normal player behavior.  
+[link]  
+[codename]  
+---  
+Hi,  
+Unusual portal attack by [cheater] observed on [timestamp]. The XMPs were fired in a rhythm that felt scripted.  
+[link]  
+[codename]  
+---  
+Hi there,  
+[cheater] launched a series of attacks at [timestamp] that were too rapid and evenly spaced to be manual.  
+[link]  
+[codename]  
+---  
+To Niantic,  
+[cheater]’s portal attack at [timestamp] showed no signs of human input—just a perfect, repeated pattern.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] attacked a portal at [timestamp] with no movement and no delay between bursts. This is not normal gameplay.  
+[link]  
+[codename]  
+---  
+Hello,  
+Please investigate [cheater]’s activity at [timestamp]. The attack speed and lack of movement suggest automation.  
+[link]  
+[codename]  
+---  
+Hi NIA,  
+[cheater] launched XMPs at [timestamp] in a way that looked like a macro or bot. The timing was too consistent.  
+[link]  
+[codename]  
+---  
+To NIA,  
+[cheater]’s attack pattern on [timestamp] was suspiciously fast and lacked any natural variation.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] executed a portal attack at [timestamp] with no visible delay or repositioning. This behavior is not typical of human players.  
+[link]  
+[codename]  
+---  
+Hello,  
+[cheater]’s attack at [timestamp] was too fast and too perfect. It looked like it was done by a script.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] launched a series of attacks at [timestamp] that were too uniform and rapid to be legitimate.  
+[link]  
+[codename]  
+---  
+To Niantic,  
+[cheater] attacked a portal at [timestamp] with robotic precision. Please investigate for possible automation.  
+[link]  
+[codename]  
+---  
+Hi NIA,  
+[cheater]’s portal attack on [timestamp] was suspicious. The timing and execution were too perfect to be manual.  
+[link]  
+[codename]
+---
+Hi,  
+[cheater] launched a rapid series of attacks at [timestamp] that looked automated. The timing was too precise to be manual.  
+[link]  
+Filed by [codename]  
+---  
+To NIA,  
+Suspicious activity from [cheater] on [timestamp]. The portal was attacked with no movement or delay between bursts.  
+[link]  
+[codename]  
+---  
+Hello,  
+[cheater] executed a portal attack at [timestamp] with robotic precision. Please investigate for possible automation.  
+[link]  
+[codename]  
+---  
+Hi NIA,  
+[cheater]’s attack pattern on [timestamp] was unnaturally fast and consistent. This doesn’t match human gameplay.  
+[link]  
+[codename]  
+---  
+Dear Niantic,  
+[cheater] launched XMPs at [timestamp] in a way that suggests scripting or spoofing. The rhythm was too perfect.  
+[link]  
+Sincerely,  
+[codename]  
+---  
+Hi,  
+[cheater] attacked a portal at [timestamp] with no visible repositioning. The attack speed was highly suspicious.  
+[link]  
+[codename]  
+---  
+To NIA,  
+[cheater]’s actions at [timestamp] were too fast and too smooth. It looked like a macro was used.  
+[link]  
+[codename]  
+---  
+Hello,  
+[cheater] launched a series of attacks at [timestamp] that were evenly spaced and lacked any human delay.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] attacked a portal at [timestamp] with no variation in timing. This is not typical of manual play.  
+[link]  
+[codename]  
+---  
+Hi there,  
+[cheater]’s portal attack on [timestamp] was suspicious. The XMPs were fired in a pattern that felt automated.  
+[link]  
+[codename]  
+---  
+To Niantic,  
+[cheater] executed a portal attack at [timestamp] with no movement and perfect timing. This needs review.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] launched attacks at [timestamp] in a way that suggests GPS spoofing or automation. Please investigate.  
+[link]  
+[codename]  
+---  
+Hello,  
+[cheater]’s attack pattern at [timestamp] was too consistent to be human. It looked like a script.  
+[link]  
+[codename]  
+---  
+Hi NIA,  
+[cheater] attacked a portal at [timestamp] with no delay between bursts. This is not normal gameplay.  
+[link]  
+[codename]  
+---  
+To NIA,  
+[cheater]’s portal attack on [timestamp] was suspiciously fast and lacked any signs of manual control.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] launched XMPs at [timestamp] in a way that looked automated. The timing was too perfect.  
+[link]  
+[codename]  
+---  
+Hello,  
+[cheater] attacked a portal at [timestamp] with no visible movement or delay. This behavior is not typical.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] executed a portal attack at [timestamp] with robotic timing. Please review for possible automation.  
+[link]  
+[codename]  
+---  
+To Niantic,  
+[cheater]’s attack pattern on [timestamp] was too fast and too regular. It didn’t look like human input.  
+[link]  
+[codename]  
+---  
+Hi NIA,  
+[cheater] launched attacks at [timestamp] with no variation or repositioning. This suggests non-human behavior.  
+[link]  
+[codename]
+---

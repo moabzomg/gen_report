@@ -1045,3 +1045,588 @@ Thanks for reviewing.
 
 [codename]
 ---
+[timestamp]  
+Observed [cheater] dropping multiple capsules at a neutral portal. Moments later, low-activity accounts picked them up without any other interaction.  
+[link]  
+---  
+[timestamp]  
+[cheater] was seen coordinating with other agents to exchange gear. No gameplay occurred—just a handoff.  
+[link]  
+---  
+Hi,  
+I’m reporting [cheater] for suspicious capsule drops on [timestamp]. The items were collected by dormant accounts within seconds.  
+[link]  
+Thank you,  
+[codename]  
+---  
+At [timestamp], [cheater] left several capsules that were quickly picked up by accounts with no recent activity. This suggests item trading.  
+[link]  
+Thanks,  
+[codename]  
+---  
+Hello,  
+[cheater] was observed meeting with multiple agents at a portal. Gear was exchanged, but no gameplay followed.  
+[timestamp]  
+[link]  
+[codename]  
+---  
+[timestamp]  
+Reports suggest [cheater] is involved in off-game gear sales. Capsules were dropped and collected in a suspiciously coordinated manner.  
+[link]  
+---  
+Hi NIA,  
+[cheater] dropped capsules at [timestamp] that were immediately picked up by accounts with no visible gameplay history.  
+[link]  
+[codename]  
+---  
+Dear Niantic,  
+At [timestamp], [cheater] was seen distributing gear to multiple agents who did not engage in any other activity.  
+[link]  
+Sincerely,  
+[codename]  
+---  
+[timestamp]  
+[cheater] dropped high-level gear at a portal, which was collected by a known inactive account. This appears to be item farming or trading.  
+[link]  
+---  
+Hi,  
+I witnessed [cheater] coordinating a gear drop with other agents at [timestamp]. The exchange was too structured to be casual.  
+[link]  
+[codename]  
+---  
+[timestamp]  
+[cheater] met with three agents at a portal. No links, no hacks—just a gear exchange. This looks like off-game trading.  
+[link]  
+---  
+Hello,  
+[cheater] dropped capsules at [timestamp] that were picked up by accounts with no badges or recent activity.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] was seen repeatedly dropping gear at the same portal on [timestamp], always followed by quick pickups from inactive agents.  
+[link]  
+[codename]  
+---  
+[timestamp]  
+[cheater] appears to be supplying gear to other agents through coordinated drops. The pattern is consistent and suspicious.  
+[link]  
+---  
+Hi there,  
+I’m reporting [cheater] for suspected item trading. Capsules were dropped and collected in a way that suggests off-game coordination.  
+[timestamp]  
+[link]  
+[codename]
+---
+[timestamp]  
+[cheater] was seen dropping capsules at a portal, followed by immediate pickup by accounts with no recent activity. This appears to be coordinated gear distribution.  
+[link]  
+---  
+Hi,  
+I’m reporting [cheater] for suspicious gear drops on [timestamp]. The capsules were picked up by dormant agents within seconds.  
+[link]  
+Thank you,  
+[codename]  
+---  
+Hello,  
+At [timestamp], [cheater] met with two agents at a neutral portal. No gameplay occurred—just a gear handoff.  
+[link]  
+[codename]  
+---  
+[timestamp]  
+[cheater] dropped several capsules that were collected by accounts with no visible gameplay history. This suggests off-game coordination.  
+[link]  
+---  
+Hi NIA,  
+[cheater] was observed making repeated capsule drops at [timestamp], always followed by quick pickups from low-level or dormant accounts.  
+[link]  
+[codename]  
+---  
+Dear Niantic,  
+[cheater] appears to be distributing gear to other agents in a non-gameplay context. This was observed again at [timestamp].  
+[link]  
+Sincerely,  
+[codename]  
+---  
+Hi,  
+[cheater] dropped high-level gear at [timestamp] and left the area. Minutes later, it was collected by an account with no badges.  
+[link]  
+[codename]  
+---  
+[timestamp]  
+[cheater] coordinated a gear drop with two other agents. No links, hacks, or deploys—just a handoff.  
+[link]  
+---  
+Hello,  
+I witnessed [cheater] dropping capsules at [timestamp] that were picked up by accounts with no recent activity. This looks like item farming.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] has been repeatedly seen dropping gear at the same portal. The pattern and timing suggest off-game trading.  
+[timestamp]  
+[link]  
+[codename]  
+---  
+To NIA,  
+[cheater] met with multiple agents at [timestamp] and exchanged gear without any other gameplay. This behavior is suspicious.  
+[link]  
+[codename]  
+---  
+[timestamp]  
+[cheater] dropped capsules that were picked up by accounts that haven’t played in months. This is not normal gameplay.  
+[link]  
+---  
+Hi there,  
+[cheater] was seen coordinating gear drops with other agents. The exchange was too structured to be random.  
+[link]  
+[codename]  
+---  
+Hello,  
+[cheater] left capsules at [timestamp] that were picked up by low-level accounts with no visible activity.  
+[link]  
+[codename]  
+---  
+[timestamp]  
+[cheater] appears to be involved in off-game gear distribution. The drop-off and pickup pattern is consistent and deliberate.  
+[link]  
+---  
+Hi,  
+I’m reporting [cheater] for suspicious capsule drops. The items were collected by dormant accounts within seconds.  
+[link]  
+[codename]
+---
+[timestamp]  
+[cheater] was seen dropping gear at a portal, followed by immediate pickup by an account with no recent activity. This appears to be coordinated item trading.  
+[link]  
+---  
+Hi,  
+I’m reporting [cheater] for suspicious behavior on [timestamp]. Capsules were dropped and picked up by inactive agents within seconds.  
+[link]  
+Thank you,  
+[codename]  
+---  
+Hello,  
+At [timestamp], [cheater] met with multiple agents at a neutral portal. No gameplay occurred—just a gear exchange.  
+[link]  
+[codename]  
+---  
+[timestamp]  
+[cheater] dropped several capsules that were collected by accounts with no visible gameplay history. This suggests off-game coordination.  
+[link]  
+---  
+Hi NIA,  
+[cheater] was observed making repeated capsule drops at [timestamp], always followed by quick pickups from low-level or dormant accounts.  
+[link]  
+[codename]  
+---  
+Dear Niantic,  
+[cheater] appears to be distributing gear to other agents in a non-gameplay context. This was observed again at [timestamp].  
+[link]  
+Sincerely,  
+[codename]  
+---  
+Hi,  
+[cheater] dropped high-level gear at [timestamp] and left the area. Minutes later, it was collected by an account with no badges.  
+[link]  
+[codename]  
+---  
+[timestamp]  
+[cheater] coordinated a gear drop with two other agents. No links, hacks, or deploys—just a handoff.  
+[link]  
+---  
+Hello,  
+I witnessed [cheater] dropping capsules at [timestamp] that were picked up by accounts with no recent activity. This looks like item farming.  
+[link]  
+[codename]  
+---  
+Hi,  
+[cheater] has been repeatedly seen dropping gear at the same portal. The pattern and timing suggest off-game trading.  
+[timestamp]  
+[link]  
+[codename]  
+---  
+To NIA,  
+[cheater] met with multiple agents at [timestamp] and exchanged gear without any other gameplay. This behavior is suspicious.  
+[link]  
+[codename]  
+---  
+[timestamp]  
+[cheater] dropped capsules that were picked up by accounts that haven’t played in months. This is not normal gameplay.  
+[link]  
+---  
+Hi there,  
+[cheater] was seen coordinating gear drops with other agents. The exchange was too structured to be random.  
+[link]  
+[codename]  
+---  
+Hello,  
+[cheater] left capsules at [timestamp] that were picked up by low-level accounts with no visible activity.  
+[link]  
+[codename]  
+---  
+[timestamp]  
+[cheater] appears to be involved in off-game gear distribution. The drop-off and pickup pattern is consistent and deliberate.  
+[link]  
+---  
+Hi,  
+I’m reporting [cheater] for suspicious capsule drops. The items were collected by dormant accounts within seconds.  
+[link]  
+[codename]
+---
+On [timestamp], I observed [cheater] dropping multiple capsules at a portal. They were picked up almost instantly by inactive accounts.  
+[link]  
+---  
+At around [timestamp], [cheater] met with two agents at a neutral portal. No gameplay occurred—just a gear exchange.  
+[link]  
+---  
+I’m reporting [cheater] for suspicious capsule drops that took place on [timestamp]. The items were collected by dormant accounts within seconds.  
+[link]  
+Thank you,  
+[codename]  
+---  
+During [timestamp], [cheater] left several capsules at a portal. They were quickly picked up by low-level agents with no recent activity.  
+[link]  
+Best regards,  
+[codename]  
+---  
+On [timestamp], [cheater] was seen coordinating a gear drop. The receiving accounts showed no signs of active gameplay.  
+[link]  
+---  
+At [timestamp], [cheater] dropped high-level gear that was collected by an account with no badges or recent activity.  
+[link]  
+Thanks,  
+[codename]  
+---  
+I witnessed [cheater] making repeated capsule drops on [timestamp]. Each was picked up by accounts that haven’t played in months.  
+[link]  
+[codename]  
+---  
+[cheater] appears to be involved in off-game gear distribution. The drop-off on [timestamp] was followed by immediate pickup from a dormant account.  
+[link]  
+---  
+On [timestamp], [cheater] met with three agents at a portal. No links, hacks, or deploys—just a suspicious handoff.  
+[link]  
+[codename]  
+---  
+Observed [cheater] dropping capsules at [timestamp]. The items were collected by accounts with no visible gameplay history.  
+[link]  
+[codename]  
+---  
+At [timestamp], [cheater] dropped gear at a portal and left. Minutes later, it was picked up by a known inactive player.  
+[link]  
+---  
+[cheater] was seen at [timestamp] dropping capsules that were immediately picked up by low-activity accounts. This pattern is consistent with item trading.  
+[link]  
+[codename]  
+---  
+On [timestamp], [cheater] dropped gear at a portal. The pickup was too fast and too coordinated to be random.  
+[link]  
+[codename]  
+---  
+At [timestamp], [cheater] left capsules that were picked up by agents with no recent activity. This suggests off-game coordination.  
+[link]  
+---  
+I’m reporting [cheater] for suspicious behavior observed on [timestamp]. The gear exchange was clearly pre-arranged.  
+[link]  
+[codename]
+---
+On [timestamp], [cheater] dropped multiple capsules at a portal, which were immediately picked up by accounts with no recent activity.  
+[link]  
+---  
+At [timestamp], [cheater] met with several agents at a neutral location. No gameplay occurred—just a gear exchange.  
+[link]  
+---  
+I observed [cheater] dropping capsules on [timestamp], which were collected within seconds by dormant accounts.  
+[link]  
+Thank you,  
+[codename]  
+---  
+During [timestamp], [cheater] left gear at a portal that was picked up by low-level agents with no visible activity.  
+[link]  
+Best regards,  
+[codename]  
+---  
+[cheater] was seen coordinating a gear drop on [timestamp]. The receiving accounts showed no signs of active play.  
+[link]  
+---  
+At [timestamp], [cheater] dropped high-level gear that was collected by an account with no badges or recent logs.  
+[link]  
+Thanks,  
+[codename]  
+---  
+I witnessed [cheater] making repeated capsule drops on [timestamp], each picked up by inactive accounts.  
+[link]  
+[codename]  
+---  
+On [timestamp], [cheater] met with three agents at a portal. No links, hacks, or deploys—just a suspicious handoff.  
+[link]  
+---  
+Observed [cheater] dropping capsules at [timestamp]. The items were collected by accounts with no gameplay history.  
+[link]  
+[codename]  
+---  
+At [timestamp], [cheater] dropped gear and left. Minutes later, it was picked up by a known inactive player.  
+[link]  
+---  
+[cheater] was seen at [timestamp] dropping capsules that were immediately picked up by low-activity accounts.  
+[link]  
+[codename]  
+---  
+On [timestamp], [cheater] dropped gear at a portal. The pickup was too fast and too coordinated to be random.  
+[link]  
+[codename]  
+---  
+At [timestamp], [cheater] left capsules that were picked up by agents with no recent activity. This suggests off-game coordination.  
+[link]  
+---  
+I’m reporting [cheater] for suspicious behavior observed on [timestamp]. The gear exchange was clearly pre-arranged.  
+[link]  
+[codename]  
+---  
+[cheater] dropped capsules on [timestamp] that were collected by accounts with no visible gameplay. This looks like item trading.  
+[link]  
+---  
+On [timestamp], [cheater] was seen handing off gear to another agent without any gameplay interaction.  
+[link]  
+[codename]  
+---  
+At [timestamp], [cheater] dropped several capsules that were picked up by accounts that haven’t played in months.  
+[link]  
+---  
+[cheater] was observed on [timestamp] making a gear drop that was quickly collected by a dormant account.  
+[link]  
+[codename]  
+---  
+During [timestamp], [cheater] met with two agents and exchanged gear. No other actions were taken.  
+[link]  
+---  
+On [timestamp], [cheater] dropped gear at a portal and left. The items were picked up by a low-level account with no badges.  
+[link]  
+[codename]
+---
+[timestamp]  
+Observed [cheater] dropping multiple capsules at a neutral portal. Moments later, low-activity accounts picked them up without any other interaction.  
+[link]
+---
+[timestamp]  
+[cheater] was seen coordinating with other agents to exchange gear. No gameplay occurred—just a handoff.  
+[link]
+---
+Hi,  
+I’m reporting [cheater] for suspicious capsule drops on [timestamp]. The items were collected by dormant accounts within seconds.  
+[link]  
+Thank you,  
+[codename]
+---
+At [timestamp], [cheater] left several capsules that were quickly picked up by accounts with no recent activity. This suggests item trading.  
+[link]  
+Thanks,  
+[codename]
+---
+Hello,  
+[cheater] was observed meeting with multiple agents at a portal. Gear was exchanged, but no gameplay followed.  
+[timestamp]  
+[link]  
+[codename]
+---
+[timestamp]  
+Reports suggest [cheater] is involved in off-game gear sales. Capsules were dropped and collected in a suspiciously coordinated manner.  
+[link]
+---
+Hi NIA,  
+[cheater] dropped capsules at [timestamp] that were immediately picked up by accounts with no visible gameplay history.  
+[link]  
+[codename]
+---
+Dear Niantic,  
+At [timestamp], [cheater] was seen distributing gear to multiple agents who did not engage in any other activity.  
+[link]  
+Sincerely,  
+[codename]
+---
+[timestamp]  
+[cheater] dropped high-level gear at a portal, which was collected by a known inactive account. This appears to be item farming or trading.  
+[link]
+---
+Hi,  
+I witnessed [cheater] coordinating a gear drop with other agents at [timestamp]. The exchange was too structured to be casual.  
+[link]  
+[codename]
+---
+[timestamp]  
+[cheater] met with three agents at a portal. No links, no hacks—just a gear exchange. This looks like off-game trading.  
+[link]
+---
+Hello,  
+[cheater] dropped capsules at [timestamp] that were picked up by accounts with no badges or recent activity.  
+[link]  
+[codename]
+---
+Hi,  
+[cheater] was seen repeatedly dropping gear at the same portal on [timestamp], always followed by quick pickups from inactive agents.  
+[link]  
+[codename]
+---
+[timestamp]  
+[cheater] appears to be supplying gear to other agents through coordinated drops. The pattern is consistent and suspicious.  
+[link]
+---
+Hi there,  
+I’m reporting [cheater] for suspected item trading. Capsules were dropped and collected in a way that suggests off-game coordination.  
+[timestamp]  
+[link]  
+[codename]
+---
+On [timestamp], I observed [cheater] dropping multiple capsules at a portal. They were picked up almost instantly by inactive accounts.  
+[link]
+---
+At around [timestamp], [cheater] met with two agents at a neutral portal. No gameplay occurred—just a gear exchange.  
+[link]
+---
+I’m reporting [cheater] for suspicious capsule drops that took place on [timestamp]. The items were collected by dormant accounts within seconds.  
+[link]  
+Thank you,  
+[codename]
+---
+During [timestamp], [cheater] left several capsules at a portal. They were quickly picked up by low-level agents with no recent activity.  
+[link]  
+Best regards,  
+[codename]
+---
+On [timestamp], [cheater] was seen coordinating a gear drop. The receiving accounts showed no signs of active gameplay.  
+[link]
+---
+At [timestamp], [cheater] dropped high-level gear that was collected by an account with no badges or recent activity.  
+[link]  
+Thanks,  
+[codename]
+---
+I witnessed [cheater] making repeated capsule drops on [timestamp]. Each was picked up by accounts that haven’t played in months.  
+[link]  
+[codename]
+---
+[cheater] appears to be involved in off-game gear distribution. The drop-off on [timestamp] was followed by immediate pickup from a dormant account.  
+[link]
+---
+On [timestamp], [cheater] met with three agents at a portal. No links, hacks, or deploys—just a suspicious handoff.  
+[link]  
+[codename]
+---
+Observed [cheater] dropping capsules at [timestamp]. The items were collected by accounts with no visible gameplay history.  
+[link]  
+[codename]
+---
+At [timestamp], [cheater] dropped gear at a portal and left. Minutes later, it was picked up by a known inactive player.  
+[link]
+---
+[cheater] was seen at [timestamp] dropping capsules that were immediately picked up by low-activity accounts. This pattern is consistent with item trading.  
+[link]  
+[codename]
+---
+On [timestamp], [cheater] dropped gear at a portal. The pickup was too fast and too coordinated to be random.  
+[link]  
+[codename]
+---
+At [timestamp], [cheater] left capsules that were picked up by agents with no recent activity. This suggests off-game coordination.  
+[link]
+---
+I’m reporting [cheater] for suspicious behavior observed on [timestamp]. The gear exchange was clearly pre-arranged.  
+[link]  
+[codename]
+---
+[cheater] dropped capsules on [timestamp] that were collected by accounts with no visible gameplay. This looks like item trading.  
+[link]
+---
+On [timestamp], [cheater] was seen handing off gear to another agent without any gameplay interaction.  
+[link]  
+[codename]
+---
+At [timestamp], [cheater] dropped several capsules that were picked up by accounts that haven’t played in months.  
+[link]
+---
+[cheater] was observed on [timestamp] making a gear drop that was quickly collected by a dormant account.  
+[link]  
+[codename]
+---
+During [timestamp], [cheater] met with two agents and exchanged gear. No other actions were taken.  
+[link]
+---
+On [timestamp], [cheater] dropped gear at a portal and left. The items were picked up by a low-level account with no badges.  
+[link]  
+[codename]
+---
+At [timestamp], [cheater] left capsules that were picked up by agents with no recent activity. This suggests off-game coordination.
+[link]
+---
+Observed [cheater] dropping capsules at [timestamp]. The items were collected by accounts with no gameplay history.
+[link]
+[codename]
+---
+At [timestamp], [cheater] dropped gear and left. Minutes later, it was picked up by a known inactive player.
+[link]
+---
+I witnessed [cheater] making repeated capsule drops on [timestamp], each picked up by inactive accounts.
+[link]
+[codename]
+---
+I observed [cheater] dropping capsules on [timestamp], which were collected within seconds by dormant accounts.
+[link]
+Thank you,
+[codename]
+---
+[cheater] was observed on [timestamp] making a gear drop that was quickly collected by a dormant account.
+[link]
+[codename]
+---
+On [timestamp], [cheater] met with three agents at a portal. No links, hacks, or deploys—just a suspicious handoff.
+[link]
+---
+On [timestamp], [cheater] dropped gear at a portal. The pickup was too fast and too coordinated to be random.
+[link]
+[codename]
+---
+During [timestamp], [cheater] left gear at a portal that was picked up by low-level agents with no visible activity.
+[link]
+Best regards,
+[codename]
+---
+[cheater] dropped capsules on [timestamp] that were collected by accounts with no visible gameplay. This looks like item trading.
+[link]
+---
+[cheater] was seen at [timestamp] dropping capsules that were immediately picked up by low-activity accounts.
+[link]
+[codename]
+---
+On [timestamp], [cheater] was seen handing off gear to another agent without any gameplay interaction.
+[link]
+[codename]
+---
+At [timestamp], [cheater] dropped several capsules that were picked up by accounts that haven’t played in months.
+[link]
+---
+On [timestamp], [cheater] dropped multiple capsules at a portal, which were immediately picked up by accounts with no recent activity.
+[link]
+---
+On [timestamp], [cheater] dropped gear at a portal and left. The items were picked up by a low-level account with no badges.
+[link]
+[codename]
+---
+At [timestamp], [cheater] dropped high-level gear that was collected by an account with no badges or recent logs.
+[link]
+Thanks,
+[codename]
+---
+I'm reporting [cheater] for suspicious behavior observed on [timestamp]. The gear exchange was clearly pre-arranged.
+[link]
+[codename]
+---
+At [timestamp], [cheater] met with several agents at a neutral location. No gameplay occurred—just a gear exchange.
+[link]
+---
+[cheater] was seen coordinating a gear drop on [timestamp]. The receiving accounts showed no signs of active play.
+[link]
+---
+During [timestamp], [cheater] met with two agents and exchanged gear. No other actions were taken.
+[link]
+---
