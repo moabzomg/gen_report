@@ -7420,15 +7420,7 @@ Two accounts owned by [cheater] were observed at the same location. One neutrali
 [timestamp]  
 [link]
 ---
-Account A and Account B took turns capturing and recharging the same portal, with alternating mod deployment within seconds of each other.  
-[timestamp]  
-[link]
----
 On [timestamp], a low-level account dropped gear that was picked up instantly by the main account. Both devices were seen with the same player.  
-[timestamp]  
-[link]
----
-Both accounts shared the same movement path over multiple days, always appearing together at capture events, with one always benefiting the other.  
 [timestamp]  
 [link]
 ---
@@ -7436,15 +7428,7 @@ An account that had never been seen alone was used to deploy keys and mods that 
 [timestamp]  
 [link]
 ---
-During an operation, three accounts acted in perfect sequence to control and protect a portal. They were operated from the same vehicle.  
-[timestamp]  
-[link]
----
 Account A recharged all portals after Account B linked them, despite being shown in the same GPS location and never active independently.  
-[timestamp]  
-[link]
----
-A known low-level account was used to hold large amounts of gear and pass them to [cheater] repeatedly across various cities.  
 [timestamp]  
 [link]
 ---
@@ -7452,45 +7436,22 @@ Mod installations were mirrored between two accounts owned by [cheater], always 
 [timestamp]  
 [link]
 ---
-his dummy account would deploy soft mods and leave the portal unlinked, only for [cheater] to link and complete the setup moments later.  
-[timestamp]  
-[link]
----
 Two accounts (one L16 and one L4) were seen on-site. The L4 dropped gear, and the L16 deployed and linked immediately after. Observed on [timestamp].  
-[link]
----
-[cheater] used one account to repeatedly deploy portals and another to link and upgrade. Both actions occurred from the same bench within minutes.  
 [link]
 ---
 During [timestamp], a known alt account captured and filled all slots. Minutes later, the main account flipped it and made links without resistance.  
 [link]
 ---
-An L8 account was seen recharging and guarding a portal for an L16 account that would later use it for key farming. No attempt to hide association.  
-[link]
----
 Main and alt accounts have matching play schedules, share the same GPS traces, and alternate between capture and support roles.  
-[link]
----
-A series of throwaway accounts were used to deploy common mods and protect field lanes. These accounts never returned after initial actions.  
 [link]
 ---
 [cheater] keeps an alt account in opposing faction to neutralize strategic portals, which the main account then immediately captures.  
 [link]
 ---
-On [timestamp], two accounts submitted missions and portals at the same time with exact naming conventions. One was clearly meant to support the other.  
-[link]
----
 Two accounts logged identical daily activity for over 3 weeks with matching portals, suggesting scripted routines or account stacking.  
 [link]
 ---
-An L1 account was sacrificed to clear defensive mods on a portal, making way for [cheater] to recapture and mod it cleanly.  
-[link]
----
 [cheater] used two accounts in sync—one to destroy fields, the other to immediately link and deploy, always together at the same spot on foot.  
-[timestamp]  
-[link]
----
-An agent dropped gear in a remote spot, immediately picked up by another account under the same operator. The gear transfer happened in under 5 seconds.  
 [timestamp]  
 [link]
 ---
@@ -7498,14 +7459,7 @@ Two accounts alternated capturing and linking portals to extend a field repeated
 [timestamp]  
 [link]
 ---
-On [timestamp], both accounts deployed identical mods at the same portals and coordinated attacks, clearly controlled by the same person.  
-[link]
----
 One account clears enemy mods while the other finishes the link. Witnesses confirmed only one phone and player on site.  
-[timestamp]  
-[link]
----
-Agent logs show two accounts used to spoof “cross-faction” battles to farm AP quickly, all occurring at dead times with no actual resistance.  
 [timestamp]  
 [link]
 ---
@@ -7513,30 +7467,14 @@ A player rotates through three accounts to charge a network of portals 24/7. The
 [timestamp]  
 [link]
 ---
-During key drop operations, the player used a dummy account to mule hundreds of keys across regions. No gear was used for other actions.  
-[timestamp]  
-[link]
----
 One account holds portals, while the other repeatedly upgrades them to farm gear from drops. This behavior was observed in multiple cities.  
-[timestamp]  
-[link]
----
-The player maintains several low-level accounts purely to deploy shields before major ops, allowing main account to benefit from bonus gear.  
 [timestamp]  
 [link]
 ---
 Two accounts, [cheater] and a lower-level alias, were seen bouncing mods back and forth on portals in the same spot at [timestamp].  
 [link]
 ---
-One agent systematically destroys portals while another follows up within 15 seconds to deploy and link, always from the same IP and device type.  
-[timestamp]  
-[link]
----
 The player logged into 3 different accounts to farm resonators and create microfields. Device logs show no switch in physical location.  
-[timestamp]  
-[link]
----
-Over the course of two hours, the player built dozens of identical fields, with one account placing keys and another linking them.  
 [timestamp]  
 [link]
 ---
@@ -7544,29 +7482,14 @@ A backup account was used to hold portal control, while the main account used th
 [timestamp]  
 [link]
 ---
-The agent dropped capsules loaded with gear at [timestamp], which were instantly picked up by another nearby account. Witnesses confirmed solo activity.  
-[link]
----
 During a solo op, the player rotated through three accounts to cycle mods and control cooldowns, making fielding unusually efficient.  
-[timestamp]  
-[link]
----
-A Level 3 account is constantly recharging a set of portals for the main agent, even when the main account is logged off.  
 [timestamp]  
 [link]
 ---
 At [timestamp], the same player submitted missions under two different accounts and attempted to rate and boost their own entries.  
 [link]
 ---
-Two known aliases used by the same person coordinated portal drops at precise times to simulate cross-faction play. Only one person was observed.  
-[timestamp]  
-[link]
----
 [cheater] used another account to deploy a full L8 portal, then immediately logged in back in succession.  
-[timestamp]  
-[link]
----
-Two accounts held all anchor portals in the area. Surveillance by teammates confirms both phones were used by one person at the same bench.  
 [timestamp]  
 [link]
 ---
@@ -7574,15 +7497,7 @@ Two accounts held all anchor portals in the area. Surveillance by teammates conf
 [timestamp]  
 [link]
 ---
-All captured portals were immediately defended by a Level 3 recharger account located in the same physical location as [cheater].  
-[timestamp]  
-[link]
----
 Agent deployed portals with one account and then filled them with shields and force amps from a second account right after, seen on logs.  
-[timestamp]  
-[link]
----
-[Cheater] staged multiple attacks on home portals at odd hours using different accounts. Only one person was seen outside on security camera.  
 [timestamp]  
 [link]
 ---
@@ -7590,15 +7505,7 @@ One phone was seen running Ingress, while a second phone simultaneously fired XM
 [timestamp]  
 [link]
 ---
-Repeated mod flipping between two usernames every 5 minutes was done in the same park bench. Witnesses confirm only one person present.  
-[timestamp]  
-[link]
----
 Two usernames consistently farm portals together. Nearby CCTVs always show a single person visiting the site each time.  
-[timestamp]  
-[link]
----
-[Cheater] used one account to flip a portal and the other to recapture it with a full deploy. All actions done within a 30-second window.  
 [timestamp]  
 [link]
 ---
@@ -7606,15 +7513,7 @@ Player deployed multiple shields on the same portal from two different accounts 
 [timestamp]  
 [link]
 ---
-Two accounts consistently flip mods on the same portals in rotation, with physical evidence that the accounts are operated by one person.  
-[timestamp]  
-[link]
----
 An agent was recorded logging out of one account and immediately logging into another on the same phone to deploy resonators and mods rapidly.  
-[timestamp]  
-[link]
----
-Multiple accounts were used to reinforce each other’s portals repeatedly during late night hours when no other players were active.  
 [timestamp]  
 [link]
 ---
@@ -7622,15 +7521,7 @@ Two usernames attacked and immediately recaptured the same portals within minute
 [timestamp]  
 [link]
 ---
-An agent operated two accounts simultaneously, one controlling links while the other placed resonators and mods on the same portal.  
-[timestamp]  
-[link]
----
 Multiple mod flips and recharges were performed in quick succession from accounts that were confirmed to be controlled by a single player.  
-[timestamp]  
-[link]
----
-Two accounts farmed portal keys in the same location repeatedly, always arriving and leaving together.  
 [timestamp]  
 [link]
 ---
@@ -7638,15 +7529,7 @@ Two accounts consistently deployed and upgraded the same portals across a wide r
 [timestamp]  
 [link]
 ---
-Agent used one account to field build and a second to keep fields alive by deploying resonators and mods.  
-[timestamp]  
-[link]
----
 Two accounts under suspicion consistently assisted each other by recharging and upgrading portals in perfect synchronization.  
-[timestamp]  
-[link]
----
-A player logged into two accounts alternately within minutes to field control and link creation on the same portals.  
 [timestamp]  
 [link]
 ---
@@ -7654,15 +7537,7 @@ Identical portal mods were deployed by two separate accounts, confirmed to be op
 [timestamp]  
 [link]
 ---
-Two cheaters sharing the same IP repeatedly flipped the same portal, indicating possible account sharing.  
-[timestamp]  
-[link]
----
 [cheater] displayed mirrored behavior, recharging and upgrading portals in coordinated bursts.  
-[timestamp]  
-[link]
----
-One agent used two accounts simultaneously to farm rare portal keys and keep control of strategic locations.  
 [timestamp]  
 [link]
 ---
@@ -7670,15 +7545,7 @@ Rapid alternating portal attacks between two accounts prevented opposing teams f
 [timestamp]  
 [link]
 ---
-Two accounts frequently exchanged portal keys suspiciously, consistent with multi-account coordination for inventory sharing.  
-[timestamp]  
-[link]
----
 An account frequently logged out and switched to another to avoid cooldown periods and maintain continuous portal upgrades.  
-[timestamp]  
-[link]
----
-Two players frequently appeared on the same portals within seconds, reinforcing the same field layers repeatedly.  
 [timestamp]  
 [link]
 ---
@@ -7686,15 +7553,7 @@ Two accounts operated on the same device, swapping portal control repeatedly wit
 [timestamp]  
 [link]
 ---
-A player switched between two accounts frequently, deploying mods and recharging portals alternatingly.  
-[timestamp]  
-[link]
----
 Portals were reinforced consecutively by two separate accounts logging in from the same IP address.  
-[timestamp]  
-[link]
----
-Two codenames consistently appeared together at portal captures, sharing keys and coordinating attacks.  
 [timestamp]  
 [link]
 ---
@@ -7702,15 +7561,7 @@ One user accessed two accounts on the same mobile device to maximize AP gains an
 [timestamp]  
 [link]
 ---
-Several accounts under one player's control repeatedly flipped portal ownership in a coordinated pattern.  
-[timestamp]  
-[link]
----
 Two codenames shared portal keys excessively, indicating multi-account farming or collaboration.  
-[timestamp]  
-[link]
----
-One player logged out from one account and logged in immediately to another account to bypass cooldown timers.  
 [timestamp]  
 [link]
 ---
@@ -8643,15 +8494,7 @@ Field and deploy activity consistently show [cheater] operating with multiple ac
 [timestamp]  
 [link]
 ---
-Multiple gear capsule exchanges took place within seconds between [cheater] and a known inactive account. This occurred during an ongoing op, aiding rapid portal control.  
-[timestamp]  
-[link]
----
 Alt accounts supporting [cheater] appear only during ops to deploy resonators or mods. These profiles exhibit no independent activity, existing solely to assist.  
-[timestamp]  
-[link]
----
-[cheater] created layered fields using synchronized links and mod deploys from two devices, as shown by simultaneous actions from separate accounts at [timestamp].  
 [timestamp]  
 [link]
 ---
@@ -8659,15 +8502,7 @@ Ghost accounts recharge [cheater]’s portals within milliseconds of enemy attac
 [timestamp]  
 [link]
 ---
-A capsule containing rare gear was dropped by a shell account and immediately picked up by [cheater], with no fielding or hacking by the original owner.  
-[timestamp]  
-[link]
----
 Same-portal mod deploys from multiple IDs registered at [timestamp], making it impossible for a solo agent to act that quickly. Patterns align with multi-device play by [cheater].  
-[timestamp]  
-[link]
----
-Portals across a 5km area were captured within three minutes by [cheater], supported by alt accounts deploying and linking in sync. GPS offset logs suggest multi-phone usage.  
 [timestamp]  
 [link]
 ---
@@ -8675,15 +8510,7 @@ Deploy logs show [cheater] and three backup IDs working in unison to fully mod a
 [timestamp]  
 [link]
 ---
-Repetitive gear funneling behavior observed where low-level accounts drop items in secluded areas for [cheater] to collect. None of the accounts show normal progression.  
-[timestamp]  
-[link]
----
 Recharge events occurred across multiple portals at the exact [timestamp], using accounts linked to [cheater]’s main play zone. Only [cheater] benefited from the action.  
-[timestamp]  
-[link]
----
-Layered fields were built using resonators deployed by ghost accounts that only appear once in the portal history — all connected to [cheater]’s activity pattern.  
 [timestamp]  
 [link]
 ---
@@ -8691,15 +8518,7 @@ Despite repeated enemy takedowns, portals owned by [cheater] were re-shielded in
 [timestamp]  
 [link]
 ---
-An account with zero field activity was used to flip blockers just ahead of [cheater]’s fielding burst. This enabled multi-layered links that otherwise weren’t possible.  
-[timestamp]  
-[link]
----
 A series of eight portals were captured and linked within 70 seconds by [cheater] and their supporting IDs. No other agents were present during this sequence.  
-[timestamp]  
-[link]
----
-Multiple capsules tagged to [cheater] passed through 3 other accounts before being used in field construction. None of the transfer agents showed any deploy or hack activity.  
 [timestamp]  
 [link]
 ---
@@ -8707,15 +8526,7 @@ The recharge trail indicates energy bursts coming from dormant accounts to suppo
 [timestamp]  
 [link]
 ---
-Same login pattern observed across [cheater]’s suspected accounts, all active within 10 seconds of each other and performing complementary tasks.  
-[timestamp]  
-[link]
----
 Helper ID deployed a single resonator after [cheater] destroyed the portal, then immediately went offline — pattern repeated six times during the same op.  
-[timestamp]  
-[link]
----
-[cheater] fields using VR gear consistently sourced from the same alt account. Item ID logs show direct inventory handoffs through capsules with zero AP exchange.  
 [timestamp]  
 [link]
 ---
@@ -8723,15 +8534,7 @@ Account switching behavior is confirmed through identical mod deploy times and l
 [timestamp]  
 [link]
 ---
-During the operation at [timestamp], multiple portals were simultaneously recharged by various accounts linked to [cheater], suggesting use of multi-device play.  
-[timestamp]  
-[link]
----
 Observations reveal that [cheater] coordinates with several alt accounts to rapidly deploy mods and create fields within seconds, an activity impossible for a single player.  
-[timestamp]  
-[link]
----
-[cheater]’s supporting accounts show no independent activity besides assisting in gear deployment and portal recharging, indicating coordinated multi-account abuse.  
 [timestamp]  
 [link]
 ---
@@ -8739,15 +8542,7 @@ Instantaneous capsule transfers from alt accounts to [cheater] occurred repeated
 [timestamp]  
 [link]
 ---
-Multiple accounts under [cheater]’s control appear to work in perfect sync to maintain field integrity and power, with no signs of genuine individual activity.  
-[timestamp]  
-[link]
----
 Linked IPs and concurrent logins confirm that [cheater] operates several devices to gain unfair advantages in portal control and inventory management.  
-[timestamp]  
-[link]
----
-High-speed deployment of resonators from several accounts occurred during a narrow time window at [timestamp], strongly suggesting multi-device or multi-account manipulation.  
 [timestamp]  
 [link]
 ---
@@ -8755,15 +8550,7 @@ Alt accounts under [cheater]’s control are used exclusively for item farming a
 [timestamp]  
 [link]
 ---
-During a critical op, recharge bursts from three different accounts coordinated to preserve [cheater]’s fields from enemy decay, all within milliseconds of each other.  
-[timestamp]  
-[link]
----
 Multiple capsule drops and pickups between [cheater] and alt accounts have been recorded at [timestamp], with no signs of legitimate gameplay activity from the helpers.  
-[timestamp]  
-[link]
----
-[cheater] used two distinct devices to simultaneously hack and deploy mods on neighboring portals, as indicated by timestamp logs and rapid action sequences.  
 [timestamp]  
 [link]
 ---
@@ -8771,15 +8558,7 @@ Coordinated multi-account operations were detected where alt IDs deployed mods a
 [timestamp]  
 [link]
 ---
-Three separate accounts deployed and recharged portals within a 30-second window at [timestamp], reflecting impossible timing for a single user.  
-[timestamp]  
-[link]
----
 Capsule inventory logs show items moving through multiple alt accounts before arriving at [cheater]’s main account, indicating use of helper IDs to stockpile gear.  
-[timestamp]  
-[link]
----
-[cheater]’s backup accounts remain inactive except for brief periods when supporting field building and recharging during major ops.  
 [timestamp]  
 [link]
 ---
@@ -8787,15 +8566,7 @@ Analysis of portal mods reveals that all were deployed in rapid succession by [c
 [timestamp]  
 [link]
 ---
-[cheater] repeatedly drops capsules in isolated locations only to have alt accounts pick them up instantly, circumventing normal gameplay rules.  
-[timestamp]  
-[link]
----
 Recharge logs reveal energy boosts coming from dormant alt accounts exclusively during times [cheater] was actively fielding, showing coordinated multi-account support.  
-[timestamp]  
-[link]
----
-Helper accounts connected to [cheater] show no solo activity but rapidly perform key actions in sync with the main account during major events.  
 [timestamp]  
 [link]
 ---
@@ -8803,15 +8574,7 @@ Multiple accounts used by [cheater] were logged accessing the same portals simul
 [timestamp]  
 [link]
 ---
-During the coordinated event at [timestamp], multiple accounts linked to [cheater] deployed resonators and mods on adjacent portals almost simultaneously, indicating multi-device operation.  
-[timestamp]  
-[link]
----
 Logs show that [cheater]’s alt accounts repeatedly transfer rare items through capsules without any independent hacking or deploying activity, highlighting clear item funneling.  
-[timestamp]  
-[link]
----
-At [timestamp], three different accounts owned by [cheater] participated in portal recharging within seconds, a speed impossible for a single player using one device.  
 [timestamp]  
 [link]
 ---
@@ -8819,15 +8582,7 @@ At [timestamp], three different accounts owned by [cheater] participated in port
 [timestamp]  
 [link]
 ---
-Evidence at [timestamp] confirms that multiple IDs under [cheater]’s control were logged hacking the same portal within milliseconds of each other.  
-[timestamp]  
-[link]
----
 Rapid deployment of mods and capsule exchanges between [cheater] and alt accounts was recorded at [timestamp], strongly suggesting automated or multi-device support.  
-[timestamp]  
-[link]
----
-During the op at [timestamp], [cheater] leveraged multiple accounts to sustain portal shields and links against enemy attacks, as recharge logs indicate near-simultaneous activity.  
 [timestamp]  
 [link]
 ---
@@ -8835,15 +8590,7 @@ Inventory logs reveal that gear capsules were passed through several alt account
 [timestamp]  
 [link]
 ---
-Recharge sequences from multiple IDs linked to [cheater] overlap almost perfectly during field defense, demonstrating multi-account coordination.  
-[timestamp]  
-[link]
----
 Alt accounts controlled by [cheater] show no progress in levels or badges, but repeatedly appear in portal recharging and linking activities at critical moments.  
-[timestamp]  
-[link]
----
-During the time frame around [timestamp], several accounts logged actions on the same portal in near perfect succession, an indicator of device switching or multi-device use.  
 [timestamp]  
 [link]
 ---
@@ -8851,15 +8598,7 @@ A pattern of capsule drop and immediate pickup between [cheater] and alt account
 [timestamp]  
 [link]
 ---
-Accounts associated with [cheater] consistently appear only to recharge and deploy mods, never engaging in normal hacking or fielding activities, indicating helper roles.  
-[timestamp]  
-[link]
----
 [cheater]’s multi-account use is evidenced by concurrent portal control actions from different IPs logged at [timestamp], all focused on the same local cluster.  
-[timestamp]  
-[link]
----
-The deployment of high-value mods by multiple accounts linked to [cheater] occurred at [timestamp] within seconds, too fast for sequential play by a single user.  
 [timestamp]  
 [link]
 ---
@@ -8867,15 +8606,7 @@ Repeated portal link creation and destruction events at [timestamp] involved sev
 [timestamp]  
 [link]
 ---
-Recharge and deploy logs show multiple accounts active simultaneously within a 60-second window, supporting fields controlled by [cheater].  
-[timestamp]  
-[link]
----
 Helper accounts related to [cheater] only appear briefly during fielding ops, consistently performing recharges and mod deploys with no other activity.  
-[timestamp]  
-[link]
----
-[cheater]’s capsule inventories are replenished by transfers from several alt accounts, as seen at [timestamp], enabling sustained field creation without normal farming.  
 [timestamp]  
 [link]
 ---
@@ -8883,61 +8614,31 @@ At [timestamp], simultaneous portal hacks and mod deploys from accounts linked t
 [timestamp]  
 [link]
 ---
-At [timestamp], multiple accounts connected to [cheater] simultaneously recharged and deployed mods on the same set of portals, a clear indication of multi-account coordination.  
-[link]
----
 During the event at [timestamp], evidence shows that [cheater] operated several devices in parallel to maintain control of key portals through rapid deployment and recharging.  
-[link]
----
-Records from [timestamp] reveal capsule transfers between [cheater]’s accounts, facilitating the movement of high-level items without legitimate gameplay.  
 [link]
 ---
 At [timestamp], alt accounts linked to [cheater] were all active within seconds on adjacent portals, demonstrating use of multiple devices to maximize fielding efficiency.  
 [link]
 ---
-[cheater] used several accounts concurrently at [timestamp] to bypass normal cooldowns and extend portal control beyond usual limits.  
-[link]
----
 Capsule logs at [timestamp] show frequent passing of gear among multiple accounts controlled by [cheater], pointing to item trading or funneling behavior.  
-[link]
----
-Simultaneous hacking and mod deployment from accounts associated with [cheater] at [timestamp] indicate coordinated multi-account gameplay.  
 [link]
 ---
 At [timestamp], multiple IDs tied to [cheater] engaged in synchronized portal recharging, an unusual pattern consistent with multi-device operation.  
 [link]
 ---
-Data from [timestamp] confirms [cheater]’s use of multiple accounts exclusively for strategic field maintenance, with little other gameplay involvement.  
-[link]
----
 Portals in [cheater]’s area were fortified at [timestamp] by several accounts acting in unison, likely controlled by the same player through multiple devices.  
-[link]
----
-At [timestamp], multiple accounts registered under [cheater] were found simultaneously capturing and linking nearby portals, a clear multi-account strategy.  
 [link]
 ---
 Analysis of portal activity at [timestamp] shows [cheater] operating multiple devices to avoid cooldowns and maintain continuous control.  
 [link]
 ---
-The logs from [timestamp] indicate capsule exchanges between several accounts linked to [cheater], suggesting item trading through multi-accounting.  
-[link]
----
 During the session at [timestamp], [cheater]’s accounts activated concurrently within a tight geographic radius, consistent with multi-device use.  
-[link]
----
-[cheater]’s multiple accounts all performed portal hacks at [timestamp] within seconds of each other, an unlikely scenario without simultaneous device operation.  
 [link]
 ---
 At [timestamp], repeated capsule transfers occurred between accounts attributed to [cheater], facilitating gear redistribution across multiple accounts.  
 [link]
 ---
-The coordinated portal defense by [cheater]’s accounts at [timestamp] demonstrates multi-account tactics to dominate the area.  
-[link]
----
 Portal deployment logs at [timestamp] reveal several accounts under [cheater] manipulating portal mods and resonators in a synchronized fashion.  
-[link]
----
-Records show [cheater] managing multiple accounts at [timestamp], passing high-value items via capsules, violating fair play policies.  
 [link]
 ---
 During [timestamp], multiple IDs associated with [cheater] recharged portals at overlapping intervals, strongly indicating multi-account operation.  
@@ -11712,5 +11413,1981 @@ I am beyond angry. At [timestamp], [cheater] abused capsules to transfer rare it
 ---
 Furious about what happened at [timestamp]. [cheater] used capsules to rapidly transfer huge amounts of high-level gear across alt accounts. This destroys fair competition. Niantic, take this seriously and punish the offenders!  
 [link]
+---
+[cheater] was seen at [timestamp] deploying resonators and linking portals in a restricted area that’s been inactive for weeks. Suspicious pattern—always alone, yet too efficient. Classic signs of multi-device account use.
+
+[link]
+---
+Once again at [timestamp], [cheater] controlled multiple portals in a remote area within minutes—linking, recharging, and modding like clockwork. Obvious alt behavior. How long will this be ignored?
+
+[link]
+---
+Dear Niantic,
+
+I’ve observed consistent multi-account abuse by [cheater]. On [timestamp], they simultaneously linked distant portals using multiple accounts, despite zero visible presence from other agents.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+Hi,
+
+At [timestamp], [cheater] captured multiple portals and recharged them rapidly, followed by synchronized link creation—clearly coordinated with themselves via alternate accounts.
+
+[link]
+
+Regards,  
+[codename]
+---
+[cheater] again at [timestamp], using alternate accounts to shield a portal before linking it across blocked lanes. This isn’t strategy—it’s account abuse.
+
+[link]
+---
+Still no action from Niantic. At [timestamp], [cheater] captured five portals solo, dropped gear, then picked it up with their alt. We've all seen it. Please investigate.
+
+[link]
+---
+Dear Niantic,
+
+I’m reporting [cheater] for suspicious solo activity at [timestamp] involving repeated link setups and mod stacking in an isolated zone—clearly consistent with multiple-account behavior.
+
+[link]
+
+Thank you,  
+[codename]
+---
+Fed up seeing [cheater] roam with a phone in each hand. At [timestamp], they cleaned and recharged portals faster than any legit agent could—then linked to distant anchors no one else touched.  
+
+[link]
+---
+At [timestamp], [cheater] deployed resonators in sequence across portals too far apart for one account. This coordination reeks of account sharing.
+
+[link]
+---
+Every time [cheater] hits the field, it’s a solo mission with multiple outcomes—deploys, hacks, and links that would require at least two agents. [timestamp] was just another example.
+
+[link]
+---
+[cheater] operated alone in a remote location at [timestamp], capturing, linking, and modding portals across impossible distances. The behavior mimics tag-teaming accounts across devices.
+
+[link]
+---
+It’s demoralizing to watch this unfold. [cheater] logged activity at [timestamp] that shows classic multi-account play—back-to-back portal upgrades, coordinated links, and item swapping.
+
+[link]
+---
+Hello,
+
+On [timestamp], [cheater] appeared to control multiple accounts during a coordinated field setup in a normally inactive area. The exact portal actions and timing make it highly suspicious.
+
+[link]
+
+Best regards,  
+[codename]
+---
+Niantic, are you even looking? [cheater] was at it again on [timestamp]—dropping gear, flipping portals with zero opposition, then linking in tight succession like they were running a team. It’s just one person. Again.
+
+[link]
+---
+Hi there,
+
+Please review [cheater]’s activity at [timestamp]. This individual seems to manage multiple accounts to maintain control over a cluster of portals, regularly self-linking and modding without support.
+
+[link]
+
+Cheers,  
+[codename]
+---
+[cheater] executed a solo portal takeover at [timestamp], then linked it within seconds to distant anchors. No other agents were around. This reeks of alt usage.
+
+[link]
+---
+What happened at [timestamp] is unacceptable. [cheater] used their secondary accounts to force links and prevent counterplay in a region we've worked hard to maintain. This repeated offense needs action.
+
+[link]
+---
+Dear Niantic,
+
+The agent [cheater] performed an action at [timestamp] that aligns with multi-account behavior: controlling multiple portals, linking across unusual paths, and modding alone.
+
+[link]
+
+Yours sincerely,  
+[codename]
+---
+Just caught [cheater] at [timestamp] doing a solo mod-and-link chain. Either they have clones, or more likely, multiple accounts logged in on different devices. It's blatant.
+
+[link]
+---
+Hey,
+
+I’d like to report [cheater] for possible multi-accounting. At [timestamp], they managed to control and upgrade portals without visible help—pattern matches repeated alt behavior.
+
+[link]
+
+Thanks,  
+[codename]
+---
+At [timestamp], [cheater] linked portals across a wide area in under 2 minutes. The distance, timing, and sequence all indicate coordination via multiple accounts.
+
+[link]
+---
+Dear Niantic,
+
+Please investigate [cheater]’s activity at [timestamp]. Capturing portals, fully deploying, upgrading, and linking in a deserted area with such speed suggests multi-account abuse.
+
+[link]
+
+Best,  
+[codename]
+---
+Hi Niantic,
+
+I’ve witnessed ongoing suspicious behavior from [cheater], including at [timestamp]. Their solo gameplay covers too much ground, with gear drops and portal flips that seem impossible without alt accounts.
+
+[link]
+
+Thanks for looking into it,  
+[codename]
+---
+Infuriating to see [cheater] again manipulating the game at [timestamp]. Alone, yet somehow linking portals over 10km apart in minutes. Either teleporting or using alts.
+
+[link]
+---
+[cheater] continues to deploy, recharge, and link in areas where no other agent is seen. [timestamp] was another instance of rapid gear drop and pick-up, confirming alt usage.
+
+[link]
+---
+At [timestamp], [cheater] dropped items at a portal and another account picked them up moments later. Clearly the same person switching between devices. This is not okay.
+
+[link]
+---
+It’s unfair how [cheater] dominates the area using multiple accounts. [timestamp] showed them controlling both sides of a link path. Impossible to counter this without action from Niantic.
+
+[link]
+---
+Dear Niantic,
+
+I’m writing to report [cheater], who at [timestamp] carried out a series of suspicious portal links and deploys far too efficiently to be from one agent. The behavior is consistent with account sharing.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+At [timestamp], [cheater] used what appeared to be 2-3 alts to link portals, flip control fields, and recharge all within minutes—no other agents present. This is a recurring issue.
+
+[link]
+---
+Still waiting for enforcement. [cheater] is blatantly using multiple accounts. [timestamp] was another clear-cut case of them playing as a one-person army.
+
+[link]
+---
+To Niantic,
+
+On [timestamp], [cheater] deployed and linked portals while seemingly interacting with several accounts at once. Their pattern of behavior shows signs of rule-breaking with alts.
+
+[link]
+
+Thank you,  
+[codename]
+---
+Hey Niantic,
+
+Reporting [cheater] for what looks like multi-account manipulation. At [timestamp], they performed a full link cycle in an isolated area with no assistance visible.
+
+[link]
+
+Kind regards,  
+[codename]
+---
+Frustrated that [cheater] is still active. [timestamp] shows them moving gear across accounts and establishing fields solo. They’re exploiting every loophole with alts.
+
+[link]
+---
+At [timestamp], [cheater] performed a gear drop and immediate pickup—by another account that was conveniently within range. Likely the same player juggling phones.
+
+[link]
+---
+Hello Niantic,
+
+Just another day of [cheater] using their alt army. [timestamp] featured back-to-back link creation and multi-account support—again with no opposing agents to challenge them.
+
+[link]
+
+Regards,  
+[codename]
+---
+[cheater] used multiple accounts to recharge and defend linked portals at [timestamp]. The speed and pattern of reaction are not possible for one person. Please investigate.
+
+[link]
+---
+Dear Niantic Support,
+
+At [timestamp], [cheater] pulled off a sequence of deploys, upgrades, and remote links that would require more than one device. Suspected multi-account activity.
+
+[link]
+
+Yours,  
+[codename]
+---
+[cheater] has been repeatedly exploiting multi-account tactics to dominate gameplay. [timestamp] involved multiple link setups and resonator drops in quick succession.
+
+[link]
+---
+Enough is enough. [cheater] again used several accounts at [timestamp] to flip portals, create links, and block enemy fields with impossible precision. Action is overdue.
+
+[link]
+---
+Hi,
+
+I’m reporting [cheater] for consistent multi-account behavior. [timestamp] saw them take over three distant portals, mod them, and link—all solo. No legit agent could pull this off.
+
+[link]
+
+Thanks,  
+[codename]
+---
+Dear Niantic,
+
+On [timestamp], [cheater] was seen swapping gear between accounts and immediately deploying across portals with no one else around. This is a clear sign of ToS violation.
+
+[link]
+
+Best regards,  
+[codename]
+---
+At [timestamp], [cheater] was seen deploying resonators and linking portals in a remote area using multiple devices. The pattern of movement and simultaneous actions strongly suggests multi-account usage. This undermines the integrity of the game.
+
+[link]
+---
+I’m reporting [cheater] for suspicious activity observed at [timestamp]. They captured and fully deployed several portals in a restricted area, with actions that appear to be coordinated across multiple accounts. This is not the first time this has happened.
+
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] linked portals across a wide area in a way that suggests simultaneous control of multiple accounts. The timing and precision are highly suspect.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+Hi Niantic,
+
+Please investigate [cheater] for potential multi-account behavior. At [timestamp], they were seen deploying resonators and linking portals in a pattern that suggests account sharing or dual-device use.
+
+[link]
+
+Thanks,  
+[codename]
+---
+[timestamp]  
+[link]  
+Absolutely unacceptable. [cheater] was seen capturing portals and transferring gear between accounts in a remote zone. This is clearly not solo play. How many more reports before action is taken?
+---
+At [timestamp], [cheater] executed a series of links and mods in a restricted area, with timing that implies multiple accounts were used. This is a repeated pattern that’s damaging local gameplay.
+
+[link]
+---
+Dear Niantic,
+
+I witnessed [cheater] at [timestamp] deploying resonators and linking portals in a way that suggests multi-account coordination. This behavior is becoming more frequent and is affecting fair play.
+
+[link]
+
+Regards,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] continues to abuse the system. Multiple accounts were clearly used to capture and link portals in a remote location. This is not a one-time incident. Please take action.
+---
+Hi,
+
+At [timestamp], [cheater] was observed deploying resonators and linking portals in a suspiciously efficient manner. The activity pattern suggests the use of multiple accounts or devices.
+
+[link]
+
+Best,  
+[codename]
+---
+I’m frustrated. [cheater] was seen at [timestamp] capturing portals and linking across a wide area using what appears to be multiple accounts. This is not fair to the rest of us who play by the rules.
+
+[link]
+---
+At [timestamp], [cheater] dropped capsules near a cluster of portals and immediately picked them up again from a different account. There’s no way this wasn’t coordinated self-trading.
+
+[link]
+---
+Dear Niantic,
+
+On [timestamp], I observed [cheater] executing a complex portal link and deploy sequence without any visible agent support. Based on prior behavior, this suggests multi-device usage.
+
+[link]
+
+Kind regards,  
+[codename]
+---
+Just when I thought it couldn’t get more obvious—[cheater] was seen at [timestamp] capturing a full set of portals and deploying L8 resonators using what appeared to be multiple accounts again.
+
+[link]
+---
+Hi Niantic,
+
+[cheater] continues to manipulate gameplay unfairly. At [timestamp], they used alt accounts to block links and recharge portals under attack—no other agents were nearby.
+
+[link]
+
+Thanks for your attention,  
+[codename]
+---
+I’ve now seen [cheater] repeat the same exploit three times in a week. [timestamp] was the most blatant—solo deploys, full upgrades, and immediate linking using what’s clearly more than one account.
+
+[link]
+---
+Dear Niantic team,
+
+On [timestamp], [cheater] used what seems to be a personal farm of alt accounts to drop gear and instantly collect it. This is affecting gameplay balance in our community.
+
+[link]
+
+Thank you,  
+[codename]
+---
+No legit solo agent can manage what [cheater] pulled off at [timestamp]: six portals linked and upgraded across a broad zone in under ten minutes. It’s multi-account coordination, plain and simple.
+
+[link]
+---
+Hi,
+
+At [timestamp], [cheater] recharged and linked portals that were too far apart to be covered by one agent. The timing and lack of other activity suggest multi-account manipulation.
+
+[link]
+
+Cheers,  
+[codename]
+---
+[cheater] has built a fortress using alt accounts. At [timestamp], they modded portals with precision and linked across restricted zones where no teammates are ever seen.
+
+[link]
+---
+Unreal. [cheater] used multiple accounts at [timestamp] to capture portals, link across blocked lanes, and recharge when attacked. The coordination is too perfect to be legit.
+
+[link]
+---
+Dear Niantic,
+
+Please investigate [cheater] for potential ToS violations. At [timestamp], they used suspicious methods to drop and pick up gear, likely across alt accounts.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+[cheater] executed a set of recharges at [timestamp] that coincide with actions from suspected alternate accounts. This pattern continues weekly. The community is noticing.
+
+[link]
+---
+Hey Niantic,
+
+At [timestamp], [cheater] linked a large field that required two agents—but no one else was around. Classic sign of alt usage. This isn’t competitive or fair.
+
+[link]
+
+Regards,  
+[codename]
+---
+On [timestamp], [cheater] took down multiple portals, deployed resonators, then immediately linked back from portals already captured moments earlier—without any other agents in sight.
+
+[link]
+---
+[cheater] was seen switching between phones at [timestamp] to control the link path. It’s too well-coordinated to be random. This is calculated multi-account abuse.
+
+[link]
+---
+Hello,
+
+I observed [cheater] engaging in solo link bursts at [timestamp], involving portal links too far for one account to manage in that timeframe. Likely the same user on multiple devices.
+
+[link]
+
+Thank you,  
+[codename]
+---
+Every time [cheater] shows up, fields appear out of nowhere. [timestamp] was no exception—gear drops, quick links, and instant deploys. It’s ruining local gameplay.
+
+[link]
+---
+Dear Niantic,
+
+I’ve raised concerns before, but [cheater] continues to operate unchecked. [timestamp] shows another instance of precise, rapid portal management suggesting alt usage.
+
+[link]
+
+Best regards,  
+[codename]
+---
+Hi,
+
+Reporting suspicious activity by [cheater] on [timestamp]. The agent captured portals, linked them across zones, and recharged remotely—all actions that line up with multi-account coordination.
+
+[link]
+
+Thanks,  
+[codename]
+---
+Enough is enough. At [timestamp], [cheater] solo linked and shielded four strategic portals before anyone could react. The only explanation is multi-device gameplay.
+
+[link]
+---
+At [timestamp], [cheater] was seen capturing portals and linking across a wide area with uncanny speed. The coordination and timing suggest multiple accounts were used simultaneously.
+
+[link]
+---
+Dear Niantic,
+
+I’m reporting [cheater] for suspected multi-account activity. At [timestamp], they deployed resonators and linked portals in a pattern that’s highly unlikely for a single player. Please investigate.
+
+[link]
+
+Regards,  
+[codename]
+---
+[timestamp]  
+[link]  
+This is getting out of hand. [cheater] was once again seen using multiple accounts to control a restricted area. The community is losing faith in fair play. Please take action.
+---
+Hi,
+
+At [timestamp], [cheater] captured and linked portals in a remote location using what appears to be multiple devices. The actions were too synchronized to be from one account.
+
+[link]
+
+Thanks,  
+[codename]
+---
+I’m tired of reporting this. [cheater] was back at it on [timestamp], using multiple accounts to deploy and link portals in a way that’s clearly coordinated. This is not fair to the rest of us.
+
+[link]
+---
+Dear Niantic,
+
+Please review the activity of [cheater] at [timestamp]. The portal captures and links were executed in a way that strongly suggests multi-account use. This behavior is harming the local community.
+
+[link]
+
+Best regards,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] continues to exploit the system. Multiple accounts were used to deploy resonators and link portals in a restricted area. This is a clear violation of fair play principles.
+---
+Hi Niantic,
+
+At [timestamp], [cheater] was observed linking portals across a wide area with perfect timing. This kind of coordination is only possible with multiple accounts or shared access.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+At [timestamp], [cheater] used multiple accounts to rapidly deploy and link portals in a remote zone. This is not the first time this has been reported. Please take this seriously.
+
+[link]
+---
+Dear Niantic,
+
+I’m reporting [cheater] for suspicious activity at [timestamp]. The deployment and linking pattern suggests the use of multiple accounts. This undermines the spirit of the game.
+
+[link]
+
+Thank you,  
+[codename]
+---
+At [timestamp], [cheater] dropped multiple capsules and moments later picked them up with another account. This is a repeated pattern that undermines legitimate play.
+
+[link]
+---
+Dear Niantic,
+
+During [timestamp], [cheater] performed a suspicious series of actions: linking and modding portals at impossible speed with no visible allies. Looks like multiple accounts in play again.
+
+[link]
+
+Kindly,  
+[codename]
+---
+Hi,
+
+Reporting [cheater] for likely alt activity. At [timestamp], they deployed, linked, and recharged portals too far apart for a solo agent to manage.
+
+[link]
+
+Regards,  
+[codename]
+---
+Here we go again—[cheater] linked from one portal to another across zones with zero enemy activity, right at [timestamp]. You guessed it: solo, suspicious, and coordinated. Alt behavior.
+
+[link]
+---
+Frustrated. [timestamp], [cheater] single-handedly built and upgraded a high-level portal cluster without any help. That’s just not possible without alternate accounts.
+
+[link]
+---
+Dear Niantic,
+
+Please investigate [cheater] at [timestamp]. Solo captures, full deploys, perfect mod placement—repeated actions that imply account sharing or dual-device play.
+
+[link]
+
+Thank you,  
+[codename]
+---
+At [timestamp], [cheater] created a full layered field using what seems to be their own support accounts. No other agents present, just one person juggling devices.
+
+[link]
+---
+Niantic, this has gone too far. [cheater] continues to dominate portals using multiple accounts. [timestamp] showed them taking over a remote cluster in minutes—again.
+
+[link]
+---
+Hey,
+
+[cheater] performed a perfect cross-zone link at [timestamp] without visible help. Looks like they’re playing both ends of the field—literally.
+
+[link]
+
+Thanks,  
+[codename]
+---
+I watched [cheater] at [timestamp] move between two phones, linking and modding as if they were two agents. It’s not fair to the rest of us playing by the rules.
+
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] linked multiple portals in rapid succession over long distances, without support from any teammate. Highly indicative of multi-account behavior.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+Another day, another alt abuse. [cheater] captured and modded portals solo at [timestamp], linked across isolated areas, and recharged under attack. One person shouldn’t be able to do this.
+
+[link]
+---
+Hello,
+
+At [timestamp], [cheater] was seen executing solo fielding ops involving complex cross-links that shouldn’t be possible without a second agent—likely another account.
+
+[link]
+
+Best,  
+[codename]
+---
+[cheater] keeps appearing at dead hours, performing link setups with zero resistance. [timestamp] was one more case of obvious multi-device activity.
+
+[link]
+---
+[cheater] linked across a zone at [timestamp] where the anchor had no prior activity. The only recent visitor? The same account. Alt gameplay is clear.
+
+[link]
+---
+Dear Niantic,
+
+I’d like to report [cheater] for actions at [timestamp]. The coordination of gear transfers and linking suggests use of multiple accounts in violation of the TOS.
+
+[link]
+
+Thank you,  
+[codename]
+---
+Observed [cheater] at [timestamp] capturing portals and transferring gear from an unseen source—likely their own alt. The timing was too tight to be coincidence.
+
+[link]
+---
+[cheater] consistently appears where no one else plays and manages full control. [timestamp] was yet another example of multi-account advantage.
+
+[link]
+---
+Hi Niantic,
+
+On [timestamp], [cheater] deployed a perfect set of resonators, shielded, and linked portals across impossible distances. They’re clearly coordinating between accounts.
+
+[link]
+
+Regards,  
+[codename]
+---
+To Niantic,
+
+At [timestamp], [cheater] completed a link chain using only their account(s) in a highly isolated area. There’s no other explanation for the precision of this action.
+
+[link]
+
+Thanks,  
+[codename]
+---
+At [timestamp], [cheater] was seen deploying resonators and linking portals in a pattern that clearly indicates the use of multiple accounts. This is not isolated behavior.
+
+[link]
+---
+Dear Niantic,
+
+I observed [cheater] at [timestamp] capturing portals and linking across a wide area with suspicious precision. The activity strongly suggests multi-account coordination.
+
+[link]
+
+Best,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] continues to manipulate the game using multiple accounts. The community has noticed repeated patterns of coordinated portal captures and gear transfers. Please investigate.
+---
+Hi,
+
+At [timestamp], [cheater] was seen deploying resonators and linking portals in a remote area. The timing and movement suggest the use of multiple devices or shared accounts.
+
+[link]
+
+Thanks,  
+[codename]
+---
+I’m reporting [cheater] for suspicious activity at [timestamp]. The way they linked portals and deployed mods suggests they were using more than one account at the same time.
+
+[link]
+---
+Dear Niantic,
+
+Please review [cheater]’s actions at [timestamp]. The portal captures and gear transfers appear to be coordinated across multiple accounts, which violates fair play.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+[timestamp]  
+[link]  
+Once again, [cheater] was seen using multiple accounts to dominate a restricted area. This is not the first report. Please take this seriously.
+---
+Hi Niantic,
+
+At [timestamp], [cheater] linked portals in a way that suggests simultaneous control of multiple accounts. This behavior is harming the local gameplay experience.
+
+[link]
+
+Regards,  
+[codename]
+---
+At [timestamp], [cheater] was observed capturing portals and linking across a wide area with unnatural speed. This is consistent with multi-account behavior.
+
+[link]
+---
+Dear Niantic,
+
+I’m reporting [cheater] for suspected multi-account use. At [timestamp], they deployed resonators and linked portals in a way that’s not possible for a single player.
+
+[link]
+
+Thank you,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] was seen transferring gear between accounts using capsules. This is a clear sign of multi-account abuse. Please investigate and take appropriate action.
+---
+Hi,
+
+At [timestamp], [cheater] captured and linked portals in a remote area with suspicious efficiency. The actions suggest the use of multiple devices or shared accounts.
+
+[link]
+
+Best,  
+[codename]
+---
+I’m frustrated by [cheater]’s repeated abuse of the system. At [timestamp], they used multiple accounts to dominate a zone and transfer gear. This is not fair play.
+
+[link]
+---
+Dear Niantic,
+
+Please investigate [cheater] for multi-account behavior. At [timestamp], they were seen deploying resonators and linking portals in a way that suggests coordinated account use.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] continues to exploit the game using multiple accounts. The community has reported this before, and it’s affecting morale. Please take action.
+---
+Hi Niantic,
+
+At [timestamp], [cheater] was seen capturing portals and linking across a wide area with perfect timing. This is not possible without multiple accounts.
+
+[link]
+
+Thanks,  
+[codename]
+---
+At [timestamp], [cheater] used multiple accounts to rapidly deploy and link portals in a restricted zone. This is a repeated pattern that needs to be addressed.
+
+[link]
+---
+Dear Niantic,
+
+I’m reporting [cheater] for suspicious activity at [timestamp]. The deployment and linking pattern suggests the use of multiple accounts or shared access.
+
+[link]
+
+Thank you,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] was seen using multiple accounts to control a remote area. This is not the first time this has happened. Please investigate and enforce the rules.
+---
+Hi,
+
+At [timestamp], [cheater] captured and linked portals in a way that suggests multi-account coordination. This behavior is damaging the integrity of the game.
+
+[link]
+
+Regards,  
+[codename]
+---
+At [timestamp], [cheater] executed back-to-back portal captures and linking in a deserted zone. No other agents visible. This pattern strongly indicates multi-account control.
+
+[link]
+---
+Dear Niantic,
+
+Yet again, [cheater] appeared to perform solo actions that require multiple agents. At [timestamp], they linked across several distant anchors without visible support.
+
+[link]
+
+Best,  
+[codename]
+---
+Hi,
+
+[cheater] continues to abuse multiple accounts. On [timestamp], they upgraded multiple portals solo, instantly recharged them, and then linked through a dense area unopposed.
+
+[link]
+
+Thanks,  
+[codename]
+---
+Infuriating repeat behavior. [cheater] reappeared at [timestamp] and managed to shield, deploy, and link across multiple zones—clearly not possible without alt accounts.
+
+[link]
+---
+[cheater] is treating Ingress like a one-player game. At [timestamp], they used what appeared to be multiple phones to link portals rapidly in multiple directions.
+
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] dropped items near a cluster of portals, only to collect them seconds later from another account. The timing was too precise to be anything but multi-account usage.
+
+[link]
+
+Regards,  
+[codename]
+---
+Not again. At [timestamp], [cheater] recharged and blocked portals that were just neutralized—no teammates in sight. Please investigate for alt usage.
+
+[link]
+---
+[cheater] created complex links in under 5 minutes at [timestamp], something that normally takes coordination between two agents. In this case, it’s likely just one person with multiple accounts.
+
+[link]
+---
+Hi Niantic,
+
+Observed [cheater] solo-operating in a restricted zone at [timestamp], linking and deploying with robotic precision. Suspected use of multiple devices/accounts.
+
+[link]
+
+Thank you,  
+[codename]
+---
+At [timestamp], [cheater] linked between distant portals that hadn’t been visited by any other agent. They’re clearly moving items and controlling the map using alts.
+
+[link]
+---
+Dear Niantic,
+
+Please look into [cheater]’s actions on [timestamp]. They built a full P8 farm by themselves in a location typically inaccessible. Suggesting multi-device use.
+
+[link]
+
+Kindly,  
+[codename]
+---
+Hi there,
+
+On [timestamp], [cheater] flipped and recharged three key portals while building fields in a location with no reported activity—definitely smells like a one-person alt operation.
+
+[link]
+
+Thanks,  
+[codename]
+---
+Frustrating to see [cheater] constantly farming alone. [timestamp] they linked portals across town with no help. Every sign points to multi-account cheating.
+
+[link]
+---
+[cheater] keeps dominating remote clusters. At [timestamp], they fully deployed, linked, and modded three portals in different areas—too much for one agent.
+
+[link]
+---
+Dear Niantic Support,
+
+At [timestamp], [cheater] linked into a controlled zone with no allies nearby, and deployed shields immediately after. Highly suspicious alt behavior.
+
+[link]
+
+Regards,  
+[codename]
+---
+Hi,
+
+[cheater] continues to push solo operations far beyond what’s possible. [timestamp] was another case of multi-device use to link distant portals with surgical timing.
+
+[link]
+
+Thanks again,  
+[codename]
+---
+[cheater] was seen capturing and linking from multiple portal clusters almost simultaneously at [timestamp]. Either they’ve cloned themselves—or they’re cheating with alts.
+
+[link]
+---
+Dear Niantic,
+
+This is getting ridiculous. At [timestamp], [cheater] used a second account to flip a key portal and immediately linked from it using their main. We’ve seen this repeatedly.
+
+[link]
+
+Best regards,  
+[codename]
+---
+At [timestamp], [cheater] captured a portal, deployed, and dropped gear—then a second account picked it up and linked within seconds. This is blatant multi-account manipulation.
+
+[link]
+---
+Please investigate [cheater]. At [timestamp], they linked portals between zones where no other agents were present, then recharged when countered. It’s not a fair fight anymore.
+
+[link]
+---
+At [timestamp], [cheater] was seen capturing portals and linking across a wide area with suspicious precision. The timing and coordination suggest multi-account use.
+
+[link]
+---
+Dear Niantic,
+
+I observed [cheater] at [timestamp] deploying resonators and linking portals in a way that strongly indicates the use of multiple accounts. This behavior is damaging to fair gameplay.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] was once again seen using multiple accounts to dominate a restricted area. This is a repeated pattern that needs immediate attention.
+---
+Hi,
+
+At [timestamp], [cheater] captured and linked portals in a remote location with unnatural speed. The actions suggest the use of multiple devices or shared accounts.
+
+[link]
+
+Thanks,  
+[codename]
+---
+Dear Niantic,
+
+Please review [cheater]’s actions at [timestamp]. The portal captures and gear transfers appear to be coordinated across multiple accounts, which violates fair play.
+
+[link]
+
+Best regards,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] continues to manipulate the game using multiple accounts. The community has noticed repeated patterns of coordinated portal captures and gear transfers.
+---
+At [timestamp], [cheater] controlled two ends of a long-distance link without any other agent present. They first captured and upgraded one portal, then the other—linking back within 90 seconds. No one else showed up on COMM. This is not possible for a single account.
+
+[link]
+---
+Hi Niantic,
+
+At [timestamp], [cheater] moved between three isolated portals located miles apart, deploying full resonators and modding each one. The link path between them appeared within minutes, with no other visible agent activity. This pattern matches consistent alt-account use observed in prior incidents.
+
+[link]
+
+Thanks,  
+[codename]
+---
+It’s becoming impossible to maintain fair play. [cheater] was observed at [timestamp] dropping capsules under one portal, then immediately switching devices to pick them up and link. This type of gear sharing—especially done without any delay—strongly suggests multiple-account abuse.
+
+[link]
+---
+At [timestamp], [cheater] linked portals across a geographically restricted area that requires timed access and coordination. The portals were captured, upgraded, and linked within minutes of each other, all under the same username. We've seen them repeat this pattern weekly using what we believe are multiple devices.
+
+[link]
+---
+Dear Niantic,
+
+I'm reporting suspicious solo operations by [cheater] at [timestamp]. In a 15-minute window, they captured and fully deployed 4 high-level portals across a wide zone, linked them with perfect alignment, and recharged them mid-attack. No other players were visible or active. This looks like multi-account orchestration.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+Hi,
+
+On [timestamp], [cheater] executed a full gear transfer via capsules between two accounts. One dropped L8 gear and mods, while the second account picked them up and immediately used them on nearby portals. This sort of synchronized action is a common multi-account exploit and it disrupts legitimate play.
+
+[link]
+
+Regards,  
+[codename]
+---
+At [timestamp], [cheater] linked between portals that were just neutralized minutes earlier. Despite having no teammates visible on COMM, the portals were fully deployed and recharged before enemy agents arrived. Based on observed movement and timing, [cheater] is likely operating multiple accounts in tandem.
+
+[link]
+---
+[cheater] captured and linked across three portals deep inside a restricted access zone at [timestamp], with precise timing and deployment. It’s highly unlikely a single agent could perform this without support—especially since the locations were all visited within a 5-minute window. Suspected alt usage.
+
+[link]
+---
+Dear Niantic,
+
+On [timestamp], [cheater] performed a suspicious sequence involving two anchor portals that had not been touched by any other agents. The timing of the portal captures, immediate modding, and links—followed by recharge from the same account—clearly suggests control over both ends.
+
+[link]
+
+Thank you,  
+[codename]
+---
+I personally watched [cheater] at [timestamp] switch between two phones and capture, link, and recharge without help. They dropped capsules under one portal and within seconds, a second account picked them up and used them elsewhere. This gear funneling seriously undermines fair play.
+
+[link]
+---
+Niantic,
+
+At [timestamp], [cheater] built a multi-layered field by deploying on portals across a wide area. What’s suspicious is how they recharged the anchors from a distance and linked through dense blockers, solo. The actions were too tightly timed for one person without multi-account cheating.
+
+[link]
+
+Best regards,  
+[codename]
+---
+At [timestamp], [cheater] neutralized a cluster of portals, redeployed them with full resonators, dropped keys, and relinked—all in one session. Based on gear transfer speed and linking, this was not one agent—it’s a coordinated multi-account setup.
+
+[link]
+---
+Hi Niantic,
+
+Reporting [cheater] again. On [timestamp], they were seen holding two phones and interacting with both while capturing and linking portals in a remote area. They linked from one account's portal to the other, a recurring behavior our community has witnessed several times.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+[cheater] is exploiting alts to dominate local play. At [timestamp], they executed a link chain that involved capturing distant portals, using keys that had not been seen in the inventory until that session. It appears the keys were transferred from a supporting alt account to complete the link path.
+
+[link]
+---
+At [timestamp], [cheater] flipped and upgraded enemy portals, only to have them instantly recharged and linked to another portal they’d just captured solo. No teammate support and no time gap between actions. These tactics indicate account sharing or dual-device play.
+
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] executed an exact same sequence they’ve used before: drop gear with one account, pick it up with another, fully deploy and link. I’ve documented similar actions across multiple sessions. This player is manipulating the game environment using multiple identities.
+
+[link]
+
+Thank you,  
+[codename]
+---
+Hi there,
+
+[cheater] carried out a solo portal setup that would normally require coordination with another agent. [timestamp] was yet another case—build, mod, and perfect link path with no assistance. The execution speed is unnatural and unfair.
+
+[link]
+
+Best,  
+[codename]
+---
+On [timestamp], [cheater] deployed resonators, dropped capsules, linked, then recharged from a different portal—doing it all in a span of 5 minutes. The movement and interaction suggest two accounts played in perfect sync, likely by the same person.
+
+[link]
+---
+[cheater] was caught once again at [timestamp] dropping high-level mods and gear from one account and instantly retrieving them on another. This behavior has been going on unchecked, and our faction is losing interest in competing fairly because of it.
+
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] soloed three portals in an isolated zone, used dropped gear to upgrade each one, and then created a full field by linking them together. This all happened too quickly and without any visible collaborators, raising strong suspicion of alt usage.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+At [timestamp], [cheater] was observed capturing three portals in a restricted area within minutes, deploying full resonator sets and linking them in a triangle. The speed and coordination suggest simultaneous use of multiple accounts.
+
+[link]
+---
+Dear Niantic,
+
+During [timestamp], [cheater] deployed resonators and mods on six portals in a remote zone. The deployment pattern and timing indicate the use of multiple devices or shared accounts. This behavior has been reported by several local agents.
+
+[link]
+
+Best regards,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] was seen capturing portals and immediately linking them across long distances, with no visible travel time. This suggests the use of multiple accounts to pre-position portals and execute links in rapid succession.
+---
+Hi Niantic,
+
+At [timestamp], [cheater] used what appears to be a coordinated set of accounts to deploy resonators, link portals, and recharge them simultaneously. The activity was witnessed by multiple agents and is consistent with multi-account abuse.
+
+[link]
+
+Thanks,  
+[codename]
+---
+I’m reporting [cheater] for suspicious behavior at [timestamp]. They captured a cluster of portals, deployed full resonators, and linked them in a star pattern—all within a few minutes. The efficiency and coverage suggest multi-account coordination.
+
+[link]
+---
+Dear Niantic,
+
+Please investigate [cheater] for repeated multi-account behavior. At [timestamp], they were seen transferring gear between accounts using capsules, then using those items to take down and rebuild portals in a remote area.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] continues to dominate a remote zone using what appears to be a network of alt accounts. The portals are always recharged instantly, and gear is constantly replenished. This is not sustainable for a single player.
+---
+Hi,
+
+At [timestamp], [cheater] captured and linked portals across a wide area with no visible travel or delay. The timing and precision suggest the use of multiple accounts or shared access.
+
+[link]
+
+Best,  
+[codename]
+---
+At [timestamp], [cheater] was seen deploying resonators and mods on portals that had just been neutralized. The speed of redeployment and the presence of identical mods across portals suggest coordinated multi-account use.
+
+[link]
+---
+Dear Niantic,
+
+I’m reporting [cheater] for suspicious activity at [timestamp]. They used capsules to transfer gear between accounts, then used that gear to fully deploy and link portals in a restricted area. This is not the first time this has occurred.
+
+[link]
+
+Thank you,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] was observed capturing portals and linking them in a perfect fielding pattern, with no visible support from other agents. The behavior is consistent with multi-account fielding strategies.
+---
+Hi Niantic,
+
+At [timestamp], [cheater] deployed resonators and linked portals in a way that suggests simultaneous control of multiple accounts. The gear used was identical across portals, and the timing was too precise for solo play.
+
+[link]
+
+Regards,  
+[codename]
+---
+At [timestamp], [cheater] used multiple accounts to take down a series of portals, then immediately redeployed and linked them. The sequence was too fast and too coordinated to be the work of a single player.
+
+[link]
+---
+Dear Niantic,
+
+Please review [cheater]’s activity at [timestamp]. They were seen capturing portals, deploying identical mods, and linking across zones with no visible travel. This is a clear sign of multi-account coordination.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] continues to exploit the system by using multiple accounts to maintain control over a key area. The portals are always recharged instantly, and gear is never depleted. This is not fair to the rest of the community.
+---
+Hi,
+
+At [timestamp], [cheater] was seen capturing and linking portals in a remote area using what appears to be multiple devices. The actions were too synchronized to be from one account.
+
+[link]
+
+Thanks,  
+[codename]
+---
+I’m reporting [cheater] for repeated abuse of the system. At [timestamp], they used multiple accounts to deploy resonators, link portals, and recharge them in real time. This is not sustainable for a single player.
+
+[link]
+---
+Dear Niantic,
+
+Please investigate [cheater] for suspicious activity at [timestamp]. The deployment and linking pattern suggests the use of multiple accounts or shared access. This behavior is affecting local gameplay balance.
+
+[link]
+
+Thank you,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] was seen using multiple accounts to control a remote area. The portals are always fully deployed and linked within minutes of being neutralized. This is not the behavior of a solo agent.
+---
+Hi,
+
+At [timestamp], [cheater] captured and linked portals in a way that suggests multi-account coordination. The gear used was identical across portals, and the timing was too precise for solo play.
+
+[link]
+
+Regards,  
+[codename]
+---
+[cheater] was observed at [timestamp] capturing and linking two distant portals—one after the other—with near-zero delay. Impossible for a solo player without help or alt accounts.
+
+[link]
+---
+Hi Niantic,
+
+At [timestamp], [cheater] used what appear to be multiple accounts to deploy, upgrade, and immediately link a full set of portals in a usually inactive area. This sequence has been reported before.
+
+[link]
+
+Thanks,  
+[codename]
+---
+At [timestamp], [cheater] captured a portal, dropped items, and just seconds later a second account picked them up and used them to link elsewhere. Classic case of multi-account funneling.
+
+[link]
+---
+Dear Niantic Support,
+
+Reporting [cheater] for clear multi-account activity at [timestamp]. The agent flipped a portal, deployed L8 resonators, dropped mods, then linked from another device nearby.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+[cheater] dominated a large swath of remote portals at [timestamp], linking them in sequence across isolated terrain. With no other agents active, this reeks of coordinated alt use.
+
+[link]
+---
+Hi,
+
+Caught [cheater] at [timestamp] recharging distant portals they just captured—solo. No other team activity, just a single agent somehow everywhere at once. Please review.
+
+[link]
+
+Thanks,  
+[codename]
+---
+Once again, [cheater] managed to link through a portal they had just upgraded moments before—at [timestamp]. No one else nearby, and the timing is always suspiciously precise.
+
+[link]
+---
+Dear Niantic,
+
+[cheater] is abusing alt accounts to bypass link blocks and dominate solo. [timestamp] was another example: they deployed, dropped gear, switched accounts, and continued linking.
+
+[link]
+
+Regards,  
+[codename]
+---
+I’m sick of seeing [cheater] get away with this. [timestamp] they flipped, upgraded, and linked three portals across zones with no other agents present. This is a repeated multi-account tactic.
+
+[link]
+---
+Niantic, please take this seriously. [cheater] was seen at [timestamp] farming gear from a known alt and using it immediately to reinforce and link strategic portals.
+
+[link]
+---
+Hi,
+
+On [timestamp], [cheater] recharged two portals on opposite ends of a long-distance link—then linked between them. This shouldn't be feasible for one account. Highly suspicious.
+
+[link]
+
+Thanks,  
+[codename]
+---
+Dear Niantic,
+
+The activity of [cheater] at [timestamp] matched a familiar pattern: one account captures and drops gear, another immediately picks it up and uses it. We’ve tracked this sequence multiple times now.
+
+[link]
+
+Best,  
+[codename]
+---
+[cheater] just doesn’t stop. At [timestamp], they used what appeared to be an alt to hold a blocking portal, dropped gear, then linked with their main. This is calculated abuse.
+
+[link]
+---
+Hi there,
+
+I observed [cheater] at [timestamp] link two portals across a natural barrier where travel is limited. The timing, distance, and lack of any other activity make it clear this was done with multiple accounts.
+
+[link]
+
+Regards,  
+[codename]
+---
+[cheater] did it again. [timestamp]—full capture, deploy, mod, and link cycle across zones in under 10 minutes. Unless they can teleport, this is obvious account sharing or dual device abuse.
+
+[link]
+---
+Niantic,
+
+At [timestamp], [cheater] recharged and modded portals just before linking them solo in an isolated location. No enemy interference and no allies suggest multiple accounts in play.
+
+[link]
+---
+Hi,
+
+On [timestamp], [cheater] performed a multi-link operation requiring three different anchors. All were captured, upgraded, and linked within minutes—all by one player? Seems highly unlikely.
+
+[link]
+
+Thanks,  
+[codename]
+---
+Dear Niantic,
+
+[cheater] used a support account to hold and protect a key blocking portal at [timestamp], while their main linked around the area. There is no teamwork—just alt coordination.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+At [timestamp], [cheater] captured two portals across a large zone, recharged both, and linked them together. No one else was active in the area. This isn’t teamwork—it’s multi-accounting.
+
+[link]
+---
+Once more, [cheater] has linked portals in perfect succession with no pause. [timestamp] they flipped and recharged everything themselves. This level of speed and control isn’t possible without using alts.
+
+[link]
+---
+At [timestamp], [cheater] captured five portals in a restricted area, deploying identical resonator configurations and linking them in a perfect layered field. The speed and precision suggest simultaneous control of multiple accounts.
+
+[link]
+---
+Dear Niantic,
+
+I observed [cheater] at [timestamp] using what appears to be multiple accounts to take down a series of portals, then immediately redeploy and link them. The gear used was identical across all portals, and the timing was too tight for solo play.
+
+[link]
+
+Best,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] was seen transferring gear between accounts using capsules, then using those items to deploy and link portals in a remote area. This behavior has been reported multiple times by local agents.
+---
+Hi,
+
+At [timestamp], [cheater] captured portals in a remote zone and linked them across long distances. The portals were all deployed with the same mod configuration, and the links were executed within seconds—suggesting multi-device use.
+
+[link]
+
+Thanks,  
+[codename]
+---
+I’m reporting [cheater] for suspicious activity at [timestamp]. They neutralized a portal, deployed full resonators, and linked it to three distant anchors within minutes. The coordination and speed are not feasible for a single player.
+
+[link]
+---
+Dear Niantic,
+
+Please investigate [cheater] for repeated multi-account behavior. At [timestamp], they were seen capturing portals, deploying identical mods, and linking across zones with no visible travel. This is harming local gameplay.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] continues to dominate a key area using what appears to be a network of alt accounts. Portals are always recharged instantly, and gear is never depleted. This is not sustainable for a solo agent.
+---
+At [timestamp], [cheater] used multiple accounts to take down and rebuild a portal cluster in a restricted area. The sequence was too fast and too coordinated to be the work of a single player.
+
+[link]
+---
+Dear Niantic,
+
+I’m reporting [cheater] for suspicious activity at [timestamp]. They used capsules to transfer gear between accounts, then used that gear to fully deploy and link portals in a remote area. This is not the first time this has occurred.
+
+[link]
+
+Thank you,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] was seen capturing portals and linking them in a perfect layered field, with no visible support from other agents. The behavior is consistent with multi-account fielding strategies.
+---
+Hi Niantic,
+
+At [timestamp], [cheater] deployed resonators and linked portals in a way that suggests simultaneous control of multiple accounts. The gear used was identical across portals, and the timing was too precise for solo play.
+
+[link]
+
+Thanks,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] continues to exploit the system by using multiple accounts to maintain control over a key area. The portals are always recharged instantly, and gear is constantly replenished. This is not fair to the rest of the community.
+---
+At [timestamp], [cheater] captured four portals in a remote industrial zone, deploying identical L8 resonators and AXA shields on each. The portals were linked in a layered field within 3 minutes, with no visible travel. This level of coordination strongly suggests multi-account use.
+
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] was observed neutralizing a portal and immediately redeploying it with full resonators and mods. Within 90 seconds, the portal was linked to three distant anchors. The speed and precision of this operation are not feasible for a solo agent.
+
+[link]
+
+Best regards,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] used multiple accounts to take down a series of portals, then deployed and linked them in a starburst pattern. The gear used was identical across all portals, and the timing between actions was under 10 seconds. This is not humanly possible without automation or multi-accounting.
+---
+Hi Niantic,
+
+At [timestamp], [cheater] was seen transferring gear between accounts using capsules, then using that gear to deploy and link portals in a restricted area. The gear included multiple L8 XMPs and VR shields, which were used in rapid succession.
+
+[link]
+
+Thanks,  
+[codename]
+---
+I’m reporting [cheater] for suspicious activity at [timestamp]. They captured a portal cluster and deployed full resonators and mods on each, then linked them in a perfect layered field. The entire operation took less than 5 minutes and was done without any visible support.
+
+[link]
+---
+Dear Niantic,
+
+Please investigate [cheater] for repeated multi-account behavior. At [timestamp], they were seen recharging portals from multiple locations simultaneously while deploying and linking others. This is not possible without multiple accounts or shared access.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] continues to dominate a key area using what appears to be a network of alt accounts. Portals are always recharged within seconds of being attacked, and gear is never depleted. This is not sustainable for a single player.
+---
+Hi,
+
+At [timestamp], [cheater] captured and linked portals across a 10 km radius in under 15 minutes. The links formed a layered field with no visible travel or assistance. This behavior is consistent with multi-account fielding.
+
+[link]
+
+Best,  
+[codename]
+---
+At [timestamp], [cheater] was seen deploying resonators and mods on portals that had just been neutralized. The redeployment occurred within 30 seconds, and the portals were linked immediately after. This level of speed and coordination is not feasible for a solo player.
+
+[link]
+---
+[timestamp]  
+[link]  
+[cheater] was seen capturing portals and linking them in a perfect layered field, with no visible support from other agents. The behavior is consistent with multi-account fielding strategies and has been observed multiple times.
+---
+At [timestamp], [cheater] used multiple accounts to rapidly deploy and link portals in a restricted zone. The portals were all modded with the same configuration: 2x AXA, 1x SBUL, 1x Heat Sink. This is a repeated pattern that needs to be addressed.
+
+[link]
+---
+Hi,
+
+At [timestamp], [cheater] was seen capturing and linking portals in a remote area using what appears to be multiple devices. The actions were too synchronized to be from one account. The same mods and resonator levels were used across all portals.
+
+[link]
+
+Thanks,  
+[codename]
+---
+I’m reporting [cheater] for repeated abuse of the system. At [timestamp], they used multiple accounts to deploy resonators, link portals, and recharge them in real time. This is not sustainable for a single player and is affecting local gameplay.
+
+[link]
+---
+Dear Niantic,
+
+Please investigate [cheater] for suspicious activity at [timestamp]. The deployment and linking pattern suggests the use of multiple accounts or shared access. This behavior is affecting local gameplay balance and discouraging legitimate players.
+
+[link]
+
+Thank you,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] was seen using multiple accounts to control a remote area. The portals are always fully deployed and linked within minutes of being neutralized. This is not the behavior of a solo agent and has been reported before.
+---
+Hi,
+
+At [timestamp], [cheater] captured and linked portals in a way that suggests multi-account coordination. The gear used was identical across portals, and the timing was too precise for solo play. The community has raised concerns about this repeatedly.
+
+[link]
+
+Regards,  
+[codename]
+---
+At [timestamp], [cheater] captured a series of portals in a remote industrial park. Each portal was deployed with identical L7/L8 resonator patterns and VR shields, then linked in a layered field within 10 minutes. No other agents were visible in the area. This strongly suggests multi-account coordination.
+
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] neutralized a portal and within 90 seconds had it fully deployed, modded, and linked to three distant anchors. The gear used was high-level and identical across all portals. The speed and precision are not feasible for a single player.
+
+[link]
+
+Best regards,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] was seen using multiple accounts to recharge portals from different locations simultaneously. This occurred while they were actively deploying and linking portals in another zone. This behavior is impossible without account sharing or multi-device use.
+---
+Hi Niantic,
+
+At [timestamp], [cheater] captured and linked portals across a 12 km radius in under 20 minutes. The links formed a layered field with no visible travel or assistance. The gear used was consistent across all portals, suggesting pre-staged inventory and multi-account execution.
+
+[link]
+
+Thanks,  
+[codename]
+---
+I’m reporting [cheater] for suspicious activity at [timestamp]. They deployed full resonators and mods on five portals in a restricted area, then linked them in a starburst pattern. The entire operation took less than 6 minutes and was done without visible support.
+
+[link]
+---
+Dear Niantic,
+
+Please investigate [cheater] for repeated multi-account behavior. At [timestamp], they were seen transferring gear between accounts using capsules, then using that gear to take down and rebuild portals in a remote area. This is a recurring pattern.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] continues to dominate a key area using what appears to be a network of alt accounts. Portals are always recharged within seconds of being attacked, and gear is never depleted. This is not sustainable for a solo agent and is discouraging local players.
+---
+Hi,
+
+At [timestamp], [cheater] deployed resonators and mods on portals that had just been neutralized. The redeployment occurred within 45 seconds, and the portals were linked immediately after. This level of speed and coordination is not feasible for a solo player.
+
+[link]
+
+Best,  
+[codename]
+---
+At [timestamp], [cheater] used multiple accounts to take down and rebuild a portal cluster in a restricted area. The sequence was too fast and too coordinated to be the work of a single player. The same gear was used across all portals.
+
+[link]
+---
+At [timestamp], [cheater] linked and upgraded three portals across a wide zone in perfect sequence. No other activity was seen. This coordination suggests multi-accounting.  
+[link]
+---
+[cheater] captured and linked remote portals at [timestamp] using perfect timing from locations far apart. This can't be done solo without alt accounts.  
+[link]
+---
+On [timestamp], [cheater] deployed high-level resonators, flipped portals, and linked them—alone. No backup, no visible allies. Please investigate for multiple device use.  
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] flipped a portal and linked it from another one they had just captured hours earlier. This highly coordinated solo action appears suspicious.
+
+[link]
+
+Regards,  
+[codename]
+---
+Hi,
+
+[cheater] was seen at [timestamp] capturing and linking portals with precise gear placement and timing. It looks like classic multi-account behavior.
+
+[link]
+
+Thanks,  
+[codename]
+---
+Another incident involving [cheater] at [timestamp]. They captured a portal, dropped gear, and picked it up seconds later. Looks like two devices.  
+[link]
+---
+At [timestamp], [cheater] completed a field using portals scattered across a restricted area. No one else was present. Multi-accounting is the only explanation.  
+[link]
+---
+Furious to see [cheater] once again at [timestamp] managing both ends of a long link. This has become a habit. Still no response to earlier reports.  
+[link]
+---
+Dear Niantic,
+
+[cheater] continues to exhibit multi-account behavior. On [timestamp], they deployed high-level mods and linked from a portal that was just flipped moments earlier.
+
+[link]
+
+Best,  
+[codename]
+---
+[cheater] made four consecutive links from portals in hard-to-reach places at [timestamp]. One person couldn’t do this without help—or a second account.  
+[link]
+---
+At [timestamp], [cheater] deployed L8 resonators at two portals minutes apart, despite the distance. We believe they’re using multiple accounts simultaneously.  
+[link]
+---
+Hi Niantic,
+
+At [timestamp], [cheater] dropped items and retrieved them within seconds. This fast exchange is consistent with capsule passing via alt accounts.
+
+[link]
+
+Thank you,  
+[codename]
+---
+[cheater] is once again executing perfectly-timed link chains solo. [timestamp] was just the latest example of alt account coordination.  
+[link]
+---
+On [timestamp], [cheater] linked from two portals in different regions, both of which they had flipped recently. Nobody else has access to those portals.  
+[link]
+---
+Please look into [cheater]. At [timestamp], they cleared and built a series of portals across a large area without visible travel. This looks like account switching.  
+[link]
+---
+Tired of watching [cheater] dominate the region with clear multi-account tactics. [timestamp] was a blatant example—one person cannot do all that alone.  
+[link]
+---
+Hi Niantic,
+
+I observed [cheater] linking, flipping, and deploying alone across several sites at [timestamp]. This is likely due to use of multiple accounts.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+At [timestamp], [cheater] linked a portal from another that was captured moments before. No other agents present. This pattern repeats often.  
+[link]
+---
+[cheater]’s capsule transfers at [timestamp] were suspiciously fast and frequent. Multiple accounts seem involved.  
+[link]
+---
+[cheater] flipped portals and created fields within seconds at [timestamp] over large distances. No travel logs by any other player. Multi-account likely.  
+[link]
+---
+At [timestamp], [cheater] captured a series of portals in a remote park. Each portal was deployed with identical L8 resonators and VR shields, then linked in a layered field within minutes. No other agents were visible in the area. This strongly suggests multi-account coordination.
+
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] neutralized a portal and within 60 seconds had it fully deployed, modded, and linked to three distant anchors. The gear used was high-level and identical across all portals. The speed and precision are not feasible for a single player.
+
+[link]
+
+Best regards,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] was seen recharging portals from multiple locations while simultaneously deploying and linking others. This behavior is impossible without account sharing or multi-device use. The community has noticed this pattern repeatedly.
+---
+Hi Niantic,
+
+At [timestamp], [cheater] captured and linked portals across a 15 km radius in under 25 minutes. The links formed a layered field with no visible travel or assistance. The gear used was consistent across all portals, suggesting pre-staged inventory and multi-account execution.
+
+[link]
+
+Thanks,  
+[codename]
+---
+I’m reporting [cheater] for suspicious activity at [timestamp]. They deployed full resonators and mods on six portals in a restricted area, then linked them in a starburst pattern. The entire operation took less than 7 minutes and was done without visible support.
+
+[link]
+---
+Hi,
+
+At [timestamp], [cheater] deployed resonators and mods on portals that had just been neutralized. The redeployment occurred within 30 seconds, and the portals were linked immediately after. This level of speed and coordination is not feasible for a solo player.
+
+[link]
+
+Best,  
+[codename]
+---
+At [timestamp], [cheater] linked and deployed resonators on several portals in a restricted area with no visible other agents nearby. Possible multi-account activity.  
+[link]
+---
+Dear Niantic,
+
+[cheater] performed rapid capsule transfers between alt accounts at [timestamp], disrupting fair gameplay.
+
+[link]
+
+Best regards,  
+[codename]
+---
+[cheater] captured and linked multiple portals remotely at [timestamp]. The pattern is consistent with managing multiple accounts simultaneously.  
+[link]
+---
+At [timestamp], [cheater] deployed mods and created links without visible presence on the comms. This strongly suggests use of alt accounts.  
+[link]
+---
+Hi Niantic,
+
+I noticed [cheater] operating two accounts at once during [timestamp]. They linked and upgraded portals far apart, impossible for one player alone.
+
+[link]
+
+Thanks,  
+[codename]
+---
+Repeated multi-account behavior by [cheater] at [timestamp], flipping and linking portals in rapid succession from different locations. Please investigate.  
+[link]
+---
+[cheater]’s actions at [timestamp] included simultaneous portal captures and fast capsule exchanges indicative of multi-device use.  
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] created an extensive link network alone without any nearby agents. This looks like multi-account coordination.
+
+[link]
+
+Regards,  
+[codename]
+---
+[cheater] repeatedly deployed high-level gear on distant portals at [timestamp], with no sign of travel or assistance. Multi-account suspected.  
+[link]
+---
+At [timestamp], [cheater] linked multiple portals and deployed resonators alone across a remote zone, defying normal gameplay limits.  
+[link]
+---
+Hi,
+
+[cheater] was seen at [timestamp] rapidly linking and flipping portals in a pattern consistent with multi-account operation.
+
+[link]
+
+Thanks,  
+[codename]
+---
+[cheater] appears to control several accounts, shown by synchronized portal captures and link creations at [timestamp]. This breaks fair play.  
+[link]
+---
+Dear Niantic,
+
+The activity by [cheater] at [timestamp] involved deploying mods and linking portals too fast and far apart for one player.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+At [timestamp], [cheater] performed capsule transfers and portal captures too quickly to be legitimate single-player actions. Multi-account likely.  
+[link]
+---
+[cheater] flipped and linked multiple portals at [timestamp] in a way only possible with multi-account coordination. Please review.
+
+[link]
+---
+Hi Niantic,
+
+At [timestamp], [cheater] linked portals over a wide area and deployed mods simultaneously. This strongly suggests multi-account use.
+
+[link]
+
+Thank you,  
+[codename]
+---
+Repeated reports of [cheater] using multiple devices at [timestamp] to gain unfair advantages through rapid portal control.
+
+[link]
+---
+[cheater]’s behavior at [timestamp] showed quick capsule passing and simultaneous portal upgrades that violate fair play guidelines.
+
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] showed clear signs of controlling more than one account by linking and modding distant portals without others present.
+
+[link]
+
+Regards,  
+[codename]
+---
+[cheater] created large fields and linked many portals at [timestamp] alone, impossible without alt accounts or multiple devices.
+
+[link]
+---
+At [timestamp], [cheater] captured and linked portals in a remote area using identical gear setups across all portals: L8 resonators, VR shields, and SBULs. The operation was completed in under 10 minutes with no visible support, suggesting multi-account use.
+
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] was observed neutralizing a portal, deploying full resonators, and linking it to three distant anchors within 90 seconds. The gear used was identical across all portals. This level of coordination is not feasible for a solo agent.
+
+[link]
+
+Best regards,  
+[codename]
+---
+[timestamp]  
+[link]  
+[cheater] recharged portals from multiple locations while simultaneously deploying and linking others. This behavior is impossible without account sharing or multi-device use. The community has noticed this pattern repeatedly.
+---
+Hi Niantic,
+
+At [timestamp], [cheater] linked portals across a 20 km radius in under 30 minutes. The links formed a layered field with no visible travel or assistance. The gear used was consistent across all portals, suggesting pre-staged inventory and multi-account execution.
+
+[link]
+
+Thanks,  
+[codename]
+---
+I’m reporting [cheater] for suspicious activity at [timestamp]. They deployed full resonators and mods on seven portals in a restricted area, then linked them in a starburst pattern. The entire operation took less than 8 minutes and was done without visible support.
+
+[link]
+---
+[timestamp]  
+[link]  
+[cheater] dominates a key area using what appears to be a network of alt accounts. Portals are always recharged within seconds of being attacked, and gear is never depleted. This is not sustainable for a solo agent and is discouraging local players.
+---
+At [timestamp], [cheater] captured and linked portals across several zones in quick succession with no visible assistance. This strongly suggests multi-accounting.  
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] rapidly deployed resonators and linked portals remotely in a pattern consistent with managing multiple accounts.
+
+[link]
+
+Best regards,  
+[codename]
+---
+[cheater] was observed at [timestamp] performing synchronized portal flips and link creations from distinct locations, likely indicating alt account use.  
+[link]
+---
+At [timestamp], [cheater] transferred items between capsules on multiple devices and linked portals immediately afterward. This behavior appears suspicious.  
+[link]
+---
+Hi,
+
+During [timestamp], [cheater] created complex fields and linked distant portals solo, suggesting multi-account coordination.
+
+[link]
+
+Thanks,  
+[codename]
+---
+Repeated suspicious activity by [cheater] at [timestamp], including quick capsule trades and simultaneous portal captures across remote locations.
+
+[link]
+---
+[cheater] deployed high-level mods and linked multiple portals at [timestamp] with no other agents visible. This points to possible multi-device use.  
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] flipped and linked portals in rapid order without other nearby agents. This is indicative of multi-account behavior.
+
+[link]
+
+Regards,  
+[codename]
+---
+[cheater]’s rapid capsule exchanges and portal upgrades at [timestamp] are consistent with use of multiple accounts to gain unfair advantage.  
+[link]
+---
+At [timestamp], [cheater] linked portals across a large area within minutes. Travel logs show no support from other players, suggesting multi-accounting.
+
+[link]
+---
+Hi Niantic,
+
+[cheater] was seen at [timestamp] coordinating gear transfers and portal links with suspicious timing, typical of multi-account operation.
+
+[link]
+
+Thank you,  
+[codename]
+---
+[cheater] repeatedly created fields and linked portals alone at [timestamp], with no other agents observed in the area. Possible multi-account usage.
+
+[link]
+---
+Dear Niantic,
+
+The activity by [cheater] on [timestamp] involved quick capsule passing and simultaneous portal captures that appear to breach fair play rules.
+
+[link]
+
+Sincerely,  
+[codename]
+---
+At [timestamp], [cheater] executed perfectly timed link chains and portal mods alone, which strongly suggests multi-account or multi-device control.
+
+[link]
+---
+[cheater] performed suspiciously fast portal flips and capsule trades at [timestamp], with distances too great for one player to cover legitimately.
+
+[link]
+---
+Hi,
+
+[cheater] linked and upgraded portals across distinct locations at [timestamp], displaying multi-accounting characteristics.
+
+[link]
+
+Thanks,  
+[codename]
+---
+Repeatedly at [timestamp], [cheater] managed multiple portals simultaneously, deploying gear and linking without aid from others.
+
+[link]
+---
+[cheater]’s behavior at [timestamp] shows capsule transfers and portal actions inconsistent with single-player gameplay.
+
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] linked, modded, and flipped portals too quickly and over too large an area to be plausible without multiple accounts.
+
+[link]
+
+Best,  
+[codename]
+---
+[cheater] created large fields and linked portals at [timestamp] alone, with no travel evidence or teammate presence. This is likely multi-account use.
+
+[link]
+---
+At [timestamp], [cheater] used multiple accounts to take down and rebuild a portal cluster. The sequence was too fast and coordinated to be the work of a single player.
+
+[link]
+---
+Hi Niantic,
+
+At [timestamp], [cheater] linked portals across a wide radius in under 30 minutes. The gear used was consistent across all portals, suggesting multi-account execution.
+
+[link]
+
+Thanks,
+[codename]
+---
+Hi,
+
+At [timestamp], [cheater] deployed resonators and mods on portals that had just been neutralized. The redeployment occurred within seconds, followed by immediate linking. This is not feasible for a solo player.
+
+[link]
+
+Best,
+[codename]
+---
+[timestamp]
+[link]
+[cheater] recharged portals from multiple locations while simultaneously deploying and linking others. This behavior is impossible without account sharing or multi-device use.
+---
+[timestamp]
+[link]
+[cheater] dominates a key area using what appears to be a network of alt accounts. Portals are always recharged instantly, and gear is never depleted.
+---
+Dear Niantic,
+
+At [timestamp], [cheater] deployed resonators and mods on multiple portals in a restricted zone. The timing and gear patterns indicate multi-account behavior.
+
+[link]
+
+Best regards,
+[codename]
+---
+I’m reporting [cheater] for suspicious activity at [timestamp]. They deployed full resonators and mods on several portals, then linked them in a starburst pattern. The operation was completed in minutes without visible support.
+
+[link]
+---
+Dear Niantic,
+
+Please investigate [cheater] for repeated multi-account behavior. At [timestamp], they transferred gear using capsules and redeployed portals in a remote area. This pattern is recurring.
+
+[link]
+
+Sincerely,
+[codename]
+---
+Dear Niantic,
+
+I’m reporting [cheater] for suspicious activity at [timestamp]. They used capsules to transfer gear between accounts, then deployed and linked portals in a remote area.
+
+[link]
+
+Thank you,
+[codename]
+---
+At [timestamp], [cheater] captured portals in a remote area using identical gear setups and linked them in a layered field. This level of coordination suggests multi-account use.
+
+[link]
+---
+Hi,
+
+At [timestamp], [cheater] deployed resonators and mods on portals that had just been neutralized. The redeployment occurred within seconds, followed by immediate linking. This is not feasible for a solo player.
+
+[link]
+
+Best,
+[codename]
 ---
 ---
