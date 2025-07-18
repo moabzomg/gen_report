@@ -13480,7 +13480,118 @@ Best,
 [cheater] created large fields and linked portals at [timestamp] alone, with no travel evidence or teammate presence. This is likely multi-account use.
 [link]
 ---
-[cheater] created large fields and linked portals at [timestamp] alone, with no travel evidence or teammate presence. This is likely multi-account use.
+Dear Niantic,
+
+At [timestamp], [cheater] was observed neutralizing a portal, deploying full resonators, and linking it to three distant anchors within 90 seconds. The gear used was identical across all portals. The speed and precision are not feasible for a solo agent.
+
+[link]
+
+Best regards,  
+[codename]
+---
+At [timestamp], [cheater] captured and linked portals in a remote area using identical gear setups across all portals. The operation was completed in under 10 minutes with no visible support, suggesting multi-account use.
+
 [link]
 ---
+Suspicious multi-account activity by [cheater] detected at [timestamp]. Rapid portal captures and linking with no nearby agents.
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] used multiple devices to deploy resonators and link portals across a wide area.
+
+[link]
+
+Best,
+[codename]
+---
+[cheater] exhibited suspicious portal flipping and capsule trades at [timestamp], indicative of alt account usage.
+[link]
+---
+At [timestamp], [cheater] performed synchronized portal upgrades and linking remotely. Possible multi-account control.
+[link]
+---
+Hi Niantic,
+
+I observed [cheater] at [timestamp] managing several accounts simultaneously by linking and deploying gear rapidly.
+
+[link]
+
+Thanks,
+[codename]
+---
+Repeated suspicious capsule exchanges and portal captures by [cheater] at [timestamp]. Please investigate.
+[link]
+---
+[cheater] linked and modded portals at [timestamp] without any nearby agents. This suggests multi-accounting.
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] created extensive link networks alone, impossible without multiple accounts.
+
+[link]
+
+Regards,
+[codename]
+---
+[cheater] transferred rare items via capsules between multiple accounts at [timestamp], disrupting fair play.
+[link]
+---
+At [timestamp], [cheater] deployed high-level mods and linked portals far apart with no support from teammates.
+[link]
+---
+Hi,
+
+[cheater] performed capsule trades and portal flipping in patterns consistent with multi-account use at [timestamp].
+
+[link]
+
+Thanks,
+[codename]
+---
+[cheater] rapidly captured and linked portals at [timestamp] in different areas, which is suspicious for a single player.
+[link]
+---
+Dear Niantic,
+
+The activity of [cheater] on [timestamp] shows multiple simultaneous portal mods and link creations.
+
+[link]
+
+Sincerely,
+[codename]
+---
+At [timestamp], [cheater] used multiple devices to link and mod portals remotely, violating fair play guidelines.
+[link]
+---
+[cheater] flipped and linked portals quickly and far apart at [timestamp], suggesting multi-account coordination.
+[link]
+---
+Hi Niantic,
+
+[cheater] performed coordinated capsule transfers and portal upgrades at [timestamp], indicating multi-account behavior.
+
+[link]
+
+Thank you,
+[codename]
+---
+Repeated multi-account violations by [cheater] at [timestamp], including rapid portal flips and capsule trades.
+[link]
+---
+[cheater] exhibited portal linking and modding at [timestamp] without other agents present, strongly suggesting alt account use.
+[link]
+---
+Dear Niantic,
+
+At [timestamp], [cheater] deployed resonators and linked portals in ways only possible with multiple accounts.
+
+[link]
+
+Best,
+[codename]
+---
+[cheater] created large fields and linked many portals alone at [timestamp], indicating probable multi-accounting.
+[link]
 ---
