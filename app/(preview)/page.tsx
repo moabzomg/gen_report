@@ -77,10 +77,11 @@ export default function GenReportPage() {
   const [userCodename, setUserCodename] = useState("");
   const [cheaterCodename, setCheaterCodename] = useState("");
   const [cheatLink, setCheatLink] = useState("");
+  const [cheatID, setCheatID] = useState("");
   const [showLinksInput, setShowLinksInput] = useState(true);
   const [timestampLinks, setTimestampLinks] = useState<
-    { timestamp: string; link: string }[]
-  >([{ timestamp: "", link: "" }]);
+    { timestamp: string; link: string; id: string }[]
+  >([{ timestamp: "", link: "", id: "" }]);
 
   const [titles, setTitles] = useState<string[]>([]);
   const [contents, setContents] = useState<string[]>([]);
@@ -128,7 +129,7 @@ export default function GenReportPage() {
       setResultContent(null);
       setError(null);
       setShowLinksInput(true);
-      setTimestampLinks([{ timestamp: "", link: "" }]);
+      setTimestampLinks([{ timestamp: "", link: "", id: "" }]);
 
       try {
         // Load titles
@@ -162,7 +163,10 @@ export default function GenReportPage() {
   // Handle adding another timestamp+link pair (max 5)
   function addTimestampLink() {
     if (timestampLinks.length < 5) {
-      setTimestampLinks([...timestampLinks, { timestamp: "", link: "" }]);
+      setTimestampLinks([
+        ...timestampLinks,
+        { timestamp: "", link: "", id: "" },
+      ]);
     }
   }
 
@@ -178,7 +182,7 @@ export default function GenReportPage() {
     cheater: string,
     mainTimestamp: string,
     cheatLink: string,
-    timestampLinks: { timestamp: string; link: string }[]
+    timestampLinks: { timestamp: string; link: string; id: string }[]
   ) {
     // Replace codename and cheater
     let replaced = text
@@ -195,15 +199,26 @@ export default function GenReportPage() {
     // Replace [link] with cheatLink if present, else remove placeholder
     if (/\[link\]/i.test(replaced)) {
       let combinedLinkBlock = cheatLink.trim();
+      if (cheatID.trim()) {
+        combinedLinkBlock += `\n${cheatID.trim()}`;
+      }
+      if (combinedLinkBlock) {
+        combinedLinkBlock += "\n";
+      }
 
       for (let i = 0; i < 5 && i < timestampLinks.length; i++) {
         const ts = validateTimestamp(timestampLinks[i].timestamp)
           ? timestampLinks[i].timestamp
           : generateRandomTimestampWithin30Days();
         const link = timestampLinks[i].link.trim();
-        if (ts || link) {
-          if (i == 0) combinedLinkBlock += `${link}`;
-          else combinedLinkBlock += `\n${ts}\n${link}`;
+        const id = timestampLinks[i].id.trim();
+        if (ts || link || id) {
+          if (i == 0) combinedLinkBlock += `${link}\n${id}`;
+          else {
+            combinedLinkBlock += `\n${ts}`;
+            if (link) combinedLinkBlock += `\n${link}`;
+            if (id) combinedLinkBlock += `\n${id}`;
+          }
         }
       }
 
@@ -234,10 +249,13 @@ export default function GenReportPage() {
       : generateRandomTimestampWithin30Days();
 
     // Validate all timestampLinks timestamps, if invalid treat as empty
-    const cleanedTimestampLinks = timestampLinks.map(({ timestamp, link }) => ({
-      timestamp: timestamp.trim(), // keep original timestamp as is
-      link: link.trim(),
-    }));
+    const cleanedTimestampLinks = timestampLinks.map(
+      ({ timestamp, link, id }) => ({
+        timestamp: timestamp.trim(), // keep original timestamp as is
+        link: link.trim(),
+        id: id.trim(),
+      })
+    );
     if (titles.length === 0 || contents.length === 0) {
       setError("Report templates are not loaded properly.");
       return;
@@ -503,6 +521,20 @@ export default function GenReportPage() {
           This will replace [link] in the report. Any additional links and
           timestamps will be added below.
         </small>
+        <label htmlFor="intel-id" className="block font-semibold mb-1">
+          Intel ID (optional):
+        </label>
+        <input
+          id="intel-id"
+          type="text"
+          placeholder="Intel ID"
+          value={cheatID}
+          onChange={(e) => setCheatID(e.target.value)}
+          className="input mt-2"
+        />
+        <small className="text-gray-600">
+          ID will be added below link if provided.
+        </small>
         {showLinksInput && (
           <>
             <label>Additional Intel Links and Timestamps (optional):</label>
@@ -525,6 +557,15 @@ export default function GenReportPage() {
                   onChange={(e) => {
                     const newPairs = [...timestampLinks];
                     newPairs[i].link = e.target.value;
+                    setTimestampLinks(newPairs);
+                  }}
+                />
+                <input
+                  type="text"
+                  value={pair.id}
+                  onChange={(e) => {
+                    const newPairs = [...timestampLinks];
+                    newPairs[i].id = e.target.value;
                     setTimestampLinks(newPairs);
                   }}
                 />
